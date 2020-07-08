@@ -1,0 +1,132 @@
+title: Pediatric Urology Book
+author: 
+email: editors@pediatricurologybook.com
+description:
+    This is a test
+baseurl: ""
+url: "https://pediatricurologybook.com"
+twitter_username: pediatricurologybook
+github_username: kylerove/pediatricurologybook
+facebook_username: pediatricurologybook
+youtube_username: pediatricurologybook
+vimeo_username: pediatricurologybook
+tiktok_username: pediatricurologybook
+repository: kylerove/pediatricurologybook
+permalink: pretty
+img: /img/logo.png
+env: development
+encoding: utf-8
+theme: null
+
+# Build settings
+plugins:
+  - jekyll-minifier
+  - jekyll-seo-tag
+  - jekyll-polyglot
+  - jekyll-spaceship
+  - jekyll-toc
+  - jekyll_figure
+  - jekyll-timeago
+  - jekyll-last-modified-at
+  - jekyll-sitemap
+
+# Sitemap settings
+defaults:
+  -
+    scope:
+      path:            "assets/ajax/*"
+    values:
+      sitemap:         false
+  -
+    scope:
+      path:            "assets/css/*"
+    values:
+      sitemap:         false
+  -
+    scope:
+      path:            "assets/js/*"
+    values:
+      sitemap:         false
+  -
+    scope:
+      path:            "assets/vendor/*"
+    values:
+      sitemap:         false
+  -
+    scope:
+      path:            "assets/fonts/*"
+    values:
+      sitemap:         false
+
+# Language / Polyglot settings
+languages: ["en","es","zh"]
+languages-captions: 
+  - 
+    caption: English
+    language: en
+    icon: fa-globe-americas
+  - 
+    caption: Español
+    language: es
+    icon: fa-globe-americas
+  - 
+    caption: 简体中文
+    language: zh
+    icon: fa-globe-asia
+default_lang: "en"
+exclude_from_localization: ["_config.yml", "assets", "_layouts", "_includes", "_data", "_references", "_plugin", "README.md", "LICENSE"]
+parallel_localization: false
+
+# Chapters
+collections:
+  chapters:
+    output: true
+    permalink: /book/chapters/:title/
+
+# Jekyll Spaceship
+jekyll-spaceship:
+  processors:
+    - video-processor
+  video-processor:
+    default:
+      id: 'video-{id}'
+      class: 'video'
+      width: '100%'
+      height: 350
+      border: 0
+      style: 'max-width: 600px'
+      allow: 'encrypted-media; picture-in-picture'
+
+# Table of contents settings
+toc:
+  min_level: 2
+  max_level: 5
+  list_class: "nav nav-list flex-column mb-5"
+  item_class: "nav-item"
+
+# Figure settings
+figures:
+  dir: /figures
+  enumerate: true
+  analytics: false
+
+# Reference / Scholar settings
+scholar:
+  style: modern-language-association
+  bibliography_template: bib
+  locale: en
+  source: ./_references
+  allow_locale_overrides: true
+  
+# Exclude from processing
+exclude:
+   - .git/
+   - .git_ignore
+   - .jekyll-cache/
+   - .ruby-version
+   - .sass-cache/
+   - gemfiles/
+   - Gemfile
+   - Gemfile.lock
+   - LICENSE
+   - README.md

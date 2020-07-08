@@ -1,0 +1,46 @@
+# 1:1 translations where it makes sense outside language-based pages (e.g., header)
+- 
+  language: en
+  about-us: "About Us"
+  contact-us: "Contact Us"
+  contributors: Contributors
+  editors: Editors
+  home: Home
+  read-the-book: "Read The Book"
+  search: Search
+  sponsors: Sponsors
+  copyright: Copyright
+  by: by
+  period: .
+  all-rights-reserved: All Rights Reserved
+  site-map: Site Map
+- 
+  language: es
+  about-us: "Sobre Nosotros"
+  contact-us: "Contacta con Nosotros"
+  contributors: Autores
+  editors: Editores
+  home: Inicio
+  read-the-book: "Leer el Libro"
+  search: Buscar
+  sponsors: Patrocinadores
+  copyright: Derechos de autor
+  by: por
+  period: .
+  all-rights-reserved: Todos los derechos reservados
+  site-map: Mapa del Sitio
+- 
+  language: zh
+  about-us: 关于我们
+  contact-us: 联系我们
+  contributors: 作家
+  editors: 编者
+  home: 主页
+  read-the-book: 读了这本书
+  search: 搜索
+  sponsors: 赞助商
+  copyright: 版权
+  by: ""
+  period: 。
+  all-rights-reserved: 版权所有
+  site-map: 网站地图

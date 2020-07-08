@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <div class="body" aria-label="Content">
+
+      {{ content }}
+
+    </div>
+
+    {%- include footer.html -%}
+    
+    <!-- Vendor -->
+    <script src="{{ "/assets/vendor/jquery/jquery.min.js" | relative_url }}"></script>
+    <script src="{{ "/assets/vendor/jquery.appear/jquery.appear.min.js" | relative_url }}"></script>
+    <script src="{{ "/assets/vendor/jquery.easing/jquery.easing.min.js" | relative_url }}"></script>
+    <script src="{{ "/assets/vendor/popper/umd/popper.min.js" | relative_url }}"></script>
+    <script src="{{ "/assets/vendor/bootstrap/js/bootstrap.min.js" | relative_url }}"></script>
+    <script src="{{ "/assets/vendor/common/common.min.js" | relative_url }}"></script>
+    <script src="{{ "/assets/vendor/jquery.validation/jquery.validate.min.js" | relative_url }}"></script>
+    
+    <!-- Theme Base, Components and Settings -->
+    <script src="{{ "/assets/js/theme.js" | relative_url }}"></script>
+    
+    <!-- Current Page -->
+    
+    <!-- Theme Custom -->
+    <script src="{{ "/assets/js/custom.js" | relative_url }}"></script>
+    
+    <!-- Theme Initialization Files -->
+    <script src="{{ "/assets/js/theme.init.js" | relative_url }}"></script>
+    
+    <!-- Scroll to top -->
+    <a class="scroll-to-top hidden-mobile" href="#"><i class="fas fa-chevron-up"></i></a>
+    
+  </body>
+</html>

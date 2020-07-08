@@ -1,0 +1,187 @@
+/* Add here all your CSS customizations */
+body, div.body {
+  background-color: rgb(243, 245, 249);
+  }
+
+header,#header .header-body {
+  border-top: 5px solid #EDEDED;
+  background: linear-gradient(#f6f6f6, #ffffff);
+  border-bottom: 1px solid rgb(224, 228, 232);
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.20);
+  }
+
+#header .header-body, #header div.header-container, #header div.header-row {
+  /*border-bottom:0;
+  background:transparent;*/
+  }
+
+.home {
+  margin-top: 30px;
+  }
+
+.home .featured em, .alternative-font, .sponsored-links .featured em {
+  font-family: "Hoefler Text", "Baskerville old face", Garamond, "Times New Roman", serif;
+  }
+  
+.social-icons li:hover.social-icons-vimeo a {
+  background: rgb(0, 147, 203);
+  }
+
+.social-icons li:hover.social-icons-tiktok a {
+  background: #25F4EE;
+  }
+
+
+  
+#footer .footer-copyright.footer-copyright-style-2 {
+  border-top:0;
+  }
+  
+hr {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(0,0,0,0.20), rgba(0,0,0,0));
+  background-image: -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.20), rgba(0,0,0,0));
+  background-image: -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.20), rgba(0,0,0,0));
+  background-image: -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.20), rgba(0,0,0,0));
+  margin: 22px 0 22px 0;
+  }
+  
+hheader .header-nav-top .dropdown-menu:before {
+  left:15px;
+  }
+  
+header .header-nav-top .dropdown-menu {
+  box-shadow: 0 10px 30px 10px rgba(0, 0, 0, 0.15);
+  }
+
+header input.search:first-child {
+  transition: all 0.2s ease-in 0.2s;
+  padding: 6px 12px; 
+  height: 34px;
+  width: 170px;
+  border-radius: 20px;
+  }
+  
+header input.form-control:first-child {
+  width: 170px;
+  transition: all 0.2s ease-in 0.2s;
+  }
+  
+header input.form-control:focus {
+  width: 220px;
+  border-color: #CCC;
+  color: #ccc;
+  }
+
+header .simple-search .form-control {
+  border: 1px solid rgb(238, 238, 238);
+  border-radius: 1.3rem;
+  }
+  
+header .input-group > .form-control:not(:last-child),
+header .input-group > .custom-select:not(:last-child) {
+  border-radius: 1.3rem;
+  }
+
+header span.input-group-btn {
+  position:relative;
+  }
+  
+header .input-group-btn button.btn {
+  border: 0;
+  background: transparent;
+  position: absolute;
+  top: 0;
+  right: 0;
+  color: #999;
+  }
+
+@font-face {
+  font-family: 'academicons2';
+  src:
+    url('/assets/fonts/academicons2.ttf?tv6pjz') format('truetype'),
+    url('/assets/fonts/academicons2.woff?tv6pjz') format('woff'),
+    url('/assets/fonts/academicons2.svg?tv6pjz#academicons2') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+  }
+
+.ai2 {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'academicons2' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  }
+
+.ai-2x {
+  font-size: 2em;
+  }
+.ai-3x {
+  font-size: 3em;
+  }
+.ai-4x {
+  font-size: 4em;
+  }
+.ai-5x {
+  font-size: 5em;
+  }
+
+.ai-open-access:before {
+  content: "\e939";
+  }
+.ai-doi:before {
+  content: "\e97e";
+  }
+.ai-pubmed:before {
+  content: "\e99f";
+  }
+.ai-orcid:before {
+  content: "\e9d9";
+  }
+.ai-researchgate:before {
+  content: "\e95e";
+  }
+.ai-doximity:before {
+  content: "\e900";
+  }
+
+h1 {
+  font-size: 3em;
+  }
+
+h2 {
+  margin-bottom: 18px;
+  }
+
+h3 {
+  margin-bottom: 12px;
+  font-size: 1.6em;
+  text-transform: inherit;
+  }
+  
+h1 strong, h2 strong, h3 strong, h4 strong, h5 strong, h6 strong {
+  font-weight: bold;
+  }
+
+.anchor::before {
+  content: '';
+  display: block;
+  position: relative;
+  height:      122px;
+  margin-top: -122px;
+  visibility: hidden;
+  }
+
+aside ul.nav-list li:last-child a {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06); 
+  }

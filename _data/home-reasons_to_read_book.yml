@@ -1,0 +1,50 @@
+# Home - Reasons to read the book
+# Last updated 2020-07-05
+
+- header: "International Authorship"
+  icon: "fas fa-globe-africa"
+  text:
+  -
+    en: "The [editors]({{ site.url }}{{ site.baseurl }}/editors/) have sought to cultivate content from [contributors]({{ site.url }}{{ site.baseurl }}/contributors/) with a diverse, international set of backgrounds providing relevance to a broad audience."
+
+- header: "Free, Open Access"
+  icon: "fas fa-laptop"
+  text:
+  -
+    en: "We wanted to create a resource free of the constraints of traditional publishing models, one with the [contributors]({{ site.url }}{{ site.baseurl }}/contributors/) in charge. No password required."
+
+- header: "Videos of Relevant Procedures"
+  icon: "fas fa-video"
+  text:
+  -
+    en: "We have embedded short videos of key procedures, demonstrating key principles and specific techniques."
+
+- header: "Regular Updates"
+  icon: "fas fa-sync-alt"
+  text:
+  -
+    en: "The traditional textbook is instantly out of date by the time it is published. We provide regular, frequent updates to keep you up to date with advances and changes in practice."
+  
+- header: "Social Media"
+  icon: "fas fa-people-arrows"
+  text:
+  -
+    en: "Stay connected with editors and contributors who participate on various social media platforms. [Contributors’]({{ site.url }}{{ site.baseurl }}/contributors/) social media handles are readily available so you can ask them your questions."
+  
+- header: "Stay in the Loop"
+  icon: "fas fa-wifi"
+  text:
+  -
+    en: "Chapters are updated regularly with links to the latest research presented at society meetings like the [Societies for Pediatric Urology](https://spuonline.org), [American Urological Association](https://www.auanet.org), [British Association of Pediatric Urologists](https://www.bapu.org.uk) and [European Society for Paediatric Urology](https://www.espu.org/) and others. You can even [subscribe to book updates]({{ site.url }}{{ site.baseurl }}/subscribe/) so you know when content is updated!"
+  
+- header: "Not Just for Pediatric Urologists"
+  icon: "fas fa-users"
+  text:
+  -
+    en: "Synopses are provided up front for pediatricians, patients, and families, so you have just what you need to know about your topic of interest."
+  
+- header: "Code of Conduct"
+  icon: "fas fa-handshake"
+  text:
+  -
+    en: "Many areas of pediatric urology suffer from a startling lack of diversity, with dramatically low representation by women, people of color, and other marginalized populations. And [it’s not just a pipeline issue](https://www.academicsurgicalcongress.org/aas-2017-president-address-caprice-greenberg-md-mph/). One way to begin addressing this problem is to be overt in our openness and to foster an atmosphere of purposeful inclusion and understanding. Please see our agreed to [Code of Conduct](/code-of-conduct/) by all [editors]({{ site.url }}{{ site.baseurl }}/editors/) and [contributors]({{ site.url }}{{ site.baseurl }}/contributors/) alike."
