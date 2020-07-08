@@ -1,1 +1,3 @@
-# pediatricurologybook
+# Pediatric Urology Book
+
+This is the git repository page for ongoing development of a completely revamped, new version of (PediatricUrologyBook.com](https://pediatricurologybook.com). Currently a work in progress...
