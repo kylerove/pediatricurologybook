@@ -15,10 +15,9 @@ gem "jekyll", "~> 4.1.1"
 # gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
+  gem "jekyll-polyglot", "~> 1.3.2"
   gem "jekyll-minifier", "~> 0.1.10"
   gem "jekyll-seo-tag", "~> 2.6"
-  gem "jekyll-polyglot", "~> 1.3.2"
-  gem "jekyll-spaceship", "~> 0.8.3"
   gem "jekyll-toc", "~> 0.14.0"
   gem "jekyll_figure", "~> 0.0.3"
   gem "jekyll-scholar", "~> 6.8.0"

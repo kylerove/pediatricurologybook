@@ -185,3 +185,67 @@ h1 strong, h2 strong, h3 strong, h4 strong, h5 strong, h6 strong {
 aside ul.nav-list li:last-child a {
   border-bottom: 1px solid rgba(0, 0, 0, 0.06); 
   }
+  
+.img-rounded {
+  border-radius: 6px;
+  }
+
+div.editors ul.thumb-info-social-icons li {
+  display: inline-block;
+  margin: -1px 1px 0 0;
+  padding: 0;
+  border-radius: 100%;
+  overflow: visible;
+  }
+
+div.editors ul.thumb-info-social-icons a i {
+  font-size: 1rem;
+  line-height: 30px;
+  }
+
+i.disclosure {
+  position: relative;
+  }
+  
+i.disclosure:before {
+  position: absolute;
+  right: 12px;
+  top: -12px;
+  font-size: 60px;
+  color: #ddd;
+  width: 75px;
+  text-align: center;
+  }
+
+div.form-row:hover i.disclosure:before {
+  color: #bbb;
+  }
+  
+div.form-row.filled i.disclosure:before {
+  color: #0088CC;
+  opacity: 0.75;
+  }
+
+div.conflict-of-interest p.coi-type {
+  padding-left: 55px;
+  }
+
+div.conflict-of-interest h3 i.fas {
+  padding-left: 20px;
+  padding-right: 10px;
+  width: 55px;
+  }
+
+div.conflict-of-interest h3 i.fas:before {
+  color: #999;
+  text-align: center;
+  }
+
+a.anchor {
+  cursor: default;
+  }
+
+#footer {
+  border-bottom: 1px solid #212529;
+  margin-bottom: 0;
+  }

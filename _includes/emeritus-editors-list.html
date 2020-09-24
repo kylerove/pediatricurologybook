@@ -1,0 +1,56 @@
+{% assign editors = include.contributors | sort: "last" %}
+<div class="row mt-5 team-list">
+{% for editor in editors %}
+{% if editor.emeritus-editor == "yes" %}
+  <div class="col-12 col-sm-6 col-lg-4 isotope-item emeritus-editors" id="{{ editor.last | append: "-" | append: editor.first | append: "-" | append: editor.middle | slugify: "latin" }}">
+    <span class="thumb-info thumb-info-hide-wrapper-bg mb-4">
+      <span class="thumb-info-wrapper">
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/site-img/editors/{{ editor.img }}" class="img-fluid img-rounded" alt="{{ editor.first }} {{ editor.middle }} {{ editor.last }}">
+      </span>
+      <span class="thumb-info-caption text-center">
+        <span class="thumb-info-caption-text">{{ editor.first }} {{ editor.middle }} <strong>{{ editor.last }}</strong>{% if editor.deg1 != null %}, {{ editor.deg1 }}{% endif %}{% if editor.deg2 != null %}, {{ editor.deg2 }}{% endif %}{% if editor.deg3 != null %}, {{ editor.deg3 }}{% endif %}{% if editor.deg4 != null %}, {{ editor.deg4 }}{% endif %}{% if editor.deg5 != null %}, {{ editor.deg5 }}{% endif %}{% if editor.deg6 != null %}, {{ editor.deg6 }}{% endif %}{% if editor.deg7 != null %}, {{ editor.deg7 }}{% endif %}</span>
+        <span class="thumb-info-caption-text font-weight-bold text-primary text-center text-uppercase mb-0 appear-animation animated maskUp appear-animation-visible mb-2" data-appear-animation="maskUp" data-appear-animation-delay="500" style="animation-delay: 500ms;">{{ include.translation.emeritus-editor }}</span>
+        <ul class="thumb-info-social-icons mb-3">
+      {% if editor.website != null %}<li class="social-icons-website"><a href="{{ editor.website }}" target="_blank" title="Website"><i class="fas fa-link"></i></a></li>{% endif %}
+      {% if editor.email != null %}<li class="social-icons-email"><a href="mailto:{{ editor.email }}" target="_blank" title="Email"><i class="fas fa-envelope"></i></a></li>{% endif %}
+      {% if editor.linkedin != null %}<li class="social-icons-linkedin"><a href="{{ editor.linkedin }}" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a></li>{% endif %}
+      {% if editor.twitter != null %}<li class="social-icons-twitter"><a href="{{ editor.twitter }}" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a></li>{% endif %}
+      {% if editor.facebook != null %}<li class="social-icons-facebook"><a href="{{ editor.facebook }}" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>{% endif %}
+      {% if editor.youtube != null %}<li class="social-icons-youtube"><a href="{{ editor.youtube }}" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a></li>{% endif %}
+      {% if editor.vimeo != null %}<li class="social-icons-vimeo"><a href="{{ editor.vimeo }}" target="_blank" title="Vimeo"><i class="fab fa-vimeo"></i></a></li>{% endif %}
+      {% if editor.tiktok != null %}<li class="social-icons-tiktok"><a href="{{ editor.tiktok }}" target="_blank" title="Tiktok"><i class="fab fa-tiktok"></i></a></li>{% endif %}
+      {% if editor.whatsapp != null %}<li class="social-icons-whatsapp"><a href="{{ editor.whatsapp }}" target="_blank" title="WhatsApp"><i class="fab fa-whatsapp"></i></a></li>{% endif %}
+      {% if editor.instagram != null %}<li class="social-icons-instagram"><a href="{{ editor.instagram }}" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a></li>{% endif %}
+      {% if editor.doximity != null %}<li class="social-icons-doximity"><a href="{{ editor.doximity }}" target="_blank" title="Doximity"><i class="ai2 ai-doximity"></i></a></li>{% endif %}
+      {% if editor.researchgate != null %}<li class="social-icons-researchgate"><a href="{{ editor.researchgate }}" target="_blank" title="ResearchGate"><i class="ai2 ai-researchgate"></i></a></li>{% endif %}
+      {% if editor.orcid != null %}<li class="social-icons-orcid"><a href="{{ editor.orcid }}" target="_blank" title="ResearchGate"><i class="ai2 ai-orcid"></i></a></li>{% endif %}
+      {% if editor.pubmed != null %}<li class="social-icons-pubmed"><a href="{{ editor.pubmed }}" target="_blank" title="PubMed"><i class="ai2 ai-pubmed"></i></a></li>{% endif %}
+        </ul>
+        <address class="text-small">
+          {% if editor.title1 != null %}<em>{{ editor.title1 }}</em><br>{% endif %}
+          {% if editor.title2 != null %}<em>{{ editor.title2 }}</em><br>{% endif %}
+          {% if editor.title3 != null %}<em>{{ editor.title3 }}</em><br>{% endif %}
+          {% if editor.title4 != null %}<em>{{ editor.title4 }}</em><br>{% endif %}
+          {% if editor.institution1 != null and editor.institution1-website != null %}
+          <strong><a href="{{ editor.institution1-website }}">{{ editor.institution1 }}</a></strong><br>
+          {% elsif editor.institution1 != null and editor.institution1-website == null %}
+          <strong>{{ editor.institution1 }}</strong><br>
+          {% endif %}
+          {% if editor.institution2 != null and editor.institution2-website != null %}
+          <a href="{{ editor.institution2-website }}">{{ editor.institution2 }}</a><br>
+          {% elsif editor.institution2 != null and editor.institution2-website == null %}
+          {{ editor.institution2 }}<br>
+          {% endif %}
+          {% if editor.institution3 != null and editor.institution3-website != null %}
+          <a href="{{ editor.institution3-website }}">{{ editor.institution3 }}</a><br>
+          {% elsif editor.institution3 != null and editor.institution3-website == null %}
+          {{ editor.institution3 }}<br>
+          {% endif %}
+          {% if editor.city-state-country != null %}<em>{{ editor.city-state-country }}</em><br>{% endif %}
+        </address>
+      </span>
+    </span>
+  </div>
+{% endif %}
+{% endfor %}
+</div>

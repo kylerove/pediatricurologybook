@@ -8,7 +8,7 @@
               <div class="header-row">
                 <div class="header-logo">
                   <a class="site-title" rel="author" href="{{ site.url }}{{ site.baseurl }}/">
-                    <img class="img-responsive my-2" width="300" height="144" data-sticky-width="120" data-sticky-height="58" data-sticky-top="8" alt="Pedatric Urology Book" src="{{ site.url }}{{ site.baseurl }}/assets/site-img/pediatricurologybook.svg">
+                    <img class="img-responsive my-2" height="144" alt="Pedatric Urology Book" src="{{ site.url }}{{ site.baseurl }}/assets/site-img/pediatricurologybook-new.svg">
                   </a>
                 </div>
               </div>
@@ -37,7 +37,7 @@
                           {% assign this_lang = site.languages-captions | where: "language",lang | first %}
                           
                           {% if lang == site.default_lang %}
-                          <a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ this_lang.caption }}</a>
+                          <a class="dropdown-item" href=" {{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ this_lang.caption }}</a>
                           {% else %}
                           <a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}/{{ lang }}{{ page.url }}">{{ this_lang.caption }}</a>
                           {% endif %}

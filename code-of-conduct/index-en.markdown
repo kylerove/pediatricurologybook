@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: code-of-conduct
 title: Code of Conduct
 permalink: /code-of-conduct/
@@ -22,6 +19,7 @@ toc: true
 
 ## Our **Pledge**
 We the editors, contributors, and leaders pledge to make participation in the [Pediatric Urology Book](/) project a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+{: .lead}
 
 We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 

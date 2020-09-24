@@ -1,8 +1,8 @@
 title: Pediatric Urology Book
 author: 
 email: editors@pediatricurologybook.com
-description:
-    This is a test
+tagline: A free online book of Pediatric Urology
+description: This free, online book of Pediatric Urology, Edition 2.0, features frequently-updated topics such as management of hydronephrosis, hypospadias techniques, approaches to urinary tract infection, information about bowel and bladder dysfunction, neurogenic bladder, pediatric urologic oncology, and much more.
 baseurl: ""
 url: "https://pediatricurologybook.com"
 twitter_username: pediatricurologybook
@@ -17,13 +17,13 @@ img: /img/logo.png
 env: development
 encoding: utf-8
 theme: null
+version: 2.0.0
 
 # Build settings
 plugins:
   - jekyll-minifier
-  - jekyll-seo-tag
   - jekyll-polyglot
-  - jekyll-spaceship
+  - jekyll-seo-tag
   - jekyll-toc
   - jekyll_figure
   - jekyll-timeago
@@ -60,6 +60,7 @@ defaults:
 
 # Language / Polyglot settings
 languages: ["en","es","zh"]
+default_lang: "en"
 languages-captions: 
   - 
     caption: English
@@ -73,7 +74,6 @@ languages-captions:
     caption: 简体中文
     language: zh
     icon: fa-globe-asia
-default_lang: "en"
 exclude_from_localization: ["_config.yml", "assets", "_layouts", "_includes", "_data", "_references", "_plugin", "README.md", "LICENSE"]
 parallel_localization: false
 

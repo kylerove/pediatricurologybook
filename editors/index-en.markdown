@@ -1,13 +1,43 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: editors
 title: Editors
 permalink: /editors/
 lang: en
+breadcrumbs:
+  - 
+    title: Home
+    permalink: /
+  - 
+    title: Editors
+    permalink: /editors/
+toc: false
 ---
 
 # Editors
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Below you will find the editors responsible for the content of this book---including it's special digital features---made possible because this book was created for the internet and exists here alone.
+{: .lead}
+
+The possibilities are endless with the use of online media like linking to contributors' social media accounts, embedding video and other media right in the book chapters, regular updates of content, the ability to subscribe to updates to information important to you, and more. If you have any great ideas, please [contact us]({{ site.url }}{{ site.baseurl }}/contact-us/)!
+
+{% assign this_translation = site.data.translations | where: "language",site.active_lang | first %}
+{% include editors-list.html contributors=site.data.contributors translation=this_translation %}
+
+# Emeritus Editors
+
+We stand on the shoulders of giants.
+{: .lead}
+
+The idea for this online book originated with the three editors pictured below. While all extremely-well published, they recognized that most authors' academic work is not directly compensated. And yet, there are entire industries whose sole product is this work---chapters, reviews, research studies, commentary, peer review, etc. The internet, however, offered a chance to invert this system and allow pediatric urologists to publish their expertise in an open manner free for all to read. Dr. Duncan Wilcox noted once, "[Pediatric Urology Book] is the academic work I'm most proud of."
+
+In 2020, the three emeritus editors graciously offered to pass the torch, hoping to allow for new content and ideas to flourish.
+
+{% include emeritus-editors-list.html contributors=site.data.contributors translation=this_translation %}
+
+*[MD]: Medicinae Doctor
+*[MBBS]: Medicinae Baccalaureus, Baccalaureus Chirurgiae
+*[FRCS]: Fellowship of the Royal College of Surgeons
+*[FRCS (Paed)]: Intercollegiate Board in Paediatric Surgery
+*[FEAPU]: Fellow of the European Academy of Paediatric Urology
+*[FAAP]: Fellow of the American Academy of Pediatrics
+*[FACS]: Fellow of the American College of Surgeons

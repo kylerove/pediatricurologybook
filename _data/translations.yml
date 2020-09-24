@@ -1,12 +1,19 @@
 # 1:1 translations where it makes sense outside language-based pages (e.g., header)
 - 
   language: en
-  about-us: "About Us"
-  contact-us: "Contact Us"
+  about-us: About Us
+  about: About
+  us: Us
+  contact-us: Contact Us
+  contact: Contact
+  contributor: Contributor
   contributors: Contributors
+  editor: Editor
+  editor-f: Editor
   editors: Editors
+  emeritus-editor: Emeritus Editor
   home: Home
-  read-the-book: "Read The Book"
+  read-the-book: Read The Book
   search: Search
   sponsors: Sponsors
   copyright: Copyright
@@ -14,14 +21,96 @@
   period: .
   all-rights-reserved: All Rights Reserved
   site-map: Site Map
+  table-of-contents: Table of Contents
+  last-updated: Last updated
+  coi: COI
+  has-coi: Has COI
+  coi-details: COI details
+  has-relevant-disclosures: Has relevant disclosures
+  no-disclosures: No disclosures
+  not-filed: Not filed
+  research: Research
+  research-placeholder: E.g., Novartis research study
+  research-desc: Research performed as investigator for commercial or non-commercial entities, including grant support or other sponsorship from said entities.
+  investment: Investment
+  investment-placeholder: E.g., Elsevier stock
+  investment-desc: Personal or family stock ownership, dividends, or revenue received from commercial interests providing healthcare or services. (Passive stock ownership via mutual funds is not required to be disclosed.)
+  employee: Employee
+  employee-placeholder: E.g., WebMD salary
+  employee-desc: Salaries from any commercial entity, including any publishing, internet, e-commerce or other business enterprise that provides healthcare products or services
+  expert-witness: Expert Witness
+  expert-witness-placeholder: E.g., Witness for defendant in 2 litigations
+  expert-witness-desc: Expert medical testimony for a trial, hearing, deposition, affidavit or any other type of legal proceeding
+  speaker: Speaker
+  speaker-placeholder: E.g., Abbvie speaker, Ethicon cadaver lab proctor
+  speaker-desc: Honoraria or reimbursements received as faculty members, speakers' bureau, industry-sponsored lecture, presenters, chairs, proctors, or consultants. Roles beyond meeting attendee should be disclosed.
+  consultant-advisor: Consultant/Advisor
+  consultant-advisor-placeholder: E.g., Allergan scientific advisory board member
+  consultant-advisor-desc: Service on scientific advisory boards
+  ownership-interest-patent-royalties: Ownership Interest/Patent/Royalties
+  ownership-interest-patent-royalties-placeholder: E.g., Patent on NewFangledCatheter®
+  ownership-interest-patent-royalties-desc: Ownership in any commercial entity, including publishing, known outstanding patents, royalties, internet, e-commerce, ancillary services or other business enterprise that provides healthcare products
+  leadership: Leadership
+  leadership-placeholder: E.g., SCS-AUA Board Member
+  leadership-desc: Board, officer, trustee, editor or other leadership position in commercial society or organization
+  health-publishing: Health Publishing
+  health-publishing-placeholder: E.g., Journal of Pediatric Urology Assistant Editor
+  health-publishing-desc: Editorial boards and authors, including any publishing, royalty arrangements
+  other: Other
+  other-desc: Any other financial or relationship which might otherwise bias or influence the discloser related to the healthcare field
+  conflict-of-interest: Conflict of Interest
+  conflicts-of-interest: Conflicts of Interest
+  disclosure: Disclosure
+  instructions: Instructions
+  coi-disclosure-p1: Please review the Pediatric Urology Book <a href="/conflict-of-interest/">Conflict of Interest</a> policy prior to making any disclosures. Failure to submit a complete or accurate disclosure may result in revocation of your work and reassigment of the work to another author.
+  coi-disclosure-p2: Conflicts of interest are derived from the existence of a relationship and are not necessarily financial in nature.
+  success: Success
+  disclosure-sent: Your disclosure has been sent to the editors.
+  error: Error
+  disclosure-not-sent: There was an error processing your disclosure.
+  full-name: Full Name
+  name-required: Please enter your name.
+  email-address: Email Address
+  email-required: Please enter your email address.
+  email-invalid: Please enter a valid email address.
+  email-too-short: Please enter a longer email address.
+  do-you-have-disclosure: Do you or a family member have any relevant disclosures to make?
+  do-you-have-disclosure-required: Please select an option.
+  no-disclosure: No, I have no relevant disclosures or conflicts of interest to declare.
+  yes-disclosure: Yes, I have relevant disclosures or conflicts of interest to declare.
+  personal: Personal
+  family: Family
+  how-to-fill-out-disclosure: If none, leave blank. If multiple in same category, separate with commas.
+  submit-disclosure: Submit Disclosure
+  message-sent: Your message has been sent to the editors.
+  message-not-sent: There was an error sending your message to the editors.
+  subject: Subject
+  subject-required: Por favor, introduzca el asunto.
+  message: Message
+  message-required: Please enter your message.
+  submit: Submit
+  get-in-touch: Get in touch
+  please-contact: Please feel free to contact us with questions, inquiries, corrections or feedback.
+  other-methods: Other methods to get in touch with the editors
+  address: Address
+  email: Email
+  social-media: Social Media
+  next-step: Next step
 - 
   language: es
-  about-us: "Sobre Nosotros"
-  contact-us: "Contacta con Nosotros"
+  about-us: Sobre Nosotros
+  about: About
+  us: Us
+  contact-us: Contacta con Nosotros
+  contact: Contact
+  contributor: Colaborador
   contributors: Autores
+  editor: Editor
+  editor-f: Editora
   editors: Editores
+  emeritus-editor: Editor emérito
   home: Inicio
-  read-the-book: "Leer el Libro"
+  read-the-book: Leer el Libro
   search: Buscar
   sponsors: Patrocinadores
   copyright: Derechos de autor
@@ -29,12 +118,94 @@
   period: .
   all-rights-reserved: Todos los derechos reservados
   site-map: Mapa del Sitio
+  table-of-contents: Tabla de Contenidos
+  last-updated: Última actualización
+  coi: CDI
+  has-coi: Tiene CDI
+  coi-details: detalles de CDI
+  has-relevant-disclosures: Tiene revelaciones relevantes
+  no-disclosures: Sin revelaciones
+  not-filed: No archivado
+  research: Investigación
+  research-placeholder: Por ejemplo, estudio de investigación Novartis
+  research-desc: Investigación realizada como investigador para entidades comerciales o no comerciales, incluido el apoyo de subvenciones u otro patrocinio de dichas entidades.
+  investment: Inversión
+  investment-placeholder: Por ejemplo, acciones de Elsevier
+  investment-desc: Personal or family stock ownership, dividends, or revenue received from commercial interests providing healthcare or services. (Passive stock ownership via mutual funds is not required to be disclosed.)
+  employee: Empleado
+  employee-placeholder: Por ejemplo, salario de WebMD
+  employee-desc: Salarios de cualquier entidad comercial, incluida cualquier publicación, internet, comercio electrónico u otra empresa comercial que proporcione productos o servicios de atención médica.
+  expert-witness: Testigo experto
+  expert-witness-placeholder: Por ejemplo, testigo del acusado en 2 litigios
+  expert-witness-desc: Testimonio médico experto para un juicio, audiencia, declaración, declaración jurada o cualquier otro tipo de procedimiento legal
+  speaker: Orador
+  speaker-placeholder: Por ejemplo, orador de Abbvie, supervisor de laboratorio de cadáveres de Ethicon
+  speaker-desc: Honorarios o reembolsos recibidos como miembros de la facultad, oficina de oradores, conferencias patrocinadas por la industria, presentadores, presidentes, supervisores o consultores. Se deben divulgar los roles más allá de la reunión del asistente
+  consultant-advisor: Consultor / Asesor
+  consultant-advisor-placeholder: Por ejemplo, miembro del consejo asesor científico de Allergan
+  consultant-advisor-desc: Servicio en juntas asesoras científicas.
+  ownership-interest-patent-royalties: Propiedad Intereses / Patentes / Regalías
+  ownership-interest-patent-royalties-placeholder: Por ejemplo, patente sobre NewFangledCatheter®
+  ownership-interest-patent-royalties-desc: Propiedad en cualquier entidad comercial, incluidas publicaciones, patentes pendientes conocidas, regalías, internet, comercio electrónico, servicios auxiliares u otras empresas comerciales que ofrecen productos de atención médica
+  leadership: Liderazgo
+  leadership-placeholder: Por ejemplo, miembro de la Junta SCS-AUA
+  leadership-desc: Junta, funcionario, administrador, editor u otro puesto de liderazgo en la sociedad u organización comercial
+  health-publishing: Publicación de salud
+  health-publishing-placeholder: Por ejemplo, Editor Asistente del Journal of Pediatric Urology
+  health-publishing-desc: Consejos editoriales y autores, incluida cualquier publicación, arreglos de regalías
+  other: Otro
+  other-desc: Cualquier otra relación financiera o que de otro modo podría sesgar o influir en el divulgador relacionado con el campo de la salud.
+  conflict-of-interest: Conflicto de Intereses
+  conflicts-of-interest: Conflictos de Interés
+  disclosure: Divulgar
+  instructions: Instrucciones
+  coi-disclosure-p1: Revise la política del Libro de Urología Pediátrica <a href="/conflict-of-interest/"> Conflicto de intereses </a> antes de hacer cualquier divulgación. Si no presenta una divulgación completa o precisa puede resultar en la revocación de su trabajo y la reasignación del trabajo a otro autor.
+  coi-disclosure-p2: Los conflictos de intereses se derivan de la existencia de una relación y no son necesariamente de naturaleza financiera.
+  success: Éxito
+  disclosure-sent: Su divulgación ha sido enviada a los editores.
+  error: Error
+  disclosure-not-sent: Se produjo un error al procesar su divulgación.
+  full-name: Nombre completo
+  name-required: Por favor, escriba su nombre.
+  email-address: Dirección de correo electrónico
+  email-required: Por favor, introduzca su dirección de correo electrónico
+  email-invalid: Por favor, introduce una dirección de correo electrónico válida.
+  email-too-short: Por favor, introduzca una dirección de correo electrónico más larga.
+  do-you-have-disclosure: ¿Usted o un miembro de su familia tiene alguna divulgación relevante que hacer?
+  do-you-have-disclosure-required: Por favor seleccione una opción.
+  no-disclosure: No, no tengo declaraciones relevantes ni conflictos de intereses que declarar.
+  yes-disclosure: Sí, tengo declaraciones relevantes o conflictos de intereses que declarar.
+  personal: Personal
+  family: Familia
+  how-to-fill-out-disclosure: Si no hay ninguno, déjelo en blanco. Si son múltiples en la misma categoría, sepárelos con comas.
+  submit-disclosure: Enviar Divulgación
+  message-sent: Su mensaje ha sido enviado a los editores.
+  message-not-sent: Se produjo un error al enviar su mensaje a los editores.
+  subject: Asunto
+  subject-required: Por favor, introduzca el asunto.
+  message: Mensaje
+  message-required: Por favor ingrese su mensaje.
+  submit: Enviar
+  get-in-touch: Ponerse en contacto
+  please-contact: No dude en contactarnos con preguntas, consultas, correcciones o comentarios.
+  other-methods: Otros métodos para ponerse en contacto con los editores.
+  address: Habla a
+  email: Email
+  social-media: Redes sociales
+  next-step: Próximo paso
 - 
   language: zh
   about-us: 关于我们
+  about: About
+  us: Us
   contact-us: 联系我们
-  contributors: 作家
+  contact: 
+  contributor: 贡献者
+  contributors: 贡献者
+  editor: 编辑
+  editor-f: 编辑
   editors: 编者
+  emeritus-editor: 荣誉编辑
   home: 主页
   read-the-book: 读了这本书
   search: 搜索
@@ -44,3 +215,78 @@
   period: 。
   all-rights-reserved: 版权所有
   site-map: 网站地图
+  table-of-contents: 目录
+  last-updated: 最近更新时间
+  coi: 利益冲突
+  has-coi: 有利益冲突
+  coi-details: 利益冲突详情
+  has-relevant-disclosures: 有相关披露
+  no-disclosures: 没有披露
+  not-filed: 未提交
+  research: 研究
+  research-placeholder: 例如，诺华研究
+  research-desc: 作为商业或非商业实体的研究人员进行的研究，包括赠款支持或来自所述实体的其他赞助。
+  investment: 投资
+  investment-placeholder: 例如Elsevier股票
+  investment-desc: 从提供医疗保健或服务的商业利益中获得的个人或家庭股票所有权，股息或收入。（不需要披露通过共同基金获得的被动股票所有权。）
+  employee: 雇员
+  employee-placeholder: 例如，WebMD薪水
+  employee-desc: 来自任何商业实体的工资，包括提供保健产品或服务的任何出版，互联网，电子商务或其他商业企业
+  expert-witness: 专家证人
+  expert-witness-placeholder: 例如，在2个诉讼中为被告证人
+  expert-witness-desc: 审判，听证，证词，宣誓书或任何其他类型的法律程序的专业医学证词
+  speaker: 扬声器
+  speaker-placeholder: 例如，Abbvie发言人，Ethicon尸体实验室督导员
+  speaker-desc: 作为教职员工，发言人办公室，行业赞助的讲座，演讲者，主席，监理或顾问而获得的酬金或报销。 会议参与者以外的角色应予以披露。
+  consultant-advisor: 顾问
+  consultant-advisor-placeholder: 例如，Allergan科学顾问委员会成员
+  consultant-advisor-desc: 科学顾问委员会的服务
+  ownership-interest-patent-royalties: 所有权权益/专利/特许权使用费
+  ownership-interest-patent-royalties-placeholder: 例如，NewFangledCatheter®的专利
+  ownership-interest-patent-royalties-desc: 在任何商业实体中的所有权，包括出版，已知的杰出专利，特许权使用费，互联网，电子商务，辅助服务或其他提供保健产品的商业企业
+  leadership: 领导
+  leadership-placeholder: 例如，SCS-AUA董事会成员
+  leadership-desc: 商业社会或组织中的董事会，管理人员，受托人，编辑或其他领导职务
+  health-publishing: 健康出版
+  health-publishing-placeholder: 例如，《儿科泌尿外科杂志》助理编辑
+  health-publishing-desc: 编辑委员会和作者，包括任何出版，版税安排
+  other: 其他
+  other-desc: 可能偏向或影响与医疗保健领域有关的披露者的任何其他财务或关系
+  conflict-of-interest: 利益冲突
+  conflicts-of-interest: 利益冲突
+  disclosure: 披露
+  instructions: 使用说明
+  coi-disclosure-p1: 在进行任何披露之前，请查看《儿科泌尿外科书籍》 <a href="/conflict-of-interest/">利益冲突</a>政策。 未提交完整或准确的披露信息可能会导致您的工作被撤销，并且可能会将工作重新分配给另一位作者。
+  coi-disclosure-p2: 利益冲突源于关系的存在，本质上不一定是财务上的。
+  success: 成功
+  disclosure-sent: 您的公开信息已发送给编辑。
+  error: 错误
+  disclosure-not-sent: 处理您的披露时出错。
+  full-name: 全名
+  name-required: 请输入你的名字。
+  email-address: 电子邮件地址
+  email-required: 请输入您的电子邮件地址。
+  email-invalid: 请输入有效的电子邮件地址。
+  email-too-short: 请输入更长的电子邮件地址。
+  do-you-have-disclosure: 您或家人有任何相关信息要披露吗？
+  do-you-have-disclosure-required: 请选择一个选项。
+  no-disclosure: 不，我没有相关的披露或利益冲突需要声明。
+  yes-disclosure: 是的，我需要宣布相关披露或利益冲突。
+  personal: 个人
+  family: 家庭
+  how-to-fill-out-disclosure: 如果不存在，请留空。 如果同一类别中有多个，请用逗号分隔。
+  submit-disclosure: 提交披露
+  message-sent: 您的消息已发送给编辑。
+  message-not-sent: 将您的消息发送给编辑者时出错。
+  subject: 学科
+  subject-required: 请输入主题。
+  message: 信息
+  message-required: 请输入您的信息。
+  submit: 提交
+  get-in-touch: 保持联系
+  please-contact: 如果您有任何疑问，询问，更正或反馈，请随时与我们联系。
+  other-methods: 与编辑联系的其他方法
+  address: 地址
+  email: 电子邮件
+  social-media: 社交媒体
+  next-step: 下一步

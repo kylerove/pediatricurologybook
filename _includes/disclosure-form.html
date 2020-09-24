@@ -1,0 +1,169 @@
+<div class="row">
+  <div class="col">
+    <h2 class="mt-2"><strong>{{ include.translation.instructions }}</strong></h2>
+    <p class="lead">{{ include.translation.coi-disclosure-p1 }}</p>
+    <p>{{ include.translation.coi-disclosure-p2 }}</p>
+  </div>
+</div>
+<div class="row">
+  <div class="col">
+    <div class="overflow-hidden mb-1">
+      <h2 class="font-weight-normal text-7 mt-2 mb-0 appear-animation animated maskUp appear-animation-visible" data-appear-animation="maskUp" data-appear-animation-delay="200" style="animation-delay: 200ms;"><strong class="font-weight-extra-bold">{{ include.translation.coi }}</strong> {{ include.translation.disclosure }}</h2>
+    </div>
+
+    <form class="conflict-of-interest-disclosure-form" onsubmit="return false">
+      <div class="conflict-of-interest-disclosure-form-success alert alert-success d-none mt-4" id="disclosureSuccess">
+        <i class="far fa-thumbs-up"></i> <strong>{{ include.translation.success }}!</strong> {{ include.translation.disclosure-sent }}
+      </div>
+      <div class="conflict-of-interest-disclosure-form-error alert alert-danger d-none mt-4" id="disclosureError">
+        <i class="fas fa-exclamation-triangle"></i> <strong>{{ include.translation.error }}!</strong> {{ include.translation.disclosure-not-sent }}
+      </div>
+      <div class="form-row">
+        <div class="form-group col-lg-6">
+          <div>
+            <label class="required font-weight-bold text-dark text-2" for="name">{{ include.translation.full-name }}</label>
+            <input type="text" value="" data-msg-required="{{ include.translation.name-required }}" maxlength="255" class="form-control" name="name">
+          </div>
+        </div>
+        <div class="form-group col-lg-6">
+          <div>
+            <label class="required font-weight-bold text-dark text-2" for="email">{{ include.translation.email-address }}</label>
+            <input type="email" value="" data-msg-required="{{ include.translation.email-required }}" data-msg-email="{{ include.translation.email-invalid }}" data-msg-minlength="{{ include.translation.email-too-short }}" maxlength="255" class="form-control" name="email">
+          </div>
+        </div>
+      </div>
+      <div class="form-row next">
+        <div class="form-group col">
+          <div>
+            <button class="btn btn-primary btn-modern" id="check-disclosure">{{ include.translation.next-step }}</button>
+          </div>
+        </div>
+      </div>
+      <div class="form-row d-none">
+        <div class="form-group col">
+          <div>
+            <label class="required font-weight-bold text-dark text-2" for="coi-yesno">{{ include.translation.do-you-have-disclosure }}</label>
+            <div class="btn-group btn-group-toggle d-flex" data-toggle="buttons">
+              <label class="btn btn-outline-secondary font-weight-bold ls0 nott" for="coi-no">
+                <input type="radio" name="coi-yesno" id="coi-no" value="no"> {{ include.translation.no-disclosure }}
+              </label>
+              <label class="btn btn-outline-primary font-weight-bold ls0 nott" for="coi-yes">
+                <input type="radio" name="coi-yesno" id="coi-yes" value="yes"> {{ include.translation.yes-disclosure }}
+              </label>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="form-row mt-3 details">
+        <div class="form-group col col-lg-6"><h4 class="text-center">{{ include.translation.personal }}</h4></div>
+        <div class="form-group col col-lg-6"><h4 class="text-center">{{ include.translation.family }}</h4></div>
+        <div class="form-group col"><p class="text-center">{{ include.translation.how-to-fill-out-disclosure }}</p></div>
+      </div>
+      <div class="form-row details" id="research-row">
+        <div class="form-group col col-lg-6">
+          <label class="font-weight-bold text-dark text-2" for="coi-research-personal"><i class="fas fa-flask disclosure"></i> {{ include.translation.research }}</label> <i class="fas fa-info-circle light" data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.research-desc }}"></i>
+          <input type="text" value="" class="form-control" name="coi-research-personal" placeholder="{{ include.translation.research-placeholder }}">
+        </div>
+        <div class="form-group col col-lg-6">
+          <label class="font-weight-bold text-dark text-2" for="coi-research-family">&nbsp;</label>
+          <input type="text" value="" class="form-control" name="coi-research-family">
+        </div>
+      </div>
+      <div class="form-row details" id="investment-row">
+        <div class="form-group col col-lg-6">
+          <label class="font-weight-bold text-dark text-2" for="coi-investment-personal"><i class="fas fa-hand-holding-usd disclosure"></i> {{ include.translation.investment }}</label> <i class="fas fa-info-circle light" data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.investment-desc }}"></i>
+          <input type="text" value="" class="form-control" name="coi-investment-personal" placeholder="{{ include.translation.investment-placeholder }}">
+        </div>
+        <div class="form-group col col-lg-6">
+          <label class="font-weight-bold text-dark text-2" for="coi-investment-family">&nbsp;</label>
+          <input type="text" value="" class="form-control" name="coi-investment-family">
+        </div>
+      </div>
+      <div class="form-row details" id="employee-row">
+        <div class="form-group col col-lg-6">
+          <label class="font-weight-bold text-dark text-2" for="coi-employee-personal"><i class="fas fa-address-card disclosure"></i> {{ include.translation.employee }}</label> <i class="fas fa-info-circle light" data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.employee-desc }}"></i>
+          <input type="text" value="" class="form-control" name="coi-employee-personal" placeholder="{{ include.translation.employee-placeholder }}">
+        </div>
+        <div class="form-group col col-lg-6">
+          <label class="font-weight-bold text-dark text-2" for="coi-employee-family">&nbsp;</label>
+          <input type="text" value="" class="form-control" name="coi-employee-family">
+        </div>
+      </div>
+      <div class="form-row details" id="expertwitness-row">
+        <div class="form-group col col-lg-6">
+          <label class="font-weight-bold text-dark text-2" for="coi-expertwitness-personal"><i class="fas fa-balance-scale disclosure"></i> {{ include.translation.expert-witness }}</label> <i class="fas fa-info-circle light" data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.expert-witness-desc }}"></i>
+          <input type="text" value="" class="form-control" name="coi-expertwitness-personal" placeholder="{{ include.translation.expert-witness-placeholder }}">
+        </div>
+        <div class="form-group col col-lg-6">
+          <label class="font-weight-bold text-dark text-2" for="coi-expertwitness-family">&nbsp;</label>
+          <input type="text" value="" class="form-control" name="coi-expertwitness-family">
+        </div>
+      </div>
+      <div class="form-row details" id="speaker-row">
+        <div class="form-group col col-lg-6">
+          <label class="font-weight-bold text-dark text-2" for="coi-speaker-personal"><i class="fas fa-microphone-alt disclosure"></i> {{ include.translation.speaker }}</label> <i class="fas fa-info-circle light" data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.speaker-desc }}"></i>
+          <input type="text" value="" class="form-control" name="coi-speaker-personal" placeholder="{{ include.translation.speaker-placeholder }}">
+        </div>
+        <div class="form-group col col-lg-6">
+          <label class="font-weight-bold text-dark text-2" for="coi-speaker-family">&nbsp;</label>
+          <input type="text" value="" class="form-control" name="coi-speaker-family">
+        </div>
+      </div>
+      <div class="form-row details" id="consultant-row">
+        <div class="form-group col col-lg-6">
+          <label class="font-weight-bold text-dark text-2" for="coi-consultant-personal"><i class="fas fa-ad disclosure"></i> {{ include.translation.consultant-advisor }}</label> <i class="fas fa-info-circle light" data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.consultant-advisor-desc }}"></i>
+          <input type="text" value="" class="form-control" name="coi-consultant-personal" placeholder="{{ include.translation.consultant-advisor-placeholder }}">
+        </div>
+        <div class="form-group col col-lg-6">
+          <label class="font-weight-bold text-dark text-2" for="coi-consultant-family">&nbsp;</label>
+          <input type="text" value="" class="form-control" name="coi-consultant-family">
+        </div>
+      </div>
+      <div class="form-row details" id="owner-row">
+        <div class="form-group col col-lg-6">
+          <label class="font-weight-bold text-dark text-2" for="coi-owner-personal"><i class="fas fa-briefcase disclosure"></i> {{ include.translation.ownership-interest-patent-royalties }}</label> <i class="fas fa-info-circle light" data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.ownership-interest-patent-royalties-desc }}"></i>
+          <input type="text" value="" class="form-control" name="coi-owner-personal" placeholder="{{ include.translation.ownership-interest-patent-royalties-placeholder }}">
+        </div>
+        <div class="form-group col col-lg-6">
+          <label class="font-weight-bold text-dark text-2" for="coi-owner-family">&nbsp;</label>
+          <input type="text" value="" class="form-control" name="coi-owner-family">
+        </div>
+      </div>
+      <div class="form-row details" id="leadership-row">
+        <div class="form-group col col-lg-6">
+          <label class="font-weight-bold text-dark text-2" for="coi-leadership-personal"><i class="fas fa-building disclosure"></i> {{ include.translation.leadership }}</label> <i class="fas fa-info-circle light" data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.leadership-desc }}"></i>
+          <input type="text" value="" class="form-control" name="coi-leadership-personal" placeholder="{{ include.translation.leadership-placeholder }}">
+        </div>
+        <div class="form-group col col-lg-6">
+          <label class="font-weight-bold text-dark text-2" for="coi-leadership-family">&nbsp;</label>
+          <input type="text" value="" class="form-control" name="coi-leadership-family">
+        </div>
+      </div>
+      <div class="form-row details" id="publishing-row">
+        <div class="form-group col col-lg-6">
+          <label class="font-weight-bold text-dark text-2" for="coi-publishing-personal"><i class="fas fa-upload disclosure"></i> {{ include.translation.health-publishing }}</label> <i class="fas fa-info-circle light" data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.health-publishing-desc }}"></i>
+          <input type="text" value="" class="form-control" name="coi-publishing-personal" placeholder="{{ include.translation.health-publishing-placeholder }}">
+        </div>
+        <div class="form-group col col-lg-6">
+          <label class="font-weight-bold text-dark text-2" for="coi-publishing-family">&nbsp;</label> 
+          <input type="text" value="" class="form-control" name="coi-publishing-family">
+        </div>
+      </div>
+      <div class="form-row details" id="other-row">
+        <div class="form-group col col-lg-6">
+          <label class="font-weight-bold text-dark text-2" for="coi-other-personal"><i class="fas fa-circle-notch disclosure"></i> {{ include.translation.other }}</label> <i class="fas fa-info-circle light" data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.other-desc }}"></i>
+          <input type="text" value="" class="form-control" name="coi-other-personal">
+        </div>
+        <div class="form-group col col-lg-6">
+          <label class="font-weight-bold text-dark text-2" for="coi-other-family">&nbsp;</label>
+          <input type="text" value="" class="form-control" name="coi-other-family">
+        </div>
+      </div>
+      <div class="form-row mt-3">
+        <div class="form-group col">
+        </div>
+      </div>
+    </form>
+    <button class="btn btn-primary btn-modern d-none" id="submit-disclosure">{{ include.translation.submit-disclosure }}</button>
+  </div>
+</div>

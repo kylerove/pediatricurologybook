@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: code-of-conduct
 title: Código de Conducta
 permalink: /code-of-conduct/
@@ -22,6 +19,7 @@ toc: true
 
 ## Nuestro **Compromiso**
 Nosotros, como miembros, contribuyentes y administradores nos comprometemos a hacer de la participación en nuestro proyecto de [Libro de Urología Pediátrica](/) una experiencia libre de acoso para todo el mundo, independientemente de la edad, dimensión corporal, minusvalía visible o invisible, etnicidad, características sexuales, identidad y expresión de género, nivel de experiencia, educación, nivel socio-económico, nacionalidad, apariencia personal, raza, religión, o identidad u orientación sexual.
+{: .lead}
 
 Nos comprometemos a actuar e interactuar de maneras que contribuyan a una comunidad abierta, acogedora, diversa, inclusiva y sana.
 

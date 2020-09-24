@@ -1,0 +1,92 @@
+{% assign editors = include.contributors | sort: "last" %}
+{% for editor in editors %}
+  {% if editor.editor == "yes" %}
+<div class="row mt-5" id="{{ editor.last | append: "-" | append: editor.first | append: "-" | append: editor.middle | slugify: "latin" }}">
+  <div class="col-md-5 order-md-2 mb-4 mb-lg-0 appear-animation animated fadeInLeftShorter appear-animation-visible" data-appear-animation="fadeInLeftShorter" style="animation-delay: 100ms;">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/site-img/editors/{{ editor.img }}" class="img-fluid img-rounded" alt="{{ editor.first }} {{ editor.middle }} {{ editor.last }}">
+  </div>
+  <div class="col-md-7 order-2">
+    <div class="overflow-hidden">
+      <h2 class="text-color-dark text-8 mb-0 pt-0 mt-0 appear-animation animated maskUp appear-animation-visible" data-appear-animation="maskUp" data-appear-animation-delay="300" style="animation-delay: 300ms;">{{ editor.first }} {{ editor.middle }} <strong>{{ editor.last }}</strong>{% if editor.deg1 != null %}, {{ editor.deg1 }}{% endif %}{% if editor.deg2 != null %}, {{ editor.deg2 }}{% endif %}{% if editor.deg3 != null %}, {{ editor.deg3 }}{% endif %}{% if editor.deg4 != null %}, {{ editor.deg4 }}{% endif %}{% if editor.deg5 != null %}, {{ editor.deg5 }}{% endif %}{% if editor.deg6 != null %}, {{ editor.deg6 }}{% endif %}{% if editor.deg7 != null %}, {{ editor.deg7 }}{% endif %}</h2>
+    </div>
+    <div class="overflow-hidden mb-2">
+      <p class="font-weight-bold text-primary text-uppercase mb-0 appear-animation animated maskUp appear-animation-visible" data-appear-animation="maskUp" data-appear-animation-delay="500" style="animation-delay: 500ms;">{% if editor.sex == "f" %}{{ include.translation.editor-f }}{% else %}{{ include.translation.editor }}{% endif %}</p>
+    </div>
+    <hr class="solid my-3 appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900" style="animation-delay: 900ms;">
+    <ul class="thumb-info-social-icons mb-3">
+      {% if editor.website != null %}<li class="social-icons-website"><a href="{{ editor.website }}" target="_blank" title="Website"><i class="fas fa-link"></i></a></li>{% endif %}
+      {% if editor.email != null %}<li class="social-icons-email"><a href="mailto:{{ editor.email }}" target="_blank" title="Email"><i class="fas fa-envelope"></i></a></li>{% endif %}
+      {% if editor.linkedin != null %}<li class="social-icons-linkedin"><a href="{{ editor.linkedin }}" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a></li>{% endif %}
+      {% if editor.twitter != null %}<li class="social-icons-twitter"><a href="{{ editor.twitter }}" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a></li>{% endif %}
+      {% if editor.facebook != null %}<li class="social-icons-facebook"><a href="{{ editor.facebook }}" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>{% endif %}
+      {% if editor.youtube != null %}<li class="social-icons-youtube"><a href="{{ editor.youtube }}" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a></li>{% endif %}
+      {% if editor.vimeo != null %}<li class="social-icons-vimeo"><a href="{{ editor.vimeo }}" target="_blank" title="Vimeo"><i class="fab fa-vimeo"></i></a></li>{% endif %}
+      {% if editor.tiktok != null %}<li class="social-icons-tiktok"><a href="{{ editor.tiktok }}" target="_blank" title="Tiktok"><i class="fab fa-tiktok"></i></a></li>{% endif %}
+      {% if editor.whatsapp != null %}<li class="social-icons-whatsapp"><a href="{{ editor.whatsapp }}" target="_blank" title="WhatsApp"><i class="fab fa-whatsapp"></i></a></li>{% endif %}
+      {% if editor.instagram != null %}<li class="social-icons-instagram"><a href="{{ editor.instagram }}" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a></li>{% endif %}
+      {% if editor.doximity != null %}<li class="social-icons-doximity"><a href="{{ editor.doximity }}" target="_blank" title="Doximity"><i class="ai2 ai-doximity"></i></a></li>{% endif %}
+      {% if editor.researchgate != null %}<li class="social-icons-researchgate"><a href="{{ editor.researchgate }}" target="_blank" title="ResearchGate"><i class="ai2 ai-researchgate"></i></a></li>{% endif %}
+      {% if editor.orcid != null %}<li class="social-icons-orcid"><a href="{{ editor.orcid }}" target="_blank" title="ResearchGate"><i class="ai2 ai-orcid"></i></a></li>{% endif %}
+      {% if editor.pubmed != null %}<li class="social-icons-pubmed"><a href="{{ editor.pubmed }}" target="_blank" title="PubMed"><i class="ai2 ai-pubmed"></i></a></li>{% endif %}
+    </ul>
+    {% if site.active_lang == "en" and editor.bio-en != null %}
+      {{ editor.bio-en | markdownify }}
+    {% elsif site.active_lang == "sp" and editor.bio-sp != null %}
+      {{ editor.bio-sp | markdownify }}
+    {% elsif site.active_lang == "zh" and editor.bio-zh != null  %}
+      {{ editor.bio-zh | markdownify }}
+    {% elsif editor.bio-en != null %}
+      {{ editor.bio-en | markdownify }}
+    {% endif %}
+    <hr class="solid my-3 appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900" style="animation-delay: 900ms;">
+    <p class="font-weight-bold text-primary text-uppercase mb-0 appear-animation animated maskUp appear-animation-visible" data-appear-animation="maskUp" data-appear-animation-delay="500" style="animation-delay: 500ms;"><a href="{{ site.url }}{{ site.baseurl }}/conflict-of-interest/#{{ editor.last | append: "-" | append: editor.first | append: "-" | append: editor.middle | slugify: "latin" }}" class="pr-2">{{ include.translation.conflicts-of-interest }}</a>
+    {% if editor.coi-date != null %}
+      {% if editor.coi-yesno == "yes" %}
+        {% if editor.coi-research-personal      != null or editor.coi-research-family      != null %}<i class="fas fa-flask"            data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.research }}: {% if editor.coi-research-personal != null %} {{ editor.coi-research-personal }} (personal){% endif %}{% if editor.coi-research-personal      != null and editor.coi-research-family      != null %} / {% endif %}{% if editor.coi-research-family != null %} {{ editor.coi-research-family }} (family){% endif %}"></i>{% endif %}
+        {% if editor.coi-investment-personal    != null or editor.coi-investment-family    != null %}<i class="fas fa-hand-holding-usd" data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.investment }}: {% if editor.coi-investment-personal != null %} {{ editor.coi-investment-personal }} (personal){% endif %}{% if editor.coi-investment-personal      != null and editor.coi-investment-family      != null %} / {% endif %}{% if editor.coi-investment-family != null %} {{ editor.coi-investment-family }} (family){% endif %}"></i>{% endif %}
+        {% if editor.coi-employee-personal      != null or editor.coi-employee-family      != null %}<i class="fas fa-address-card"     data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.employee }}: {% if editor.coi-employee-personal != null %} {{ editor.coi-employee-personal }} (personal){% endif %}{% if editor.coi-employee-personal      != null and editor.coi-employee-family      != null %} / {% endif %}{% if editor.coi-employee-family != null %} {{ editor.coi-employee-family }} (family){% endif %}"></i>{% endif %}
+        {% if editor.coi-expertwitness-personal != null or editor.coi-expertwitness-family != null %}<i class="fas fa-balance-scale"    data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.expert-witness }}: {% if editor.coi-expertwitness-personal != null %} {{ editor.coi-expertwitness-personal }} (personal){% endif %}{% if editor.coi-expertwitness-personal      != null and editor.coi-expertwitness-family      != null %} / {% endif %}{% if editor.coi-expertwitness-family != null %} {{ editor.coi-expertwitness-family }} (family){% endif %}"></i>{% endif %}
+        {% if editor.coi-speaker-personal       != null or editor.coi-speaker-family       != null %}<i class="fas fa-microphone-alt"   data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.speaker }}: {% if editor.coi-speaker-personal != null %} {{ editor.coi-speaker-personal }} (personal){% endif %}{% if editor.coi-speaker-personal      != null and editor.coi-speaker-family      != null %} / {% endif %}{% if editor.coi-speaker-family != null %} {{ editor.coi-speaker-family }} (family){% endif %}"></i>{% endif %}
+        {% if editor.coi-consultant-personal    != null or editor.coi-consultant-family    != null %}<i class="fas fa-ad"               data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.consultant-advisor }}: {% if editor.coi-consultant-personal != null %} {{ editor.coi-consultant-personal }} (personal){% endif %}{% if editor.coi-consultant-personal      != null and editor.coi-consultant-family      != null %} / {% endif %}{% if editor.coi-consultant-family != null %} {{ editor.coi-consultant-family }} (family){% endif %}"></i>{% endif %}
+        {% if editor.coi-owner-personal         != null or editor.coi-owner-family         != null %}<i class="fas fa-briefcase"        data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.ownership-interest-patent-royalties }}: {% if editor.coi-owner-personal != null %} {{ editor.coi-owner-personal }} (personal){% endif %}{% if editor.coi-owner-personal      != null and editor.coi-owner-family      != null %} / {% endif %}{% if editor.coi-owner-family != null %} {{ editor.coi-owner-family }} (family){% endif %}"></i>{% endif %}
+        {% if editor.coi-leadership-personal   != null or editor.coi-leadership-family   != null %}<i class="fas fa-building"         data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.leadership }}: {% if editor.coi-leadership-personal != null %} {{ editor.coi-leadership-personal }} (personal){% endif %}{% if editor.coi-leadership-personal      != null and editor.coi-leadership-family      != null %} / {% endif %}{% if editor.coi-leadership-family != null %} {{ editor.coi-leadership-family }} (family){% endif %}"></i>{% endif %}
+        {% if editor.coi-publishing-personal    != null or editor.coi-publishing-family    != null %}<i class="fas fa-upload"           data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.health-publishing }}: {% if editor.coi-publishing-personal != null %} {{ editor.coi-publishing-personal }} (personal){% endif %}{% if editor.coi-publishing-personal      != null and editor.coi-publishing-family      != null %} / {% endif %}{% if editor.coi-publishing-family != null %} {{ editor.coi-publishing-family }} (family){% endif %}"></i>{% endif %}
+        {% if editor.coi-other-personal         != null or editor.coi-other-family         != null %}<i class="fas fa-circle-notch"     data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.other }}: {% if editor.coi-other-personal != null %} {{ editor.coi-other-personal }} (personal){% endif %}{% if editor.coi-other-personal      != null and editor.coi-other-family      != null %} / {% endif %}{% if editor.coi-other-family != null %} {{ editor.coi-other-family }} (family){% endif %}"></i>{% endif %}
+      {% else %}
+    <i class="fas fa-minus-square secondary" data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.no-disclosures }}"></i>
+      {% endif %}
+    {% else %}
+    <i class="fas fa-question-circle danger" data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.not-filed }}!"></i>
+    {% endif %}</p>
+    <hr class="solid my-3 appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900" style="animation-delay: 900ms;">
+    <address>
+      {% if editor.title1 != null %}<em>{{ editor.title1 }}</em><br>{% endif %}
+      {% if editor.title2 != null %}<em>{{ editor.title2 }}</em><br>{% endif %}
+      {% if editor.title3 != null %}<em>{{ editor.title3 }}</em><br>{% endif %}
+      {% if editor.title4 != null %}<em>{{ editor.title4 }}</em><br>{% endif %}
+      {% if editor.institution1 != null and editor.institution1-website != null %}
+      <strong><a href="{{ editor.institution1-website }}">{{ editor.institution1 }}</a></strong><br>
+      {% elsif editor.institution1 != null and editor.institution1-website == null %}
+      <strong>{{ editor.institution1 }}</strong><br>
+      {% endif %}
+      {% if editor.institution2 != null and editor.institution2-website != null %}
+      <a href="{{ editor.institution2-website }}">{{ editor.institution2 }}</a><br>
+      {% elsif editor.institution2 != null and editor.institution2-website == null %}
+      {{ editor.institution2 }}<br>
+      {% endif %}
+      {% if editor.institution3 != null and editor.institution3-website != null %}
+      <a href="{{ editor.institution3-website }}">{{ editor.institution3 }}</a><br>
+      {% elsif editor.institution3 != null and editor.institution3-website == null %}
+      {{ editor.institution3 }}<br>
+      {% endif %}
+      {% if editor.city-state-country != null %}{{ editor.city-state-country }}{% endif %}
+    </address>
+  </div>
+</div>
+<div class="row">
+  <div class="col">
+    <hr class="solid my-5">
+  </div>
+</div>
+  {% endif %}
+{% endfor %}
