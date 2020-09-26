@@ -1,0 +1,23 @@
+# colors
+# Last updated 2020-09-25
+
+- 
+ color: "text-primary"
+
+- 
+ color: "text-secondary"
+
+-
+ color: "text-tertiary"
+
+-
+ color: "text-quaternary"
+
+-
+ color: "text-info"
+
+-
+ color: "text-dark"
+
+-
+ color: "text-muted"

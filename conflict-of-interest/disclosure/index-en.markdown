@@ -15,6 +15,7 @@ breadcrumbs:
     title: Disclosure
     permalink: /conflict-of-interest/disclosure/
 toc: false
+sitemap: false
 ---
 
 {% assign this_translation = site.data.translations | where: "language",site.active_lang | first %}

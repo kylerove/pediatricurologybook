@@ -1,0 +1,13 @@
+# Home - Highlights carousel
+# Last updated 2020-09-24
+
+-
+  language: en
+  entries:
+  -
+    head: "Dig into the new Pediatric Urology Book"
+    subhead: "All new content and contributors"
+    img: ""
+    icon: "fas fa-book"
+    button: "Read the book"
+    link: ""

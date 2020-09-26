@@ -33,6 +33,9 @@
     {%- if page.js != null -%}
     <script src="{{ site.url }}{{ site.baseurl }}{{ page.js }}"></script>
     {% endif %}
+    {%- if page.js2 != null -%}
+    <script src="{{ site.url }}{{ site.baseurl }}{{ page.js2 }}"></script>
+    {% endif %}
     
     <!-- Theme Custom -->
     <script src="{{ "/assets/js/custom.js" | relative_url }}"></script>

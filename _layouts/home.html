@@ -2,14 +2,9 @@
 layout: default
 ---
 
+    {% assign translation = site.data.translations | where: "language",site.active_lang | first %}    
     <div role="main" class="main">
-      <div id="content" class="content full">
-        <div class="container home">
-          <div class="row center">
-              
-            {{ content }}
-              
-          </div> <!-- /row -->
-        </div> <!-- /container -->
-      </div> <!-- /content -->
-    </div> <!-- /main -->
+        
+        {{ content }}
+        
+    </div>

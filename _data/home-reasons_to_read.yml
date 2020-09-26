@@ -1,0 +1,149 @@
+# Home - Reasons to read the book
+# Last updated 2020-09-25
+
+-
+  language: en
+  entries:
+  -
+    head: "International Authorship"
+    icon: "fas fa-globe-africa"
+    color: "text-primary"
+    body: "The [editors](/editors/) have sought to cultivate content from [contributors](/contributors/) with a diverse, international set of backgrounds providing relevance to a broad audience."
+  -
+    head: "Free, Open Access"
+    icon: "fas fa-laptop"
+    color: "text-secondary"
+    body: "We wanted to create a resource free of the constraints of traditional publishing models, one with the [contributors](/contributors/) in charge. No password required."
+  -
+    head: "Videos of Relevant Procedures"
+    icon: "fas fa-video"
+    color: "text-tertiary"
+    body: "We have embedded short videos of key procedures, demonstrating key principles and specific techniques."
+  -
+    head: "Regular Updates"
+    icon: "fas fa-sync-alt"
+    color: "text-quaternary"
+    body: "The traditional textbook is instantly out of date by the time it is published. We provide regular, frequent updates to keep you up to date with advances and changes in practice."
+  -
+    head: "Social Media"
+    icon: "fas fa-people-arrows"
+    color: "text-dark"
+    body: "Stay connected with editors and contributors who participate on various social media platforms. [Contributors’](/contributors/) social media handles are readily available so you can ask them your questions."
+  -
+    head: "Stay in the Loop"
+    icon: "fas fa-wifi"
+    color: "text-quaternary"
+    body: "Chapters are updated regularly with links to the latest research presented at society meetings like the [Societies for Pediatric Urology](https://spuonline.org), [American Urological Association](https://www.auanet.org), [British Association of Pediatric Urologists](https://www.bapu.org.uk) and [European Society for Paediatric Urology](https://www.espu.org/) and others. You can even [subscribe to book updates](/subscribe/) so you know when content is updated!"
+  -
+    head: "Not Just for Pediatric Urologists"
+    icon: "fas fa-users"
+    color: "text-secondary"
+    body: "Synopses are provided up front for pediatricians, patients, and families, so you have just what you need to know about your topic of interest."
+  -
+    head: "Code of Conduct"
+    icon: "fas fa-handshake"
+    color: "text-primary"
+    body: "Many areas of pediatric urology suffer from a startling lack of diversity, with dramatically low representation by women, people of color, and other marginalized populations. And [it’s not just a pipeline issue](https://www.academicsurgicalcongress.org/aas-2017-president-address-caprice-greenberg-md-mph/). We aim to be overtly transparent and foster an atmosphere of purposeful inclusion and understanding. Please see our [Code of Conduct](/code-of-conduct/) agreed to by all [editors](/editors/) and [contributors](/contributors/) alike."
+  -
+    head: "Transparent"
+    icon: "fas fa-sun"
+    color: "text-secondary"
+    body: "We require all our [contributors](/contributors/) and [editors](/editors/) to report any [conflicts of interest](/conflict-of-interest/)—to preserve freedom from bias. Readers can review our policies and review all disclosures."
+
+-
+  language: es
+  entries:
+  -
+    head: "Autoría internacional"
+    icon: "fas fa-globe-africa"
+    color: "text-primary"
+    body: "Los [editores](/editors/) han tratado de cultivar contenido de [colaboradores](/contributors/) con antecedentes diversos e internacionales que brinden relevancia para una amplia audiencia."
+  -
+    head: "Acceso libre y gratuito"
+    icon: "fas fa-laptop"
+    color: "text-secondary"
+    body: "Queríamos crear un recurso libre de las limitaciones de los modelos de publicación tradicionales, uno con los [contribuyentes](/contributors/) a cargo. No se requiere contraseña."
+  -
+    head: "Vídeos de procedimientos relevantes"
+    icon: "fas fa-video"
+    color: "text-tertiary"
+    body: "Hemos incorporado videos cortos de procedimientos clave, que demuestran principios clave y técnicas específicas."
+  -
+    head: "Actualizaciones regulares"
+    icon: "fas fa-sync-alt"
+    color: "text-quaternary"
+    body: "El libro de texto tradicional queda instantáneamente desactualizado cuando se publica. Proporcionamos actualizaciones periódicas y frecuentes para mantenerlo actualizado con los avances y cambios en la práctica."
+  -
+    head: "Redes sociales"
+    icon: "fas fa-people-arrows"
+    color: "text-dark"
+    body: "Manténgase conectado con los editores y colaboradores que participan en varias plataformas de redes sociales. Los identificadores de redes sociales de los [colaboradores](/contributors/) están disponibles para que pueda hacerles sus preguntas."
+  -
+    head: "Permanecer en el bucle"
+    icon: "fas fa-wifi"
+    color: "text-quaternary"
+    body: "Los capítulos se actualizan regularmente con enlaces a las últimas investigaciones presentadas en reuniones de la sociedad como las [Societies for Pediatric Urology](https://spuonline.org), [American Urological Association](https://www.auanet.org), [Asociación Británica de Urólogos Pediátricos](https://www.bapu.org.uk) y [Sociedad Europea de Urología Pediátrica](https://www.espu.org/) y otros. Incluso puedes [suscribirte a las actualizaciones de libros](/subscribe/) para saber cuándo se actualiza el contenido."
+  -
+    head: "No solo para urólogos pediátricos"
+    icon: "fas fa-users"
+    color: "text-secondary"
+    body: "Las sinopsis se proporcionan por adelantado para pediatras, pacientes y familias, para que tenga justo lo que necesita saber sobre su tema de interés."
+  -
+    head: "Código de Conducta"
+    icon: "fas fa-handshake"
+    color: "text-primary"
+    body: "Muchas áreas de la urología pediátrica adolecen de una sorprendente falta de diversidad, con una representación dramáticamente baja de mujeres, personas de color y otras poblaciones marginadas. Y [no es solo un problema de canalización](https://www.academicsurgicalcongress.org/aas-2017-president-address-caprice-greenberg-md-mph/). Nuestro objetivo es ser abiertamente transparentes y fomentar una atmósfera de inclusión y comprensión decididas. Consulte nuestro [código de conducta](/code-of-conduct/) acordado por todos los [editores] (/editors/) y [contribuyentes](/contributors/) por igual."
+  -
+    head: "Transparente"
+    icon: "fas fa-sun"
+    color: "text-secondary"
+    body: "Requerimos que todos nuestros [contribuyentes](/contributors/) y [editores](/editors/) informar cualquier [conflicto de intereses](/conflict-of-interest/)—para preservar la ausencia de prejuicios. Los lectores pueden revisar nuestras políticas y revisar todas las divulgaciones."
+    
+-
+  language: zh
+  entries:
+  -
+    head: "国际作者"
+    icon: "fas fa-globe-africa"
+    color: "text-primary"
+    body: "[编辑](/editors/)试图从具有广泛国际背景的[贡献者](/contributors/)中培养内容，从而与广大受众相关。"
+  -
+    head: "免费开放"
+    icon: "fas fa-laptop"
+    color: "text-secondary"
+    body: "我们希望创建一种不受传统发布模型约束的资源，由[贡献者](/contributors/)负责。 无需密码。"
+  -
+    head: "有关程序的视频"
+    icon: "fas fa-video"
+    color: "text-tertiary"
+    body: "我们嵌入了有关关键程序的简短视频，演示了关键原理和特定技术。"
+  -
+    head: "定期更新"
+    icon: "fas fa-sync-alt"
+    color: "text-quaternary"
+    body: "传统教科书出版之时马上就过时了。 我们提供定期，频繁的更新，以使您及时了解最新的实践和变化。"
+  -
+    head: "社交媒体"
+    icon: "fas fa-people-arrows"
+    color: "text-dark"
+    body: "与参与各种社交媒体平台的编辑和撰稿人保持联系。 [贡献者](/contributors/)社交媒体句柄随时可用，因此您可以向他们提问。"
+  -
+    head: "保持循环"
+    icon: "fas fa-wifi"
+    color: "text-quaternary"
+    body: "这些章节会定期更新，并链接到在[小儿泌尿外科学会](https://spuonline.org)，[美国泌尿科协会](https://www.auanet.org)，[英国小儿泌尿科医师协会](https://www.bapu.org.uk)和[欧洲小儿泌尿科学会](https://www.espu.org/)等社会会议上发表的最新研究的链接。 您甚至可以[订阅书籍更新](/subscribe/)，以便知道何时更新内容！"
+  -
+    head: "不只是儿科泌尿科医师"
+    icon: "fas fa-users"
+    color: "text-secondary"
+    body: "为儿科医生，患者和家庭提供了摘要，因此您只需要了解感兴趣的主题。"
+  -
+    head: "行为守则"
+    icon: "fas fa-handshake"
+    color: "text-primary"
+    body: "儿科泌尿外科的许多领域都令人吃惊地缺乏多样性，妇女，有色人种和其他边缘化人群所占比例显着降低。 而且[不仅仅是管道问题](https://www.academicsurgicalcongress.org/aas-2017-president-address-caprice-greenberg-md-mph/)。 我们的目标是公开透明，营造有目的的包容和理解的气氛。 请参阅所有[编辑](/editors/)和[贡献者](/contributors/)同意的[行为准则](/code-of-conduct/)。"
+  -
+    head: "透明"
+    icon: "fas fa-sun"
+    color: "text-secondary"
+    body: "我们要求所有[贡献者](/contributors/)和[编辑者](/editors/)报告任何[利益冲突](/conflict-of-interest/)，以维护免受偏见的自由。 读者可以查看我们的政策并查看所有披露。"

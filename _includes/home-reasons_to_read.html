@@ -1,0 +1,10 @@
+{% assign reasons = include.reasons %}
+<section class="section section-height-3 bg-light border border-bottom-0 m-0" style="background-image: url(/assets/img/patterns/tiling.png); background-repeat: repeat;">
+	<div class="container">
+		<div class="row featured-boxes featured-boxes-style-4">
+			{% for the_reason in reasons.entries %}
+			  {% include home-reason_to_read.html reason=the_reason %}
+			{% endfor %}
+		</div>
+	</div>
+</section>

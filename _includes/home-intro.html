@@ -1,0 +1,30 @@
+{% assign intro = include.intro %}
+<div class="container py-3 my-5">
+								
+									<div class="row text-center pt-3">
+										<div class="col-md-10 mx-md-auto">
+											<h1 class="word-rotator slide font-weight-bold text-8 mb-3 appear-animation" data-appear-animation="fadeInUpShorter">
+												<span>{{ intro.head }}</span>
+												<span class="word-rotator-words bg-tertiary">
+												{% for word in intro.words %}
+													{% if word == intro.words[0] %}
+													    <b class="is-visible">{{ word }}</b>
+													{% else %}
+													    <b>{{ word }}</b>
+													{% endif %}
+												{% endfor %}
+												</span>
+												<span>.</span>
+											</h1>
+											<p class="lead appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="300">
+												{{ intro.subhead | markdownify }}
+											</p>
+											<p class="lead appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="300">
+												{{ intro.body | markdownify }}
+											</p>
+											
+											<a href="/book/" class="btn btn-tertiary btn-lg text-4 font-weight-semibold px-4 py-3" title="{{ intro.link-title }}">{{ intro.link-text }}</a>
+										</div>
+									</div>
+								
+								</div>
