@@ -3,15 +3,15 @@
 
 - 
   sponsor: "Yale University"
-  logo: /assets/site-img/yale-university-logo.svg
-  url: https://www.yale.edu
+  logo: /assets/site-img/yale-university-logo-black.svg
+  url: https://www.yale.edu/
 
 - 
   sponsor: "Children’s Hospital Colorado"
-  logo: /assets/site-img/childrens-hospital-colorado-logo.svg
-  url: https://www.childrenshospitalcolorado.org
-  
+  logo: /assets/site-img/childrens-hospital-colorado-logo-black.svg
+  url: https://www.childrenshospitalcolorado.org/
+
 - 
   sponsor: "The University of Chicago Medical Center"
-  logo: /assets/site-img/university-of-chicago-logo.svg
-  url: https://www.uchicago.edu
+  logo: /assets/site-img/university-of-chicago-logo-black.svg
+  url: https://www.uchicago.edu/

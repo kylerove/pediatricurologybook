@@ -15,7 +15,7 @@
   body: "Finding timely, accurate and concise information is tough. This text is edited and written by pediatric urologists to keep you informed and up to date. Best of all, access is free without paywalls or publishing fees. All [editors](/editors/) and [contributors](/contributors/) have agreed to our [code of conduct](/code-of-conduct/) and provide [conflict of interest](/conflict-of-interest/) disclosures to ensure complete transparency and maintain."
   link-text: "Read the Book"
   link-title: "Table of Contents"
-  
+
 -
   language: "es"
   head: "El conocimiento debe ser"
@@ -30,18 +30,18 @@
   body: "Encontrar información oportuna, precisa y concisa es difícil. Este texto es editado y escrito por urólogos pediátricos para mantenerlo informado y actualizado. Lo mejor de todo es que el acceso es gratuito sin muros de pago ni tarifas de publicación. Todos los [editores] (/editors/) y [contribuyentes] (/contributors/) han aceptado nuestro [código de conducta] (/code-of-conduct/) y proporcionan [conflicto de intereses] (/conflict-of-interest/) divulgaciones para garantizar la total transparencia y mantener."
   link-text: "Leer el libro"
   link-title: "Tabla de contenido"
-    
-  -
-    language: "zh"
-    head: "知识应该"
-    words:
-    - "共享"
-    - "及时"
-    - "是免费的"
-    - "是基础"
-    - "向往"
-    head2: "。"
-    subhead: "这本免费的在线儿科泌尿外科杂志（2.0版）提供了经常更新的主题，例如肾积水的治疗，尿道下裂的技术，泌尿道感染的方法，有关肠和膀胱功能障碍的信息，神经源性膀胱，儿科泌尿外科肿瘤学等等。"
-    body: "及时，准确和简明的信息很难找到。 这篇文章是由儿科泌尿科医师编辑和撰写的，以使您随时了解最新信息。 最重要的是，访问是免费的，无需付费或发布费用。 所有[编辑](/editors/) 和[贡献者](/contributors/）都同意我们的[行为准则](/code-of-conduct/）并提供[利益冲突（/conflict-of-interest/）披露以确保完全透明并保持。"
-    link-text: "读了这本书"
-    link-title: "目录"
+
+-
+  language: "zh"
+  head: "知识应该"
+  words:
+  - "共享"
+  - "及时"
+  - "是免费的"
+  - "是基础"
+  - "向往"
+  head2: "。"
+  subhead: "这本免费的在线儿科泌尿外科杂志（2.0版）提供了经常更新的主题，例如肾积水的治疗，尿道下裂的技术，泌尿道感染的方法，有关肠和膀胱功能障碍的信息，神经源性膀胱，儿科泌尿外科肿瘤学等等。"
+  body: "及时，准确和简明的信息很难找到。 这篇文章是由儿科泌尿科医师编辑和撰写的，以使您随时了解最新信息。 最重要的是，访问是免费的，无需付费或发布费用。 所有[编辑](/editors/) 和[贡献者](/contributors/）都同意我们的[行为准则](/code-of-conduct/）并提供[利益冲突（/conflict-of-interest/）披露以确保完全透明并保持。"
+  link-text: "读了这本书"
+  link-title: "目录"
