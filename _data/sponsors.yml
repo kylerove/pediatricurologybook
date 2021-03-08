@@ -2,16 +2,25 @@
 # Last updated 2020-07-05
 
 - 
-  sponsor: "Yale University"
-  logo: /assets/site-img/yale-university-logo-black.svg
-  url: https://www.yale.edu/
+  name: "Yale University School of Medicine"
+  location: "New Haven, Connecticut, USA"
+  logo: /assets/site-img/yale-university-logo-black-small.svg
+  height: 90
+  url: https://medicine.yale.edu/
+  description-en: "Yale School of Medicine educates and nurtures creative leaders in medicine and science, promoting curiosity and critical inquiry in an inclusive environment enriched by diversity. We advance discovery and innovation fostered by partnerships across the University, our local community, and the world. We care for patients with compassion, and commit to improving the health of all people. The school was established in 1810 as the Medical Institution of Yale College. The current name, Yale School of Medicine, was adopted in 1918."
 
 - 
-  sponsor: "Children’s Hospital Colorado"
-  logo: /assets/site-img/childrens-hospital-colorado-logo-black.svg
-  url: https://www.childrenshospitalcolorado.org/
+  name: "Children’s Hospital Colorado"
+  location: "Aurora, Colorado, USA"
+  logo: /assets/site-img/childrens-hospital-colorado-logo-centered-black.svg
+  height: 130
+  url: https://www.childrenscolorado.org/
+  description-en: "Children’s Colorado is a leading pediatric network 100% dedicated to the health and well-being of children, adolescents and young adults. Consistently acknowledged as one of the nation’s top 10 pediatric hospitals by U.S. News & World Report, Children’s Colorado is recognized nationally and internationally for its medical, research, education and advocacy programs. It is at the forefront of research in childhood disease and pioneering treatments that are shaping the future of pediatrics, as well as offering everyday care for kids throughout Colorado and surrounding states. Founded in 1908, Children’s Colorado offers a full spectrum of family-centered care at its urgent, emergency and specialty care locations throughout Denver Metro and Southern Colorado, including its location on the Anschutz Medical Campus."
 
 - 
-  sponsor: "The University of Chicago Medical Center"
+  name: "The University of Chicago Medicine"
+  location: "Chicago, Illinois, USA"
   logo: /assets/site-img/university-of-chicago-logo-black.svg
-  url: https://www.uchicago.edu/
+  height: 70
+  url: https://www.uchicagomedicine.org/
+  description-en: "The University of Chicago Medicine, with a history dating to 1927, is a not-for-profit academic medical health system based on the campus of the University of Chicago in Hyde Park, and with hospitals, outpatient clinics and physician practices throughout Chicago and its suburbs. UChicago Medicine unites five organizations to fulfill its tripartite mission of medical education, research and patient care: Pritzker School of Medicine, Biological Sciences Division, Medical Center, Community Health and Hospital Division, and UChicago Medicine Physicians."

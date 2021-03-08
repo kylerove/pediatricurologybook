@@ -1,0 +1,29 @@
+---
+layout: null
+lang: en
+---
+[
+  {% assign pages = site.chapters | concat: site.pages %}
+  {% for page in pages %}
+    {% if page.lang != site.active_lang %}{% continue %}{% endif %}
+    {% if page.title == null %}{% continue %}{% endif %}
+
+    {% case page.permalink %}
+        {% when "/403.html" %}{% continue %}
+        {% when "/404.html" %}{% continue %}
+        {% when "/500.html" %}{% continue %}
+        {% when "/502.html" %}{% continue %}
+        {% when "/503.html" %}{% continue %}
+        {% when "/504.html" %}{% continue %}
+    {% endcase %}
+
+    {
+      "title"    : "{{ page.title | escape }}",
+      "category" : "{{ page.category }}",
+      "tags"     : "{{ page.tags | join: ', ' }}",
+      "url"      : "{% if site.active_lang != 'en' %}/{{ site.active_lang }}{% endif %}{{ page.permalink }}",
+      "date"     : "{{ page.date }}"
+    },
+  {% endfor %}
+  {}
+]

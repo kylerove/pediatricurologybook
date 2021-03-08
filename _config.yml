@@ -4,7 +4,7 @@ email: editors@pediatricurologybook.com
 tagline: A free online book of Pediatric Urology
 description: This free, online book of Pediatric Urology, Edition 2.0, features frequently-updated topics such as management of hydronephrosis, hypospadias techniques, approaches to urinary tract infection, information about bowel and bladder dysfunction, neurogenic bladder, pediatric urologic oncology, and much more.
 baseurl: ""
-url: "https://pediatricurologybook.com"
+url: "http://198.199.110.151"
 twitter_username: pediatricurologybook
 github_username: kylerove/pediatricurologybook
 facebook_username: pediatricurologybook
@@ -57,9 +57,14 @@ defaults:
       path:            "assets/fonts/*"
     values:
       sitemap:         false
+  -
+    scope:
+      path:            "_r/*"
+    values:
+      sitemap:         false
 
 # Language / Polyglot settings
-languages: ["en","es","zh"]
+languages: ["en","es","zh","pt"]
 default_lang: "en"
 languages-captions: 
   - 
@@ -74,13 +79,18 @@ languages-captions:
     caption: 简体中文
     language: zh
     icon: fa-globe-asia
-exclude_from_localization: ["_config.yml", "assets", "_layouts", "_includes", "_data", "_references", "_plugin", "README.md", "LICENSE"]
+  - 
+    caption: Português
+    language: pt
+    icon: fa-globe-europe
+exclude_from_localization: ["_r", "_config.yml", "assets", "_layouts", "_includes", "_data", "_references", "_plugin", "README.md", "LICENSE"]
 parallel_localization: false
 
 # Chapters
 collections:
   chapters:
     output: true
+    sort_by: number
     permalink: /book/chapters/:title/
 
 # Jekyll Spaceship
@@ -126,6 +136,7 @@ exclude:
    - .ruby-version
    - .sass-cache/
    - gemfiles/
+   - _r/
    - Gemfile
    - Gemfile.lock
    - LICENSE

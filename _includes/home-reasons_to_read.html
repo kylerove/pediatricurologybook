@@ -1,7 +1,12 @@
-{% assign reasons = include.reasons | sample: 8 %}
-<section class="section section-height-3 bg-light border border-bottom-0 m-0" style="background-image: url(/assets/img/patterns/tiling.png); background-repeat: repeat;">
+{% assign reasons = include.reasons | sample: 9 %}
+<section class="section section-height-5 bg-primary border-0 pt-5 m-0 appear-animation" data-appear-animation="fadeIn">
 	<div class="container">
-		<div class="row featured-boxes featured-boxes-style-4">
+		<div class="row">
+			<div class="col-lg-12 text-center appear-animation" data-appear-animation="fadeInUpShorter">
+				<h1 class="font-weight-normal text-6 mb-5"><strong class="font-weight-extra-bold">{{ translation.reasons }}</strong> {{ translation.to-read }}</h1>
+			</div>
+		</div>
+		<div class="row mt-4 mt-lg-5">
 			{% for the_reason in reasons.entries %}
 			  {% include home-reason_to_read.html reason=the_reason %}
 			{% endfor %}

@@ -1,0 +1,42 @@
+{% assign contributor = include.contributor %}
+<li id="{{ contributor.last | append: "-" | append: contributor.first | append: "-" | append: contributor.middle | slugify: "latin" }}">
+    <div class="post-info">
+        <a href="#">{{ contributor.first }} {{ contributor.middle }} {{ contributor.last }}{% if contributor.deg1 != null %}, {{ contributor.deg1 }}{% endif %}{% if contributor.deg2 != null %}, {{ contributor.deg2 }}{% endif %}{% if contributor.deg3 != null %}, {{ contributor.deg3 }}{% endif %}{% if contributor.deg4 != null %}, {{ contributor.deg4 }}{% endif %}{% if contributor.deg5 != null %}, {{ contributor.deg5 }}{% endif %}{% if contributor.deg6 != null %}, {{ contributor.deg6 }}{% endif %}{% if contributor.deg7 != null %}, {{ contributor.deg7 }}{% endif %}</a>
+        <div class="post-meta">
+            <ul class="thumb-info-social-icons mb-3">
+                  {% if contributor.website != null %}<li class="social-icons-website"><a href="{{ contributor.website }}" target="_blank" title="Website"><i class="fas fa-link"></i></a></li>{% endif %}
+                  {% if contributor.email != null %}<li class="social-icons-email"><a href="mailto:{{ contributor.email }}" target="_blank" title="Email"><i class="fas fa-envelope"></i></a></li>{% endif %}
+                  {% if contributor.linkedin != null %}<li class="social-icons-linkedin"><a href="{{ contributor.linkedin }}" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a></li>{% endif %}
+                  {% if contributor.twitter != null %}<li class="social-icons-twitter"><a href="{{ contributor.twitter }}" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a></li>{% endif %}
+                  {% if contributor.facebook != null %}<li class="social-icons-facebook"><a href="{{ contributor.facebook }}" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>{% endif %}
+                  {% if contributor.youtube != null %}<li class="social-icons-youtube"><a href="{{ contributor.youtube }}" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a></li>{% endif %}
+                  {% if contributor.vimeo != null %}<li class="social-icons-vimeo"><a href="{{ contributor.vimeo }}" target="_blank" title="Vimeo"><i class="fab fa-vimeo"></i></a></li>{% endif %}
+                  {% if contributor.tiktok != null %}<li class="social-icons-tiktok"><a href="{{ contributor.tiktok }}" target="_blank" title="Tiktok"><i class="fab fa-tiktok"></i></a></li>{% endif %}
+                  {% if contributor.whatsapp != null %}<li class="social-icons-whatsapp"><a href="{{ contributor.whatsapp }}" target="_blank" title="WhatsApp"><i class="fab fa-whatsapp"></i></a></li>{% endif %}
+                  {% if contributor.instagram != null %}<li class="social-icons-instagram"><a href="{{ contributor.instagram }}" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a></li>{% endif %}
+                  {% if contributor.doximity != null %}<li class="social-icons-doximity"><a href="{{ contributor.doximity }}" target="_blank" title="Doximity"><i class="ai2 ai-doximity"></i></a></li>{% endif %}
+                  {% if contributor.researchgate != null %}<li class="social-icons-researchgate"><a href="{{ contributor.researchgate }}" target="_blank" title="ResearchGate"><i class="ai2 ai-researchgate"></i></a></li>{% endif %}
+                  {% if contributor.orcid != null %}<li class="social-icons-orcid"><a href="{{ contributor.orcid }}" target="_blank" title="ResearchGate"><i class="ai2 ai-orcid"></i></a></li>{% endif %}
+                  {% if contributor.pubmed != null %}<li class="social-icons-pubmed"><a href="{{ contributor.pubmed }}" target="_blank" title="PubMed"><i class="ai2 ai-pubmed"></i></a></li>{% endif %}
+            </ul>
+            <address>
+                {% if contributor.institution1 != null and contributor.institution1-website != null %}
+                <strong><a href="{{ contributor.institution1-website }}">{{ contributor.institution1 }}</a></strong>
+                {% elsif contributor.institution1 != null and contributor.institution1-website == null %}
+                <strong>{{ contributor.institution1 }}</strong>
+                {% endif %}
+                {% if contributor.institution2 != null and contributor.institution2-website != null %}
+                | <a href="{{ contributor.institution2-website }}">{{ contributor.institution2 }}</a>
+                {% elsif contributor.institution2 != null and contributor.institution2-website == null %}
+                | {{ contributor.institution2 }} 
+                {% endif %}
+                {% if contributor.institution3 != null and contributor.institution3-website != null %}
+                | <a href="{{ contributor.institution3-website }}">{{ contributor.institution3 }}</a>
+                {% elsif contributor.institution3 != null and contributor.institution3-website == null %}
+                | {{ contributor.institution3 }} 
+                {% endif %}
+                {% if contributor.city-state-country != null %}<br>{{ contributor.city-state-country }}{% endif %}
+            </address>
+        </div>
+    </div>
+</li>

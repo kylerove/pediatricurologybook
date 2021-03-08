@@ -1,0 +1,31 @@
+# About Us - Timeline elements
+# Last updated 2021-03-06
+
+-
+  language: en
+  elements:
+  -
+    date: 2022
+    head: "Book translated in multiple languages"
+    body: "[Pediatric Urology Book](/) is successfully translated into Spanish, Portuguese, and Chinese."
+    side: "left"
+  -
+    date: 2021
+    head: "Version 2.0 is published"
+    body: "A new edition of [Pediatric Urology Book](/) is completed and published on the website complete with brand new design and new multimedia content."
+    side: "right"
+  -
+    date: 2020
+    head: "New editors selected"
+    body: "The original edition editors decide it is time for new ideas and energy to take [Pediatric Urology Book](/) to the next level. They pass on book editing to [Arlen](editors/#arlen-angela-m), [Gundeti](/editors/#gundeti-mohan-s), [López](/editors/#lopez-pedro-jose), and [Rove](/editors/#rove-kyle-o)."
+    side: "left"
+  -
+    date: 2011
+    head: "Version 1.0 is published"
+    body: "The first edition of [Pediatric Urology Book](/) is published online." 
+    side: "right"
+  -
+    date: 2009
+    head: "Where it all began"
+    body: "[Cooper](/editors/#cooper-christopher-s), [Godbole](/editors/#godbole-prasad-p), & [Wilcox](/editors/#wilcox-duncan-t) hatch the idea for [Pediatric Urology Book](/) with the idea of using the open web to serve up pediatric urology content for free." 
+    side: "left"

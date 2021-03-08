@@ -276,14 +276,11 @@ var CoiDisclosure = function() {
             // initialize vars
             var Status, Name, Email, CoiYesNo, CoiResearchPersonal, CoiResearchFamily, CoiInvestmentPersonal, CoiInvestmentFamily, CoiEmploymentPersonal, CoiEmploymentFamily, CoiExpertwitnessPersonal, CoiExpertwitnessFamily, CoiSpeakerPersonal, CoiSpeakerFamily, CoiConsultantPersonal, CoiConsultantFamily, CoiOwnerPersonal, CoiOwnerFamily, CoiLeadershipPersonal, CoiLeadershipFamily, CoiPublishingPersonal, CoiPublishingFamily, CoiOtherPersonal, CoiOtherFamily, buttonVal;
 
-                console.log("here")
             // validate
             $('.conflict-of-interest-disclosure-form').validate();
             
-                console.log("i'm here")
             // if valid, then continue, else, stop
             if ($('.conflict-of-interest-disclosure-form').valid()) {
-                console.log("valid")
                 // start spinner
                 buttonVal = $("button#check-disclosure").html();
                 $("button#check-disclosure").html("<i class=\"fas fa-spinner fa-spin\"></i>");

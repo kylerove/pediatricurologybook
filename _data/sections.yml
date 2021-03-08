@@ -1,0 +1,21 @@
+# Sections
+# Last updated 2021-03-06
+
+-
+  language: en
+  sections:
+  -
+    name: "Basics of Pediatric Urology"
+    number: 1
+    section-editor: Arlen
+    chapters: [1,2,3,4,5,6,7,8]
+  -
+    name: "The Kidney"
+    number: 2
+    section-editor: Rove
+    chapters: [9,10,11,12,13,14,15,16]
+  -
+    name: "The Ureter and Bladder"
+    number: 3
+    section-editor: Gundeti
+    chapters: [17,18,19,20]

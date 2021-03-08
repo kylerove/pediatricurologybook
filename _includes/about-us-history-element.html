@@ -1,0 +1,12 @@
+{% assign element = include.element %}
+<div class="timeline-date">
+										<h3 class="text-primary font-weight-bold">{{ element.date }}</h3>
+									</div>
+
+									<article class="timeline-box {{ element.side }} text-{% if element.side == "right" %}left{% else %}right{% endif %} appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="200">
+										<div class="timeline-box-arrow"></div>
+										<div class="p-2">
+											<h3 class="font-weight-bold text-3 mt-3 mb-1">{{ element.head }}</h3>
+											<p class="mb-0 text-2">{{ element.body | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+										</div>
+									</article>

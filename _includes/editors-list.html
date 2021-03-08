@@ -35,6 +35,8 @@
       {{ editor.bio-sp | markdownify }}
     {% elsif site.active_lang == "zh" and editor.bio-zh != null  %}
       {{ editor.bio-zh | markdownify }}
+    {% elsif site.active_lang == "pt" and editor.bio-pt != null  %}
+      {{ editor.bio-pt | markdownify }}
     {% elsif editor.bio-en != null %}
       {{ editor.bio-en | markdownify }}
     {% endif %}

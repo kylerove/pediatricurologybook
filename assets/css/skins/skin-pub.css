@@ -838,14 +838,14 @@ html .show > .btn-primary-scale-2.dropdown-toggle {
 html .btn-secondary {
 	background-color: #ffc300;
 	border-color: #ffc300 #ffc300 #cc9c00;
-	color: #777;
+	color: #fff;
 }
 
 html .btn-secondary:hover,
 html .btn-secondary.hover {
 	background-color: #ffcc26;
 	border-color: #ffcf33 #ffcf33 #ffc300;
-	color: #777;
+	color: #fff;
 }
 
 html .btn-secondary:focus,
@@ -869,14 +869,14 @@ html .btn-secondary.active {
 html .btn-secondary-scale-2 {
 	background-color: #cc9c00;
 	border-color: #cc9c00 #cc9c00 #997500;
-	color: #777;
+	color: #fff;
 }
 
 html .btn-secondary-scale-2:hover,
 html .btn-secondary-scale-2.hover {
 	background-color: #f2b900;
 	border-color: #ffc300 #ffc300 #cc9c00;
-	color: #777;
+	color: #fff;
 }
 
 html .btn-secondary-scale-2:focus,
@@ -907,14 +907,14 @@ html .show > .btn-secondary-scale-2.dropdown-toggle {
 html .btn-tertiary {
 	background-color: #00daff;
 	border-color: #00daff #00daff #00aecc;
-	color: #777;
+	color: #fff;
 }
 
 html .btn-tertiary:hover,
 html .btn-tertiary.hover {
 	background-color: #26e0ff;
 	border-color: #33e1ff #33e1ff #00daff;
-	color: #777;
+	color: #fff;
 }
 
 html .btn-tertiary:focus,
@@ -938,14 +938,14 @@ html .btn-tertiary.active {
 html .btn-tertiary-scale-2 {
 	background-color: #00aecc;
 	border-color: #00aecc #00aecc #008399;
-	color: #777;
+	color: #fff;
 }
 
 html .btn-tertiary-scale-2:hover,
 html .btn-tertiary-scale-2.hover {
 	background-color: #00cff2;
 	border-color: #00daff #00daff #00aecc;
-	color: #777;
+	color: #fff;
 }
 
 html .btn-tertiary-scale-2:focus,

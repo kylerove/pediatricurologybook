@@ -1,0 +1,9 @@
+{% assign contributors = include.contributors %}
+<ul class="simple-post-list m-0">
+            {% for the_contributor in contributors %}
+                {% include contributors-list-item.html contributor=the_contributor %}
+            {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>

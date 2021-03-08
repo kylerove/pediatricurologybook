@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+    {% assign translation = site.data.translations | where: "language",site.active_lang | first %}
+    <div role="main" class="main">
+      <section class="page-header page-header-modern bg-color-primary page-header-md">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-8 order-2 order-md-1 align-self-center p-static">
+              <h1 class=""><strong>{{ translation.search }}</strong></h1>
+            </div>
+            
+            <div class="col-md-4 order-1 order-md-2 align-self-center">
+              <ul class="breadcrumb d-block text-md-right breadcrumb-light">
+              {% for breadcrumb in page.breadcrumbs %}
+                {% if breadcrumb.permalink == page.url %}
+                <li class="active">{{ breadcrumb.title }}</li>
+                {% else %}
+                <li><a href="{{ site.url }}{{ site.baseurl }}{{ breadcrumb.permalink }}">{{ breadcrumb.title }}</a></li>
+                {% endif %}
+              {% endfor %}
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <div class="container about-us py-2">
+        <div class="row">
+          <div class="col">
+                
+            {{ content }}
+                        
+          </div> <!-- /col -->
+        </div> <!-- /row -->
+      </div> <!-- /container -->
+    </div> <!-- /main -->
+    

@@ -96,6 +96,28 @@
   email: Email
   social-media: Social Media
   next-step: Next step
+  unexpected-error: UNEXPECTED ERROR
+  unexpected-error-occurred: An unexpected error has occurred. Please contact the site administrator if this persists!
+  error-go-home: GO BACK TO HOME PAGE
+  page-not-found: Page not found :(
+  requested-page-not-found: The requested page could not be found.
+  learn-more: Learn more
+  learn-more-about-our-sponsors: Learn more about our sponsors
+  our: Our
+  who: Who
+  we-are: We Are
+  reasons: Reasons
+  to-read: To Read
+  home-about-us-lead: We are practicing pediatric urologists, joined by spectacular medical and surgical specialists seeking to further enhance our field by giving back to the community with this rich, educational resource.
+  home-about-us-more: This book’s latest iteration stands on the shoulders of the previous editors’ grit and vision.
+  history: History
+  history-head: For the sake of posterity, pieced together in bits and pieces, this is how it all came to be.
+  sponsor: Sponsor
+  forbidden: Forbidden
+  nice-try: Nice try! The server denied access to the page or resource you were trying to access.
+  search: Search
+  disclaimer: Disclaimer
+  section: Section
 - 
   language: es
   about-us: Sobre Nosotros

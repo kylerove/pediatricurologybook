@@ -1,48 +1,23 @@
-<li class="slide-overlay slide-overlay-level-7" data-transition="fade">
-								<img src="{{ include.highlight.img }}"  
-									alt=""
-									data-bgposition="center center" 
-									data-bgfit="cover" 
-									data-bgrepeat="no-repeat" 
-									class="rev-slidebg">
-
-								<div class="tp-caption overlay d-none d-sm-block overlay-show overlay-color-tertiary overlay-op-9"
-									data-frames='[{"delay":1000,"speed":1000,"from":"opacity:0;x:0;","to":"o:1;x:0;","ease":"Power1.easeIn"},{"delay":"wait","speed":500,"to":"opacity:0;fb:0;","ease":"Power1.easeIn"}]'
-									data-x="right"
-									data-y="bottom"
-									data-height="385"
-									data-width="84%"
-									data-basealign="slide"></div>
-									
-								<h1 class="tp-caption font-weight-extra-bold text-color-dark line ws-normal"
-									data-frames='[{"delay":2000,"speed":900,"frame":"0","from":"opacity:0;x:50%;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
-									data-x="['right','right','right','center']" data-hoffset="['173','173','173','0']"
-									data-y="['bottom','bottom','bottom','middle']" data-voffset="['200','200','200','0']"
-									data-width="['350','350','350','750']"
-									data-fontsize="['39','39','39','75']"
-									data-lineheight="['47','47','47','85']"
-									data-textAlign="['left','left','left','center']">{{ include.highlight.head }}</h1>
-
-
-								<div class="tp-caption font-weight-light text-color-dark opacity-7 ws-normal"
-									data-frames='[{"from":"opacity:0;","speed":300,"to":"o:1;","delay":2300,"split":"chars","splitdelay":0.05,"ease":"Power2.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
-									data-x="['right','right','right','center']" data-x="right" data-hoffset="['18','18','18','0']"
-									data-y="['bottom','bottom','bottom','middle']" data-voffset="['160','160','160','125']"
-									data-width="['500','500','500','800']"
-									data-fontsize="['15','15','15','35']"
-									data-lineheight="['26','26','26','26']"
-									data-textAlign="['left','left','left','center']">{{ include.highlight.subhead }}</div>
-
-								<a class="tp-caption d-inline-flex align-items-center btn btn-light font-weight-semibold"
-									href="{{ include.highlight.link }}"
-									data-frames='[{"delay":3000,"speed":2000,"frame":"0","from":"y:-20%;opacity:0;","to":"y:0;o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
-									data-x="['right','right','right','center']" data-hoffset="['320','320','320','0']"
-									data-y="['bottom','bottom','bottom','middle']" data-voffset="['98','98','98','253']"
-									data-paddingtop="['10','10','10','24']"
-									data-paddingbottom="['10','10','10','24']"
-									data-paddingleft="['40','40','40','40']"
-									data-paddingright="['40','40','40','40']"
-									data-fontsize="['11','11','11','25']"
-									data-lineheight="['20','20','20','22']">{% icon fas fas-book %} {{ include.highlight.button }}</a>
-
-							</li>
+<!-- Carousel Slide -->
+							<div class="owl-item position-relative overlay overlay-show overlay-op-7" data-dynamic-height="['650px','650px','650px','550px','500px']" style="background-image: url({{ site.url }}{{ site.baseurl }}{{ include.highlight.img }}); background-size: cover; background-position: {{ include.highlight.bg-position }};">
+								<div class="container position-relative z-index-3 h-100">
+									<div class="row justify-content-center align-items-center h-100">
+										<div class="col-lg-7 text-center">
+											<div class="d-flex flex-column align-items-center justify-content-center h-100">
+												<h3 class="position-relative text-color-light text-5 line-height-5 font-weight-medium ls-0 px-4 mb-2 appear-animation" data-appear-animation="fadeInDownShorterPlus" data-plugin-options="{'minWindowWidth': 0}">
+													<span class="position-absolute right-100pct top-50pct transform3dy-n50 opacity-7">
+														<img src="{{ site.url }}{{ site.baseurl }}/assets/img/slides/slide-title-border-light.png" class="w-auto appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="250" data-plugin-options="{'minWindowWidth': 0}" alt="" />
+													</span>
+													{{ include.highlight.banner }}
+													<span class="position-absolute left-100pct top-50pct transform3dy-n50 opacity-7">
+														<img src="{{ site.url }}{{ site.baseurl }}/assets/img/slides/slide-title-border-light.png" class="w-auto appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="250" data-plugin-options="{'minWindowWidth': 0}" alt="" />
+													</span>
+												</h3>
+												<h1 class="text-color-light font-weight-extra-bold text-12-5 line-height-1 line-height-sm-3 mb-2 appear-animation" data-appear-animation="blurIn" data-appear-animation-delay="500" data-plugin-options="{'minWindowWidth': 0}">{{ include.highlight.head }}</h1>
+												<p class="text-4-5 text-color-light font-weight-light opacity-7 text-center mb-5" data-plugin-animated-letters data-plugin-options="{'startDelay': 1000, 'minWindowWidth': 0, 'animationSpeed': 30}">{{ include.highlight.subhead }}</p>
+												<a href="{{ site.url }}{{ site.baseurl }}{{ include.highlight.link }}" class="btn btn-light btn-outline text-color-light text-color-hover-dark font-weight-bold text-3 btn-px-5 py-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1800" data-plugin-options="{'minWindowWidth': 0}"><i class="{{ include.highlight.icon }} mr-2"></i> {{ include.highlight.button }}</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>

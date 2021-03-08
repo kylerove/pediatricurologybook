@@ -6,8 +6,22 @@ layout: sponsors
 title: Sponsors
 permalink: /sponsors/
 lang: en
+breadcrumbs:
+  - 
+    title: Home
+    permalink: /
+  - 
+    title: Sponsors
+    permalink: /sponsors/
+toc: false
 ---
 
 # Sponsors
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+This work is sponsored by unrestricted educational grants from [Yale University School of Medicine](https://medicine.yale.edu), [Children’s Hospital Colorado](https://www.childrencolorado.org), & [The University of Chicago Medicine](https://www.uchicagomedicine.org). [Editors](/editors/) and [contributors](/contributors/) have sole authority over content and editorial decisions. Review the [conflict of interest](/conflict-of-interest/ "Conflict of interest statement") statement for details.
+
+# About the Sponsors
+
+{% assign translation = site.data.translations | where: "language",site.active_lang | first %}
+{% assign the_sponsors = site.data.sponsors %}
+{% include sponsors-list.html sponsors=the_sponsors %}

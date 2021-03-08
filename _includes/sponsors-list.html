@@ -1,0 +1,5 @@
+{% assign sponsors = include.sponsors %}
+<hr>
+{% for the_sponsor in sponsors %}
+	{% include sponsors-detail.html sponsor=the_sponsor %}
+{% endfor %}

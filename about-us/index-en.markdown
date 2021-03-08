@@ -20,6 +20,9 @@ toc: false
 
 ## Our **History**
 
+{% assign the_timeline = site.data.about-us-timeline | where: "language",site.active_lang | first %}
+{% include about-us-history.html timeline=the_timeline %}
+
 Pediatric urology is an immensely varying specialty of congenital and acquired conditions ranging from phimosis, hydrocele, the palpable undescended testis, through common disorders such as urinary tract infection and bladder dysfunction, hydronephrosis and hypospadias, to rare tumors, posterior urethral valves, sex disorders, exstrophy-epispadias and cloacal anomalies.
 {: .lead}
 
@@ -31,13 +34,13 @@ Unfortunately not all of us are blessed with the facilities or the time that is 
 
 What better way to achieve all these aims than with a pediatric urology online resource that is free, has open access and where all chapters and subsections are written by leaders in that particular field. Furthermore, the chapters will be updated several times a year keeping the readers up to date from the comfort of their own computer, smartphone or tablet. 
 
-The [Pediatric Urology Book]({{ site.url }}{{ site.baseurl }}) has been divided into several sections. In each section, the chapter has been divided into subsections, each subsection being contributed by a specialist. For example, the urolithiasis chapter may have a section written by a nephrologist, an interventional radiologist and a pediatric urologist thereby giving the most comprehensive details for that particular section. In addition where relevant, photographs and video clips will be embedded in the chapter for viewing via the standard means.
+The [Pediatric Urology Book](/) has been divided into several sections. In each section, the chapter has been divided into subsections, each subsection being contributed by a specialist. For example, the urolithiasis chapter may have a section written by a nephrologist, an interventional radiologist and a pediatric urologist thereby giving the most comprehensive details for that particular section. In addition where relevant, photographs and video clips will be embedded in the chapter for viewing via the standard means.
 
 ## Who **We Are**
 
 We the editors are all experienced Pediatric Urologists with a number of peer reviewed publications, chapters in textbooks and editorial responsibility for textbooks to our credit. The belief that “Knowledge should be free” is common to all and with this in mind, we along with our associate editors and contributors aim to spread this knowledge in pediatric urology in a format that is new, exciting and revolutionary. Of course continual improvement is the key to continued success and we would therefore be indebted for your feedback. We could not have done this without help from our web publisher—Gary Bagshawe at GBC Productions and most importantly without the support and advice from our families.
 
-While all information on this website is freely available and open access, the [editors]({{ site.url }}{{ site.baseurl }}/editors/) would request that individuals exercise courtesy to the [contributors]({{ site.url }}{{ site.baseurl }}/contributors/) in obtaining the necessary permissions to use any images or digital material from this work.
+While all information on this website is freely available and open access, the [editors](/editors/) would request that individuals exercise courtesy to the [contributors](/contributors/) in obtaining the necessary permissions to use any images or digital material from this work.
 
 All the best,
 

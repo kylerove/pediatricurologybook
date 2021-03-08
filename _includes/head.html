@@ -7,8 +7,10 @@
 
   {% I18n_Headers %}
   <!-- Favicon -->
-  <link rel="shortcut icon" href="{{ site.url }}{{ site.baseurl }}/assets/site-img/favicon.ico" type="image/x-icon" />
-  <link rel="apple-touch-icon" href="{{ site.url }}{{ site.baseurl }}/assets/site-img/apple-touch-icon.png">
+  <link rel="icon" href="{{ site.url }}{{ site.baseurl }}/favicon.ico" type="image/x-icon" > <!-- 32×32 -->
+  <link rel="icon" href="{{ site.url }}{{ site.baseurl }}/assets/site-img/favicons/icon.svg" type="image/svg+xml">    <!-- res independent -->
+  <link rel="apple-touch-icon" href="{{ site.url }}{{ site.baseurl }}/assets/site-img/favicons/apple-touch-icon.png"> <!-- 180×180 -->
+  <link rel="manifest" href="/manifest.webmanifest">
   
   <!-- Mobile Metas -->
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
@@ -23,6 +25,8 @@
   <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/vendor/fontawesome-free/css/all.min.css">
   <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/vendor/animate/animate.min.css">
   <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/vendor/rs-plugin/css/navigation.css">
+  <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/vendor/owl.carousel/assets/owl.carousel.min.css">
+  <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/vendor/owl.carousel/assets/owl.theme.default.min.css">
   
   <!-- Theme CSS -->
   <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/theme.css">

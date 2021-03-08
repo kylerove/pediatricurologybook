@@ -1,0 +1,32 @@
+{% assign sponsor = include.sponsor %}
+<div class="row mt-5" id="{{ sponsor.name | slugify: "latin" }}">
+  <div class="col-md-5 order-md-2 mb-4 mb-lg-0 appear-animation animated fadeInLeftShorter appear-animation-visible" data-appear-animation="fadeInLeftShorter" style="animation-delay: 100ms;">
+    <img src="{{ site.url }}{{ site.baseurl }}{{ sponsor.logo }}" class="img-fluid" alt="{{ sponsor.name }}">
+  </div>
+  <div class="col-md-7 order-2">
+    <div class="overflow-hidden">
+      <h2 class="text-color-dark text-8 mb-0 pt-0 mt-0 appear-animation animated maskUp appear-animation-visible" data-appear-animation="maskUp" data-appear-animation-delay="300" style="animation-delay: 300ms;"><a href="{{ sponsor.url }}" ><strong>{{ sponsor.name }}</strong></a></h2>
+    </div>
+    <div class="overflow-hidden mb-2">
+      <p class="font-weight-bold text-primary text-uppercase mb-0 appear-animation animated maskUp appear-animation-visible" data-appear-animation="maskUp" data-appear-animation-delay="500" style="animation-delay: 500ms;">{{ translation.sponsor }}</p>
+    </div>
+    <hr class="solid my-3 appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900" style="animation-delay: 900ms;">
+    {% if site.active_lang == "en" and sponsor.description-en != null %}
+      {{ sponsor.description-en | markdownify }}
+    {% elsif site.active_lang == "sp" and sponsor.description-sp != null %}
+      {{ sponsor.description-sp | markdownify }}
+    {% elsif site.active_lang == "zh" and sponsor.description-zh != null  %}
+      {{ sponsor.description-zh | markdownify }}
+    {% elsif site.active_lang == "pt" and sponsor.description-pt != null  %}
+      {{ sponsor.description-pt | markdownify }}
+    {% elsif sponsor.description-en != null %}
+      {{ sponsor.description-en | markdownify }}
+    {% endif %}
+    <em>{{ sponsor.location }}</em>
+  </div>
+</div>
+<div class="row">
+  <div class="col">
+    <hr class="solid my-5">
+  </div>
+</div>

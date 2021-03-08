@@ -1,13 +1,24 @@
 # Home - Highlights carousel
-# Last updated 2020-09-24
+# Last updated 2021-03-06
 
 -
   language: en
   entries:
   -
+    banner: "v2.0"
     head: "Dig into the new Pediatric Urology Book"
     subhead: "All new content and contributors"
-    img: ""
+    img: "/assets/site-img/home/david-chalmers-chco.jpg"
+    bg-position: "30% 25%"
     icon: "fas fa-book"
     button: "Read the book"
-    link: ""
+    link: "/book/"
+  -
+    banner: "v2.0"
+    head: "Check out the new Pediatric Urology Book"
+    subhead: "All new content, figures, videos, and more"
+    img: "/assets/site-img/home/ipad-reading.jpg"
+    bg-position: "50% 10%"
+    icon: "fas fa-book"
+    button: "Read the book"
+    link: "/book/"

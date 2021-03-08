@@ -1,0 +1,82 @@
+    
+    {% assign translation = site.data.translations | where: "language",site.active_lang | first %}
+    <header id="header" data-plugin-options="{'stickyEnabled': true, 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': true, 'stickyStartAt': 62, 'stickySetTop': '-62px', 'stickyChangeLogo': true}">
+      <div class="header-body">
+        <div class="header-container container">
+          <div class="header-row">
+            <div class="header-column">
+              <div class="header-row">
+                <div class="header-logo">
+                  <a class="site-title" rel="author" href="{{ site.url }}{{ site.baseurl }}/">
+                    <img width="222" height="144" data-sticky-width="126" data-sticky-height="82" data-sticky-top="55" alt="Pedatric Urology Book" src="{{ site.url }}{{ site.baseurl }}/assets/site-img/pediatricurologybook-new.svg">
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="header-column justify-content-end">
+              <div class="header-row pt-3 mb-3">
+                <nav class="header-nav-top">
+                  <ul class="nav nav-pills">
+                    <li class="nav-item nav-item-anim-icon">
+                      <a class="nav-link pl-0" href="{{ site.url }}{{ site.baseurl }}/about-us/"><i class="fa fa-angle-right pr-1"></i>{{ translation.about-us }}</a>
+                    </li>
+                    <li class="nav-item nav-item-anim-icon">
+                      <a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/contact-us/"><i class="fa fa-angle-right pr-1"></i>{{ translation.contact-us }}</a>
+                    </li>
+                    <li class="nav-item dropdown nav-item-left-border d-none d-sm-block nav-item-left-border-remove nav-item-left-border-md-show">
+                      {% assign cur_lang = site.languages-captions | where: "language",site.active_lang | first %}
+                      <a class="nav-link" href="#" role="button" id="dropdown-language" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <i class="fas {{ cur_lang.icon }}"></i> {{ cur_lang.caption }}
+                        <i class="fas fa-angle-down"></i>
+                      </a>
+                      <div class="dropdown-menu" aria-labelledby="dropdown-language">
+                        {% for lang in site.languages %}
+                          {% if lang == site.active_lang %}
+                            {% continue %}
+                          {% endif %}
+                          {% assign this_lang = site.languages-captions | where: "language",lang | first %}
+                          
+                          {% if lang == site.default_lang %}
+                          <a class="dropdown-item" {% static_href %}href="{{ site.url }}{{ site.baseurl }}{{ page.url }}"{% endstatic_href %}>{{ this_lang.caption }}</a>
+                          {% else %}
+                          <a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}/{{ lang }}{{ page.url }}">{{ this_lang.caption }}</a>
+                          {% endif %}
+                        {% endfor %}
+                      </div>
+                    </li>
+                  </ul>
+                </nav>
+                <div class="header-nav-features header-nav-features-no-border header-nav-features-md-show-border d-none d-md-inline-flex">
+                    <div class="simple-search input-group w-auto">
+                      <input class="form-control text-1" id="search-input" name="q" type="text" value="" placeholder="{{ translation.search }}...">
+                      <span class="input-group-btn">
+                        <button class="btn" type="submit">
+                          <i class="fa fa-search"></i>
+                        </button>
+                      </span>
+                      <ul id="search-results">
+                      </ul>
+                    </div>
+                </div>
+              </div>
+              <div class="header-row">
+                <div class="header-nav pt-1">
+                  <div class="header-nav-main header-nav-main-effect-1 header-nav-main-sub-effect-1">
+                    <nav class="collapse">
+                      <ul class="nav nav-pills" id="mainNav">
+                        <li><a href="{{ site.url }}{{ site.baseurl }}/"><i class="fas fa-home pr-1"></i>{{ translation.home }}</a></li>
+                        <li><a href="{{ site.url }}{{ site.baseurl }}/book/"><i class="fas fa-book pr-1"></i>{{ translation.read-the-book }}</a></li>
+                        <li><a href="{{ site.url }}{{ site.baseurl }}/editors/"><i class="fas fa-pen-fancy pr-1"></i>{{ translation.editors }}</a></li>
+                        <li><a href="{{ site.url }}{{ site.baseurl }}/contributors/"><i class="fas fa-code-branch pr-1"></i>{{ translation.contributors }}</a></li>
+                        <li><a href="{{ site.url }}{{ site.baseurl }}/sponsors/"><i class="fas fa-user-md pr-1"></i>{{ translation.sponsors }}</a></li>
+                      </ul>
+                    </nav>
+                  </div> <!-- end header-nav-main -->
+                </div> <!-- end header-nav -->
+              </div> <!-- end header-row -->
+            </div> <!-- end header-column -->
+          </div> <!-- end header-row -->
+        </div> <!-- end header-container -->
+      </div> <!-- end header-body -->
+    </header>
+    

@@ -2,10 +2,41 @@
 layout: default
 ---
 
+    {% assign translation = site.data.translations | where: "language",site.active_lang | first %}
     <div role="main" class="main">
-      <div id="content" class="content full">
-        <div class="container contributors">
-          <div class="row center">
+      <section class="page-header page-header-modern bg-color-primary page-header-md">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-8 order-2 order-md-1 align-self-center p-static">
+              <h1 class=""><strong>{{ translation.contributors }}</strong></h1>
+            </div>
+            
+            <div class="col-md-4 order-1 order-md-2 align-self-center">
+              <ul class="breadcrumb d-block text-md-right breadcrumb-light">
+              {% for breadcrumb in page.breadcrumbs %}
+                {% if breadcrumb.permalink == page.url %}
+                <li class="active">{{ breadcrumb.title }}</li>
+                {% else %}
+                <li><a href="{{ site.url }}{{ site.baseurl }}{{ breadcrumb.permalink }}">{{ breadcrumb.title }}</a></li>
+                {% endif %}
+              {% endfor %}
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+      
+      <div class="container contributors">
+        <div class="row center">
+            <div class="col-lg-3 order-2 order-lg-1 mt-4 mt-lg-0">
+              <aside class="sidebar" data-plugin-sticky data-plugin-options="{'minWidth': 991, 'containerSelector': '.container', 'padding': {'top': 127}}">
+                <h5 class="font-weight-bold no_toc">{{ translation.table-of-contents }}</h5>
+
+                {{ content | toc_only }}
+            
+              </aside>
+            </div>
+            <div class="col-lg-9 order-1 order-lg-2">
               
             {{ content }}
               

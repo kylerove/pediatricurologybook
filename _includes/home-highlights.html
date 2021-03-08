@@ -1,10 +1,15 @@
 {% assign highlights = include.highlights %}
-<div class="slider-container rev_slider_wrapper" style="height: 800px;">
-	<div id="revolutionSlider" class="slider rev_slider" data-version="5.4.8" data-plugin-revolution-slider data-plugin-options="{'delay': 9000, 'gridwidth': 1170, 'gridheight': 800, 'responsiveLevels': [4096,1200,992,500], 'navigation' : {'arrows': { 'enable': true, 'style': 'arrows-style-2', 'left': {'h_align': 'center', 'v_align' : 'bottom', 'v_offset': 30, 'h_offset': 90}, 'right': {'h_align': 'center', 'v_align' : 'bottom', 'v_offset': 30, 'h_offset': 125}}, 'bullets': {'enable': false}}}">
-		<ul>
-			{% for the_highlight in highlights.entries %}
-			  {% include home-highlight.html highlight=the_highlight %}
-			{% endfor %}
-		</ul>
-	</div>
-</div>
+<div class="owl-carousel owl-carousel-light owl-carousel-light-init-fadeIn owl-theme manual dots-inside dots-horizontal-center show-dots-hover dots-light nav-style-1 nav-inside nav-inside-plus nav-dark nav-lg nav-font-size-lg show-nav-hover mb-0" data-plugin-options="{'autoplayTimeout': 12000}" data-dynamic-height="['650px','650px','650px','550px','500px']" style="height: 650px;">
+					<div class="owl-stage-outer">
+						<div class="owl-stage">
+						{% for the_highlight in highlights.entries %}
+					  	    {% include home-highlight.html highlight=the_highlight %}
+						{% endfor %}
+						</div>
+					</div>
+					<div class="owl-dots mb-5">
+					{% for the_highlight in highlights.entries %}
+						<button role="button" class="owl-dot"><span></span></button>
+					{% endfor %}
+					</div>
+				</div>
