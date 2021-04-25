@@ -34,7 +34,7 @@ theMap <- ggplot() +
   geom_map(
     data = world, map = world,
     aes(x = long, y = lat, map_id = region),
-    color = "#333333", fill="#e9e9e9", size = 0.125
+    color = "#888888", fill="#f6f6f6", size = 0.125
   ) + 
   geom_point( data = contributors, aes(lon, lat, color=city.state.country), fill="#ffffff", shape = 21, alpha = 0.8, size=2.75, stroke = 1) +
   scale_colour_manual(values=colors, aesthetics = c("colour")) +
@@ -57,4 +57,4 @@ theMap <- ggplot() +
     plot.background = element_rect(fill = "transparent",colour = NA)
   )
 
-ggsave(filename=paste0(getwd(),"/assets/site-img/contributor-map.svg"),plot=theMap,device="svg",dpi = 300, width=17.7, height=6.67,units="in")
+ggsave(filename=paste0(getwd(),"/assets/site-img/contributor-map-raw.svg"),plot=theMap,device="svg",dpi = 300, width=17.7, height=6.67,units="in")
