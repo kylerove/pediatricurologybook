@@ -23,6 +23,14 @@ The possibilities are endless with the use of online media like linking to contr
 {% assign this_translation = site.data.translations | where: "language",site.active_lang | first %}
 {% include editors-list.html contributors=site.data.contributors translation=this_translation %}
 
+# Liaison Editors
+
+We cannot do this alone. Our liaison editor has helped us organize meetings, format content, coordinate social media campaigns, and has kept us on track to push out a new version of this book in record time!
+{: .lead}
+
+{% assign this_translation = site.data.translations | where: "language",site.active_lang | first %}
+{% include liaison-editors-list.html contributors=site.data.contributors translation=this_translation %}
+
 # Emeritus Editors
 
 We stand on the shoulders of giants.
@@ -35,6 +43,7 @@ In 2020, the three emeritus editors graciously offered to pass the torch, hoping
 {% include emeritus-editors-list.html contributors=site.data.contributors translation=this_translation %}
 
 *[MD]: Medicinae Doctor
+*[BA]: Bachelor of Arts
 *[MBBS]: Medicinae Baccalaureus, Baccalaureus Chirurgiae
 *[FRCS]: Fellowship of the Royal College of Surgeons
 *[FRCS (Paed)]: Intercollegiate Board in Paediatric Surgery
