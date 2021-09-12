@@ -1,11 +1,11 @@
 {% assign contributor = include.contributor %}
 <li id="{{ contributor.last | append: "-" | append: contributor.first | append: "-" | append: contributor.middle | slugify: "latin" }}">
     <div class="post-info">
-        <a href="#">{{ contributor.first }} {{ contributor.middle }} {{ contributor.last }}{% if contributor.deg1 != null %}, {{ contributor.deg1 }}{% endif %}{% if contributor.deg2 != null %}, {{ contributor.deg2 }}{% endif %}{% if contributor.deg3 != null %}, {{ contributor.deg3 }}{% endif %}{% if contributor.deg4 != null %}, {{ contributor.deg4 }}{% endif %}{% if contributor.deg5 != null %}, {{ contributor.deg5 }}{% endif %}{% if contributor.deg6 != null %}, {{ contributor.deg6 }}{% endif %}{% if contributor.deg7 != null %}, {{ contributor.deg7 }}{% endif %}</a>
+        {{ contributor.first }} {{ contributor.middle }} {{ contributor.last }}{% if contributor.deg1 != null %}, {{ contributor.deg1 }}{% endif %}{% if contributor.deg2 != null %}, {{ contributor.deg2 }}{% endif %}{% if contributor.deg3 != null %}, {{ contributor.deg3 }}{% endif %}{% if contributor.deg4 != null %}, {{ contributor.deg4 }}{% endif %}{% if contributor.deg5 != null %}, {{ contributor.deg5 }}{% endif %}{% if contributor.deg6 != null %}, {{ contributor.deg6 }}{% endif %}{% if contributor.deg7 != null %}, {{ contributor.deg7 }}{% endif %}
         <div class="post-meta">
             <ul class="thumb-info-social-icons mb-3">
-                  {% if contributor.website != null %}<li class="social-icons-website"><a href="{{ contributor.website }}" target="_blank" title="Website"><i class="fas fa-link"></i></a></li>{% endif %}
-                  {% if contributor.email != null %}<li class="social-icons-email"><a href="mailto:{{ contributor.email }}" target="_blank" title="Email"><i class="fas fa-envelope"></i></a></li>{% endif %}
+                  {% if contributor.website != null %}<li class="social-icons-website"><a href="{{ contributor.website }}" target="_blank" title="{{ translation.website }}"><i class="fas fa-link"></i></a></li>{% endif %}
+                  {% if contributor.email != null %}<li class="social-icons-email"><a href="mailto:{{ contributor.email }}" target="_blank" title="{{ translation.email }}"><i class="fas fa-envelope"></i></a></li>{% endif %}
                   {% if contributor.linkedin != null %}<li class="social-icons-linkedin"><a href="{{ contributor.linkedin }}" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a></li>{% endif %}
                   {% if contributor.twitter != null %}<li class="social-icons-twitter"><a href="{{ contributor.twitter }}" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a></li>{% endif %}
                   {% if contributor.facebook != null %}<li class="social-icons-facebook"><a href="{{ contributor.facebook }}" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>{% endif %}

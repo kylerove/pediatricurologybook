@@ -14,8 +14,8 @@
     </div>
     <hr class="solid my-3 appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900" style="animation-delay: 900ms;">
     <ul class="thumb-info-social-icons mb-3">
-      {% if editor.website != null %}<li class="social-icons-website"><a href="{{ editor.website }}" target="_blank" title="Website"><i class="fas fa-link"></i></a></li>{% endif %}
-      {% if editor.email != null %}<li class="social-icons-email"><a href="mailto:{{ editor.email }}" target="_blank" title="Email"><i class="fas fa-envelope"></i></a></li>{% endif %}
+      {% if editor.website != null %}<li class="social-icons-website"><a href="{{ editor.website }}" target="_blank" title="{{ include.translation.website }}"><i class="fas fa-link"></i></a></li>{% endif %}
+      {% if editor.email != null %}<li class="social-icons-email"><a href="mailto:{{ editor.email }}" target="_blank" title="{{ include.translation.email }}"><i class="fas fa-envelope"></i></a></li>{% endif %}
       {% if editor.linkedin != null %}<li class="social-icons-linkedin"><a href="{{ editor.linkedin }}" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a></li>{% endif %}
       {% if editor.twitter != null %}<li class="social-icons-twitter"><a href="{{ editor.twitter }}" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a></li>{% endif %}
       {% if editor.facebook != null %}<li class="social-icons-facebook"><a href="{{ editor.facebook }}" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>{% endif %}

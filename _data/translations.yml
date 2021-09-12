@@ -118,6 +118,7 @@
   search: Search
   disclaimer: Disclaimer
   section: Section
+  website: Website
 - 
   language: es
   about-us: Sobre Nosotros
@@ -215,6 +216,7 @@
   email: Email
   social-media: Redes sociales
   next-step: Próximo paso
+  website: Sitio web
 - 
   language: zh
   about-us: 关于我们
@@ -312,3 +314,4 @@
   email: 电子邮件
   social-media: 社交媒体
   next-step: 下一步
+  website: 网站
