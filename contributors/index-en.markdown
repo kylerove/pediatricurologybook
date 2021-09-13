@@ -21,12 +21,12 @@ toc: true
 
 ## Contributors By Section
 
-{% assign cur_lang = site.active_lang %}
+{% assign the_lang = site.active_lang %}
 {% assign translation = site.data.translations | where: "language",site.active_lang | first %}
-{% assign the_list = site.data.sections | sort: "number" %}
-{% for section in the_list.sections %}
+{% assign the_sections = site.data.sections | sort: "number" %}
+{% for section in the_sections.sections %}
 
-### {{ translation.section }} {{section.number}}: {{ section.cur_lang }}
+### {{ translation.section }} {{ section.number }}: {{ section.the_lang }}
 
 {% assign the_contributors = site.data.contributors | where: "section",section.number | sort: "last" %}
 {% include contributors-list.html contributors=the_contributors %}
