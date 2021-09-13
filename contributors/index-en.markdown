@@ -22,9 +22,11 @@ toc: true
 ## Contributors By Section
 
 {% assign the_lang = site.active_lang %}
-{% assign translation = site.data.translations | where: "language",site.active_lang | first %}
+{% assign translation = site.data.translations | first %}
 {% assign the_sections = site.data.sections | sort: "number" %}
 {% for section in the_sections.sections %}
+
+### wtf
 
 ### {{ translation.section }} {{ section.number }}: {{ section.the_lang }}
 
