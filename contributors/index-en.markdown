@@ -24,7 +24,7 @@ toc: true
 {% assign the_lang = site.active_lang %}
 {% assign translation = site.data.translations | first %}
 {% assign the_sections = site.data.sections | sort: "number" %}
-{% for section in the_sections.sections %}
+{% for section in the_sections %}
 
 ### wtf
 
