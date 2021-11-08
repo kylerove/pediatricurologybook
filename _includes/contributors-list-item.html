@@ -1,7 +1,7 @@
 {% assign contributor = include.contributor %}
 <li id="{{ contributor.last | append: "-" | append: contributor.first | append: "-" | append: contributor.middle | slugify: "latin" }}">
     <div class="post-info">
-        <h4 class="mb-0">{{ contributor.first }} {{ contributor.middle }} {{ contributor.last }}{% if contributor.deg1 != null %}, {{ contributor.deg1 }}{% endif %}{% if contributor.deg2 != null %}, {{ contributor.deg2 }}{% endif %}{% if contributor.deg3 != null %}, {{ contributor.deg3 }}{% endif %}{% if contributor.deg4 != null %}, {{ contributor.deg4 }}{% endif %}{% if contributor.deg5 != null %}, {{ contributor.deg5 }}{% endif %}{% if contributor.deg6 != null %}, {{ contributor.deg6 }}{% endif %}{% if contributor.deg7 != null %}, {{ contributor.deg7 }}{% endif %}</h4>
+        <h4 class="mb-0 no_toc">{{ contributor.first }} {{ contributor.middle }} {{ contributor.last }}{% if contributor.deg1 != null %}, {{ contributor.deg1 }}{% endif %}{% if contributor.deg2 != null %}, {{ contributor.deg2 }}{% endif %}{% if contributor.deg3 != null %}, {{ contributor.deg3 }}{% endif %}{% if contributor.deg4 != null %}, {{ contributor.deg4 }}{% endif %}{% if contributor.deg5 != null %}, {{ contributor.deg5 }}{% endif %}{% if contributor.deg6 != null %}, {{ contributor.deg6 }}{% endif %}{% if contributor.deg7 != null %}, {{ contributor.deg7 }}{% endif %}</h4>
         <div class="post-meta">
             <address>
                 {% if contributor.institution1 != null and contributor.institution1-website != null %}

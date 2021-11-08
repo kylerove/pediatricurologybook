@@ -4,7 +4,7 @@ email: editors@pediatricurologybook.com
 tagline: A free online book of Pediatric Urology
 description: This free, online book of Pediatric Urology, Edition 2.0, features frequently-updated topics such as management of hydronephrosis, hypospadias techniques, approaches to urinary tract infection, information about bowel and bladder dysfunction, neurogenic bladder, pediatric urologic oncology, and much more.
 baseurl: ""
-url: "https://beta.pediatricurologybook.com"
+url: "http://127.0.0.1:4000"
 twitter_username: pediatricurologybook
 github_username: kylerove/pediatricurologybook
 facebook_username: pediatricurologybook
@@ -91,8 +91,7 @@ parallel_localization: false
 collections:
   chapters:
     output: true
-    sections: true
-    sort_by: sort-key
+    sort_by: number
     permalink: /book/chapters/:title/
 
 # Jekyll Spaceship

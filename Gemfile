@@ -24,6 +24,7 @@ group :jekyll_plugins do
   gem "jekyll-timeago", "~> 0.13.1"
   gem "jekyll-last-modified-at", "~> 1.1.0"
   gem "jekyll-sitemap", "~> 1.4.0"
+  gem "html-proofer"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
