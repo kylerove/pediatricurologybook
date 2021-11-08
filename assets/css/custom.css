@@ -479,4 +479,6 @@ a.anchor {
 
 ul.contributors {
   column-count:2;
+  list-style:none;
+  padding-left:0;
 }
