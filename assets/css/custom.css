@@ -476,3 +476,7 @@ a.anchor {
 #header #search-results a:active {
 	color: #FFF;
 }
+
+ul.contributors {
+  column-count:2;
+}
