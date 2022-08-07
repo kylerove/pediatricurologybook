@@ -624,10 +624,12 @@ tr {
 a.citation:before {
   content:"\f3be";
   font-family:"Font Awesome 5 Free";
+  font-size: 0.8em;
+  vertical-align: super;
 }
 
 a.citation {
-  font-size: 0.5em;
+  font-size: 0.8em;
   margin-left: 2px;
   cursor: pointer;
 }
@@ -656,7 +658,7 @@ a.figure-link, a.table-link {
   color: #202020;
 }
 
-.bibliography span[style="text-decoration: underline"], {
-  color: #404040;
-  text-decoration: none;
+.bibliography span[style="text-decoration: underline"] {
+  color: #404040 !important;
+  text-decoration: none !important;
 }

@@ -294,6 +294,15 @@ Confirmed benign lesions with clear margins such as prepubertal teratoma do not 
 
 All children with testicular and paratesticular malignancy require appropriate follow up and surveillance for a few years as per oncological protocols. This is to maintain active surveillance for recurrent disease, and to monitor for long term effects after surgery and treatment with chemotherapy and /or radiotherapy.
 
+## Key Points {:.key-points-head}
+
+* Majority of prepubertal testicular tumors are benign
+* Majority of malignant prepubertal testicular tumors are pure yolk cell tumors
+* Sex cord / Stromal testicular tumors are rare in childhood and largely tend to be benign
+* Majority of testicular tumors in AYA are malignant
+* Paratesticular rhabdomyosarcoma is the commonest paratesticular malignancy in children, but remains rare
+{:.key-points-list}
+
 ## Conclusions
 
 Majority of prepubertal testicular tumors are benign. TSS is safe to consider and recommended for prepubertal testicular tumours with clinical and USS characteristics of a benign lesion, and negative tumor markers.
