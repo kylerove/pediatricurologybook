@@ -642,9 +642,10 @@ a.figure-link, a.table-link {
 
 .bibliography {
   font-size: 0.9em;
+  color: #202020;
 }
 
-.bibliography span u, {
+.bibliography span[style="text-decoration: underline"], {
   color: #404040;
   text-decoration: none;
 }
