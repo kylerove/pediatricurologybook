@@ -1,9 +1,3 @@
 ---
 ---
-{{ reference }}
-
-{% if entry.abstract %}
-<p>{{ entry.abstract }}</p>
-{% endif %}
-
-<pre>{{ entry.bibtex }}</pre>
+{{ reference }}{% if entry.url %} <a href="{{ entry.url }}" title="PubMed"><i class="ai2 ai-pubmed"></i></a>{% endif %}{% if entry.doi %} <a href="https://doi.org/{{ entry.doi }}" title="PubMed"><i class="ai2 ai-doi"></i></a>{% endif %}
