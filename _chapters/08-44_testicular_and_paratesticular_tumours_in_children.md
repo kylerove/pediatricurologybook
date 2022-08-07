@@ -316,6 +316,8 @@ Paratesticular rhabdomyosarcoma is the commonest paratesticular malignancy in ch
 *[AYA]: adolescent, young adult
 *[CT]: computed tomography
 *[GCT]: germ cell tumor
+*[GCTs]: germ cell tumors
+*[GCNIS]: germ cell neoplasia in situ
 *[HCG]: human chorionic gonadotropin
 *[LDH]: lactate dehydrogenase
 *[LN]: lymph node

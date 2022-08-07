@@ -621,6 +621,17 @@ tr {
   border-bottom: 1px solid #eee;
 }
 
+a.citation:before {
+  content:"\f3be";
+  font-family:"Font Awesome 5 Free";
+}
+
+a.citation {
+  font-size: 0.5em;
+  margin-left: 2px;
+  cursor: pointer;
+}
+
 a.figure-link, a.table-link {
   display: inline;
   text-decoration: none;
