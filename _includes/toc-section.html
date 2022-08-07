@@ -1,5 +1,5 @@
 
-{% assign page_title = section.titles.title | where: "language",site.active_lang | first %}
+{% assign page_title = section.titles.title | where: "number", i | where: "language",site.active_lang | first %}
 ## <span>{{ i }}</span> {{ page_title }}
 
   {% if section.subsections == nil %}
