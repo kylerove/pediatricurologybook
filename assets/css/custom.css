@@ -658,7 +658,8 @@ a.figure-link, a.table-link {
   background-color: #f6f6f6;
   border: 1px solid #e1e1e1;
   border-radius: 7px;
-  padding: 40px 15px 15px 15px;
+  padding: 15px 15px 15px 40px;
+  list-style-type: decimal;
 }
 
 .bibliography span[style="text-decoration: underline"] {
@@ -667,7 +668,6 @@ a.figure-link, a.table-link {
 }
 
 .bibliography li {
-  display: flex;
   padding-bottom: 6px;
   list-style-position: inherit;
   padding-right: 45px;
