@@ -621,7 +621,7 @@ tr {
   border-bottom: 1px solid #eee;
 }
 
-.figure-link, .table-link {
+a.figure-link, a.table-link {
   display: inline;
   text-decoration: none;
   margin-right: 0.3em;
@@ -638,4 +638,13 @@ tr {
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: .1em;
+}
+
+.bibliography {
+  font-size: 0.9em;
+}
+
+.bibliography span u, {
+  color: #404040;
+  text-decoration: none;
 }
