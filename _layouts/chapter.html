@@ -4,6 +4,25 @@ layout: default
 
     {% assign translation = site.data.translations | where: "language",site.active_lang | first %}
     <div role="main" class="main">
+      <section class="page-header page-header-modern bg-color-primary page-header-md">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-8 order-2 order-md-1 align-self-center p-static">
+              <h1 class="">{{ page.chapter }}: {{ page.title }}</h1>
+            </div>
+            
+            <div class="col-md-4 order-1 order-md-2 align-self-center">
+              <ul class="breadcrumb d-block text-md-right breadcrumb-light">
+              {% for breadcrumb in page.breadcrumbs %}
+                <li><a href="{{ site.url }}{{ site.baseurl }}{{ breadcrumb.permalink }}">{{ breadcrumb.title }}</a></li>
+              {% endfor %}
+                <li><a href="{{ site.url }}{{ site.baseurl }}/book/#section-{{ page.section }}">{{ translation.section }} {{ page.section }}</a></li>
+                <li class="active">{{ page.chapter }}: {{ page.title }}</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
       <div class="container chapter">
           <div class="row">
             <div class="col-lg-3 order-2 order-lg-1 mt-4 mt-lg-0">

@@ -5,11 +5,16 @@ sort-key: 08-44
 title: Testicular and Paratesticular Tumors in Children
 layout: chapter
 lang: en
+breadcrumbs:
+  - 
+    title: Home
+    permalink: /
+  - 
+    title: Book
+    permalink: /book/
+toc: false
 review-formatting-complete: KR-2022-08-06
 ---
-
-Testicular and Paratesticular Tumours in Children
-{: #chapter-title}
 
 Naeem Samnakay
 
