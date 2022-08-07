@@ -159,7 +159,7 @@ figures:
 
 # Reference / Scholar settings
 scholar:
-  style: "https://streamteam.co/external/pub-exp.csl"
+  style: ./assets/csl/pub-exp.csl
   bibliography_template: bib
   locale: en
   source: ./_references
