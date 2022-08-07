@@ -120,6 +120,8 @@
   disclaimer: Disclaimer
   section: Section
   website: Website
+  link-to-doi: Link to DOI
+  link-to-pubmed: Link to PubMed
 - 
   language: es
   about-us: Sobre Nosotros
@@ -219,6 +221,8 @@
   social-media: Redes sociales
   next-step: Próximo paso
   website: Sitio web
+  link-to-doi: Enlace a DOI
+  link-to-pubmed: Enlace a PubMed
 - 
   language: zh
   about-us: 关于我们
@@ -226,7 +230,7 @@
   us: Us
   contact-us: 联系我们
   chapter-contents: 章节内容
-  contact: 
+  contact: 接点
   contributor: 贡献者
   contributors: 贡献者
   editor: 编辑
@@ -318,3 +322,5 @@
   social-media: 社交媒体
   next-step: 下一步
   website: 网站
+  link-to-doi: 链接到 DOI
+  link-to-pubmed: 链接到 PubMed

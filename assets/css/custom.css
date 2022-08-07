@@ -689,6 +689,34 @@ a.figure-link, a.table-link {
 .bibliography li a[title="PubMed"] {
   right:0;
 }
+
 .bibliography li a[title="DOI"] {
   right:20px;
+}
+
+.bibliography li a:hover {
+  text-decoration: none;
+}
+
+.key-points-head {
+  background: color(display-p3 0.387 0.843 0.988);
+  border-top-left-radius: 0.3em;
+  border-top-right-radius: 0.3em;
+  color: rgb(0, 0, 0);
+  font-weight: 600;
+  font-size: 1.2em;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  line-height: normal;
+  margin: 0 -0.85em;
+  padding: 1em 0 0 0;
+}
+
+.key-points-list {
+  background: #f3f1e8;
+  border-bottom-left-radius: 0.3em;
+  border-bottom-right-radius: 0.3em;
+  border: none;
+  margin: 1em 0;
+  padding: 0 0 1em 0;
 }
