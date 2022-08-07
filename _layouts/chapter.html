@@ -2,15 +2,23 @@
 layout: default
 ---
 
-    <div role="main" class="main">
-      <div id="content" class="content full">
-        <div class="container chapter">
-          <div class="row center">
-              
-            {{ content }}
-              
-            {{ site.data["git-HEAD"] }}
+      <div class="container chapter">
+          <div class="row">
+            <div class="col-lg-3 order-2 order-lg-1 mt-4 mt-lg-0">
+              <aside class="sidebar" data-plugin-sticky data-plugin-options="{'minWidth': 991, 'containerSelector': '.container', 'padding': {'top': 127}}">
+                <h5 class="font-weight-bold no_toc">{{ translation.chapter-contents }}</h5>
+    
+            {{ content | toc_only }}
             
+              </aside>
+            </div>
+            <div class="col-lg-9 order-1 order-lg-2">
+                
+            {{ content | inject_anchors }}
+            
+            <!--Last repository commit: {{ site.data["git-HEAD"] }}-->
+                        
+            </div> <!-- /col -->
           </div> <!-- /row -->
         </div> <!-- /container -->
       </div> <!-- /content -->

@@ -8,7 +8,8 @@ lang: en
 review-formatting-complete: KR-2022-08-06
 ---
 
-Testicular and Paratesticular Tumours in Children{: #chapter-title}
+Testicular and Paratesticular Tumours in Children
+{: #chapter-title}
 
 Naeem Samnakay
 
