@@ -10,7 +10,7 @@ breadcrumbs:
   - 
     title: Book
     permalink: /book/
-toc:false
+toc: false
 ---
 
 <div id="toc" markdown="1" style="column-count:2">
