@@ -1,9 +1,10 @@
 ---
 section: 8
 chapter: 44
-title: Embriología del tracto urinario
 sort-key: 08-44
+title: Testicular and Paratesticular Tumors in Children
 layout: chapter
+lang: en
 review-formatting-complete: KR-2022-08-06
 ---
 
