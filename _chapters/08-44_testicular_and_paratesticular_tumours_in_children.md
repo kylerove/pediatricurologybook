@@ -16,9 +16,12 @@ toc: true
 review-formatting-complete: KR-2022-08-06
 ---
 
-Naeem Samnakay{: #author-name}  
-Clinical Associate Professor, Division of Surgery, Medical School, The University of Western Australia{: #author-title}  
-Paediatric Surgeon and Urologist, Perth Children's Hospital, Perth, Western Australia{: #author-title}  
+Naeem Samnakay {:.author-names}  
+Clinical Associate Professor, Division of Surgery, Medical School, The University of Western Australia {:.author-title}  
+Paediatric Surgeon and Urologist, Perth Children's Hospital, Perth, Western Australia {:.author-title}  
+{:.attribution}
+
+---------------
 
 ## Introduction
 
@@ -71,17 +74,15 @@ Testicular microlithiasis, usually incidentally detected on ultrasound scan in c
 
 The commonest mode of presentation of testicular or paratesticular tumor is a painless scrotal mass, noted by the child or carer. Sometimes, a reactive hydrocele may be present. Scrotal swelling may herald review and investigation, and occasionally the mass may be detected incidentally after presentation with trauma, or on ultrasound scan (USS). There may be few other discerning clinical characteristics noted if a scrotal lump is palpated. However, Leydig cell tumors may be associated with signs of precocious puberty, and 10% of Sertoli cell tumors may also present with signs of precocious puberty (25).
 
-USS of the scrotum and testis is a very useful initial investigation. It usually provides a clear indication of location and size of mass, whether solid or cystic, whether diffuse or well defined, whether intratesticular or paratesticular, its vascularity and whether uni or multifocal. Some prepubertal lesions have characteristic features on USS, such as the 'onion peel' layers of an epidermal cyst **(Figure 1)**, lobulated appearance of dermoid cyst **(Figure 2)**, and characteristic cystic appearance of rete dysplasia of the testis **(Figure 3)** (26). Teratomas may have a variegated cystic/solid appearance **(Figure 4)**. Benign lesions tend to display low vascularity on USS. Malignant lesions are usually hypoechoic, solid and homogenous on USS.
+USS of the scrotum and testis is a very useful initial investigation. It usually provides a clear indication of location and size of mass, whether solid or cystic, whether diffuse or well defined, whether intratesticular or paratesticular, its vascularity and whether uni or multifocal. Some prepubertal lesions have characteristic features on USS, such as the 'onion peel' layers of an epidermal cyst **(Figure 1)**, lobulated appearance of dermoid cyst **(Figure 2)**, and characteristic cystic appearance of rete dysplasia of the testis **(Figure 3)** (26). Teratomas may have a variegated cystic/solid appearance ([Figure 4](#figure-4){:.figure-inline-link}). Benign lesions tend to display low vascularity on USS. Malignant lesions are usually hypoechoic, solid and homogenous on USS.
 
-Figure 1: Ultrasound of Testicular epidermoid cyst, onion peel appearance (Arrow)![][1]
+Figure 1{:#figure-1}{:.figure-number} Ultrasound of Testicular epidermoid cyst, onion peel appearance (Arrow)
 
-Figure 2: Ultrasound of Testicular dermoid cyst, lobulated cyst filled with debris
+Figure 2{:#figure-2}{:.figure-number} Ultrasound of Testicular dermoid cyst, lobulated cyst filled with debris
 
-![][2]
+Figure 3{:#figure-3}{:.figure-number} Ultrasound of Cystic dysplasia rete testis, testis on left and cystic dysplasia on right of image
 
-Figure 3: Ultrasound of Cystic dysplasia rete testis, testis on left and cystic dysplasia on right of image![][3]
-
-Figure 4: Ultrasound of Prepubertal testicular teratoma, variegated appearance![][4]
+Figure 4{:#figure-4}{:.figure-number} Ultrasound of Prepubertal testicular teratoma, variegated appearance
 
 Serum tumor markers may be helpful in discerning benign from malignant lesions. For testicular tumours, alpha-fetoprotein (AFP), beta-human chorionic gonadotropin (BHCG) and Lactate dehydrogenase (LDH) are the most commonly used markers. BHCG is usually not useful in prepubertal tumor evaluation as choriocarcinoma and embryonal carcinoma, which may secrete BHCG, are almost never noted in this age group (7, 27). However, BHCG is very important in the post-pubertal AYA group, where these lesions can occur. AFP is the most important marker in the prepubertal age group, as it is markedly raised in almost all yolk cell tumors, commonly seen in this age group (9). Teratoma may have a mildly elevated AFP, but AFP levels over 100ng/mL have not been reported in prepubertal teratoma (9). This marked difference in AFP levels between benign teratoma and malignant yolk cell tumor also helps in planning for TSS versus radical orchidectomy. It should be noted whilst interpreting AFP levels, that infants up to 8 months of age may have naturally high serum AFP levels (28).
 
@@ -219,7 +220,7 @@ Testes are a common site of infiltration in leukemia and lymphoma - such as acut
 
 Clinical guidelines now strongly recommend TSS for prepubertal testicular tumors that are strongly suspected to be benign on work-up (27). TSS is performed by inguinal approach. Atraumatic vessel clamping of the spermatic cord prior to testicular mobilisation and dissection is considered a standard oncological technique, and allows to minimise bleeding and optimise visualisation of the dissection in the usually small prepubertal organ. **(Figure 6)**.
 
-Figure 6: TSS - Atraumatic vascular clamp on cord, Leydig cell tumor at lower pole testis
+**Figure 6**: TSS - Atraumatic vascular clamp on cord, Leydig cell tumor at lower pole testis
 
 ## ![][6]
 

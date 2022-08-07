@@ -16,8 +16,7 @@ layout: default
               {% for breadcrumb in page.breadcrumbs %}
                 <li><a href="{{ site.url }}{{ site.baseurl }}{{ breadcrumb.permalink }}">{{ breadcrumb.title }}</a></li>
               {% endfor %}
-                <li><a href="{{ site.url }}{{ site.baseurl }}/book/#section-{{ page.section }}">{{ translation.section }} {{ page.section }}</a></li>
-                <li class="active">{{ page.chapter }}: {{ page.title }}</li>
+                <li class="active"><a href="{{ site.url }}{{ site.baseurl }}/book/#section-{{ page.section }}">{{ translation.section }} {{ page.section }}</a></li>
               </ul>
             </div>
           </div>

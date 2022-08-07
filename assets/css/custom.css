@@ -620,3 +620,24 @@ thead {
 tr {
   border-bottom: 1px solid #eee;
 }
+
+.figure-link-inline, .table-link-inline {
+  display: inline;
+  color: #006bb2;
+  text-decoration: none;
+  margin-right: 0.2em;
+  padding: 0.1em 1.2em 0.1em 0;
+  background: url("/assets/img/icon-link-blue.svg") right center no-repeat;
+  background-size: 1em auto;
+}
+
+.figure-number, .table-number {
+  margin-right: .4em;
+  padding-right: .9em;
+  color: #006bb2;
+  background: url("/assets/img/icon-link-blue.svg") right center no-repeat;
+  background-size: 1em auto;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+}
