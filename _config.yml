@@ -160,7 +160,7 @@ figures:
 
 # Reference / Scholar settings
 scholar:
-  style: "https://beta.pediatricurologybook.com/assets/csl/pub.csl"
+  style: "https://streamteam.co/external/pub.csl"
   bibliography_template: bib
   locale: en
   source: ./_references
@@ -169,14 +169,14 @@ scholar:
   
 # Exclude from processing
 exclude:
-   - .git/
-   - .git_ignore
-   - .jekyll-cache/
-   - .ruby-version
-   - .sass-cache/
-   - gemfiles/
-   - _r/
-   - Gemfile
-   - Gemfile.lock
-   - LICENSE
-   - README.md
+  - .git/
+  - .git_ignore
+  - .jekyll-cache/
+  - .ruby-version
+  - .sass-cache/
+  - gemfiles/
+  - _r/
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
