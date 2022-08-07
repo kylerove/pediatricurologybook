@@ -1,4 +1,4 @@
 ---
 ---
 {% assign translation = site.data.translations | where: "language",site.active_lang | first %}
-{{ reference }} {% if entry.url %} <a href="{{ entry.url }}" title="PubMed" data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ translation.link-to-pubmed }}"><i class="ai2 ai-pubmed"></i></a>{% endif %}{% if entry.doi %} <a href="https://doi.org/{{ entry.doi }}" title="DOI" data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ translation.link-to-doi }}"><i class="ai2 ai-doi"></i></a>{% endif %}
+{{ reference }} {% if entry.url %} <a href="{{ entry.url }}" title="PubMed" data-pubmed="1" data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ translation.link-to-pubmed }}"><i class="ai2 ai-pubmed"></i></a>{% endif %}{% if entry.doi %} <a href="https://doi.org/{{ entry.doi }}" title="DOI" data-doi="1" data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ translation.link-to-doi }}"><i class="ai2 ai-doi"></i></a>{% endif %}

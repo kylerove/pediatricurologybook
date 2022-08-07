@@ -674,24 +674,20 @@ a.figure-link, a.table-link {
   position: relative;
 }
 
-.bibliography li span {
-  flex-grow: 1;
-}
-
 .bibliography li a {
-  font-size: 1.1em;
+  font-size: 1.3em;
   margin-left: 8px;
   display: block;
   position: absolute;
   top: 2px;
 }
 
-.bibliography li a[title="PubMed"] {
+.bibliography li a[data-pubmed="1"] {
   right:0;
 }
 
-.bibliography li a[title="DOI"] {
-  right:20px;
+.bibliography li a[data-doi="1"] {
+  right:25px;
 }
 
 .bibliography li a:hover {
@@ -711,7 +707,7 @@ a.figure-link, a.table-link {
   letter-spacing: 0.1em;
   line-height: normal;
   margin: 0;
-  padding: 1em 0 0 0;
+  padding: 0.8em 1.1em;
 }
 
 .key-points-list {
@@ -721,6 +717,6 @@ a.figure-link, a.table-link {
   border-bottom-left-radius: 0.3em;
   border-bottom-right-radius: 0.3em;
   border: none;
-  margin: 0 3em;
-  padding: 1em 0 0 0;
+  margin: 0;
+  padding: 1em 3em;
 }
