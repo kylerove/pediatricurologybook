@@ -12,33 +12,30 @@ breadcrumbs:
   - 
     title: Book
     permalink: /book/
-toc: false
+toc: true
 review-formatting-complete: KR-2022-08-06
 ---
 
-Naeem Samnakay
+Naeem Samnakay{: #author-name}  
+Clinical Associate Professor, Division of Surgery, Medical School, The University of Western Australia{: #author-title}  
+Paediatric Surgeon and Urologist, Perth Children's Hospital, Perth, Western Australia{: #author-title}  
 
-Clinical Associate Professor, Division of Surgery, Medical School, The University of Western Australia
-
-Paediatric Surgeon and Urologist, Perth Children's Hospital, Perth, Western Australia
-
-# Introduction
+## Introduction
 
 Testicular and paratesticular tumours are uncommon in children. They can be primary or secondary, benign or malignant. This chapter gives an overview of the range of lesions clinically encountered in children. Intratesticular lesions are considered, for clinical relevance, in two pediatric age groupings:
 
 -   The prepubertal child
-
 -   The adolescent and young adult (AYA)
 
 In either of these age groups, testicular tumors have characteristic features to consider, impacting on management and outcome. Testicular sparing surgery (TSS) can be planned for most of the benign prepubertal testicular lesions; whereas most AYA tumors are suspected to be malignant from the outset, and radical orchidectomy is standard surgical care for primary intratesticular testicular or paratesticular malignancy.
 
-# Embryology
+## Embryology
 
-The fetal testis develops from the undifferentiated mesodermal gonad after 6 weeks. In a male fetus, the Mullerian duct regresses in response to AMH secreted by the developing testis. The Wolffian system develops in response to testosterone secreted by the developing testis. Leydig cells producing testosterone arise from the gonadal mesoderm and are found in the interstitium of the mature testis. The mesodermal stromal sex cords develop into seminiferous tubules and supporting epithelial cells give rise to Sertoli cells. The somatic cells of the testis are derived from the mesoderm of the gonadal ridge, but the primordial germ cells originate from the epiblast/yolk sac after around 8 days of embryonal development, and migrate to the gonadal ridge, settling in close proximity to the gonadal mesoderm (1).[^1]
+The fetal testis develops from the undifferentiated mesodermal gonad after 6 weeks. In a male fetus, the Mullerian duct regresses in response to AMH secreted by the developing testis. The Wolffian system develops in response to testosterone secreted by the developing testis. Leydig cells producing testosterone arise from the gonadal mesoderm and are found in the interstitium of the mature testis. The mesodermal stromal sex cords develop into seminiferous tubules and supporting epithelial cells give rise to Sertoli cells. The somatic cells of the testis are derived from the mesoderm of the gonadal ridge, but the primordial germ cells originate from the epiblast/yolk sac after around 8 days of embryonal development, and migrate to the gonadal ridge, settling in close proximity to the gonadal mesoderm.{{ cite 1. --file 08-44 }}
 
 This derivation of cells from different embryological origins within the developing testis underlies the myriad of possible tumors, with differing behaviours, that may present in the pediatric testis.
 
-# Epidemiology
+## Epidemiology
 
 Testicular tumors in children account for 1-2% of all solid pediatric tumors (2). The incidence is estimated at 0.5-2 per 100,000 children (3). In the pediatric age group, there is a peak incidence in adolescence, with a smaller peak under 3 years of age (4).
 
@@ -46,7 +43,7 @@ It is now very clear that most intra-testicular tumors in prepubertal children a
 
 The commonest testicular malignancy in the AYA group is mixed germ cell tumors (10). Pure seminoma is rare in AYA. Unlike prepubertal children, who predominantly get pure yolk cell tumors, the germ cell tumors in AYA are non-seminomatous and generally of mixed histology, including embryonal carcinoma as the most common histological subtype (10). Teratoma presenting in AYA is usually malignant, unlike in prepubertal children (7).
 
-# Pathogenesis and Overview of Testicular and Paratesticular Tumor Types in Children
+## Pathogenesis and Overview of Testicular and Paratesticular Tumor Types in Children
 
 Primary testicular tumors can arise from germ cells (Germ cell tumors, GCTs) or stromal cells (Sex cord/Stromal cell tumors) of the testis. GCTs are far more common than stromal tumors .
 
@@ -70,7 +67,7 @@ Whilst cryptorchidism is a known risk factor for testicular malignancy, majority
 
 Testicular microlithiasis, usually incidentally detected on ultrasound scan in children, has not been shown to be associated with an increased risk of childhood testicular tumors . Testicular microlithiasis may be associated with an increased risk of testicular malignancy in adult life, especially if associated with other risk factors such as cryptorchidism. Postpubertal testicular self examination is thus advised to facilitate early detection (24).
 
-# Evaluation and diagnosis
+## Evaluation and diagnosis
 
 The commonest mode of presentation of testicular or paratesticular tumor is a painless scrotal mass, noted by the child or carer. Sometimes, a reactive hydrocele may be present. Scrotal swelling may herald review and investigation, and occasionally the mass may be detected incidentally after presentation with trauma, or on ultrasound scan (USS). There may be few other discerning clinical characteristics noted if a scrotal lump is palpated. However, Leydig cell tumors may be associated with signs of precocious puberty, and 10% of Sertoli cell tumors may also present with signs of precocious puberty (25).
 
@@ -142,51 +139,51 @@ Table 1: Testicular and Paratesticular Tumors in Childhood
 
 GCT=Germ cell tumor, GCNIS=Germ cell neoplasia in situ
 
-## A. Primary Testicular/ Gonadal Tumors 
+### A. Primary Testicular/ Gonadal Tumors 
 
-### Testicular Benign GCTs (not GCNIS derived)
+#### Testicular Benign GCTs (not GCNIS derived)
 
-#### 1 Teratoma
+##### 1 Teratoma
 
 These are almost always benign when presenting prepubertally (8). Median age of presentation is 13 months (2). They often have a heterogenous appearance on USS **(Figure 4)** because teratomas can have elements from any or all of the three embryonal germ cell layers - endoderm, mesoderm and ectoderm. Teratomas usually contain mature elements in this age group, with immature elements occasionally reported. Even with immature elements, outcome after TSS is usually good in this age group (30). TSS is usually feasible for prepubertal teratoma, and after successful excision and histological confirmation of benign nature, usually no further follow up is required (27).
 
-####  1.2 Epidermoid cyst
+#####  1.2 Epidermoid cyst
 
 These are benign cysts of ectodermal origin, lined by epithelium that produces keratin. The cyst has a characteristic layered 'onion-peel' appearance on USS **(Figure 1)** (11). They are easily enucleated, so TSS is standard of care. Routine long-term surveillance is not required post-excision, but rare recurrence is reported (26).
 
-####  1.3 Dermoid cyst
+#####  1.3 Dermoid cyst
 
 Dermoid cysts comprise cutaneous-type elements, including appendages such as hair follicles and sebaceous glands. They are benign. USS appearances often show thick walled, smooth contoured cystic lesions with avascular echogenic debris **(Figure 2)** (31, 32). TSS is standard of care, and routine surveillance post excision is not usually required (27).
 
-### Testicular Malignant GCTs (not GCNIS derived)
+#### Testicular Malignant GCTs (not GCNIS derived)
 
-####  2.1 Yolk cell tumor
+#####  2.1 Yolk cell tumor
 
 This is the commonest intratesticular malignancy in the prepubertal child.The usual age of presentation is in the early peak under age 3, at median 16 months of age (9). The tumors are usually solid and homogenous usually on USS. Serum AFP is markedly elevated. 80% of prepubertal yolk cell tumors are stage 1 at presentation (33). 20% have lung metastases at presentation (2). If a yolk sac tumor is suspected, staging CT chest, abdomen and pelvis should be performed, and radical orchidectomy planned. Radical lymph node dissection (RLND) is not routinely performed for prepubertal yolk cell tumor, as hematogenous spread without locoregional spread is common in yolk cell tumor; which RLND, with its significant risk of morbidity, will not address (34).
 
 For confirmed Stage 1 disease, with normalisation of serum AFP post surgery, chemotherapy is usually not required. Recurrence rates are around 20% . Regular post-surgical oncological surveillance with AFP level screening plus imaging such as MRI is thus advised, and salvage rates after treatment of recurrence are excellent (2, 35). For clinical stage 2 disease with lymph node involvement, and metatstatic disease, chemotherapy is indicated in most protocols. Platinum-based chemotherapy is highly effective for yolk sac tumor. RLND is reserved for locoregional residual or recurrent disease (2, 33).
 
-### Testicular Sex cord and Stromal tumors
+#### Testicular Sex cord and Stromal tumors
 
-####  3.1 Juvenile Granulosa cell tumors
+#####  3.1 Juvenile Granulosa cell tumors
 
 These usually benign tumors usually occur in infants, and are the most common neonatal testicular tumors. Histologically, they are comprised of sheets of granulosa like cells, often with cystic change (16, 36). TSS is usually successful and curative, recurrences have not been reported, and long-term surveillance after excision is not usually required (27).
 
-####  3.2 Leydig cell tumors
+#####  3.2 Leydig cell tumors
 
 In children Leydig cell tumors are usually benign, although they can be malignant in adults. Leydig cell tumors usually present in children of around 5-10 years of age (14, 15). Most present as a painless testicular mass. However, Leydig cell tumors can present with precocious puberty due to testosterone production . In addition, 10-15% of children with Leydig cell tumors can have signs of feminisation such as gynaecomastia due to estradiol secretion (2). The intraoperative appearance of Leydig cell tumors is of yellow homogenous nodules. In prepubertal children, TSS is recommended as Leydig cell tumors are almost always benign in this age group. If precocious puberty is an associated feature, then endocrinology review and follow up is advised. Pubertal changes do not reverse after the tumor is excised, as the pubertal hormonal axis has been activated (2).
 
-####  3.3 Sertoli cell tumors
+#####  3.3 Sertoli cell tumors
 
 These present at a young median age of 6 months, although they can occur at any prepubertal age. A third are associated with syndromes such as Peutz-Jeghers or Carney syndrome. 10% present with changes of precocious puberty because they are hormonally active; or even gynaecomastia, due to tumor secretion of aromatase, resulting in conversion of androstenedione to estrone (37). They are mostly benign, but can be malignant in older children. Hence, pre-operative staging CT would be prudent, especially in children over age 5 years. Current guidelines recommend considering TSS for Sertoli cell tumors in children (27).
 
-### Developmental anomalies and cysts
+#### Developmental anomalies and cysts
 
 Cystic dysplasia of the rete testis is a rare developmental anomaly that presents as a testicular lump. It is almost always associated with ipsilateral renal agenesis. USS shows the lesion to be cystic, usually at the upper pole of testis, with compression of adjacent normal testicular tissue **(Figure 3)**. Traditionally TSS for the lesion was recommended. Significant rates of recurrence after TSS have been reported. With the characteristic appearance on ultrasound and associated ipsilateral renal anomaly, its benign nature, and increasing reports of regression of the lesion over time, conservative testicular-sparing management with surveillance is now being suggested. A biopsy of the lesion, if there is any doubt about the diagnosis prior to conservative management, may be considered (38, 39).
 
 Simple epididymal cysts and intratesticular cysts may occur in childhood. Occasionally they are symptomatic. They are usually amenable to enucleation or deroofing if required.
 
-## B. Summary of Testicular Tumors in AYA
+### B. Summary of Testicular Tumors in AYA
 
 Testicular tumors in AYA are usually malignant, and usually GCTs, mainly GCNIS-derived. Testicular GCTs comprise 14% of adolescent malignancies, and are the commonest solid tumor in this age bracket .
 
@@ -196,7 +193,7 @@ Standard of care for a suspected testicular malignancy in AYA is radical orchide
 
 AYAs with clinical stage II and III disease usually receive chemotherapy. RLND is selectively used for those with residual disease or mass post chemotherapy, despite tumor markers being negative, as the residual lesion may be teratoma, usually less responsive to chemotherapy (10).
 
-## C. Summary of Paratesticular Tumors in Children
+### C. Summary of Paratesticular Tumors in Children
 
 TSS with focal excision of the lesion is usually considered for rare benign paratesticular lesions such as lipoma.
 
@@ -214,23 +211,23 @@ For histologically alvaeolar rhabdomyosarcoma, retroperitoneal lymph node evalua
 
 Outcomes after paratesticular rhabdomyosarcoma treatment are better for the prepubertal group than AYA group. There is a 90% failure-free survival in the prepubertal age group versus 63% in adolescents (45).
 
-## D. Metastases Or Infiltrative Malignancy in Testes in Childhood
+### D. Metastases Or Infiltrative Malignancy in Testes in Childhood
 
 Testes are a common site of infiltration in leukemia and lymphoma - such as acute lymphoblastic leukemia, follicular lymphoma or Burkitt's lymphoma in children. Presentation is usually with a significantly enlarged testis unilaterally or bilaterally. Ultrasound scan findings often delineate a diffusely hypoechoic enlarged testis with hypervascularity (46).
 
-# TSS and Radical Orchidectomy
+## TSS and Radical Orchidectomy
 
 Clinical guidelines now strongly recommend TSS for prepubertal testicular tumors that are strongly suspected to be benign on work-up (27). TSS is performed by inguinal approach. Atraumatic vessel clamping of the spermatic cord prior to testicular mobilisation and dissection is considered a standard oncological technique, and allows to minimise bleeding and optimise visualisation of the dissection in the usually small prepubertal organ. **(Figure 6)**.
 
 Figure 6: TSS - Atraumatic vascular clamp on cord, Leydig cell tumor at lower pole testis
 
-# ![][6]
+## ![][6]
 
 Frozen section assessment is useful to help confirm that the lesion is benign and that margins are clear. In many experienced centres, frozen section is not routinely perfomed now for prepubertal tumor-marker-negative lesions with benign clinical and ultrasound characteristics (41). If there is doubt or suspicion of malignancy despite the steps of TSS, then TSS is abandoned and radical orchidectomy is performed. If TSS is successfully performed, the tunica albuginea is sutured closed after lesion resection, and the testis replaced in the scrotum.
 
 In all children with clinically suspected testicular and paratesticular malignancy, preoperative staging for locoregional and metastatic spread should be performed. Standard of care for malignant lesions is radical orchidectomy, performed via inguinal approach and with vascular clamping prior to mobilisation of the testis and lesion. The cord should be ligated and resected at the level of the internal ring. For paratesticular lesions, the tumor should be resected en-bloc with the testis and cord; if there is scrotal skin invasion, then the affected scrotal skin should be resected en-bloc with the lesion as well (44).
 
-# Clinical Staging for Malignant Tumors
+## Clinical Staging for Malignant Tumors
 
 The Children's Oncology Group (COG) use a Stage I-IV clinical staging system for prepubertal testicular malignancies **(Table 2)**. Stage I is essentially disease localised to the testis at time of resection.
 
@@ -284,7 +281,7 @@ AFP: alpha fetoprotein; hCG : beta human chorionic gonadotropin; LDH: lactate de
 
 The now superceded Intergroup Rhabdomyosarcoma Studies (IRS) established both a 'grouping' system based on surgical resectability, and an IRS- modified TNM Staging system for paratesticular rhabdomyosarcoma.
 
-# Complications of treatment
+## Complications of treatment
 
 Both TSS and radical orchidectomy are procedures associated with good recovery, with small associated risks of bleeding with scrotal haematoma, infection and lesion recurrence. Testicular atrophy is rare after TSS (41).
 
@@ -294,15 +291,15 @@ Chemotherapy side effects such as cisplatin nephrotoxicity and peripheral neurop
 
 Long term negative effects of chemo and radiotherapy include fertility impairment and secondary malignancies.
 
-## 
+### 
 
-## **Suggested Follow up and Surveillance after treatment**
+### **Suggested Follow up and Surveillance after treatment**
 
 Confirmed benign lesions with clear margins such as prepubertal teratoma do not generally require routine long term surveillance after TSS. However, clinical guidelines suggest initial post surgical follow up with ultrasound scan 3-6 monthly for the first post-operative year (27).
 
 All children with testicular and paratesticular malignancy require appropriate follow up and surveillance for a few years as per oncological protocols. This is to maintain active surveillance for recurrent disease, and to monitor for long term effects after surgery and treatment with chemotherapy and /or radiotherapy.
 
-# Conclusions
+## Conclusions
 
 Majority of prepubertal testicular tumors are benign. TSS is safe to consider and recommended for prepubertal testicular tumours with clinical and USS characteristics of a benign lesion, and negative tumor markers.
 
@@ -409,6 +406,8 @@ Bibliography
 46\. Sanguesa C, Veiga D, Llavador M, Serrano A. Testicular tumours in children: an approach to diagnosis and management with pathologic correlation. Insights Imaging. 2020;11(1):74.
 
 [^1]: Silber S. Testis Development, Embryology, and Anatomy. 2018. In: Fundamentals of Male Infertility \[Internet\]. Springer, Cham.
+
+{% bibliography --file 08-44 %}
 
   [1]: ./images/media/image1.png {width="5.247326115485564in" height="3.28834864391951in"}
   [2]: ./images/media/image2.png {width="5.2446128608923885in" height="3.5938418635170604in"}

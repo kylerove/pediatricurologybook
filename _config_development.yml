@@ -133,11 +133,12 @@ figures:
 
 # Reference / Scholar settings
 scholar:
-  style: modern-language-association
+  style: "https://github.com/citation-style-language/styles/raw/master/earthquake-engineering-and-structural-dynamics.csl"
   bibliography_template: bib
   locale: en
   source: ./_references
   allow_locale_overrides: true
+  cite_class: citation
   
 # Exclude from processing
 exclude:
