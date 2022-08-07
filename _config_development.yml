@@ -133,7 +133,8 @@ figures:
 
 # Reference / Scholar settings
 scholar:
-  style: "https://github.com/citation-style-language/styles/raw/master/earthquake-engineering-and-structural-dynamics.csl"
+  style: "https://beta.pediatricurologybook.com/assets/csl/pub.csl"
+  bibliography_template: bib
   locale: en
   source: ./_references
   allow_locale_overrides: true

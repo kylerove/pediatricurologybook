@@ -291,9 +291,7 @@ Chemotherapy side effects such as cisplatin nephrotoxicity and peripheral neurop
 
 Long term negative effects of chemo and radiotherapy include fertility impairment and secondary malignancies.
 
-### 
-
-### **Suggested Follow up and Surveillance after treatment**
+### Suggested Follow up and Surveillance after treatment
 
 Confirmed benign lesions with clear margins such as prepubertal teratoma do not generally require routine long term surveillance after TSS. However, clinical guidelines suggest initial post surgical follow up with ultrasound scan 3-6 monthly for the first post-operative year (27).
 
@@ -311,107 +309,6 @@ Sex cord / Stromal testicular tumors are rare in childhood and largely tend to b
 
 Paratesticular rhabdomyosarcoma is the commonest paratesticular malignancy in children. After appropriate staging and work-up, treatment is usually radical orchidectomy en-bloc with the paratesticular tumor mass, by inguinal approach. If the lesion is embryonal on histology, retroperitoneal lymph node evaluation is recommended for children older than age 10 years, regardless of stage; and for boys under 10 years old who have evidence of locoregional disease or nodal recurrence. If the lesion is alveolar on histology, retroperitoneal lymph node evaluation is recommended for all regardless of imaging findings.
 
-Bibliography
-
-1\. Silber S. Testis Development, Embryology, and Anatomy. 2018. In: Fundamentals of Male Infertility \[Internet\]. Springer, Cham.
-
-2\. Ahmed HU, Arya M, Muneer A, Mushtaq I, Sebire NJ. Testicular and paratesticular tumours in the prepubertal population. Lancet Oncol. 2010;11(5):476-83.
-
-3\. Coppes MJ, Rackley R, Kay R. Primary testicular and paratesticular tumors of childhood. Med Pediatr Oncol. 1994;22(5):329-40.
-
-4\. Schneider DT, Calaminus G, Koch S, Teske C, Schmidt P, Haas RJ, et al. Epidemiologic analysis of 1,442 children and adolescents registered in the German germ cell tumor protocols. Pediatr Blood Cancer. 2004;42(2):169-75.
-
-5\. Nerli RB, Ajay G, Shivangouda P, Pravin P, Reddy M, Pujar VC. Prepubertal testicular tumors: our 10 years experience. Indian J Cancer. 2010;47(3):292-5.
-
-6\. Woo LL, Ross JH. Partial orchiectomy vs. radical orchiectomy for pediatric testis tumors. Transl Androl Urol. 2020;9(5):2400-7.
-
-7\. Jarvis H, Cost NG, Saltzman AF. Testicular tumors in the pediatric patient. Semin Pediatr Surg. 2021;30(4):151079.
-
-8\. Grady RW, Ross JH, Kay R. Epidemiological features of testicular teratoma in a prepubertal population. J Urol. 1997;158(3 Pt 2):1191-2.
-
-9\. Ross JH, Rybicki L, Kay R. Clinical behavior and a contemporary management algorithm for prepubertal testis tumors: a summary of the Prepubertal Testis Tumor Registry. J Urol. 2002;168(4 Pt 2):1675-8; discussion 8-9.
-
-10\. Saltzman AF, Cost NG. Adolescent and Young Adult Testicular Germ Cell Tumors: Special Considerations. Adv Urol. 2018;2018:2375176.
-
-11\. Williamson SR, Delahunt B, Magi-Galluzzi C, Algaba F, Egevad L, Ulbright TM, et al. The World Health Organization 2016 classification of testicular germ cell tumours: a review and update from the International Society of Urological Pathology Testis Consultation Panel. Histopathology. 2017;70:335-46.
-
-12\. Renedo DE, Trainer TD. Intratubular germ cell neoplasia (ITGCN) with p53 and PCNA expression and adjacent mature teratoma in an infant testis. An immunohistochemical and morphologic study with a review of the literature. Am J Surg Pathol. 1994;18(9):947-52.
-
-13\. Hawkins E, Heifetz SA, Giller R, Cushing B. The prepubertal testis (prenatal and postnatal): its relationship to intratubular germ cell neoplasia: a combined Pediatric Oncology Group and Children\'s Cancer Study Group. Hum Pathol. 1997;28(4):404-10.
-
-14\. Agarwal PK, Palmer JS. Testicular and paratesticular neoplasms in prepubertal males. J Urol. 2006;176(3):875-81.
-
-15\. Luckie TM, Danzig M, Zhou S, Wu H, Cost NG, Karaviti L, et al. A Multicenter Retrospective Review of Pediatric Leydig Cell Tumor of the Testis. J Pediatr Hematol Oncol. 2019;41(1):74-6.
-
-16\. Grogg JB, Schneider K, Bode PK, Kranzbuhler B, Eberli D, Sulser T, et al. Risk factors and treatment outcomes of 239 patients with testicular granulosa cell tumors: a systematic review of published case series data. J Cancer Res Clin Oncol. 2020;146(11):2829-41.
-
-17\. Talon I, Moog R, Kauffmann I, Grandadam S, Becmeur F. Sertoli cell tumor of the testis in children: reevaluation of a rarely encountered tumor. J Pediatr Hematol Oncol. 2005;27(9):491-4.
-
-18\. Chung JM, Lee SD. Overview of pediatric testicular tumors in Korea. Korean J Urol. 2014;55(12):789-96.
-
-19\. Ulbright TM, Young RH. Testicular and paratesticular tumors and tumor-like lesions in the first 2 decades. Semin Diagn Pathol. 2014;31(5):323-81.
-
-20\. Calabrese F, Danieli D, Valente M. Melanotic neuroectodermal tumor of the epididymis in infancy: case report and review of the literature. Urology. 1995;46(3):415-8.
-
-21\. Pettersson A, Richiardi L, Nordenskjold A, Kaijser M, Akre O. Age at surgery for undescended testis and risk of testicular cancer. N Engl J Med. 2007;356(18):1835-41.
-
-22\. Schneuer FJ, Milne E, Jamieson SE, Pereira G, Hansen M, Barker A, et al. Association between male genital anomalies and adult male reproductive disorders: a population-based data linkage study spanning more than 40 years. Lancet Child Adolesc Health. 2018;2(10):736-43.
-
-23\. Wood HM, Elder JS. Cryptorchidism and testicular cancer: separating fact from fiction. J Urol. 2009;181(2):452-61.
-
-24\. Hoen LAt, Bhatt NR, Radmayr C, Dogan HS, Nijman RJM, Quaedackers J, et al. The prognostic value of testicular microlithiasis as an incidental finding for the risk of testicular malignancy in children and the adult population: A systematic review. On behalf of the EAU pediatric urology guidelines panel. Epub ahead of print. Journal of Pediatric Urology. 2021.
-
-25\. Thomas JC, Ross JH, Kay R. Stromal testis tumors in children: a report from the prepubertal testis tumor registry. J Urol. 2001;166(6):2338-40.
-
-26\. Friend J, Barker A, Khosa J, Samnakay N. Benign scrotal masses in children - some new lessons learned. J Pediatr Surg. 2016;51(10):1737-42.
-
-27\. Stein R, Quaedackers J, Bhat NR, Dogan HS, Nijman RJM, Rawashdeh YF, et al. EAU-ESPU pediatric urology guidelines on testicular tumors in prepubertal boys. J Pediatr Urol. 2021;17(4):529-33.
-
-28\. Wu JT, Book L, Sudar K. Serum alpha fetoprotein (AFP) levels in normal infants. Pediatr Res. 1981;15(1):50-2.
-
-29\. Haas RJ, Schmidt P, Gobel U, Harms D. Testicular germ cell tumors, an update. Results of the German cooperative studies 1982-1997. Klin Padiatr. 1999;211(4):300-4.
-
-30\. De Backer A, Madern GC, Pieters R, Haentjens P, Hakvoort-Cammel FG, Oosterhuis JW, et al. Influence of tumor site and histology on long-term survival in 193 children with extracranial germ cell tumors. Eur J Pediatr Surg. 2008;18(1):1-6.
-
-31\. Ulbright TM, Srigley JR. Dermoid cyst of the testis: a study of five postpubertal cases, including a pilomatrixoma-like variant, with evidence supporting its separate classification from mature testicular teratoma. Am J Surg Pathol. 2001;25(6):788-93.
-
-32\. Garrido Abad P, Herranz Fernandez LM, Jimenez Galvez M, Suarez Fonseca C, Santos Arrontes D, Nieto Llanos S, et al. \[Mature cystic teratoma of the testis (dermoid cyst). Case report and literature review\]. Arch Esp Urol. 2009;62(9):747-51.
-
-33\. Grady RW. Current management of prepubertal yolk sac tumors of the testis. Urol Clin North Am. 2000;27(3):503-8, ix.
-
-34\. Grady RW, Ross JH, Kay R. Patterns of metastatic spread in prepubertal yolk sac tumor of the testis. J Urol. 1995;153(4):1259-61.
-
-35\. Ye YL, Zheng FF, Chen D, Zhang J, Liu ZW, Qin ZK, et al. Relapse in children with clinical stage I testicular yolk sac tumors after initial orchiectomy. Pediatr Surg Int. 2019;35(3):383-9.
-
-36\. Kao CS, Cornejo KM, Ulbright TM, Young RH. Juvenile granulosa cell tumors of the testis: a clinicopathologic study of 70 cases with emphasis on its wide morphologic spectrum. Am J Surg Pathol. 2015;39(9):1159-69.
-
-37\. Dursun F, Su Dur SM, Sahin C, Kirmizibekmez H, Karabulut MH, Yoruk A. A Rare Cause of Prepubertal Gynecomastia: Sertoli Cell Tumor. Case Rep Pediatr. 2015;2015:439239.
-
-38\. Gelas T, Margain Deslandes L, Mestrallet G, Pracros JP, Mouriquand P. Spontaneous regression of suspected cystic dysplasia of the rete testis in three neonates. J Pediatr Urol. 2016;12(6):387 e1- e4.
-
-39\. Helman T, Epelman M, Ellsworth P. Cystic Dysplasia of the Rete Testis: Does Pathophysiology Guide Management? Urology. 2020;141:150-3.
-
-40\. Farci F, Shamsudeen S. Testicular Teratoma. StatPearls. Treasure Island (FL)2021.
-
-41\. Bois JI, Vagni RL, de Badiola FI, Moldes JM, Losty PD, Lobos PA. Testis-sparing surgery for testicular tumors in children: a 20 year single center experience and systematic review of the literature. Pediatr Surg Int. 2021;37(5):607-16.
-
-42\. Vergouwe Y, Steyerberg EW, Eijkemans MJ, Albers P, Habbema JD. Predictors of occult metastasis in clinical stage I nonseminoma: a systematic review. J Clin Oncol. 2003;21(22):4092-9.
-
-43\. Shapiro E, Strother D. Pediatric genitourinary rhabdomyosarcoma. J Urol. 1992;148(6):1761-8.
-
-44\. Rogers TN, Seitz G, Fuchs J, Martelli H, Dasgupta R, Routh JC, et al. Surgical management of paratesticular rhabdomyosarcoma: A consensus opinion from the Children\'s Oncology Group, European paediatric Soft tissue sarcoma Study Group, and the Cooperative Weichteilsarkom Studiengruppe. Pediatr Blood Cancer. 2021;68(4):e28938.
-
-45\. Crist WM, Anderson JR, Meza JL, Fryer C, Raney RB, Ruymann FB, et al. Intergroup rhabdomyosarcoma study-IV: results for patients with nonmetastatic disease. J Clin Oncol. 2001;19(12):3091-102.
-
-46\. Sanguesa C, Veiga D, Llavador M, Serrano A. Testicular tumours in children: an approach to diagnosis and management with pathologic correlation. Insights Imaging. 2020;11(1):74.
-
-[^1]: Silber S. Testis Development, Embryology, and Anatomy. 2018. In: Fundamentals of Male Infertility \[Internet\]. Springer, Cham.
+## References
 
 {% bibliography --file 08-44 %}
-
-  [1]: ./images/media/image1.png {width="5.247326115485564in" height="3.28834864391951in"}
-  [2]: ./images/media/image2.png {width="5.2446128608923885in" height="3.5938418635170604in"}
-  [3]: ./images/media/image3.png {width="5.2468799212598425in" height="2.5764785651793525in"}
-  [4]: ./images/media/image4.png {width="5.232061461067366in" height="2.46080927384077in"}
-  [5]: ./images/media/image5.png {width="5.2517968066491685in" height="3.01750656167979in"}
-  [6]: ./images/media/image6.jpeg {width="5.244344925634295in" height="2.41007874015748in"}
