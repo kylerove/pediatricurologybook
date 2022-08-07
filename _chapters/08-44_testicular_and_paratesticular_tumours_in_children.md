@@ -16,9 +16,9 @@ toc: true
 review-formatting-complete: KR-2022-08-06
 ---
 
-Naeem Samnakay {:.author-names}
-Clinical Associate Professor, Division of Surgery, Medical School, The University of Western Australia {:.author-title}
-Paediatric Surgeon and Urologist, Perth Children's Hospital, Perth, Western Australia {:.author-title}
+**Naeem Samnakay**{:.author-names}
+_Clinical Associate Professor, Division of Surgery, Medical School, The University of Western Australia_ _{:.author-title}
+_Paediatric Surgeon and Urologist, Perth Children's Hospital, Perth, Western Australia_ _{:.author-title}
 {:.attribution}
 
 ---------------
@@ -74,15 +74,15 @@ Testicular microlithiasis, usually incidentally detected on ultrasound scan in c
 
 The commonest mode of presentation of testicular or paratesticular tumor is a painless scrotal mass, noted by the child or carer. Sometimes, a reactive hydrocele may be present. Scrotal swelling may herald review and investigation, and occasionally the mass may be detected incidentally after presentation with trauma, or on ultrasound scan (USS). There may be few other discerning clinical characteristics noted if a scrotal lump is palpated. However, Leydig cell tumors may be associated with signs of precocious puberty, and 10% of Sertoli cell tumors may also present with signs of precocious puberty (25).
 
-USS of the scrotum and testis is a very useful initial investigation. It usually provides a clear indication of location and size of mass, whether solid or cystic, whether diffuse or well defined, whether intratesticular or paratesticular, its vascularity and whether uni or multifocal. Some prepubertal lesions have characteristic features on USS, such as the 'onion peel' layers of an epidermal cyst **(Figure 1)**, lobulated appearance of dermoid cyst **(Figure 2)**, and characteristic cystic appearance of rete dysplasia of the testis **(Figure 3)** (26). Teratomas may have a variegated cystic/solid appearance ([Figure 4](#figure-4){:.figure-inline-link}). Benign lesions tend to display low vascularity on USS. Malignant lesions are usually hypoechoic, solid and homogenous on USS.
+USS of the scrotum and testis is a very useful initial investigation. It usually provides a clear indication of location and size of mass, whether solid or cystic, whether diffuse or well defined, whether intratesticular or paratesticular, its vascularity and whether uni or multifocal. Some prepubertal lesions have characteristic features on USS, such as the 'onion peel' layers of an epidermal cyst ([Figure 1](#figure-1){:.figure-inline-link}), lobulated appearance of dermoid cyst ([Figure 2](#figure-2){:.figure-inline-link}) and characteristic cystic appearance of rete dysplasia of the testis ([Figure 3](#figure-3){:.figure-inline-link}) (26). Teratomas may have a variegated cystic/solid appearance ([Figure 4](#figure-4){:.figure-inline-link}). Benign lesions tend to display low vascularity on USS. Malignant lesions are usually hypoechoic, solid and homogenous on USS.
 
-Figure 1{:#figure-1}{:.figure-number} Ultrasound of Testicular epidermoid cyst, onion peel appearance (Arrow)
+**Figure 1**{:#figure-1}{:.figure-number} Ultrasound of Testicular epidermoid cyst, onion peel appearance (Arrow)
 
-Figure 2{:#figure-2}{:.figure-number} Ultrasound of Testicular dermoid cyst, lobulated cyst filled with debris
+**Figure 2**{:#figure-2}{:.figure-number} Ultrasound of Testicular dermoid cyst, lobulated cyst filled with debris
 
-Figure 3{:#figure-3}{:.figure-number} Ultrasound of Cystic dysplasia rete testis, testis on left and cystic dysplasia on right of image
+**Figure 3**{:#figure-3}{:.figure-number} Ultrasound of Cystic dysplasia rete testis, testis on left and cystic dysplasia on right of image
 
-Figure 4{:#figure-4}{:.figure-number} Ultrasound of Prepubertal testicular teratoma, variegated appearance
+**Figure 4**{:#figure-4}{:.figure-number} Ultrasound of Prepubertal testicular teratoma, variegated appearance
 
 Serum tumor markers may be helpful in discerning benign from malignant lesions. For testicular tumours, alpha-fetoprotein (AFP), beta-human chorionic gonadotropin (BHCG) and Lactate dehydrogenase (LDH) are the most commonly used markers. BHCG is usually not useful in prepubertal tumor evaluation as choriocarcinoma and embryonal carcinoma, which may secrete BHCG, are almost never noted in this age group (7, 27). However, BHCG is very important in the post-pubertal AYA group, where these lesions can occur. AFP is the most important marker in the prepubertal age group, as it is markedly raised in almost all yolk cell tumors, commonly seen in this age group (9). Teratoma may have a mildly elevated AFP, but AFP levels over 100ng/mL have not been reported in prepubertal teratoma (9). This marked difference in AFP levels between benign teratoma and malignant yolk cell tumor also helps in planning for TSS versus radical orchidectomy. It should be noted whilst interpreting AFP levels, that infants up to 8 months of age may have naturally high serum AFP levels (28).
 
@@ -92,9 +92,7 @@ A lesion with clinical and USS characteristics of a benign tumor, and with no el
 
 **Summary of Testicular Tumors in Prepubertal Children**
 
-**(Table 1)**
-
-Table 1: Testicular and Paratesticular Tumors in Childhood
+**Table 1**{:#table-1}{:.table-number} Testicular and Paratesticular Tumors in Childhood
 
 +----------------------------------------------+---------------------------------------------------------+------------------------------------------+-------------------------------+--------------------------------------------+------------------------------------------+
 |                                              |                                                         |                                          | **Benign**                    | **Mostly benign, may be malignant**        | **Malignant**                            |
@@ -146,15 +144,15 @@ GCT=Germ cell tumor, GCNIS=Germ cell neoplasia in situ
 
 ##### 1 Teratoma
 
-These are almost always benign when presenting prepubertally (8). Median age of presentation is 13 months (2). They often have a heterogenous appearance on USS **(Figure 4)** because teratomas can have elements from any or all of the three embryonal germ cell layers - endoderm, mesoderm and ectoderm. Teratomas usually contain mature elements in this age group, with immature elements occasionally reported. Even with immature elements, outcome after TSS is usually good in this age group (30). TSS is usually feasible for prepubertal teratoma, and after successful excision and histological confirmation of benign nature, usually no further follow up is required (27).
+These are almost always benign when presenting prepubertally (8). Median age of presentation is 13 months (2). They often have a heterogenous appearance on USS ([Figure 4](#figure-4){:.figure-inline-link}) because teratomas can have elements from any or all of the three embryonal germ cell layers - endoderm, mesoderm and ectoderm. Teratomas usually contain mature elements in this age group, with immature elements occasionally reported. Even with immature elements, outcome after TSS is usually good in this age group (30). TSS is usually feasible for prepubertal teratoma, and after successful excision and histological confirmation of benign nature, usually no further follow up is required (27).
 
 #####  1.2 Epidermoid cyst
 
-These are benign cysts of ectodermal origin, lined by epithelium that produces keratin. The cyst has a characteristic layered 'onion-peel' appearance on USS **(Figure 1)** (11). They are easily enucleated, so TSS is standard of care. Routine long-term surveillance is not required post-excision, but rare recurrence is reported (26).
+These are benign cysts of ectodermal origin, lined by epithelium that produces keratin. The cyst has a characteristic layered 'onion-peel' appearance on USS ([Figure 1](#figure-1){:.figure-inline-link}) (11). They are easily enucleated, so TSS is standard of care. Routine long-term surveillance is not required post-excision, but rare recurrence is reported (26).
 
 #####  1.3 Dermoid cyst
 
-Dermoid cysts comprise cutaneous-type elements, including appendages such as hair follicles and sebaceous glands. They are benign. USS appearances often show thick walled, smooth contoured cystic lesions with avascular echogenic debris **(Figure 2)** (31, 32). TSS is standard of care, and routine surveillance post excision is not usually required (27).
+Dermoid cysts comprise cutaneous-type elements, including appendages such as hair follicles and sebaceous glands. They are benign. USS appearances often show thick walled, smooth contoured cystic lesions with avascular echogenic debris [Figure 2](#figure-2){:.figure-inline-link} (31, 32). TSS is standard of care, and routine surveillance post excision is not usually required (27).
 
 #### Testicular Malignant GCTs (not GCNIS derived)
 
@@ -180,7 +178,7 @@ These present at a young median age of 6 months, although they can occur at any 
 
 #### Developmental anomalies and cysts
 
-Cystic dysplasia of the rete testis is a rare developmental anomaly that presents as a testicular lump. It is almost always associated with ipsilateral renal agenesis. USS shows the lesion to be cystic, usually at the upper pole of testis, with compression of adjacent normal testicular tissue **(Figure 3)**. Traditionally TSS for the lesion was recommended. Significant rates of recurrence after TSS have been reported. With the characteristic appearance on ultrasound and associated ipsilateral renal anomaly, its benign nature, and increasing reports of regression of the lesion over time, conservative testicular-sparing management with surveillance is now being suggested. A biopsy of the lesion, if there is any doubt about the diagnosis prior to conservative management, may be considered (38, 39).
+Cystic dysplasia of the rete testis is a rare developmental anomaly that presents as a testicular lump. It is almost always associated with ipsilateral renal agenesis. USS shows the lesion to be cystic, usually at the upper pole of testis, with compression of adjacent normal testicular tissue ([Figure 3](#figure-3){:.figure-inline-link}). Traditionally TSS for the lesion was recommended. Significant rates of recurrence after TSS have been reported. With the characteristic appearance on ultrasound and associated ipsilateral renal anomaly, its benign nature, and increasing reports of regression of the lesion over time, conservative testicular-sparing management with surveillance is now being suggested. A biopsy of the lesion, if there is any doubt about the diagnosis prior to conservative management, may be considered (38, 39).
 
 Simple epididymal cysts and intratesticular cysts may occur in childhood. Occasionally they are symptomatic. They are usually amenable to enucleation or deroofing if required.
 
@@ -200,9 +198,9 @@ TSS with focal excision of the lesion is usually considered for rare benign para
 
 Melanotic neuroectodermal tumor of infancy is a rare tumor affecting the epididymal and paratesticular region (20). It is usually benign, but histologically differentiating it from round blue cell malignancies on biopsy can be a challenge. Typically benign, orchidectomy is usually curative; but 10% can display malignant behaviour with recurrence and/or metastases. After surgery, follow up surveillance with cross sectional imaging such as MRI is advised (2).
 
-Paratesticular rhabdomyosarcoma is the most commonly encountered paratesticular malignancy in childhood. It comprises 5% of all intrascrotal malignancies, and 40% of all paratesticular malignancies (43). There is a bimodal peak in incidence, one in the AYA group and one in infants under 6 months of age. The tumor originates from the mesenchymal elements of paratesticular tissues. Presentation is usually with a painless scrotal mass, and a significant proportion have metastatic disease at presentation. USS usually shows a solid paratesticular lesion **(Figure 5)**. Staging abdominal, pelvis and chest CT is required to assess for locoregional and metastatic spread. Tumour markers are usually negative.
+Paratesticular rhabdomyosarcoma is the most commonly encountered paratesticular malignancy in childhood. It comprises 5% of all intrascrotal malignancies, and 40% of all paratesticular malignancies (43). There is a bimodal peak in incidence, one in the AYA group and one in infants under 6 months of age. The tumor originates from the mesenchymal elements of paratesticular tissues. Presentation is usually with a painless scrotal mass, and a significant proportion have metastatic disease at presentation. USS usually shows a solid paratesticular lesion ([Figure 5](#figure-5){:.figure-inline-link}. Staging abdominal, pelvis and chest CT is required to assess for locoregional and metastatic spread. Tumour markers are usually negative.
 
-Figure 5: Ultrasound of Paratesticular Rhabdomyosarcoma, normal testis on left of image, large paratesticular mass on right of image![][5]
+**Figure 5**{:#figure-5}{:.figure-number} Ultrasound of Paratesticular Rhabdomyosarcoma, normal testis on left of image, large paratesticular mass on right of image
 
 A consensus statement from the Children's Oncology Group (COG), the European paediatric Soft tissue sarcoma Study Group (EpSSG) and the Cooperative Weichteilsarkom Studiengruppe (CWS) about surgical management of paratesticular rhabdomyosarcoma has been recently published (44). Radical orchidectomy with en-bloc resection of the tumor, testis and cord to the internal ring, is current recommended surgical management of paratesticular rhabdomyosarcoma. Scrotal approach for resection is contraindicated as it makes proximal clearance at the level of the internal ring difficult; trans-scrotal biopsy should also be avoided as it increases risk of tumor spill.
 
@@ -218,11 +216,9 @@ Testes are a common site of infiltration in leukemia and lymphoma - such as acut
 
 ## TSS and Radical Orchidectomy
 
-Clinical guidelines now strongly recommend TSS for prepubertal testicular tumors that are strongly suspected to be benign on work-up (27). TSS is performed by inguinal approach. Atraumatic vessel clamping of the spermatic cord prior to testicular mobilisation and dissection is considered a standard oncological technique, and allows to minimise bleeding and optimise visualisation of the dissection in the usually small prepubertal organ. **(Figure 6)**.
+Clinical guidelines now strongly recommend TSS for prepubertal testicular tumors that are strongly suspected to be benign on work-up (27). TSS is performed by inguinal approach. Atraumatic vessel clamping of the spermatic cord prior to testicular mobilisation and dissection is considered a standard oncological technique, and allows to minimise bleeding and optimise visualisation of the dissection in the usually small prepubertal organ ([Figure 6](#figure-6){:.figure-inline-link}).
 
-**Figure 6**: TSS - Atraumatic vascular clamp on cord, Leydig cell tumor at lower pole testis
-
-## ![][6]
+**Figure 6**{:#figure-6}{:.figure-number} TSS - Atraumatic vascular clamp on cord, Leydig cell tumor at lower pole testis
 
 Frozen section assessment is useful to help confirm that the lesion is benign and that margins are clear. In many experienced centres, frozen section is not routinely perfomed now for prepubertal tumor-marker-negative lesions with benign clinical and ultrasound characteristics (41). If there is doubt or suspicion of malignancy despite the steps of TSS, then TSS is abandoned and radical orchidectomy is performed. If TSS is successfully performed, the tunica albuginea is sutured closed after lesion resection, and the testis replaced in the scrotum.
 
@@ -230,13 +226,13 @@ In all children with clinically suspected testicular and paratesticular malignan
 
 ## Clinical Staging for Malignant Tumors
 
-The Children's Oncology Group (COG) use a Stage I-IV clinical staging system for prepubertal testicular malignancies **(Table 2)**. Stage I is essentially disease localised to the testis at time of resection.
+The Children's Oncology Group (COG) use a Stage I-IV clinical staging system for prepubertal testicular malignancies ([Table 2](#table-2){:.table-inline-link}). Stage I is essentially disease localised to the testis at time of resection.
 
-Table 2: Children's Oncology Group Staging for Testicular Tumors
+**Table 2**{:#table-2}{:.table-number} Children's Oncology Group Staging for Testicular Tumors
 
-+----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
++----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Stage          |                                                                                                                                                                 |
-+================+=================================================================================================================================================================+
++================|=================================================================================================================================================================+
 | I              | Limited to testis, completely resected by high inguinal orchidectomy; no clinical, radiographic, or histologic evidence of disease beyond the testes            |
 |                |                                                                                                                                                                 |
 |                | Patients with normal or unknown tumor markers at diagnosis must have a negative ipsilateral RPLND to confirm stage I disease if imaging demonstrates LNs \>2 cm |
@@ -254,9 +250,9 @@ Table 2: Children's Oncology Group Staging for Testicular Tumors
 | IV             | Distant metastases, including liver                                                                                                                             |
 +----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-The American Joint Commission on Cancer (AJCC) generally uses the Tumor (T), Nodes (N) and Metastases (M) system with an S delineation for post surgical tumor markers (Table 3).
+The American Joint Commission on Cancer (AJCC) generally uses the Tumor (T), Nodes (N) and Metastases (M) system with an S delineation for post surgical tumor markers ([Table 3](#table-3){:.table-inline-link}).
 
-Table 3: AJCC Staging
+**Table 3**{:#table-3}{:.table-number} AJCC Staging
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   T-Primary Tumor                                                                                                                                        N-Regional LNs                                                                                                             M-Distant Metastasis                                               S-Serum Tumor Markers
