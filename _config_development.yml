@@ -30,39 +30,65 @@ plugins:
   - jekyll-timeago
   - jekyll-last-modified-at
   - jekyll-sitemap
+  - jekyll-scholar
 
 # Sitemap settings
 defaults:
-  -
-    scope:
-      path:            "assets/ajax/*"
-    values:
-      sitemap:         false
-  -
-    scope:
-      path:            "assets/css/*"
-    values:
-      sitemap:         false
-  -
-    scope:
-      path:            "assets/js/*"
-    values:
-      sitemap:         false
-  -
-    scope:
-      path:            "assets/vendor/*"
-    values:
-      sitemap:         false
-  -
-    scope:
-      path:            "assets/fonts/*"
-    values:
-      sitemap:         false
-  -
-    scope:
-      path:            "_r/*"
-    values:
-      sitemap:         false
+-
+  scope:
+    path:            "assets/ajax/*"
+  values:
+    sitemap:         false
+-
+  scope:
+    path:            "assets/csl/*"
+  values:
+    sitemap:         false
+-
+  scope:
+    path:            "assets/css/*"
+  values:
+    sitemap:         false
+-
+  scope:
+    path:            "assets/figures/*"
+  values:
+    sitemap:         false
+-
+  scope:
+    path:            "assets/fonts/*"
+  values:
+    sitemap:         false
+-
+  scope:
+    path:            "assets/js/*"
+  values:
+    sitemap:         false
+-
+  scope:
+    path:            "assets/pdfs/*"
+  values:
+    sitemap:         false
+-
+  scope:
+    path:            "assets/site-img/*"
+  values:
+    sitemap:         false
+-
+  scope:
+    path:            "assets/vendor/*"
+  values:
+    sitemap:         false
+-
+  scope:
+    path:            "assets/fonts/*"
+  values:
+    sitemap:         false
+-
+  scope:
+    path:            "_r/*"
+  values:
+    sitemap:         false
 
 # Language / Polyglot settings
 languages: ["en","es","zh","pt"]
