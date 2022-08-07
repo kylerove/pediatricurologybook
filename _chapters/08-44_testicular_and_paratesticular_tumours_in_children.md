@@ -198,7 +198,7 @@ TSS with focal excision of the lesion is usually considered for rare benign para
 
 Melanotic neuroectodermal tumor of infancy is a rare tumor affecting the epididymal and paratesticular region (20). It is usually benign, but histologically differentiating it from round blue cell malignancies on biopsy can be a challenge. Typically benign, orchidectomy is usually curative; but 10% can display malignant behaviour with recurrence and/or metastases. After surgery, follow up surveillance with cross sectional imaging such as MRI is advised (2).
 
-Paratesticular rhabdomyosarcoma is the most commonly encountered paratesticular malignancy in childhood. It comprises 5% of all intrascrotal malignancies, and 40% of all paratesticular malignancies (43). There is a bimodal peak in incidence, one in the AYA group and one in infants under 6 months of age. The tumor originates from the mesenchymal elements of paratesticular tissues. Presentation is usually with a painless scrotal mass, and a significant proportion have metastatic disease at presentation. USS usually shows a solid paratesticular lesion ([Figure 5](#figure-5){:.figure-link}. Staging abdominal, pelvis and chest CT is required to assess for locoregional and metastatic spread. Tumour markers are usually negative.
+Paratesticular rhabdomyosarcoma is the most commonly encountered paratesticular malignancy in childhood. It comprises 5% of all intrascrotal malignancies, and 40% of all paratesticular malignancies (43). There is a bimodal peak in incidence, one in the AYA group and one in infants under 6 months of age. The tumor originates from the mesenchymal elements of paratesticular tissues. Presentation is usually with a painless scrotal mass, and a significant proportion have metastatic disease at presentation. USS usually shows a solid paratesticular lesion ([Figure 5](#figure-5){:.figure-link}). Staging abdominal, pelvis and chest CT is required to assess for locoregional and metastatic spread. Tumour markers are usually negative.
 
 **Figure 5**{:#figure-5}{:.figure-number} Ultrasound of Paratesticular Rhabdomyosarcoma, normal testis on left of image, large paratesticular mass on right of image
 
@@ -276,7 +276,7 @@ The American Joint Commission on Cancer (AJCC) generally uses the Tumor (T), Nod
 
 AFP: alpha fetoprotein; hCG : beta human chorionic gonadotropin; LDH: lactate dehydrogenase; LN: lymph node; LVI: lymphovascular invasion; N: normal; c: clinical; p: pathologic; T: primary tumor; N: regional lymph nodes; M: metastasis; S: serum tumor markers.
 
-The now superceded Intergroup Rhabdomyosarcoma Studies (IRS) established both a 'grouping' system based on surgical resectability, and an IRS- modified TNM Staging system for paratesticular rhabdomyosarcoma.
+The now superceded Intergroup Rhabdomyosarcoma Studies (IRS) established both a 'grouping' system based on surgical resectability, and an IRS-modified TNM Staging system for paratesticular rhabdomyosarcoma.
 
 ## Complications of treatment
 
@@ -309,3 +309,21 @@ Paratesticular rhabdomyosarcoma is the commonest paratesticular malignancy in ch
 ## References
 
 {% bibliography --file 08-44 %}
+
+*[AFP]: alfa-fetoprotein
+*[AJCC]: American Joint Commission on Cancer
+*[AMH]: anti-mullerian hormone
+*[AYA]: adolescent, young adult
+*[CT]: computed tomography
+*[GCT]: germ cell tumor
+*[HCG]: human chorionic gonadotropin
+*[LDH]: lactate dehydrogenase
+*[LN]: lymph node
+*[LVI]: lymphovascular invasion
+*[MRI]: magnetic resonance imaging
+*[COG]: Children's Oncology Group
+*[RLND]: radical lymph node dissection
+*[RPLND]: retroperitoneal lymph node dissection
+*[TNM]: tumor nodal metastasis staging system
+*[TSS]: testis-sparing surgery
+*[USS]: ultrasound study
