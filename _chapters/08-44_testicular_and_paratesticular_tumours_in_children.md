@@ -16,9 +16,9 @@ toc: true
 review-formatting-complete: KR-2022-08-06
 ---
 
-Naeem Samnakay {:.author-names}  
-Clinical Associate Professor, Division of Surgery, Medical School, The University of Western Australia {:.author-title}  
-Paediatric Surgeon and Urologist, Perth Children's Hospital, Perth, Western Australia {:.author-title}  
+Naeem Samnakay {:.author-names}
+Clinical Associate Professor, Division of Surgery, Medical School, The University of Western Australia {:.author-title}
+Paediatric Surgeon and Urologist, Perth Children's Hospital, Perth, Western Australia {:.author-title}
 {:.attribution}
 
 ---------------
