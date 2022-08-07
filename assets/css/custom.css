@@ -637,7 +637,6 @@ a.citation {
 a.figure-link, a.table-link {
   display: inline;
   text-decoration: none;
-  margin-right: 0.3em;
   padding: 0.1em 1.2em 0.1em 0;
   background: url("/assets/img/icon-link-blue.svg") right center no-repeat;
   background-size: 1em auto;
@@ -656,9 +655,20 @@ a.figure-link, a.table-link {
 .bibliography {
   font-size: 0.9em;
   color: #202020;
+  background-color: #f9f9f9;
+  border: 1px solid #c9c9c9;
+  border-radius: 8px; 
 }
 
 .bibliography span[style="text-decoration: underline"] {
-  color: #404040 !important;
+  color: #707070 !important;
   text-decoration: none !important;
+}
+
+.bibliography li {
+  display: flex;
+}
+
+.bibliography li span {
+  flex-grow: 1;
 }

@@ -3,9 +3,15 @@ layout: book
 title: Table of Contents
 permalink: /book/
 lang: en
+breadcrumbs:
+  - 
+	title: Home
+	permalink: /
+  - 
+	title: Book
+	permalink: /book/
+toc:false
 ---
-
-# Table of Contents
 
 <div id="toc" markdown="1" style="column-count:2">
 
