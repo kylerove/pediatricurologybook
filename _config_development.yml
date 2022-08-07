@@ -26,7 +26,6 @@ plugins:
   - jekyll-polyglot
   - jekyll-seo-tag
   - jekyll-toc
-  - jekyll_figure
   - jekyll-timeago
   - jekyll-last-modified-at
   - jekyll-sitemap

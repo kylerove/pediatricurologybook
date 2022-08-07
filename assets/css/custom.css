@@ -700,6 +700,8 @@ a.figure-link, a.table-link {
 
 .key-points-head {
   background: color(display-p3 0.387 0.843 0.988);
+  border: 1px solid #e1e1e1;
+  border-bottom: 1px solid #c9c9c9;
   border-top-left-radius: 0.3em;
   border-top-right-radius: 0.3em;
   color: rgb(0, 0, 0);
@@ -708,15 +710,17 @@ a.figure-link, a.table-link {
   text-transform: uppercase;
   letter-spacing: 0.1em;
   line-height: normal;
-  margin: 0 -0.85em;
+  margin: 0;
   padding: 1em 0 0 0;
 }
 
 .key-points-list {
   background: #f3f1e8;
+  border: 1px solid #e1e1e1;
+  border-top: 0;
   border-bottom-left-radius: 0.3em;
   border-bottom-right-radius: 0.3em;
   border: none;
-  margin: 1em 0;
-  padding: 0 0 1em 0;
+  margin: 0 3em;
+  padding: 1em 0 0 0;
 }
