@@ -249,7 +249,7 @@ The American Joint Commission on Cancer (AJCC) generally uses the Tumor (T), Nod
 
 AFP: alpha fetoprotein; hCG : beta human chorionic gonadotropin; LDH: lactate dehydrogenase; LN: lymph node; LVI: lymphovascular invasion; N: normal; c: clinical; p: pathologic; T: primary tumor; N: regional lymph nodes; M: metastasis; S: serum tumor markers.
 
-The now superceded Intergroup Rhabdomyosarcoma Studies (IRS) established both a 'grouping' system based on surgical resectability, and an IRS- modified TNM Staging system for paratesticular rhabdomyosarcoma.
+The now superseded Intergroup Rhabdomyosarcoma Studies (IRS) established both a 'grouping' system based on surgical resectability, and an IRS- modified TNM Staging system for paratesticular rhabdomyosarcoma.
 
 ## Complications of Treatment
 
