@@ -72,7 +72,6 @@ GEM
       nokogiri (~> 1.10)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    jekyll_figure (0.0.3)
     json (2.5.1)
     json-minify (0.0.3)
       json (> 0)
@@ -110,6 +109,7 @@ GEM
     uglifier (4.2.0)
       execjs (>= 0.3.0, < 3)
     unicode-display_width (1.7.0)
+    webrick (1.7.0)
 
 PLATFORMS
   ruby
@@ -124,10 +124,10 @@ DEPENDENCIES
   jekyll-sitemap (~> 1.4.0)
   jekyll-timeago (~> 0.13.1)
   jekyll-toc (~> 0.14.0)
-  jekyll_figure (~> 0.0.3)
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
+  webrick (~> 1.7)
 
 BUNDLED WITH
-   2.1.4
+   2.3.19

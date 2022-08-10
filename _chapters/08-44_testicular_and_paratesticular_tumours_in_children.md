@@ -26,9 +26,12 @@ _Paediatric Surgeon and Urologist, Perth Children's Hospital, Perth, Western Aus
 ## Introduction
 
 Testicular and paratesticular tumours are uncommon in children. They can be primary or secondary, benign or malignant. This chapter gives an overview of the range of lesions clinically encountered in children. Intratesticular lesions are considered, for clinical relevance, in two pediatric age groupings:
+{:.drop-caps}
 
--   The prepubertal child
--   The adolescent and young adult (AYA)
+<a href="#" class="btn btn-primary btn-rounded btn-with-arrow-solid mb-2">Primary<span><i class="fas fa-chevron-right"></i></span></a>
+
+- The prepubertal child
+- The adolescent and young adult (AYA)
 
 In either of these age groups, testicular tumors have characteristic features to consider, impacting on management and outcome. Testicular sparing surgery (TSS) can be planned for most of the benign prepubertal testicular lesions; whereas most AYA tumors are suspected to be malignant from the outset, and radical orchidectomy is standard surgical care for primary intratesticular testicular or paratesticular malignancy.
 
@@ -84,7 +87,7 @@ USS of the scrotum and testis is a very useful initial investigation. It usually
 
 **Figure 4**{:#figure-4}{:.figure-number} Ultrasound of Prepubertal testicular teratoma, variegated appearance
 
-Serum tumor markers may be helpful in discerning benign from malignant lesions. For testicular tumours, alpha-fetoprotein (AFP), beta-human chorionic gonadotropin (BHCG) and Lactate dehydrogenase (LDH) are the most commonly used markers. BHCG is usually not useful in prepubertal tumor evaluation as choriocarcinoma and embryonal carcinoma, which may secrete BHCG, are almost never noted in this age group.[7, 27] However, BHCG is very important in the post-pubertal AYA group, where these lesions can occur. AFP is the most important marker in the prepubertal age group, as it is markedly raised in almost all yolk cell tumors, commonly seen in this age group.[9] Teratoma may have a mildly elevated AFP, but AFP levels over 100ng/mL have not been reported in prepubertal teratoma.[9] This marked difference in AFP levels between benign teratoma and malignant yolk cell tumor also helps in planning for TSS versus radical orchidectomy. It should be noted whilst interpreting AFP levels, that infants up to 8 months of age may have naturally high serum AFP levels.[28]
+Serum tumor markers may be helpful in discerning benign from malignant lesions. For testicular tumours, alpha-fetoprotein (AFP), beta-human chorionic gonadotropin (BHCG) and Lactate dehydrogenase (LDH) are the most commonly used markers. BHCG is usually not useful in prepubertal tumor evaluation as choriocarcinoma and embryonal carcinoma, which may secrete BHCG, are almost never noted in this age group.[7,27] However, BHCG is very important in the post-pubertal AYA group, where these lesions can occur. AFP is the most important marker in the prepubertal age group, as it is markedly raised in almost all yolk cell tumors, commonly seen in this age group.[9] Teratoma may have a mildly elevated AFP, but AFP levels over 100ng/mL have not been reported in prepubertal teratoma.[9] This marked difference in AFP levels between benign teratoma and malignant yolk cell tumor also helps in planning for TSS versus radical orchidectomy. It should be noted whilst interpreting AFP levels, that infants up to 8 months of age may have naturally high serum AFP levels.[28]
 
 Clinical characteristics, imaging characteristics of the lesion, and serum tumor marker levels will help guide further management. If the lesion is suspected to be malignant, staging abdominal pelvic and chest CT to assess for locoregional spread and metastases would be important. 20% of prepubertal yolk cell tumors have lung metastases at presentation.[29]
 
@@ -152,7 +155,7 @@ These are benign cysts of ectodermal origin, lined by epithelium that produces k
 
 #####  1.3 Dermoid cyst
 
-Dermoid cysts comprise cutaneous-type elements, including appendages such as hair follicles and sebaceous glands. They are benign. USS appearances often show thick walled, smooth contoured cystic lesions with avascular echogenic debris [Figure 2](#figure-2){:.figure-link}.[31, 32] TSS is standard of care, and routine surveillance post excision is not usually required.[27]
+Dermoid cysts comprise cutaneous-type elements, including appendages such as hair follicles and sebaceous glands. They are benign. USS appearances often show thick walled, smooth contoured cystic lesions with avascular echogenic debris [Figure 2](#figure-2){:.figure-link}.[31,32] TSS is standard of care, and routine surveillance post excision is not usually required.[27]
 
 #### Testicular Malignant GCTs (not GCNIS derived)
 
@@ -160,17 +163,17 @@ Dermoid cysts comprise cutaneous-type elements, including appendages such as hai
 
 This is the commonest intratesticular malignancy in the prepubertal child.The usual age of presentation is in the early peak under age 3, at median 16 months of age.[9] The tumors are usually solid and homogenous usually on USS. Serum AFP is markedly elevated. 80% of prepubertal yolk cell tumors are stage 1 at presentation.[33] 20% have lung metastases at presentation.[2] If a yolk sac tumor is suspected, staging CT chest, abdomen and pelvis should be performed, and radical orchidectomy planned. Radical lymph node dissection (RLND) is not routinely performed for prepubertal yolk cell tumor, as hematogenous spread without locoregional spread is common in yolk cell tumor; which RLND, with its significant risk of morbidity, will not address.[34]
 
-For confirmed Stage 1 disease, with normalisation of serum AFP post surgery, chemotherapy is usually not required. Recurrence rates are around 20% . Regular post-surgical oncological surveillance with AFP level screening plus imaging such as MRI is thus advised, and salvage rates after treatment of recurrence are excellent.[2, 35] For clinical stage 2 disease with lymph node involvement, and metatstatic disease, chemotherapy is indicated in most protocols. Platinum-based chemotherapy is highly effective for yolk sac tumor. RLND is reserved for locoregional residual or recurrent disease.[2, 33]
+For confirmed Stage 1 disease, with normalisation of serum AFP post surgery, chemotherapy is usually not required. Recurrence rates are around 20% . Regular post-surgical oncological surveillance with AFP level screening plus imaging such as MRI is thus advised, and salvage rates after treatment of recurrence are excellent.[2, 35] For clinical stage 2 disease with lymph node involvement, and metatstatic disease, chemotherapy is indicated in most protocols. Platinum-based chemotherapy is highly effective for yolk sac tumor. RLND is reserved for locoregional residual or recurrent disease.[2,33]
 
 #### Testicular Sex cord and Stromal tumors
 
 #####  3.1 Juvenile Granulosa cell tumors
 
-These usually benign tumors usually occur in infants, and are the most common neonatal testicular tumors. Histologically, they are comprised of sheets of granulosa like cells, often with cystic change.[16, 36] TSS is usually successful and curative, recurrences have not been reported, and long-term surveillance after excision is not usually required.[27]
+These usually benign tumors usually occur in infants, and are the most common neonatal testicular tumors. Histologically, they are comprised of sheets of granulosa like cells, often with cystic change.[16,36] TSS is usually successful and curative, recurrences have not been reported, and long-term surveillance after excision is not usually required.[27]
 
 #####  3.2 Leydig cell tumors
 
-In children Leydig cell tumors are usually benign, although they can be malignant in adults. Leydig cell tumors usually present in children of around 5-10 years of age.[14, 15] Most present as a painless testicular mass. However, Leydig cell tumors can present with precocious puberty due to testosterone production . In addition, 10-15% of children with Leydig cell tumors can have signs of feminisation such as gynaecomastia due to estradiol secretion.[2] The intraoperative appearance of Leydig cell tumors is of yellow homogenous nodules. In prepubertal children, TSS is recommended as Leydig cell tumors are almost always benign in this age group. If precocious puberty is an associated feature, then endocrinology review and follow up is advised. Pubertal changes do not reverse after the tumor is excised, as the pubertal hormonal axis has been activated.[2]
+In children Leydig cell tumors are usually benign, although they can be malignant in adults. Leydig cell tumors usually present in children of around 5-10 years of age.[14,15] Most present as a painless testicular mass. However, Leydig cell tumors can present with precocious puberty due to testosterone production . In addition, 10-15% of children with Leydig cell tumors can have signs of feminisation such as gynaecomastia due to estradiol secretion.[2] The intraoperative appearance of Leydig cell tumors is of yellow homogenous nodules. In prepubertal children, TSS is recommended as Leydig cell tumors are almost always benign in this age group. If precocious puberty is an associated feature, then endocrinology review and follow up is advised. Pubertal changes do not reverse after the tumor is excised, as the pubertal hormonal axis has been activated.[2]
 
 #####  3.3 Sertoli cell tumors
 
@@ -178,7 +181,7 @@ These present at a young median age of 6 months, although they can occur at any 
 
 #### Developmental anomalies and cysts
 
-Cystic dysplasia of the rete testis is a rare developmental anomaly that presents as a testicular lump. It is almost always associated with ipsilateral renal agenesis. USS shows the lesion to be cystic, usually at the upper pole of testis, with compression of adjacent normal testicular tissue ([Figure 3](#figure-3){:.figure-link}). Traditionally TSS for the lesion was recommended. Significant rates of recurrence after TSS have been reported. With the characteristic appearance on ultrasound and associated ipsilateral renal anomaly, its benign nature, and increasing reports of regression of the lesion over time, conservative testicular-sparing management with surveillance is now being suggested. A biopsy of the lesion, if there is any doubt about the diagnosis prior to conservative management, may be considered.[38, 39]
+Cystic dysplasia of the rete testis is a rare developmental anomaly that presents as a testicular lump. It is almost always associated with ipsilateral renal agenesis. USS shows the lesion to be cystic, usually at the upper pole of testis, with compression of adjacent normal testicular tissue ([Figure 3](#figure-3){:.figure-link}). Traditionally TSS for the lesion was recommended. Significant rates of recurrence after TSS have been reported. With the characteristic appearance on ultrasound and associated ipsilateral renal anomaly, its benign nature, and increasing reports of regression of the lesion over time, conservative testicular-sparing management with surveillance is now being suggested. A biopsy of the lesion, if there is any doubt about the diagnosis prior to conservative management, may be considered.[38,39]
 
 Simple epididymal cysts and intratesticular cysts may occur in childhood. Occasionally they are symptomatic. They are usually amenable to enucleation or deroofing if required.
 
@@ -288,6 +291,90 @@ Chemotherapy side effects such as cisplatin nephrotoxicity and peripheral neurop
 
 Long term negative effects of chemo and radiotherapy include fertility impairment and secondary malignancies.
 
+<section class="section bg-color-primary section-height-3 border-0 mt-4 mb-0">
+  <div class="container">
+
+    <div class="row">
+      <div class="col-md-10 py-3 mx-md-auto">
+        <div class="row pt-2 clearfix">
+          <div class="col-lg-6">
+            <div class="feature-box feature-box-style-2 reverse appear-animation animated fadeInRightShorter appear-animation-visible" data-appear-animation="fadeInRightShorter" style="animation-delay: 100ms;">
+              <div class="feature-box-icon">
+                <i class="icon-user-following icons text-color-light"></i>
+              </div>
+              <div class="feature-box-info">
+                <h4 class="mb-2 text-5 text-color-light">Customer Support</h4>
+                <p class="mb-4 text-color-light opacity-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia iaculis nulla.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="feature-box feature-box-style-2 appear-animation animated fadeInLeftShorter appear-animation-visible" data-appear-animation="fadeInLeftShorter" style="animation-delay: 100ms;">
+              <div class="feature-box-icon">
+                <i class="icon-layers icons text-color-light"></i>
+              </div>
+              <div class="feature-box-info">
+                <h4 class="mb-2 text-5 text-color-light">Sliders</h4>
+                <p class="mb-4 text-color-light opacity-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia iaculis nulla.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-6">
+            <div class="feature-box feature-box-style-2 reverse appear-animation animated fadeInRightShorter appear-animation-visible" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200" style="animation-delay: 200ms;">
+              <div class="feature-box-icon">
+                <i class="icon-calculator icons text-color-light"></i>
+              </div>
+              <div class="feature-box-info">
+                <h4 class="mb-2 text-5 text-color-light">HTML5</h4>
+                <p class="mb-4 text-color-light opacity-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia iaculis nulla.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="feature-box feature-box-style-2 appear-animation animated fadeInLeftShorter appear-animation-visible" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="200" style="animation-delay: 200ms;">
+              <div class="feature-box-icon">
+                <i class="icon-star icons text-color-light"></i>
+              </div>
+              <div class="feature-box-info">
+                <h4 class="mb-2 text-5 text-color-light">Icons</h4>
+                <p class="mb-4 text-color-light opacity-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia iaculis nulla.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-6">
+            <div class="feature-box feature-box-style-2 reverse appear-animation animated fadeInRightShorter appear-animation-visible" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="400" style="animation-delay: 400ms;">
+              <div class="feature-box-icon">
+                <i class="icon-drop icons text-color-light"></i>
+              </div>
+              <div class="feature-box-info">
+                <h4 class="mb-2 text-5 text-color-light">Colors</h4>
+                <p class="mb-0 text-color-light opacity-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia iaculis nulla.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="feature-box feature-box-style-2 appear-animation animated fadeInLeftShorter appear-animation-visible" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="400" style="animation-delay: 400ms;">
+              <div class="feature-box-icon">
+                <i class="icon-mouse icons text-color-light"></i>
+              </div>
+              <div class="feature-box-info">
+                <h4 class="mb-2 text-5 text-color-light">Buttons</h4>
+                <p class="mb-0 text-color-light opacity-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia iaculis nulla.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+</section>
+
 ### Suggested Follow up and Surveillance after treatment
 
 Confirmed benign lesions with clear margins such as prepubertal teratoma do not generally require routine long term surveillance after TSS. However, clinical guidelines suggest initial post surgical follow up with ultrasound scan 3-6 monthly for the first post-operative year.[27]
@@ -324,10 +411,12 @@ Paratesticular rhabdomyosarcoma is the commonest paratesticular malignancy in ch
 *[AJCC]: American Joint Commission on Cancer
 *[AMH]: anti-mullerian hormone
 *[AYA]: adolescent, young adult
+*[AYAs]: adolescent, young adult
 *[CT]: computed tomography
 *[GCT]: germ cell tumor
 *[GCTs]: germ cell tumors
 *[GCNIS]: germ cell neoplasia in situ
+*[BHCG]: human chorionic gonadotropin
 *[HCG]: human chorionic gonadotropin
 *[LDH]: lactate dehydrogenase
 *[LN]: lymph node
