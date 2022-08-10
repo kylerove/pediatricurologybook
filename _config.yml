@@ -88,6 +88,11 @@ defaults:
       path:            "_r/*"
     values:
       sitemap:         false
+  -
+    scope:
+      path:            "book/*"
+    values:
+      js:              /assets/js/pages/chapter.js
 
 # Language / Polyglot settings
 languages: ["en","es","zh","pt"]

@@ -177,7 +177,7 @@ body, div.body {
   }
 
 header,#header .header-body {
-  border-top: 5px solid #EDEDED;
+  /*border-top: 5px solid #EDEDED;*/
   background: linear-gradient(#f6f6f6, #ffffff);
   border-bottom: 1px solid rgb(224, 228, 232);
   box-shadow: 0 0 3px rgba(0, 0, 0, 0.20);
@@ -597,48 +597,89 @@ color: #2F68AD;
 }
 
 table {
-    border-collapse: collapse;
-    border-bottom: 1px solid #666;
-    text-align: center;
+    border-collapse: separate;
+    text-align: left;
     vertical-align: middle;
     margin-bottom: 30px;
+    padding: 0;
+    border-bottom-left-radius: 0.3em;
+    border-bottom-right-radius: 0.3em;
+    border-bottom: 8px solid #FFC300;
+    border-left: 8px solid #FFC300;
+    border-right: 8px solid #FFC300;
+}
+.chapter img {
+  margin-bottom: 8px;
+  padding: 0;
 }
 
 th, td {
   border:0;
   padding: 8px;
+  border-bottom: 1px solid #ddd;
 }
 
 thead {
-    background-color: #333;
+    background-color: #666;
     color: white;
     font-size: 0.875rem;
     text-transform: uppercase;
     letter-spacing: 2%;
-}
-
-tr {
-  border-bottom: 1px solid #eee;
-}
-
-a.citation:before {
-  content:"\f3be";
-  font-family:"Font Awesome 5 Free";
-  font-size: 0.8em;
-  vertical-align: super;
+    border-bottom: 1px solid #ddd;
 }
 
 a.citation {
-  font-size: 0.8em;
-  margin-left: 2px;
-  cursor: pointer;
+  display: inline-block;
+  height: 18px;
+  text-decoration: none;
+  color: #FE423D;
+  padding: 0px 12px 0px 3px;
+  border-radius:2px;
+  background: url("/assets/img/icon-ref-link-red.svg") right center no-repeat;
+  background-size: 0.7em 0.7em;
+  line-height:18px;
+}
+
+a.citation span {
+  /*vertical-align: baseline !important;*/
+  color: #FE423D;
+  text-decoration: none;
+  font-weight:400;
+  font-size:0.9em;
+}
+
+a.citation:hover {
+  background-color:#FE423D !important;
+  color:#fff;
+  background: url("/assets/img/icon-ref-link-white.svg") right center no-repeat;
+  background-size: 0.7em 0.7em;
+  text-decoration: none;
+  border-radius:2px;
+}
+
+a.citation:hover span {
+  color: #fff;
+  text-decoration: none;
+  font-weight:400;
+  font-size:0.9em;
 }
 
 a.figure-link, a.table-link {
   display: inline;
   text-decoration: none;
-  padding: 0.1em 1.2em 0.1em 0;
+  padding: 0.1em 1.2em 0.1em 0.2em;
   background: url("/assets/img/icon-link-blue.svg") right center no-repeat;
+  background-size: 1em auto;
+  border-right: 2px solid transparent;
+}
+
+a.figure-link:hover, a.table-link:hover {
+  color:#fff;
+  background-color: #006BB2 !important;
+  text-decoration: none;
+  border-radius:2px;
+  border-right: 2px solid #006BB2;
+  background: url("/assets/img/icon-link-white.svg") right center no-repeat;
   background-size: 1em auto;
 }
 
@@ -652,7 +693,47 @@ a.figure-link, a.table-link {
   letter-spacing: .1em;
 }
 
-.bibliography {
+p:has(> strong.table-number) {
+  margin-bottom: 0;
+  padding: 8px 12px;
+  background-color: #FFC300;
+  border-top-left-radius: 0.3em;
+  border-top-right-radius: 0.3em;
+  color: #000;
+}
+
+p.p-table-number {
+  margin-bottom: 0;
+  padding: 8px 12px;
+  background-color: #FFC300;
+  border-top-left-radius: 0.3em;
+  border-top-right-radius: 0.3em;
+  color: #000;
+}
+
+p:has(> strong.figure-number) {
+  margin-top 0;
+  margin-bottom: 30px;
+  padding: 8px 12px;
+  background-color: #00DAFF;
+  border-radius: 0.3em;
+  color: #000;
+  width: 60%;
+  line-height: 1.3em;
+}
+
+p.p-figure-number {
+  margin-top 0;
+  margin-bottom: 30px;
+  padding: 8px 12px;
+  background-color: #00DAFF;
+  border-radius: 0.3em;
+  color: #000;
+  width: 60%;
+  line-height: 1.3em;
+}
+
+.bibliography,.attribution {
   font-size: 0.9em;
   color: #202020;
   background-color: #f6f6f6;
@@ -660,6 +741,10 @@ a.figure-link, a.table-link {
   border-radius: 7px;
   padding: 15px 15px 15px 40px;
   list-style-type: decimal;
+}
+
+.attribution {
+  padding: 10px 15px;
 }
 
 .bibliography span[style="text-decoration: underline"] {
@@ -680,6 +765,7 @@ a.figure-link, a.table-link {
   display: block;
   position: absolute;
   top: 2px;
+  color: #FE423D;
 }
 
 .bibliography li a[data-pubmed="1"] {
@@ -694,15 +780,19 @@ a.figure-link, a.table-link {
   text-decoration: none;
 }
 
+.author-names {
+  font-size: 1.5em;
+}
+
 .key-points-head {
-  background: color(display-p3 0.387 0.843 0.988);
-  border: 1px solid #e1e1e1;
-  border-bottom: 1px solid #c9c9c9;
+  background: #FE423D;
+  /*border: 1px solid #e1e1e1;*/
+  /*border-bottom: 1px solid #c9c9c9;*/
   border-top-left-radius: 0.3em;
   border-top-right-radius: 0.3em;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   font-weight: 600;
-  font-size: 1.2em;
+  font-size: 1.4em;
   text-transform: uppercase;
   letter-spacing: 0.1em;
   line-height: normal;
@@ -711,12 +801,18 @@ a.figure-link, a.table-link {
 }
 
 .key-points-list {
-  background: #f3f1e8;
-  border: 1px solid #e1e1e1;
-  border-top: 0;
+  background: #FE423D;
+  /*border: 1px solid #e1e1e1;*/
   border-bottom-left-radius: 0.3em;
   border-bottom-right-radius: 0.3em;
-  border: none;
   margin: 0;
+  margin-bottom:20px;
   padding: 1em 3em;
+  color: #ffffff;
+  font-weight: 200;
+  font-size: 1.2em;
+}
+
+p.drop-caps:first-letter {
+  font-family: Poppins;
 }

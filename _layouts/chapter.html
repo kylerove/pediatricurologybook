@@ -8,7 +8,7 @@ layout: default
         <div class="container">
           <div class="row">
             <div class="col-md-8 order-2 order-md-1 align-self-center p-static">
-              <h1 class="" data-plugin-sticky data-plugin-options="{'minWidth': 991, 'containerSelector': '.main', 'padding': {'top': 110}}">{{ page.chapter }}: {{ page.title }}</h1>
+              <h1>{{ page.chapter }}: {{ page.title }}</h1>
             </div>
             
             <div class="col-md-4 order-1 order-md-2 align-self-center">
@@ -25,7 +25,7 @@ layout: default
       <div class="container chapter">
           <div class="row">
             <div class="col-lg-3 order-2 order-lg-1 mt-4 mt-lg-0">
-              <aside class="sidebar" data-plugin-sticky data-plugin-options="{'minWidth': 991, 'containerSelector': '.container', 'padding': {'top': 127}}">
+              <aside class="sidebar">
                 <h5 class="font-weight-bold no_toc">{{ translation.chapter-contents }}</h5>
     
             {{ content | toc_only }}
