@@ -318,5 +318,5 @@ Paratesticular rhabdomyosarcoma is the commonest paratesticular malignancy in ch
 *[AJCC]: American Joint Committee on Cancer
 *[IU]: international unit
 *[LVI]: lymphovascular invasion
-*[TNM]: tumor, nodal, metastasis staging
+*[TNM]: tumor, nodal, metastasis staging system
 *[IRS]: Intergroup Rhabdomyosarcoma Studies
