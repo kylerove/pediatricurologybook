@@ -597,17 +597,24 @@ color: #2F68AD;
 }
 
 table {
-    border-collapse: separate;
+    border-collapse: collapse;
     text-align: left;
     vertical-align: middle;
-    margin-bottom: 30px;
+    margin: 8px;
     padding: 0;
-    border-bottom-left-radius: 0.3em;
-    border-bottom-right-radius: 0.3em;
-    border-bottom: 8px solid #FFC300;
-    border-left: 8px solid #FFC300;
-    border-right: 8px solid #FFC300;
 }
+
+div.table-wrapper {
+    border-radius: 0.3em;
+    background-color: #FFC300;
+    margin-bottom: 30px
+    padding:8px;
+}
+
+div.table-box {
+  margin-bottom: 30px;
+}
+
 .chapter img {
   margin-bottom: 8px;
   padding: 0;
@@ -617,6 +624,10 @@ th, td {
   border:0;
   padding: 8px;
   border-bottom: 1px solid #ddd;
+}
+
+td {
+  background-color: #fff;
 }
 
 thead {
@@ -695,7 +706,7 @@ a.figure-link:hover, a.table-link:hover {
 
 p:has(> strong.table-number) {
   margin-bottom: 0;
-  padding: 8px 12px;
+  padding: 8px 0 0 12px;
   background-color: #FFC300;
   border-top-left-radius: 0.3em;
   border-top-right-radius: 0.3em;
@@ -704,7 +715,7 @@ p:has(> strong.table-number) {
 
 p.p-table-number {
   margin-bottom: 0;
-  padding: 8px 12px;
+  padding: 8px 0 0 12px;
   background-color: #FFC300;
   border-top-left-radius: 0.3em;
   border-top-right-radius: 0.3em;
