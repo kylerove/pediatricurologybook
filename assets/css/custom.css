@@ -729,7 +729,7 @@ p:has(> strong.figure-number) {
   background-color: #00DAFF;
   border-radius: 0.3em;
   color: #000;
-  width: 60%;
+  width: 80%;
   line-height: 1.3em;
 }
 
@@ -740,7 +740,7 @@ p.p-figure-number {
   background-color: #00DAFF;
   border-radius: 0.3em;
   color: #000;
-  width: 60%;
+  width: 80%;
   line-height: 1.3em;
 }
 
