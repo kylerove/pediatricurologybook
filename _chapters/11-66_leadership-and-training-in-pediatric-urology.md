@@ -14,12 +14,12 @@ breadcrumbs:
     permalink: /book/
 toc: true
 js: /assets/js/pages/chapter.js
-review-formatting-complete: 
+review-formatting-complete: KR 2022.08.13
 ---
 
-By **Duncan Wilcox MBBS MD**{:.author-names}<sup>1</sup> & **Pedro-Jose Lopez MD**{:.author-names}<sup>2</sup>  
-_<sup>1</sup>Surgeon in Chief, Children's Hospital Colorado_{:.author-title}  
-_<sup>2</sup>Head Pediatric Urology Department, Professor Pediatric Surgery & Urology, Hospital Exequiel Gonzalez Cortes & Clinica Alemana, Universidad de Chile_{:.author-title}
+By **Duncan Wilcox, MBBS, MD**{:.author-names}<sup>1</sup> & **Pedro-Jose Lopez, MD**{:.author-names}<sup>2</sup>  
+_<sup>1</sup> Surgeon in Chief, Children's Hospital Colorado_{:.author-title}  
+_<sup>2</sup> Head Pediatric Urology Department, Professor Pediatric Surgery & Urology, Hospital Exequiel Gonzalez Cortes & Clinica Alemana, Universidad de Chile_{:.author-title}
 {:.attribution}
 
 ## Introduction
@@ -137,9 +137,11 @@ However, if you are given the right opportunities and resources, the satisfactio
 ## Key Points
 {:.key-points-head}
 
-- 
-- 
-- 
+- Becoming a surgical leader provides new opportunities for learning about healthcare systems and to influence the care of a larger number of patients.
+- Start by getting involved in committee work and actively participating.
+- Leadership skills are best obtained through purposeful practice.
+- Creating a culture, defining your vision, and cultivating people and talent are key to a leader's success.
+- Be purposeful, transparent, and available.
 {:.key-points-list}
 
 ## Recommended Videos
@@ -148,16 +150,11 @@ However, if you are given the right opportunities and resources, the satisfactio
 - [The power of vulnerability \| Brené Brown \| TEDxHouston](https://youtu.be/X4Qm9cGRub0)
 {:.rec-videos-list}
 
-## References
+## Recommended Readings
 
 {% bibliography --file 11-66 %}
 
-*[MBBS]: 
-*[MD]: 
-*[CEO]: 
-*[CV]: 
-*[MBA]: 
-*[OR]: 
-*[QZF]: 
-*[TED]: 
-*[GR]: 
+*[CEO]: chief operating officer
+*[CV]: curriculum vitae
+*[MBA]: masters of business administration
+*[OR]: operating room

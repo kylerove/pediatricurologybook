@@ -14,7 +14,7 @@ breadcrumbs:
     permalink: /book/
 toc: true
 js: /assets/js/pages/chapter.js
-review-formatting-complete: 
+review-formatting-complete: KR 2022.08.07
 ---
 
 By **Naeem Samnakay**{:.author-names}  
