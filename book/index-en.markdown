@@ -16,7 +16,7 @@ toc: false
 <div id="toc" markdown="1" style="column-count:2">
 
 {% for i in (1..11) %}
-  {% assign section = site.data.sections | where: "index",i | first %}
+  {% assign section = site.data.sections | where: "number",i | first %}
   {% include toc-block.html %}
 {% endfor %}
 

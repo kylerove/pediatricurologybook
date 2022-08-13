@@ -1,6 +1,6 @@
 
-{% assign page_title = section.titles.title | where: "number", i | where: "language",site.active_lang | first %}
-## <span>{{ i }}</span> {{ page_title }}
+{% assign section_title = section.titles | where: "language",site.active_lang | first %}
+## <span>{{ section.number }}</span> {{ section_title.title }}
 
   {% if section.subsections == nil %}
     {% assign section_chapters = site.chapters | where: "section", i | sort: "sort-key" %}
