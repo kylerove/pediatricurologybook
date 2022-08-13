@@ -146,8 +146,10 @@ The Husmann protocol has been widely adopted to guide follow up for patients wit
 Bladder cancer in pediatric patients is rare and overall carries a good prognosis. Most tumors are solitary, low-grade, and do not recur. Workup should start with history and physical, urinalysis, urine culture, and bladder/renal ultrasound, with subsequent cystoscopy and TURBT of the bladder lesion. Intravesical chemotherapy can often be avoided given low-grade pathology. In high-grade or higher-stage tumors or with recurrent tumors, intravesical chemotherapy can be considered, however, there are no evidence-based guidelines on its use in children presently. Patients should be monitored for a duration of at least 3y with a combination of periodic urinalyses, bladder/renal ultrasounds, and cystoscopy. Surveillance beyond 3y may not be necessary, but shared-decision making should be utilized to determine this duration.
 
 ## Recommended videos
+{:.rec-videos-head}
 
-[AUA University, oncology, adult, non-muscle invasive bladder cancer, videos 1 and 2](https://university.auanet.org/core/oncology-adult/bladder-neoplasms-non-muscle-invasive-bladder-cancer/)
+- [AUA University, oncology, adult, non-muscle invasive bladder cancer, videos 1 and 2](https://university.auanet.org/core/oncology-adult/bladder-neoplasms-non-muscle-invasive-bladder-cancer/)
+{:.rec-videos-list}
 
 ## References
 

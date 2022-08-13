@@ -827,3 +827,32 @@ p.p-figure-number {
 p.drop-caps:first-letter {
   font-family: Poppins;
 }
+
+.rec-videos-head {
+  background: #54D3AB;
+  /*border: 1px solid #e1e1e1;*/
+  /*border-bottom: 1px solid #c9c9c9;*/
+  border-top-left-radius: 0.3em;
+  border-top-right-radius: 0.3em;
+  color: #000;
+  font-weight: 600;
+  font-size: 1.4em;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  line-height: normal;
+  margin: 0;
+  padding: 0.8em 1.1em;
+}
+
+.rec-videos-list {
+  background: #54D3AB;
+  /*border: 1px solid #e1e1e1;*/
+  border-bottom-left-radius: 0.3em;
+  border-bottom-right-radius: 0.3em;
+  margin: 0;
+  margin-bottom:20px;
+  padding: 1em 3em;
+  color: #000;
+  font-weight: 200;
+  font-size: 1.2em;
+}
