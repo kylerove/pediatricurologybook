@@ -758,7 +758,7 @@ p.p-figure-number {
   padding: 10px 15px;
 }
 
-.bibliography span[style="text-decoration: underline"] {
+.bibliography span[style="text-decoration: underline"],.suggested-readings-list span[style="text-decoration: underline"] {
   color: #707070 !important;
   text-decoration: none !important;
 }
@@ -795,7 +795,7 @@ p.p-figure-number {
   font-size: 1.5em;
 }
 
-.key-points-head {
+.key-points-head, .suggested-readings-head {
   background: #FE423D;
   /*border: 1px solid #e1e1e1;*/
   /*border-bottom: 1px solid #c9c9c9;*/
@@ -811,7 +811,7 @@ p.p-figure-number {
   padding: 0.8em 1.1em;
 }
 
-.key-points-list {
+.key-points-list, .suggested-readings-list {
   background: #FE423D;
   /*border: 1px solid #e1e1e1;*/
   border-bottom-left-radius: 0.3em;
@@ -822,6 +822,14 @@ p.p-figure-number {
   color: #ffffff;
   font-weight: 200;
   font-size: 1.2em;
+}
+
+.suggested-readings-head, .suggested-readings-list {
+  background: #FE8F18;
+}
+
+.suggested-readings-list {
+  font-size: 1.1em;
 }
 
 p.drop-caps:first-letter {
