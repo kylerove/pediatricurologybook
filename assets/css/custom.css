@@ -824,6 +824,10 @@ p.p-figure-number {
   font-size: 1.2em;
 }
 
+.key-points-list li {
+  margin-bottom:6px;
+}
+
 .suggested-readings-head, .suggested-readings-list {
   background: #FE8F18;
 }
