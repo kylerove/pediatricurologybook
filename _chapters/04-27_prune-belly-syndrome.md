@@ -14,10 +14,10 @@ breadcrumbs:
     permalink: /book/
 toc: true
 js: /assets/js/pages/chapter.js
-review-formatting-complete: 
+review-formatting-complete: KR 2022-08-15
 ---
 
-**MS Ansari**<sup>1</sup> & **Ashwin Shekar P**{:.author-names}<sup>2</sup>  
+**MS Ansari**{:.author-names}<sup>1</sup> & **Ashwin Shekar P**{:.author-names}<sup>2</sup>  
 _<sup>1</sup> Professor, Div. Pediatric Urology, Department of Urology and Renal Tx, Sanjay Gandhi Postgraduate Institute of Medical Sciences, Lucknow, India_{:.author-title}  
 _<sup>2</sup> Senior Consultant, Department of Urology, Sri Sathya Sai Institute of Higher Medical Sciences, Pashantigram, Puttaparthi, India_{:.author-title}
 {:.attribution}
