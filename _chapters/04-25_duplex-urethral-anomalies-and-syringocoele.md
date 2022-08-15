@@ -96,12 +96,6 @@ Strictures of the anterior urethra are often idiopathic (perhaps congenital) or 
 
 Urethral polyps are another unusual anomaly of the male urethra. They may be congenital but have also been reported in adults, suggesting that they can be acquired or slowly grow until large enough to cause symptoms. These fibro-endothelial lesions commonly arise from the verumontanum and are typically covered with transitional epithelium over a fibromuscular core. Small polyps are usually discovered incidentally during endoscopy for some unrelated purpose. In contrast, the more extensive lesions, with a polypoid head floating freely on an extended stalk, tend to obtrude through the bladder neck to give rise to acute, transient episodes of urinary retention. Other symptoms are straining to void, urgency and hematuria. Frank urethral bleeding may also occur. Diagnosis is by MCU or cystourethroscopy. Voiding cystourethrography often shows a filling defect in the urethra that may vary in location. Diagnostic confirmation is made by cystoscopy. Most polyps can be excised endoscopically (transurethral excision), although, for large polyps, an open transvesical approach may be required.
 
-## Key Points
-{:.key-points-head}
-
-- 
-{:.key-points-list}
-
 ## References
 
 {% bibliography --file 04-25 %}
