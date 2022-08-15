@@ -24,6 +24,7 @@ _Department of Urology, University of Kentucky, Lexington, KY_{:.author-title}
 ## Introduction
 
 Urothelial cell carcinoma (UCC) in the pediatric population is very rare with an incidence of roughly 0.1%-0.4%. A 2019 review found only 243 documented cases of UCC in patients \<18y of age, with the mean age being 12.5y, and there is a male predominance (3:1). Overall, recurrence of UCC in the pediatric population is thought to be low (8.6%), and death very uncommon, \<4%. Given its rarity, there are no published guidelines on the diagnosis and management of UCC in the pediatric population. This chapter aims to outline etiology and pathogenesis, evaluation and diagnosis, management, and follow up of pediatric UCC currently published literature.
+{:.drop-caps}
 
 ## Etiology/Pathogenesis
 

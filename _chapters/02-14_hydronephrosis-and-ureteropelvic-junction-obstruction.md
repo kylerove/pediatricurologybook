@@ -24,6 +24,7 @@ _Urology and Nephrology Center, Mansoura University, Mansoura, Egypt_{:.author-t
 ## Introduction
 
 Hydronephrosis is defined as aseptic dilatation of the renal pelvis with or without the calyces. If it occurs before birth, this is called antenatal hydronephrosis (ANH). The presence of infected hydronephrosis denotes pyonephrosis while the presence of dilated ureter with the dilated renal pelvis is called hydroureteronephrosis (HUN).
+{:.drop-caps}
 
 The significance of ANH is attributed to being the most commonly encountered fetal urinary tract anomaly detected by ultrasonography.{% cite oliveira2016a --file 02-14 %} The majority of ANH is temporary and resolves spontaneously. The other pathological causes of ANH may be obstructive or non-obstructive. Obstructive causes can occur at any part of the urinary tract, but the most common pathology is ureteropelvic junction obstruction (UPJO). Non-obstructive etiologies comprise vesicoureteral reflux (VUR), non-obstructing non-refluxing megaureter, Prune-Belly syndrome, etc.
 

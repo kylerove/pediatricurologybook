@@ -24,6 +24,7 @@ _Pediatric Urology, University of Iowa_{:.author-title}
 ## Introduction
 
 Vesicoureteral reflux (VUR) is the retrograde flow of urine from the bladder into the ureters and sometimes kidneys. VUR is a risk factor for recurrent pyelonephritis, renal scarring, renal insufficiency and hypertension and is cited as a cause of end-stage renal disease in children.{% cite mathews2009a kaefer2000a smellie1994a garin2006a --file 03-16 %} Management of reflux is primarily aimed at reducing the development of these long-term adverse effects through prevention of pyelonephritis.
+{:.drop-caps}
 
 A paradigm shift in the evaluation and management of VUR has occurred over the last several decades, and clinicians should be aware of controversies in VUR management. It appears that active treatment of reflux has improved outcomes for some children such that the incidence of reflux-associated nephropathy continues to decline, but recent urologic literature suggests that the natural history of VUR does not follow a uniform pathway. Many children with reflux do not benefit from either diagnosis or treatment, as there is a high rate of spontaneous resolution without adverse effects.{% cite cooper2004a mattoo2011a --file 03-16 %} Clarification of which children do benefit from treatment is the greatest challenge to the advancement of vesicoureteral reflux management.
 

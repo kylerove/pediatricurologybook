@@ -25,6 +25,7 @@ _<sup>2</sup> Head Pediatric Urology Department, Professor Pediatric Surgery & U
 ## Introduction
 
 A frequently asked question of medical leaders and in particular surgical leaders is why would you give up some of your surgical practice to attend meetings. With sometimes a not too subtle subtext, you will have fewer opportunities to perform surgery! While certainly that was considered true decades ago, for the authors who have over 20 years of administrative experience we certainly hope that is not the case today.
+{:.drop-caps}
 
 In general, a surgeon's career can be divided into 3 parts: after completing training the first part consists of honing ones skill, developing your own particular techniques, style and creating, in many peoples' practice a clinical and or research niche. The second is when you are comfortable in your skill you have a definite competency and can provide excellent care and pass on your knowledge to others. Then there is the third---for some this is a continuation of excellent clinical care or research and for others it is the business side of medicine, especially if the surgeon is in private practice. For those less fortunate it is biding time until retirement. But one option available is to go into medical leadership.
 
