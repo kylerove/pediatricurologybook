@@ -675,7 +675,7 @@ a.citation:hover span {
   font-size:0.9em;
 }
 
-a.figure-link, a.table-link {
+a.figure-link, a.table-link, a.video-link {
   display: inline;
   text-decoration: none;
   padding: 0.1em 1.2em 0.1em 0.2em;
@@ -684,7 +684,7 @@ a.figure-link, a.table-link {
   border-right: 2px solid transparent;
 }
 
-a.figure-link:hover, a.table-link:hover {
+a.figure-link:hover, a.table-link:hover, a.video-link:hover {
   color:#fff;
   background-color: #006BB2 !important;
   text-decoration: none;
@@ -694,7 +694,7 @@ a.figure-link:hover, a.table-link:hover {
   background-size: 1em auto;
 }
 
-.figure-number, .table-number {
+.figure-number, .table-number, .video-number {
   margin-right: .3em;
   padding-right: 1.2em;
   background: url("/assets/img/icon-link-blue.svg") right center no-repeat;
@@ -738,6 +738,28 @@ p.p-figure-number {
   margin-bottom: 30px;
   padding: 8px 12px;
   background-color: #00DAFF;
+  border-radius: 0.3em;
+  color: #000;
+  width: 80%;
+  line-height: 1.3em;
+}
+
+p:has(> strong.video-number) {
+  margin-top 0;
+  margin-bottom: 30px;
+  padding: 8px 12px;
+  background-color: #54D3AB;
+  border-radius: 0.3em;
+  color: #000;
+  width: 80%;
+  line-height: 1.3em;
+}
+
+p.p-video-number {
+  margin-top 0;
+  margin-bottom: 30px;
+  padding: 8px 12px;
+  background-color: #54D3AB;
   border-radius: 0.3em;
   color: #000;
   width: 80%;
