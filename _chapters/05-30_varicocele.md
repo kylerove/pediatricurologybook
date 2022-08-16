@@ -28,7 +28,7 @@ Relative Indications for surgical repair of adolescent varicoceles include 1) hi
 
 One of the primary concerns parents have when their child is diagnosed with a varicocele, is the effect it may have on the boy's future fertility. When examining infertility rates in adult males, the incidence of varicoceles in infertile males is as high as 50%. Recent studies have demonstrated that there are significantly higher rates of pregnancy amongst couples if men with clinical varicoceles undergo any method of surgical repair (42% pregnancy rate) as opposed to no surgical repair (17% pregnancy rate), but many studies have been less conclusive, including meta-analyses and Cochrane review.[12,13,14,15,16] Additionally, the improvement of sperm motility and sperm concentrations in adults who undergo repair of their varicocele, has a more significant effect the higher the varicocele grade. Asafu-Adjei et al reviewed over 2000 men with abnormal semen parameters who underwent surgical repair of their varicocele. The mean improvement in sperm motility post-repair increased with each varicocele grade; with a 10% improvement in grade 1 varicoceles, and an 18% improvement in grade 3 varicoceles. Additionally, mean sperm concentrations improved by 5.5 million in grade 1 varicoceles, and by 16 million in grade 3 varicoceles.[17]
 
-The adolescent decision making algorithm can be considered more complex, as the vast majority will not be attempting conception. Therefore, definitive indications for repair are lacking. Furthermore, it is difficult to assess sperm parameters in adolescents, as there are no semen quality standards based on Tanner stage and age. Furthermore, some cultures will not support semen collection. Asymmetry in testicular size can be used as a surrogate for function, but differential growth will often result in spontaneous equalization of their sizes. Additionally, when reviewing studies and trials examining sperm parameters in adolescents with varicoceles, there is significant heterogeneity present in the studies and follow up times are not long enough to determine any significant effect on future paternity. If adolescents do fit within the parameters for surgical repair as per current guidelines, the success rates are very high regardless of surgical technique. Silay et al concluded that success rates (disappearance of varicocele) ranged from 87--100% with testicular catch-up growth seen in 86-100% of patients. No surgical repair technique was superior, and the most common complication observed was formation of a hydrocele at rates of 0--12%.[14]
+The adolescent decision making algorithm can be considered more complex, as the vast majority will not be attempting conception. Therefore, definitive indications for repair are lacking. Furthermore, it is difficult to assess sperm parameters in adolescents, as there are no semen quality standards based on Tanner stage and age. Furthermore, some cultures will not support semen collection. Asymmetry in testicular size can be used as a surrogate for function, but differential growth will often result in spontaneous equalization of their sizes. Additionally, when reviewing studies and trials examining sperm parameters in adolescents with varicoceles, there is significant heterogeneity present in the studies and follow up times are not long enough to determine any significant effect on future paternity. If adolescents do fit within the parameters for surgical repair as per current guidelines, the success rates are very high regardless of surgical technique. Silay et al concluded that success rates (disappearance of varicocele) ranged from 87--100% with testicular catch-up growth seen in 86--100% of patients. No surgical repair technique was superior, and the most common complication observed was formation of a hydrocele at rates of 0--12%.[14]
 
 **Table 1**{:#table-1}{:.table-number} Varicocele grading system[1]
 
@@ -61,7 +61,7 @@ The traditional open inguinal or sub-inguinal approaches to varicocelectomy offe
 
 In patients with significant prior inguinal surgery, a sub-inguinal approach may be advantageous by avoiding any significant scarring and adhesions that may be present. Significantly more vein branches and plexus are usually encountered more distally, however, and this can make the process of dissection and ligation more involved with arterial identification for preservation also being potentially more difficult.[18]
 
-Microsurgical approaches offer high rates of success with a reported failure rate of 0.5--1% in appropriately trained hands, This approach requires more surgical time and requires highly specialized resources and training not present at all centers, however, it can , minimizing the risk of hydrocele formation by preserving lymphatics, and may have better improvements in improved sperm count and motility when compared to other approaches.[14,18,32]
+Microsurgical approaches offer high rates of success with a reported failure rate of 0.5--1% in appropriately trained hands, This approach requires more surgical time and requires highly specialized resources and training not present at all centers. However, it can minimize the risk of hydrocele formation by preserving lymphatics, and may have better improvements in improved sperm count and motility when compared to other approaches.[14,18,32]
 
 ### Retroperitoneal Varicocelectomy
 
@@ -69,14 +69,20 @@ Through an open retroperitoneal approach, an incision is made at the level of th
 
 ## Non-Operative Management
 
-For the patients who choose not to undergo surgery, some follow-up is required. Although no guidelines exist, Kolon et al recommend every 6--12-month clinical evaluation with semenanalysis through adulthood, although the manuscript admits this is required for long-term population data, and probably won't affect individual outcomes. My personal practice is to assess with a history, physical exam, and ultrasound every 1--2 years until the age of 18 years.
+For the patients who choose not to undergo surgery, some follow up is required. Although no guidelines exist, Kolon et al recommend every 6--12-month clinical evaluation with semenanalysis through adulthood, although the manuscript admits this is required for long-term population data, and probably won't affect individual outcomes. My personal practice is to assess with a history, physical exam, and ultrasound every 1--2 years until the age of 18 years.
 
 ## Key Points
 {:.key-points-head}
 
--   a
+- Varicoceles are common, many are asymptomatic, and mostly occur on the left side
+- Reasons for intervention include chronic pain, persistent size discrepancy, or fertility concerns
+- There are many different techniques for repair, each with pros and cons
 {:.key-points-list}
 
 ## Conclusions
 
 Varicoceles in the pediatric and adolescent population are relatively common, but management can be controversial. Surgery for unsatisfactory appearance is straightforward, and assuming the pain has been appropriately vetted, usually successful. However, the benefits of performing surgery to improve semenanalysis or to prevent fertility problems is harder to demonstrate. Therefore, upon making the diagnosis, the surgeon must weigh all indications and options to ensure successful results.
+
+## References
+
+{% bibliography --file 05-30 %}
