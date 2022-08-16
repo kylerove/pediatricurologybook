@@ -150,9 +150,9 @@ Hypospadias is one of the most common congenital anomalies in newborn males. It 
 ## Suggested Readings
 {:.suggested-readings-head}
 
-- 25
-- 12
-- 39
+- {% reference horst2017a --file 05-31 %}
+- {% reference baskin2017a --file 05-31 %}
+- {% reference snodgrass2016a --file 05-31 %}
 {:.suggested-readings-list}
 
 ## References
