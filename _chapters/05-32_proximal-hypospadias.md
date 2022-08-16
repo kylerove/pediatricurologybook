@@ -14,7 +14,7 @@ breadcrumbs:
     permalink: /book/
 toc: true
 js: /assets/js/pages/chapter.js
-review-formatting-complete: 
+review-formatting-complete: KR 2022-08-16
 ---
 
 By **Kashish Khanna**{:.author-names},<sup>1</sup> **Miguel Castellan**{:.author-names},<sup>2</sup> & **Alireza Alam**{:.author-names}<sup>3</sup>  
@@ -34,7 +34,7 @@ Hypospadias is defined as an opening of the urethral meatus on the ventral aspec
 
 The male external genitalia progressively develops recognisable characteristics by the 3^rd^ month of gestation. Normally, the urogenital sinus opening extends to the ventral aspect of the genital tubercle as the urethral groove. The primitive urogenital orifice and the urethral groove are bound on either side by the urethral folds.{% cite smith1992a --file 05-32 %} The genital tubercle becomes elongated to form the phallus, and the urethral folds start to fuse from the urogenital orifice towards the tip of the phallus, which results in the formation of the penile urethra by the end of the 14th week. The corpora cavernosa appear as paired mesenchymal columns within the shaft of the penis in the 7th week. The corpora spongiosa results from the differentiation of the mesenchymal masses around the penile urethra.{% cite smith1992a --file 05-32 %} In cases of proximal hypospadias, it is believed that there is failure of these urethral folds to fuse. Due to the arrest in the tubularisation, there is differential growth of the penis on the ventral as compared to the dorsal aspect.
 
-An understanding of the anatomy of the penis will greatly aid in understanding the repair of hypospadias ([Figure 2](#figure-2){:.figure-link})
+An understanding of the anatomy of the penis will greatly aid in understanding the repair of hypospadias ([Figure 2](#figure-2){:.figure-link}).
 
 ![Figure 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-32-2.png){:.float-start .img-fluid} 
 **Figure 2**{:#figure-2}{:.figure-number} The layers of the penis in a normal adult.{% cite shoor2022a --file 05-32 %}
