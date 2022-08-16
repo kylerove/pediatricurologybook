@@ -24,6 +24,7 @@ _Hospital Italiano de Buenos Aires, Pediatric Surgery & Urology Department, Buen
 ## Introduction
 
 The following chapter will try to describe in a complete, yet concise and summarized way about the history, embryology and development, diagnosis and treatment of congenital inguinal hernia and hydrocele. We will emphasize details related to different aspects of the topic, offering useful tips for the reader for the appropriate approach to the pathology.
+{:.drop-caps}
 
 ## History
 

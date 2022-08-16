@@ -24,6 +24,7 @@ _University of Alberta, Division of Urology, Edmonton, Alberta, Canada_{:.author
 ## Introduction
 
 Varicocele is defined as an abnormal dilation of the pampiniform plexus which may cause pain, an atypical appearance, or impair fertility. These occur in approximately 15% of males, usually first appearing in adolescence, and are overrepresented in the sub-fertile population (approximately 35--49% of sub-fertile males).{% cite dubin1971a --file 05-30 %} As per all varicose veins, the primary pathophysiology relates to incompetent venous valves, which are not able to force the blood back to the major vessels against gravity.{% cite jensen2017a --file 05-30 %} Testicular veins are at risk due to their length, with the left vein more so due to its higher insertion at almost 90˚ and insertion at right angle into the left renal vein.{% cite naughton2001a --file 05-30 %}
+{:.drop-caps}
 
 Therefore, the vast majority of unilateral varicoceles occur on the left hemiscrotum, and historically, right sided varicoceles have been a hallmark of a large renal mass.
 

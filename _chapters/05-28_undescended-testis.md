@@ -24,6 +24,7 @@ _Associate Professor, Department of Urology and Pediatric Urology, Asan Medical 
 ## Introduction
 
 Undescended testis (UDT) refers to the state that the testicle is not located in the scrotum but in an abnormal location such as in the abdominal cavity of the groin ([Figure 1](#figure-1){:.figure-link}) The testicles are formed and remain in the abdominal cavity for a while during fetal life, then gradually descend and move down to the scrotum. Cryptorchidism includes undescended testes located anywhere in the normal course of the descending process and ectopic testes which is not the usual course of testicular descendant. Undescended testis should be differentiated from retractile testis. A retractile testis is a testicle locates below the external inguinal ring but can be manipulated to the upper scrotum and is prone to ascend to its original position and/or is a testicle that has finished its normal descending process and can remain in the scrotum but easily move back and forth between the scrotum and the groin ([Video 1](#video-1){:.video-link}).
+{:.drop-caps}
 
 ![Figure 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-28-1.jpg){:.float-start .img-fluid}  
 **Figure 1**{:#figure-1}{:.figure-number} Empty scrotum on the left side in a patient with undescended testis.
