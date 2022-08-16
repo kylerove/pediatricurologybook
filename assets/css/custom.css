@@ -846,10 +846,6 @@ p.p-video-number {
   font-size: 1.2em;
 }
 
-.key-points-list li {
-  margin-bottom:6px;
-}
-
 .suggested-readings-head, .suggested-readings-list {
   background: #FE8F18;
 }
@@ -889,4 +885,44 @@ p.drop-caps:first-letter {
   color: #000;
   font-weight: 200;
   font-size: 1.2em;
+}
+
+.tips-head {
+  background: #FE8F18;
+  /*border: 1px solid #e1e1e1;*/
+  /*border-bottom: 1px solid #c9c9c9;*/
+  border-top-left-radius: 0.3em;
+  border-top-right-radius: 0.3em;
+  color: #fff;
+  font-weight: 600;
+  font-size: 1.4em;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  line-height: normal;
+  margin: 0;
+  padding: 0.8em 1.1em;
+}
+
+.tips-list {
+  background: #FE8F18;
+  /*border: 1px solid #e1e1e1;*/
+  border-bottom-left-radius: 0.3em;
+  border-bottom-right-radius: 0.3em;
+  margin: 0;
+  margin-bottom:20px;
+  padding: 1em 3em;
+  color: #fff;
+  font-weight: 200;
+  font-size: 1.2em;
+  list-style:none;
+  list-style-image: url(/assets/img/star-white.svg);
+}
+
+.key-points-list li, .suggested-readings-list li, .rec-videos-list li, .tips-list li {
+  margin-bottom:6px;
+}
+
+.tips-list li {
+  /*padding-left:20px;*/
+  /*background:url(/assets/img/star-white.svg) no-repeat 0 0;*/
 }
