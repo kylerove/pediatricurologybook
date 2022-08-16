@@ -850,7 +850,11 @@ p.p-video-number {
   background: #FE8F18;
 }
 
-.suggested-readings-list {
+.resources-head, .resources-list {
+  background: #54D3AB;
+}
+
+.suggested-readings-list, .resources-list {
   font-size: 1.1em;
 }
 
