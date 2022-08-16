@@ -17,7 +17,7 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 
 ---
 
-**Sang Hoon Song, MD, PhD**{:.author-names}  
+By **Sang Hoon Song, MD, PhD**{:.author-names}  
 _Associate Professor, Department of Urology and Pediatric Urology, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Korea_{:.author-title}
 {:.attribution}
 
