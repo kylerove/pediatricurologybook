@@ -94,19 +94,19 @@ Redo hypospadias is a surgically challenging entity to treat and manage among su
 ![Figure 7]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-33-7.svg){:.float-start .img-fluid}  
 **Figure 7**{:#figure-7}{:.figure-number} Proposed management algorithm for reoperative or redo hypospadias.
 
-## Suggested Readings
-{:.suggested-readings-head}
-
-1. {% reference long-a --file 05-33 %}
-2. {% reference unknown2015a --file 05-33 %}
-{:.suggested-readings-list}
-
 ## Resources for Family
 {:.resources-head}
 
 1. [Hypospadias Resources, Children's Hospital of Philadelphia](https://www.chop.edu/conditions-diseases/hypospadias/health-resources)
 2. [Urology Information for parents and visitors, Great Ormond Street Hospital for Children](https://www.gosh.nhs.uk/wards-and-departments/departments/clinical-specialties/urology-information-parents-and-visitors/)
 {:.resources-list}
+
+## Suggested Readings
+{:.suggested-readings-head}
+
+1. {% reference long-a --file 05-33 %}
+2. {% reference unknown2015a --file 05-33 %}
+{:.suggested-readings-list}
 
 ## References
 

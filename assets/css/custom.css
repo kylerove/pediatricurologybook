@@ -817,7 +817,7 @@ p.p-video-number {
   font-size: 1.5em;
 }
 
-.key-points-head, .suggested-readings-head {
+.key-points-head, .suggested-readings-head, .resources-head {
   background: #FE423D;
   /*border: 1px solid #e1e1e1;*/
   /*border-bottom: 1px solid #c9c9c9;*/
@@ -833,7 +833,7 @@ p.p-video-number {
   padding: 0.8em 1.1em;
 }
 
-.key-points-list, .suggested-readings-list {
+.key-points-list, .suggested-readings-list, .resources-list {
   background: #FE423D;
   /*border: 1px solid #e1e1e1;*/
   border-bottom-left-radius: 0.3em;
