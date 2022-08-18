@@ -238,6 +238,7 @@ Outside of the standard post-operative clinic visits to assess for immediate and
 - {% reference saltzman2018b --file 08-42 %}
 - {% reference saltzman2019a --file 08-42 %}
 - {% reference cost2022a --file 08-42 %}
+{:.suggested-readings-list}
 
 ### Recommended Videos
 {:.rec-videos-head}
