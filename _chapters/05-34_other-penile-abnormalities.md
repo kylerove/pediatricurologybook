@@ -136,10 +136,10 @@ Crawford first classified the buried penis into concealed, buried and penoscrota
 ![Figure 5]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-34-5.png){:.float-start .img-fluid}  
 **Figure 5**{:#figure-5}{:.figure-number} Congenital megaprepuce
 
-![Figure 6]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-34-6.jpg){:.float-start .img-fluid} 
+![Figure 6]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-34-6.jpg){:.float-start .img-fluid}  
 **Figure 6**{:#figure-6}{:.figure-number} Concealed penis
 
-![Figure 7]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-34-7.jpg){:.float-start .img-fluid} 
+![Figure 7]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-34-7.jpg){:.float-start .img-fluid}  
 **Figure 7**{:#figure-7}{:.figure-number} Penoscrotal fusion
 
 Hadidi proposed dividing patients with buried penis into three groups according to their operative findings. Grade 1 -- patients with an abnormally long inner prepuce (LIP), Grade 2 -- LIP and abnormal distal attachments of the fundiform and suspensory ligaments into the midshaft of the penis, Grade 3 -- Grade 1 and 2 plus excess suprapubic fat.{% cite hadidi2014a --file 05-34 %}
