@@ -17,7 +17,7 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: KR 2022.08.13
 ---
 
-By **Duncan Wilcox, MBBS, MD**{:.author-names}<sup>1</sup> & **Pedro-Jose Lopez, MD**{:.author-names}<sup>2</sup>  
+By **Duncan Wilcox, MBBS, MD**{:.author-names}<sup>1</sup> & **Pedro-José López, MD**{:.author-names}<sup>2</sup>  
 _<sup>1</sup> Surgeon in Chief, Children's Hospital Colorado_{:.author-title}  
 _<sup>2</sup> Head Pediatric Urology Department, Professor Pediatric Surgery & Urology, Hospital Exequiel Gonzalez Cortes & Clinica Alemana, Universidad de Chile_{:.author-title}
 {:.attribution}
