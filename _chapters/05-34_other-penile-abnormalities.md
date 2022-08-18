@@ -89,7 +89,7 @@ Other techniques to manage complex presentations of chordee associated with hypo
 
 Modification of preceding Shaeer I and II techniques, involved rotation of the corpora with suture fixation without a corporotomy.{% cite shaeer2016a --file 05-34 %}
 
-Correction of penile torsion is argued to be a cosmetic procedure, as the penis remains functionally acceptable. Some authors have advocated for repair of penile torsion if the degree of torsion is more than 40 degrees. There are multiple surgical options for correction of penile torsion. A step-wise operative approach has been proposed which involves penile degloving, broad dartos-based rotation flap, mobilisation of urethral plate and spongiosum, mobilisation of proximal urethra, and mobilisation of urethral plate/hypoplastic urethra with spongiosum into the glans,{% cite bhat2009a fisher2004a --file 05-34 %} An additional method described is lateral suturing of the tunica albuginea to the pubic periosteum.{% cite zhou2006a --file 05-34 %} Some have described penile degloving and reattaching the skin, however these results have not always been successful.{% cite zhou2006a --file 05-34 %}
+Correction of penile torsion is argued to be a cosmetic procedure, as the penis remains functionally acceptable. Some authors have advocated for repair of penile torsion if the degree of torsion is more than 45 degrees. There are multiple surgical options for correction of penile torsion. A step-wise operative approach has been proposed which involves penile degloving, broad dartos-based rotation flap, mobilisation of urethral plate and spongiosum, mobilisation of proximal urethra, and mobilisation of urethral plate/hypoplastic urethra with spongiosum into the glans,{% cite bhat2009a fisher2004a --file 05-34 %} An additional method described is lateral suturing of the tunica albuginea to the pubic periosteum.{% cite zhou2006a --file 05-34 %} Some have described penile degloving and reattaching the skin, however these results have not always been successful.{% cite zhou2006a --file 05-34 %}
 
 ### Complications
 
@@ -181,7 +181,7 @@ Congenital penile conditions are uncommon, therefore, referral to a pediatric ur
 
 - Surgical correction is recommended for congenital penile curvature greater than 20 degrees
 - A step-wise approach with protection of neurovascular structures and preservation of urethral plate is preferred when repairing penile curvature (without hypospadias)
-- Consider correction of penile torsion greater than 40 degrees
+- Consider correction of penile torsion greater than 45 degrees
 - Excision of the dysplastic dartos and skin fixation to Buck's fascia are key steps when correcting a congenital megaprepuce
 - Limit skin excision until adequate coverage of the penile shaft is ensured
 - Initial nonoperative management is preferred for the concealed penis
