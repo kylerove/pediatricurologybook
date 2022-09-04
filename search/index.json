@@ -4,22 +4,19 @@ lang: en
 ---
 {% assign first = true %}
 [
-{% for collection in site.collections %}
-    {% for item in collection %}
-        {% for item in site.[item.label] %}
-            {% if item.lang != site.active_lang %}{% continue %}{% endif %}
-            {% if item.title == null %}{% continue %}{% endif %}
-            {% unless first %},{% endunless %}{
-                "title": {{item.title | jsonify}},
-                "content": {{item.content | markdownify | strip_html | jsonify}},
-                "link": "{% if site.active_lang != 'en' %}/{{ site.active_lang }}{% endif %}{{ item.permalink }}",
-                "date": "{{ item.date }}",
-                "excerpt": "{{ item.snippet }}",
-                "search_omit": "{{ item.search_omit }}"
-            }
-            {% assign first = false %}
-        {% endfor %}
-    {% endfor %}
+
+{% for chapter in site.chapters %}
+    {% if chapter.lang != site.active_lang %}{% continue %}{% endif %}
+    {% if chapter.title == null %}{% continue %}{% endif %}
+    {% unless first %},{% endunless %}{
+        "title": {{chapter.title | jsonify}},
+        "content": {{chapter.content | markdownify | strip_html | jsonify}},
+        "link": "{% if site.active_lang != 'en' %}/{{ site.active_lang }}{% endif %}{{ chapter.permalink }}",
+        "date": "{{ chapter.date }}",
+        "excerpt": "{{ chapter.snippet }}",
+        "search_omit": "{{ chapter.search_omit }}"
+    }
+    {% assign first = false %}
 {% endfor %}
 
 {% for post in site.posts %}
@@ -41,12 +38,12 @@ lang: en
     {% if page.title == null %}{% continue %}{% endif %}
     
     {% case page.permalink %}
-        {% when "/403.html" %}{% continue %}
-        {% when "/404.html" %}{% continue %}
-        {% when "/500.html" %}{% continue %}
-        {% when "/502.html" %}{% continue %}
-        {% when "/503.html" %}{% continue %}
-        {% when "/504.html" %}{% continue %}
+        {% when "/error/403.html" %}{% continue %}
+        {% when "/error/404.html" %}{% continue %}
+        {% when "/error/500.html" %}{% continue %}
+        {% when "/error/502.html" %}{% continue %}
+        {% when "/error/503.html" %}{% continue %}
+        {% when "/error/504.html" %}{% continue %}
     {% endcase %}
     
     {% unless first %},{% endunless %}{
