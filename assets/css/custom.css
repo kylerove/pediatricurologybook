@@ -935,3 +935,7 @@ p.drop-caps:first-letter {
   /*padding-left:20px;*/
   /*background:url(/assets/img/star-white.svg) no-repeat 0 0;*/
 }
+
+div.chapter-02-13 table:first-of-type th {
+  width: 50%;
+}
