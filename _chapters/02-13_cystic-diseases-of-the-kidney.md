@@ -47,8 +47,6 @@ This chapter will discuss the epidemiology, pathogenesis, evaluation, and treatm
 
 ## Autosomal Dominant Polycystic Kidney Disease
 
-### Introduction
-
 ADPKD is relatively common, with an incidence of 1 in 400 to 1,000 live births manifesting as cystic dilation of the nephron and other extrarenal abnormalities, such as intracranial aneurysm.{% cite docimo2017a --file 02-13 %} Severity varies per patient and tends to worsen over time, thus many pediatric patients and even some middle-aged adults can be asymptomatic. Although uncommon, severe disease in childhood may portend significant morbidity and mortality.{% cite cole1987a --file 02-13 %} Due to family history or incidental imaging findings, more asymptomatic children are being identified with ADPKD.
 
 ### Epidemiology
@@ -73,8 +71,6 @@ Emerging therapies under investigation aim to limit cyst growth by reducing cAMP
 
 ## Autosomal Recessive Polycystic Kidney Disease
 
-### Introduction
-
 ARPKD is characterized by rapid enlargement of both kidneys in infants due to the formation of cysts within the collecting duct system. It may be associated with congenital hepatic fibrosis which can lead to portal hypertension. An earlier presentation of ARPKD is often associated with increased severity.{% cite partin2021a --file 02-13 %} Its multisystem effects may necessitate multidisciplinary management.
 
 ### Epidemiology
@@ -96,8 +92,6 @@ Fetal and newborn ultrasound may show bilateral, very enlarged, and diffusely ec
 Similar to ADPKD, there is no cure for ARPKD, thus many treatment options are for symptom management or palliation related to hypertension, congestive heart failure, and renal and hepatic failure. Aggressive treatment, such as unilateral or bilateral nephrectomy, may be indicated in severely affected individuals who suffer respiratory or nutritional compromise due to mass effect from enlarged kidneys. Decompressive therapies may be implemented for management of portal hypertension. Hemodialysis and renal transplantation are often considered.{% cite partin2021a --file 02-13 %}
 
 ## Isolated Renal Cysts
-
-### Introduction
 
 Solitary and multiple renal cysts are the most common lesions of the adult and elderly kidney, yet rare in children and infants.{% cite bisceglia2006a --file 02-13 %} They have been identified prenatally, although prenatal lesions commonly resolve during pregnancy.{% cite blazer1999a --file 02-13 %}
 
@@ -122,8 +116,6 @@ Symptomatic cysts may be drained, however are likely to recur without the use of
 Follow up may consist of ultrasonographic imaging to monitor for signs suggestive of malignancy. Stable cysts that have not grown for two years may require no additional follow-up.{% cite peard2022a bayram2014a karmazyn2015a okelly2019a rediger2019a --file 02-13 %} Intervention may not be indicated after lesion has been proven to not be malignant.
 
 ## Calyceal Diverticuli
-
-### Introduction
 
 Calyceal diverticuli (CD) are rare outpouchings of calyx into the renal parenchyma. They are classified into two groups: type 1 being more common and adjacent to an upper or lower calyx while type 2 are larger, communicate with the renal pelvis, and are more often symptomatic.{% cite wulfsohn1980a --file 02-13 %}
 
@@ -150,8 +142,6 @@ Patients may be asymptomatic or rather present with hematuria, pain, UTI, or nep
 Asymptomatic patients do not require treatment, but may benefit from ultrasonographic monitoring.{% cite partin2021a --file 02-13 %} Those with indications for surgical management, as mentioned above, may benefit from laparoscopic marsupialization of diverticulum with fulguration of epithelial lining.{% cite casale2004a long2015a sripathi2018a --file 02-13 %} Other possible management procedures may include ureteroscopy or minimally invasive percutaneous nephrolithotomy (in setting of stones),{% cite ding2016a --file 02-13 %} ureteroscopic ablation of cavity,{% cite long2015a --file 02-13 %} or percutaneous ablation and fulguration.{% cite monga2000a --file 02-13 %} Despite the array of treatment possibilities, surgical intervention to manage CD can be challenging. In an attempt to minimize morbidity, management typically begins with the less invasive options, such as endoscopic or percutaneous approaches. There can be a high rate of symptom recurrence,{% cite monga2000a --file 02-13 %} in which case intervention can escalate to laparoscopic/robotic approaches and even open approaches, up to and including partial nephrectomy or total nephrectomy. Therefore, extensive counseling of patients is necessary when considering surgical intervention for CD.
 
 ## Multicystic Dysplastic Kidney
-
-### Introduction
 
 Multicystic dysplastic kidney (MCDK) is a congenital malformation commonly diagnosed during childhood or by prenatal ultrasonography characterized by many unilateral noncommunicating cysts and abnormal metanephric differentiation (presence of cartilage, undifferentiated mesenchyme, and immature collecting ductules) often in setting of obstructive uropathy.{% cite bisceglia2006a raina2021a gilbert-barness-a --file 02-13 %} Bilateral disease is usually incompatible with life due to oligohydramnios or anhydramnios leading to pulmonary hypoplasia.{% cite dalton1986a --file 02-13 %}
 
@@ -184,8 +174,6 @@ The natural history of MCDK involves involution over time with possible complica
 
 ## Medullary Sponge Kidney
 
-### Introduction
-
 Medullary sponge kidney (MSK) is characterized by distal collecting duct dilation, cysts, and diverticula all restricted to the medullary pyramids.{% cite partin2021a --file 02-13 %}
 
 ### Epidemiology
@@ -207,8 +195,6 @@ Diagnosis may be based on urographic features of enlarged kidneys with occasiona
 Management is primarily dictated by stone or infection treatment. Stone prevention is followed, including increased fluid intake, low sodium diet, thiazides, and potassium citrate.{% cite gambaro2013a --file 02-13 %} Complications associated with MSK are related to the increased incidence of nephrolithiasis and its associated morbidity.
 
 ## Nephronophthisis
-
-### Introduction
 
 Nephronophthisis (NPHP) is a recessively inherited common cause of chronic kidney disease in children, often paired with medullary cystic kidney disease (MCKD) as they have similar radiographic and histologic appearance; however MCKD is inherited in an autosomal dominant fashion, has delayed presentation (adulthood), and lacks extrarenal involvement.{% cite docimo2017a --file 02-13 %}
 
@@ -251,8 +237,6 @@ There are few effective treatments available for NPHP. Current management includ
 
 ## Multilocular Cysts
 
-### Introduction
-
 Multilocular cysts (cystic nephroma) is a benign neoplastic growth occurring in adults and children that exists on a spectrum with Wilms' tumor.
 
 ### Epidemiology
@@ -268,8 +252,6 @@ Lesions are bulky, non-communicating, well encapsulated by fibrous tissue, may c
 Multilocular cysts in children most commonly present with a palpable abdominal mass.{% cite castillo1991a --file 02-13 %} Evaluation is performed with ultrasound or CT scan, however, due to the difficulty in sometimes discerning between multilocular cysts and cystic Wilms' tumor based purely upon imaging, ultimate diagnosis may be made via histopathologic examination following nephrectomy or partial nephrectomy.{% cite castillo1991a --file 02-13 %}
 
 ## Acquired Cystic Kidney Diseases
-
-### Introduction
 
 Acquired cystic kidney disease (ACKD) describes the bilateral cystic changes of the kidney in the setting of ESRD and azotemia and not inherited renal cystic disease.{% cite partin2021a --file 02-13 %}
 
@@ -339,7 +321,7 @@ Continued research leads to basic science and clinical advancements, helping to 
 {:.suggested-readings-head}
 - {% reference partin2021a --file 02-13 %}
 - {% reference docimo2017a --file 02-13 %}
-- {% reference docimo2017a --file 02-13 %}
+- {% reference raina2021a --file 02-13 %}
 - {% reference bisceglia2006a --file 02-13 %}
 {:.suggested-readings-list}
 
