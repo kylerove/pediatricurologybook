@@ -2,6 +2,23 @@
 
 var Chapter = function() {
 
+	var imgs = $("div.main img");
+	var len = imgs.length;
+	var counter = 0;
+	
+	var figureCaptionsSetup = function(){
+		
+		[].forEach.call( imgs, function( img ) {
+			if(img.complete) {
+			  console.log("figure loaded");
+			  incrementFigureCounter();
+			}
+			else {
+			  img.addEventListener( 'load', incrementCounter, false );
+			 }
+		} );
+	};
+
 	var figureCaptions = function(){
 		$( "p:has(strong.figure-number)" ).addClass( "p-figure-number" );
 		
@@ -16,9 +33,9 @@ var Chapter = function() {
 		   imageWidth = $(figureImage).width();
 		   
 		   // match caption and table width
-		   //console.log("figureBoxWidth="+figureBoxWidth);
-		   //console.log("imageWidth="+imageWidth);
-		   if (figureBoxWidth > imageWidth && imageWidth != 0 && figureImage.complete && figureImage.naturalWidth != 0) {
+		   console.log("figureBoxWidth="+figureBoxWidth);
+		   console.log("imageWidth="+imageWidth);
+		   if (figureBoxWidth > imageWidth && imageWidth != 0) {
 			 figureBox.width(imageWidth);
 			 console.log("figureBoxWidth[corrected to match image]="+imageWidth);
 		   }
@@ -43,16 +60,24 @@ var Chapter = function() {
 			   wrapAll('<div class="table-wrapper" />');
 		   // match caption and table width
 		   if (tableCaptionWidth > tableWidth) {
-		     tableCaption.width(tableWidth);
-              console.log("tableCaption[corrected to match table]="+tableWidth);
+			 tableCaption.width(tableWidth);
+			  console.log("tableCaption[corrected to match table]="+tableWidth);
 		   }
 		 });
+	};
+	
+	function incrementFigureCounter() {
+		counter++;
+		if ( counter === len ) {
+			console.log( 'All figures loaded!' );
+			figureCaptions();
+		}
 	};
 	
 	return {
 			init: function () {
 				// Init functions
-				figureCaptions();
+				figureCaptionsSetup();
 				tableCaptions();
 			}
 		};
