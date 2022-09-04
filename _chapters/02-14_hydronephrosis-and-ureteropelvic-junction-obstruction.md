@@ -264,6 +264,7 @@ There is no consensus regarding the follow-up following pyeloplasty and what is 
 
 ## Suggested readings
 {:.suggested-readings-head}
+
 - {% reference han2013a --file 02-14 %}
 - {% reference jackson2018a --file 02-14 %}
 - {% reference gopal2019a --file 02-14 %}
@@ -286,7 +287,6 @@ There is no consensus regarding the follow-up following pyeloplasty and what is 
 -   Avoid manipulation of the ureter during creating pelviureteral anastomosis.
 -   Make sure that all the external stent pores are inside the pelvicalyceal system to avoid urinary leakage.
 {:.key-points-list}
-
 
 ## References
 
