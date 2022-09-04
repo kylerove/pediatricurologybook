@@ -15,10 +15,12 @@ $(window).ready(function() {
             resultsContainer: document.getElementById("search-results"),
             json: json_path,
             fuzzy: true,
+            searchResultTemplate: '<li class="dropdown-item"><a href="{link}">{title}</a></li>'
             noResultsText: "No matches",
             success: function() {
                 searchSuccess();
                 $("#search-results").show();
+                console.log("successful search");
             }
         });
 

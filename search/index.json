@@ -2,12 +2,44 @@
 layout: null
 lang: en
 ---
+{% assign first = true %}
 [
-  {% assign pages = site.chapters | concat: site.pages %}
-  {% for page in pages %}
+{% for collection in site.collections %}
+    {% for item in collection %}
+        {% for item in site.[item.label] %}
+            {% if item.lang != site.active_lang %}{% continue %}{% endif %}
+            {% if item.title == null %}{% continue %}{% endif %}
+            {% unless first %},{% endunless %}{
+                "title": {{item.title | jsonify}},
+                "content": {{item.content | markdownify | strip_html | jsonify}},
+                "link": "{% if site.active_lang != 'en' %}/{{ site.active_lang }}{% endif %}{{ item.permalink }}",
+                "date": "{{ item.date }}",
+                "excerpt": "{{ item.snippet }}",
+                "search_omit": "{{ item.search_omit }}"
+            }
+            {% assign first = false %}
+        {% endfor %}
+    {% endfor %}
+{% endfor %}
+
+{% for post in site.posts %}
     {% if page.lang != site.active_lang %}{% continue %}{% endif %}
     {% if page.title == null %}{% continue %}{% endif %}
+    {% unless first %},{% endunless %}{
+        "title": {{post.title | jsonify}},
+        "content": {{post.content | markdownify | strip_html | jsonify}},
+        "link": "{% if site.active_lang != 'en' %}/{{ site.active_lang }}{% endif %}{{ post.permalink }}",
+        "date": "{{ post.date }}",
+        "excerpt": "{{ post.snippet }}",
+        "search_omit": "{{ post.search_omit }}"
+    }
+    {% assign first = false %}
+{% endfor %}
 
+{% for page in site.pages %}
+    {% if page.lang != site.active_lang %}{% continue %}{% endif %}
+    {% if page.title == null %}{% continue %}{% endif %}
+    
     {% case page.permalink %}
         {% when "/403.html" %}{% continue %}
         {% when "/404.html" %}{% continue %}
@@ -16,14 +48,15 @@ lang: en
         {% when "/503.html" %}{% continue %}
         {% when "/504.html" %}{% continue %}
     {% endcase %}
-
-    {
-      "title"    : "{{ page.title | escape }}",
-      "category" : "{{ page.category }}",
-      "tags"     : "{{ page.tags | join: ', ' }}",
-      "url"      : "{% if site.active_lang != 'en' %}/{{ site.active_lang }}{% endif %}{{ page.permalink }}",
-      "date"     : "{{ page.date }}"
-    },
-  {% endfor %}
-  {}
+    
+    {% unless first %},{% endunless %}{
+        "title": {{page.title | jsonify}},
+        "content": {{page.content | strip_html | jsonify}},
+        "link": "{% if site.active_lang != 'en' %}/{{ site.active_lang }}{% endif %}{{ page.permalink }}",
+        "date": {{ page.date | jsonify }},
+        "excerpt": {{ page.description | jsonify }},
+        "search_omit": "{{ page.search_omit }}"
+    }
+    {% assign first = false %}
+{% endfor %}
 ]
