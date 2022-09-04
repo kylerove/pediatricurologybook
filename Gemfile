@@ -34,6 +34,8 @@ end
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
-
-
 gem "webrick", "~> 1.7"
+
+# liquid filters
+gem "liquid_reading_time", "~> 1.1.3"
+gem "liquid_pluralize","~> 1.0.3"

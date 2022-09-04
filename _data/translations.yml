@@ -122,6 +122,8 @@
   website: Website
   link-to-doi: Link to DOI
   link-to-pubmed: Link to PubMed
+  chapter-will-take: This chapter will take approximately
+  time-to-read: minutes to read.
 - 
   language: es
   about-us: Sobre Nosotros
@@ -223,6 +225,8 @@
   website: Sitio web
   link-to-doi: Enlace a DOI
   link-to-pubmed: Enlace a PubMed
+  chapter-will-take: Le tomará aproximadamente
+  time-to-read: minutos leer este capítulo.
 - 
   language: zh
   about-us: 关于我们
@@ -324,3 +328,5 @@
   website: 网站
   link-to-doi: 链接到 DOI
   link-to-pubmed: 链接到 PubMed
+  chapter-will-take: 阅读本章大约需要
+  time-to-read: 分钟。

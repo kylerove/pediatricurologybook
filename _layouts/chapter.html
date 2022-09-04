@@ -3,6 +3,7 @@ layout: default
 ---
 
     {% assign translation = site.data.translations | where: "language",site.active_lang | first %}
+    {% assign time = content | reading_time %}
     <div role="main" class="main">
       <section class="page-header page-header-modern bg-color-primary page-header-md">
         <div class="container">
@@ -23,23 +24,23 @@ layout: default
         </div>
       </section>
       <div class="container chapter">
-          <div class="row">
-            <div class="col-lg-3 order-2 order-lg-1 mt-4 mt-lg-0">
-              <aside class="sidebar">
-                <h5 class="font-weight-bold no_toc">{{ translation.chapter-contents }}</h5>
+        <div class="row">
+          <div class="col-lg-3 order-2 order-lg-1 mt-4 mt-lg-0">
+            <aside class="sidebar">
+              <h5 class="font-weight-bold no_toc">{{ translation.chapter-contents }}</h5>
     
             {{ content | toc_only }}
             
-              </aside>
-            </div>
-            <div class="col-lg-9 order-1 order-lg-2">
+            </aside>
+          </div>
+          <div class="col-lg-9 order-1 order-lg-2">
+            <p class="time-to-read"><i class="fas fa-info pr-5"></i><em>{{ translation.chapter-will-take }} {{ time }} {{ translation.time-to-read }}</em></p>
                 
             {{ content | inject_anchors }}
             
             <!--Last repository commit: {{ site.data["git-HEAD"] }}-->
                         
-            </div> <!-- /col -->
-          </div> <!-- /row -->
-        </div> <!-- /container -->
-      </div> <!-- /content -->
+          </div> <!-- /col -->
+        </div> <!-- /row -->
+      </div> <!-- /container -->
     </div> <!-- /main -->
