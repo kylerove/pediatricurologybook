@@ -17,7 +17,7 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: KR 2022-09-03
 ---
 
-By **Adam S. Ostergar**, **Yifan Meng**, & **Erica J. Traxel**{:.author-names}  
+By **Adam S. Ostergar**{:.author-names}, **Yifan Meng**{:.author-names}, & **Erica J. Traxel**{:.author-names}  
 _Washington University School of Medicine in Saint Louis, Division of Urologic Surgery, Department of Surgery_{:.author-title}
 {:.attribution}
 
