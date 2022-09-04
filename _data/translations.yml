@@ -124,6 +124,7 @@
   link-to-pubmed: Link to PubMed
   chapter-will-take: This chapter will take approximately
   time-to-read: minutes to read.
+  last-updated: Last updated
 - 
   language: es
   about-us: Sobre Nosotros
@@ -227,6 +228,7 @@
   link-to-pubmed: Enlace a PubMed
   chapter-will-take: Le tomará aproximadamente
   time-to-read: minutos leer este capítulo.
+  last-modified: Última actualización
 - 
   language: zh
   about-us: 关于我们
@@ -330,3 +332,4 @@
   link-to-pubmed: 链接到 PubMed
   chapter-will-take: 阅读本章大约需要
   time-to-read: 分钟。
+  last-modified: 最近更新时间

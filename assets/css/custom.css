@@ -766,7 +766,7 @@ p.p-video-number {
   line-height: 1.3em;
 }
 
-.bibliography,.attribution,.time-to-read {
+.bibliography,.attribution,.time-to-read,.last-modified {
   font-size: 0.9em;
   color: #202020;
   background-color: #f6f6f6;
@@ -813,7 +813,7 @@ p.p-video-number {
   text-decoration: none;
 }
 
-.time-to-read {
+.time-to-read,.last-modified {
   color:#999;
   padding: 6px 15px;
 }
