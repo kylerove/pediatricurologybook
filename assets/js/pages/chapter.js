@@ -4,6 +4,25 @@ var Chapter = function() {
 
 	var figureCaptions = function(){
 		$( "p:has(strong.figure-number)" ).addClass( "p-figure-number" );
+		
+		var figureBoxWidth = 0;
+		var imageWidth = 0;
+		$("p.p-figure-number").
+		 each(function() {
+		   // get widths
+		   let figureBox = $(this);
+		   figureBoxWidth = $(figureBox).width();
+		   let figureImage = $(this).children("img");
+		   imageWidth = $(figureImage).width();
+		   
+		   // match caption and table width
+		   //console.log("figureBoxWidth="+figureBoxWidth);
+		   //console.log("imageWidth="+imageWidth);
+		   if (figureBoxWidth > imageWidth && imageWidth != 0 && figureImage.complete && figureImage.naturalWidth != 0) {
+			 figureBox.width(imageWidth);
+			 console.log("figureBoxWidth[corrected to match image]="+imageWidth);
+		   }
+		 });
 	};
 	
 	var tableCaptions = function(){
@@ -23,16 +42,11 @@ var Chapter = function() {
 			   wrapAll('<div class="d-flex table-box" />').
 			   wrapAll('<div class="table-wrapper" />');
 		   // match caption and table width
-		   console.log(tableCaptionWidth);
-		   console.log(tableWidth);
 		   if (tableCaptionWidth > tableWidth) {
 		     tableCaption.width(tableWidth);
+              console.log("tableCaption[corrected to match table]="+tableWidth);
 		   }
 		 });
-		
-
-		 
-		/*$('p.p-table-number,table').wrap('<div class="table"></div>');*/
 	};
 	
 	return {
