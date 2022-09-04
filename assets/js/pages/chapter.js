@@ -22,8 +22,17 @@ var Chapter = function() {
 	var figureCaptions = function(){
 		$( "p:has(strong.figure-number)" ).addClass( "p-figure-number" );
 		
+		// instantiate
+		var chapterBodyWidth = 0;
 		var figureBoxWidth = 0;
 		var imageWidth = 0;
+		var imageNativeWidth = 0;
+		var nativeImage = new Image();
+		
+		// get chapterBodyWidth
+		chapterBodyWidth = $("div.chapter-body h2:first-of-type").width();
+		
+		// loop through all figures
 		$("p.p-figure-number").
 		 each(function() {
 		   // get widths
@@ -31,13 +40,27 @@ var Chapter = function() {
 		   figureBoxWidth = $(figureBox).width();
 		   let figureImage = $(this).children("img");
 		   imageWidth = $(figureImage).width();
+		   nativeImage.src = $(figureImage).attr("src");
+		   console.log("nativeImageSrc="+nativeImage.src);
+		   imageNativeWidth = nativeImage.width;
 		   
 		   // match caption and table width
-		   console.log("figureBoxWidth="+figureBoxWidth);
-		   console.log("imageWidth="+imageWidth);
+		   //console.log("figureBoxWidth="+figureBoxWidth);
+		   //console.log("imageWidth="+imageWidth);
+		   //console.log("imageNativeWidth="+imageNativeWidth);
 		   if (figureBoxWidth > imageWidth && imageWidth != 0) {
 			 figureBox.width(imageWidth);
 			 console.log("figureBoxWidth[corrected to match image]="+imageWidth);
+		   }
+		   else if (imageNativeWidth > figureBoxWidth && imageNativeWidth < chapterBodyWidth) {
+			 figureBox.width(imageNativeWidth);
+			 figureImage.css('width', '100%');
+			 console.log("figureBoxWidth[corrected to match native image]="+imageNativeWidth);
+		   }
+		   else if (imageNativeWidth > figureBoxWidth && imageNativeWidth >= chapterBodyWidth) {
+			 figureBox.css('width', '100%');
+			 figureImage.css('width', '100%');
+			 console.log("figureBoxWidth[set to 100%]="+chapterBodyWidth);
 		   }
 		 });
 	};
