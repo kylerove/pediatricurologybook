@@ -41,7 +41,7 @@ var Chapter = function() {
 		   let figureImage = $(this).children("img");
 		   imageWidth = $(figureImage).width();
 		   nativeImage.src = $(figureImage).attr("src");
-		   console.log("nativeImageSrc="+nativeImage.src);
+		   //console.log("nativeImageSrc="+nativeImage.src);
 		   imageNativeWidth = nativeImage.width;
 		   
 		   // match caption and table width
