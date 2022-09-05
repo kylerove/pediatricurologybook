@@ -14,7 +14,7 @@ var Chapter = function() {
 			  incrementFigureCounter();
 			}
 			else {
-			  img.addEventListener( 'load', incrementCounter, false );
+			  img.addEventListener( 'load', incrementFigureCounter, false );
 			 }
 		} );
 	};
