@@ -2,7 +2,7 @@
 section: 04
 chapter: 26
 sort-key: 04-26
-title: Congenital & Traumatic Urethral Stricture
+title: Congenital and Traumatic Urethral Stricture
 layout: chapter
 lang: en
 breadcrumbs:
