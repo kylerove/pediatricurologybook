@@ -18,20 +18,20 @@ review-formatting-complete:
 ---
 
 Commentary and Edited By **Liza M. Aguiar**{:.author-names} & **Anthony A. Caldamone**{:.author-names}  
-_Hasbro Children's Hospital_{:.author-title}  
-_Warren Alpert School of Medicine of Brown University, Providence RI, USA_{:.author-title}  
+_Hasbro Children's Hospital, Warren Alpert School of Medicine of Brown University, Providence RI, USA_{:.author-title}  
 {:.attribution}
 
 ## Introduction
 
 In 1991, Norman Zinner and co-authors published a paper entitled "Forecast of change in urology."{% cite zinner1991a --file 11-61 %} In this article they reviewed the results of a survey conducted by the Society of University Urologists asking members to identify the most important events or trends that would be likely to occur in the next 10-30 years in urology. This was published as the "1976 Possibilities List." ([Table 1](#table-1){:.table-link}) lists a few of these that you would find interesting. This list covers areas of medical advancement, technological advancements, socio-economic factors, and education and training. Based on an analysis by a panel of experts, it was felt that urologists were remarkably accurate in their forecast of the most important trends and events over the issuing years. Areas where the 1976 urologist survey results did not envision important changes were in diagnostic imaging, HMO/PPOs, and outpatient surgeries.
+{:.drop-caps}
 
 **Table 1**{:#table-1}{:.table-number} Selected listing of the Society of University Urologists study of the future: 1976 Possibilities List.{% cite zinner1991a --file 11-61 %}
 
 |    | Prediction                                                                                   |
 |----|----------------------------------------------------------------------------------------------|
 | 1  | Functional synthetic ureter, bladder, and urethra developed                                  |
-| 2  | Implantable ot small kidneys developed                                                       |
+| 2  | Implantable small kidneys developed                                                          |
 | 3  | External urinary diversion seldom performed                                                  |
 | 4  | Development of foolproof form of antibacterial prophylaxis                                   |
 | 5  | Development of miniaturized and improved endoscopic instrumentation                          |
