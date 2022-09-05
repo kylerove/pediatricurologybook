@@ -72,7 +72,7 @@ Hemorrhagic cystitis can occur in children who have undergone pelvic radiation o
 
 As no guidelines exist, a multidisciplinary management approach may be beneficial in severe cases. At Children's Medical Center Dallas, a hemorrhagic cystitis working group consisting of urologists, oncologists, infectious disease physicians, interventional radiologists, and pharmacists was assembled in 2020 to generate a stepwise approach to these cases. This institutional guideline is currently under development.
 
-### Reducing or Waste
+### Reducing OR Waste
 
 Reducing waste in the operating room is increasingly important as healthcare costs continue to rise. Many pediatric urologists have promoted standardization of surgical instruments to reduce costs of re-processing. Koyle *et al* standardized the instrument trays for pediatric hernias used by pediatric surgeons and urologists. They decreased the instrument processing time by half. Although cost reduction was not specifically evaluated, a survey of surgeons and nurses noted improvement in safety, quality, and efficiency.{% cite koyle2018a --file 11-63 %} Nast and Swords reduced their GU minor instrument tray by 39% and decreased annual costs by \$3,489.42 at Rady Children's Hospital. Using the same approach they further modified other surgical trays and estimated annual potential savings to be \$14,588.{% cite nast2019a --file 11-63 %} The urology team at Lurie Children's has also reduced the number of instruments in the surgical trays utilized for groin and penile cases using the DMAIC methodology (Define, Measure, Analyze, Improve, Control) with positive results (E. Johnson, personal communication, September 29, 2021).
 
