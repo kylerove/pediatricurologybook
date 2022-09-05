@@ -18,7 +18,7 @@ review-formatting-complete:
 ---
 
 By **Sarah Hecht, MD**{:.author-names}  
-_Division of Urology, Oregon Health & Sciences University, Portland, OR, USA_
+_Division of Urology, Oregon Health & Sciences University, Portland, OR, USA_{:.author-title}
 {:.attribution}
 
 ## Introduction
