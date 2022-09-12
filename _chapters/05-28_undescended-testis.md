@@ -122,7 +122,7 @@ Since laparoscopic surgery is performed with an enlarged field of view, it has t
 ![Figure 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-28-3.jpg){:.float-start .img-fluid}  
 **Figure 3**{:#figure-3}{:.figure-number} Step by step explanatory images of the laparoscopic orchiopexy. (A) cutting the gubernaculum, (B) dissection of the peritoneum parallel to the vas deferens, (C) incision of the peritoneum parallel to the internal spermatic vessel, (D) neo-hiatus formation and delivery of the testis out of the abdomen to the scrotal location.
 
-![Video 2]({{ site.url }}{{ site.baseurl }}/assets/videos/video-28-2.m4v){:.float-start .img-fluid}  
+![Video 2]({{ site.url }}{{ site.baseurl }}/assets/videos/video-28-2.mp4){:.float-start .img-fluid}  
 **Video 2**{:#video-2}{:.video-number} Demonstration of Fowler-Stephens orchiopexy.
 
 ##### Autotransplantation Using Microsurgery
