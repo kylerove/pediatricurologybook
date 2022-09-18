@@ -98,6 +98,20 @@ Strictures of the anterior urethra are often idiopathic (perhaps congenital) or 
 
 Urethral polyps are another unusual anomaly of the male urethra. They may be congenital but have also been reported in adults, suggesting that they can be acquired or slowly grow until large enough to cause symptoms. These fibro-endothelial lesions commonly arise from the verumontanum and are typically covered with transitional epithelium over a fibromuscular core. Small polyps are usually discovered incidentally during endoscopy for some unrelated purpose. In contrast, the more extensive lesions, with a polypoid head floating freely on an extended stalk, tend to obtrude through the bladder neck to give rise to acute, transient episodes of urinary retention. Other symptoms are straining to void, urgency and hematuria. Frank urethral bleeding may also occur. Diagnosis is by MCU or cystourethroscopy. Voiding cystourethrography often shows a filling defect in the urethra that may vary in location. Diagnostic confirmation is made by cystoscopy. Most polyps can be excised endoscopically (transurethral excision), although, for large polyps, an open transvesical approach may be required.
 
+## Key Points
+{:.key-points-head}
+
+- Anterior urethral valves are the most common congenital obstructive lesion of the anterior urethra, they present usually with obstructive symptoms. Transurethral incision of the valve is adequate for most patients.
+- Urethral diverticulum can present either as the more common wide-mouthed form, or saccular form. Treatment is by endoscopic incision or resection of the obstructing lip or, rarely, by an open perineal approach excising a large diverticulum.
+- Megalourethra It is a rare congenital anomaly characterized by abnormal dilatation of the penile urethra without a structural obstruction. Voiding cystourethrography and renal ultrasonography are performed to establish the diagnosis and evaluate the upper tracts. Treatment centers on reconstructing the urethra and corpus spongiosum using standard principles of hypospadias repair.
+- Syringocoele is a rare cystic dilatation of the distal portion of Cowper’s gland ducts. For all patients, early diagnosis and prompt treatment are vital. Endoscopic management uses various techniques to treat syringocoeles, namely Bugbee electrode, scissors, hooked urethral catheter, catheterization, and Holmium: YAG Laser.
+- Urethral atresia and agenesis must be included in the differential diagnosis of renal anomalies and bilateral hydronephrosis diagnosed in utero. Management will depend on the specific anomaly and the amount of renal function salvaged by alternative urinary drainage. In males, progressive catheter dilation has been used reasonably and would be similarly effective in females (PADUA-progressive augmentation by dilating the urethra anterior).
+- Urethral duplication is a rare spectrum of urethral anomalies. The complexity of the repair increases as the two openings diverge, especially if the dominant ventral meatus is very proximal.
+- Meatal stenosis arises most frequently in circumcised boys and is caused by diaper dermatitis. Meatotomy and meatoplasty are reliable methods of management.
+- Anterior urethral strictures of the anterior urethra are often idiopathic (perhaps congenital) or traumatic in origin. End-to-end urethral anastomosis after excision of the stricture is the most effective treatment when it is anatomically feasible, even for post-hypospadias strictures.
+- Urethral polyps are an unusual anomaly of the male urethra. These fibro-endothelial lesions commonly arise from the verumontanum. Diagnosis is by MCU or cystourethroscopy. Most polyps can be excised endoscopically (transurethral excision), although, for large polyps, an open transvesical approach may be required.
+{:.key-points-list}
+
 ## References
 
 {% bibliography --file 04-25 %}

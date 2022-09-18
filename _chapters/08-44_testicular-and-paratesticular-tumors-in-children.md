@@ -64,7 +64,7 @@ Rare developmental anomalies of the testis such rete dysplasia of the testis can
 
 Paratesticular tumors in childhood can be benign or malignant. Benign paratesticular tumors are rare include lesions such as hemangioma, leiomyoma and lipoma.{% cite ahmed2010a --file 08-44 %} Malignant paratesticular tumors include rhabdomysarcoma, which is the commonest paratesticular malignancy in children.{% cite ahmed2010a --file 08-44 %} and the rare melanotic neuroectodermal tumour of infancy, which is mostly benign, but can exhibit malignant behaviour.{% cite calabrese1995a --file 08-44 %}
 
-It must be remembered that the prepubertal testis is a common location for metastatic or infiltrative malignancy, such as metastatic leukaemia and lymphoma.{% cite jarvis2021a --file 08-44 %}
+It must be remembered that the testis in childhood is a common location for metastatic or infiltrative malignancy, such as metastatic leukemia or lymphoma.{% cite jarvis2021a --file 08-44 %}
 
 Whilst cryptorchidism is a known risk factor for testicular malignancy, majority of reported childhood testicular tumors are not associated with cryptorchidism. Cryptorchidism is associated with an increased risk of post-pubertal malignancy, bilaterally, by 2-5 times that of the general population.{% cite pettersson2007a --file 08-44 %} This risk appears to be reduced by orchidopexy early in childhood.{% cite schneuer2018a --file 08-44 %} Malignancy type occurring most commonly in uncorrected or late-operated cryptorchidism is seminoma.{% cite wood2009a --file 08-44 %}
 
@@ -117,9 +117,9 @@ A lesion with clinical and USS characteristics of a benign tumor, and with no el
 |                                              | Gonadal tumor in Differences of Sex Development (DSD)   |                                          |                               |                                 | Gonadoblastoma                              |
 | Secondary Testicular metastases/infiltration |                                                         |                                          |                               |                                 | Leukemia e.g., acute lymphoblastic leukemia |
 |                                              |                                                         |                                          |                               |                                 | Lymphoma e.g., Burkitts Lymphoma            |
-| Paratesticular Tumors                        |                                                         |                                          | Hemangioma                    | Melanotic                       | Paratesticular Rhabdomyosarcoma             |
-|                                              |                                                         |                                          | Leiomyoma                     | Neuroectodermal                 |                                             |
-|                                              |                                                         |                                          | Lipoma                        | Tumor of Infancy                |                                             |
+| Paratesticular Tumors                        |                                                         |                                          | Hemangioma                    | Melanotic Neuroectodermal Tumor of Infancy                        | Paratesticular Rhabdomyosarcoma             |
+|                                              |                                                         |                                          | Leiomyoma                     |                  |                                             |
+|                                              |                                                         |                                          | Lipoma                        |                 |                                             |
 |                                              |                                                         |                                          |                               |                                 |                                             |
 
 

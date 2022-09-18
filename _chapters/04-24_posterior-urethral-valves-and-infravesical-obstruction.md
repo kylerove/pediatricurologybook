@@ -17,7 +17,7 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 
 ---
 
-By **Ketaki Garpure**{:.author-names}, **Nav Johal**{:.author-names}, **Lisa Steven**{:.author-names}, & **Divyesh Desai**{:.author-names}  
+By **Ketaki Gharpure**{:.author-names}, **Nav Johal**{:.author-names}, **Lisa Steven**{:.author-names}, & **Divyesh Desai**{:.author-names}  
 _Great Ormond Street Hospital, London, UK_{:.author-title}
 {:.attribution}
 
