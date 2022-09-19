@@ -1,20 +1,20 @@
 ---
 section: 00
 chapter: 00
-sort-key: 00-00
+sort-key: 0
 title: Forward
 layout: chapter
 lang: en
 breadcrumbs:
   - 
-	title: Home
-	permalink: /
+    title: Home
+    permalink: /
   - 
-	title: Book
-	permalink: /book/
+    title: Book
+    permalink: /book/
 toc: true
 js: /assets/js/pages/chapter.js
-review-formatting-complete: KR 2022-09-03
+review-formatting-complete: KR 2022-09-019
 ---
 
 Welcome to PediatricUrologyBook.com, v2 (2nd edition)! The four (new) editors welcome you to a completely revamped set of 67 chapters, organized into 11 sections. While we have tasked [experts](/contributors/) from around the world to provide insight into the latest knowledge on common topics within pediatric urology, we have also tried to think outside the box by having experts also weight on such topics as [regional perspectives on differences of sexual development](/book/chapters/07-41_social-and-medicolegal-issues-with-dsd/), [surgical leadership](/book/chapters/11-66_leadership-and-training-in-pediatric-urology/), and [what our specialty might look like in the year 2050](/book/chapters/11-61_pediatric-urology-in-2050/).

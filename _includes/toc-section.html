@@ -1,11 +1,16 @@
 
 {% assign section_title = section.titles | where: "language",site.active_lang | first %}
+{% if section.number == 0 %}
+## {{ section_title.title }}
+{% else %}
 ## <span>{{ section.number }}</span> {{ section_title.title }}
+{% endif %}
 
   {% if section.subsections == nil %}
     {% assign section_chapters = site.chapters | where: "section", i | sort: "sort-key" %}
-    {% for chapter in section_chapters %}
-  - {{ chapter.section }}.{{ chapter.chapter }} [{{ chapter.title }}]({{ site.url }}{{ site.baseurl }}{{ chapter.url }}){% endfor %}
+    {% for chapter in section_chapters %}{% if chapter.chapter == 0 %}
+  - [{{ chapter.title }}]({{ site.url }}{{ site.baseurl }}{{ chapter.url }}){% else %}
+  - {{ chapter.section }}.{{ chapter.chapter }} [{{ chapter.title }}]({{ site.url }}{{ site.baseurl }}{{ chapter.url }}){% endif %}{% endfor %}
   {% else %}
     {% for subsection in section.subsections %}
 - ### <span>{{ subsection.index }}</span> {{ subsection.title }}
