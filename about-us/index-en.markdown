@@ -24,7 +24,7 @@ toc: false
 {% include about-us-history.html timeline=the_timeline %}
 
 Pediatric urology is an immensely varying specialty of congenital and acquired conditions ranging from phimosis, hydrocele, the palpable undescended testis, through common disorders such as urinary tract infection and bladder dysfunction, hydronephrosis and hypospadias, to rare tumors, posterior urethral valves, sex disorders, exstrophy-epispadias and cloacal anomalies.
-{: .lead}
+{: .lead .drop-caps}
 
 The scope and complexity of specialist pediatric urology practice is ever increasing, with advances in imaging, endoscopic treatment of vesicoureteral reflux and expansion of laparoscopic and robotic pediatric urology as some recent examples.
 
@@ -36,12 +36,26 @@ What better way to achieve all these aims than with a pediatric urology online r
 
 The [Pediatric Urology Book](/) has been divided into several sections. In each section, the chapter has been divided into subsections, each subsection being contributed by a specialist. For example, the urolithiasis chapter may have a section written by a nephrologist, an interventional radiologist and a pediatric urologist thereby giving the most comprehensive details for that particular section. In addition where relevant, photographs and video clips will be embedded in the chapter for viewing via the standard means.
 
+## How Did We **Self-Publish**?
+
+Self-publishing is not for the faint of heart. You need _someone_ with knowledge of the internet (web servers, [hosting services](https://digitalocean.com), [domain names](https://cloudflare.com), HTML, CSS, Javascript) and frameworks to string it all together ([Git](https://git-scm.com), [GitHub](https://github.com), [Bootstrap](https://getbootstrap.com), [JQuery](https://jquery.com), [Ruby](https://www.ruby-lang.org/en/), [PanDoc](https://pandoc.org), [CSL](http://citationstyles.org/), and a sprinkling of [Perl](https://www.perl.org) and [Python](https://www.python.org)).
+
+Some key open source projects helped get this over the finish line:
+- [AnyStyle.io](https://anystyle.io) (parsed the raw references from authors' original submissions)
+- [doi4bib](https://github.com/sharkovsky/doi4bib) (allowed us to find and locate DOI and PubMed links for references)
+- [CiteProc-Ruby](https://github.com/inukshuk/citeproc-ruby) (allowed us to display the references in a pretty format)
+- [Porto Website Template](https://themeforest.net/item/porto-responsive-html5-template/4106987) (gives the website visual structure)
+- [Jekyll](https://jekyllrb.com) (truly the glue for the project, bringing together all the content into the final website)
+
+Other tools used in the making of this book:
+- [Sketch](https://www.sketch.com)
+- [Poppins font](https://fonts.adobe.com/fonts/poppins)
+
 ## Who **We Are**
 
-We the editors are all experienced Pediatric Urologists with a number of peer reviewed publications, chapters in textbooks and editorial responsibility for textbooks to our credit. The belief that “Knowledge should be free” is common to all and with this in mind, we along with our associate editors and contributors aim to spread this knowledge in pediatric urology in a format that is new, exciting and revolutionary. Of course continual improvement is the key to continued success and we would therefore be indebted for your feedback. We could not have done this without help from our web publisher—Gary Bagshawe at GBC Productions and most importantly without the support and advice from our families.
+We the [editors](/editors/) are all experienced pediatric urologists with a number of peer reviewed publications, chapters in textbooks and editorial responsibility for textbooks and journals to our credit. The belief that “Knowledge should be free” is common to all and with this in mind, we along with our contributors aim to spread this knowledge in pediatric urology in an open online format that is exciting and (still) revolutionary since version 1 came out in 2010. Of course continual improvement is the key to continued success and we would therefore be indebted for your feedback. We certainly could not have done this without the support and advice from our families.
 
 While all information on this website is freely available and open access, the [editors](/editors/) would request that individuals exercise courtesy to the [contributors](/contributors/) in obtaining the necessary permissions to use any images or digital material from this work.
 
-All the best,
-
-Angela, PJ, Mohan, and Kyle
+All the best,  
+Angela Arlen, PJ López, Mohan Gundeti, & Kyle Rove
