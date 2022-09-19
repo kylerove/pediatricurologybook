@@ -25,9 +25,11 @@ toc: true
 {% assign the_sections = site.data.sections | sort: "number" %}
 {% for section in the_sections %}
   {% assign the_title = section.titles | where: "language",site.active_lang | first %}
+  {% if section.number != 0 %}
 
 ### {{ translation.section }} {{ section.number }}: {{ the_title.title }}
 
+  {% endif %}
 {% assign the_contributors = site.data.contributors | where: "section",section.number | sort: "last" %}
 {% include contributors-list.html contributors=the_contributors %}
 
