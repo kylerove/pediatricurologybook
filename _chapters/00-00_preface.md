@@ -2,7 +2,7 @@
 section: 00
 chapter: 00
 sort-key: 0
-title: Forward
+title: Preface
 layout: chapter
 lang: en
 breadcrumbs:
