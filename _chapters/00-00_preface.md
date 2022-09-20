@@ -29,4 +29,4 @@ The [editors](/editors/) would also like to thank our families. Editing a book i
 We hope you find version 2 as much of a resource as we did version 1! Please feel free to reach out to us with any suggestions or comments. We hope this is a living resource that can be updated as new medical knowledge comes to light.
 
 All our best,
-Agenla Arlen, Mohan Gundeti, Pedro-José López, & Kyle Rove
+Angela Arlen, Mohan Gundeti, Pedro-José López, & Kyle Rove
