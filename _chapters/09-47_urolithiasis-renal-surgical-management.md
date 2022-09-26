@@ -17,7 +17,7 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 
 ---
 
-By **Ravindra B Sabnis**{:.author-names}<sup>1</sup>, **Rohan Batra**{:.author-names}<sup>2</sup>, **Arvind Ganpule**{:.author-names}<sup>3</sup>  
+By **Ravindra B Sabnis**{:.author-names}<sup>1</sup>, **Rohan Batra**{:.author-names}<sup>2</sup>, & **Arvind Ganpule**{:.author-names}<sup>3</sup>  
 _<sup>1</sup> Chairman, Department of Urology, Muljibhai Patel Urological Hospital, Nadiad, Gujarat, India_{:.author-title}  
 _<sup>2</sup> Consultant Urologist, Department of Urology, Muljibhai Patel Urological Hospital, Nadiad, Gujarat, India_{:.author-title}  
 _<sup>3</sup> Vice-chairman, Department of Urology, Muljibhai Patel Urological Hospital, Nadiad, Gujarat, India_{:.author-title}
