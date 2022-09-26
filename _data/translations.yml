@@ -125,6 +125,7 @@
   chapter-will-take: This chapter will take approximately
   time-to-read: minutes to read.
   last-updated: Last updated
+  link-to-external-site: Link to external website
 - 
   language: es
   about-us: Sobre Nosotros
@@ -229,6 +230,7 @@
   chapter-will-take: Le tomará aproximadamente
   time-to-read: minutos leer este capítulo.
   last-modified: Última actualización
+  link-to-external-site: Enlace a sitio web externo
 - 
   language: zh
   about-us: 关于我们
@@ -333,3 +335,4 @@
   chapter-will-take: 阅读本章大约需要
   time-to-read: 分钟。
   last-modified: 最近更新时间
+  link-to-external-site: 链接到外部网站
