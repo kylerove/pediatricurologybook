@@ -48,7 +48,7 @@ Signs suggestive of renal trauma:
 
 The concept of "significant hematuria" after trauma is debated in children.{% cite unknown2018a --file 09-52 %} While some authors consider a cutoff of \>5 RBC/HPF, others advocate for **\>50 RBC/HPF**. Hematuria alone, however, is not a reliable marker of renal injury. Moreover, the degree of** hematuria does not correlate with the degree of injury**.
 
-With this in mind, others recommend **investigating any hematuria** (microscopic or gross)** in any child** with blunt abdominal trauma associated with a **decelerating mechanism** (MVC, pedestrian strike, fall from height).{% cite unknown2018a --file 09-52 %}
+With this in mind, others recommend **investigating any hematuria** (microscopic or gross) **in any child** with blunt abdominal trauma associated with a **decelerating mechanism** (MVC, pedestrian strike, fall from height).{% cite unknown2018a --file 09-52 %}
 
 ## Diagnostic Studies
 
