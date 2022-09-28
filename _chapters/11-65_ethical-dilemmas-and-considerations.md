@@ -17,7 +17,7 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 
 ---
 
-By **David A. Diamond**{:.author-names}  
+By **Karen M. Doersch**, **David A. Diamond**{:.author-names}  
 _University of Rochester Medical Center, Rochester, NY, USA_{:.author-title}
 {:.attribution}
 
