@@ -17,7 +17,9 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2022-09-26 KR
 ---
 
-By **Juan Pablo Corbetta**{:.author-names}
+By **Anna Bujons**{:.author-names}<sup>1</sup> & **Juan Pablo Corbetta**{:.author-names}<sup>2</sup>  
+_<sup>1</sup> Head of Pediatric Urology Division, Fundacion Puigvert, Barcelona, Spain_{:.author-title}  
+_<sup>2</sup> Head of Pediatric Urology Division, Hospital de Pediatria Prof. Dr. Juan P. Garrahan, Buenos Aires, Argentina_{:.author-title}
 {:.attribution}
 
 ## Bladder Trauma
