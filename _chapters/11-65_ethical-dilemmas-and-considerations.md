@@ -25,7 +25,7 @@ _University of Rochester Medical Center, Rochester, NY, USA_{:.author-title}
 
 All of pediatric urological care involves the application of ethical principles on a daily basis. Occasionally, those principles are spotlighted as we push therapeutic envelopes further, societal thinking evolves or medical advances challenge legal (or even political) thinking. Gender affirming therapies represent such an arena as care for the transgender population has developed rapidly and unevenly throughout our country. Similarly, care for neonates and infants with disorders of sexual differentiation (DSD) has become a focus for social and political activism, potentially influencing treatment. Both areas have assumed ethical importance for the principles upheld.
 
-As we will discuss, the ethical concepts guiding transgender care—justice, beneficence and autonomy—are magnified. For neonates and infants with DSD's, for whom gender-related surgery is considered, these same principles apply but with different, powerful tensions. For both, informed consent takes on particular importance.
+As we will discuss, the ethical concepts guiding transgender care—justice, beneficence and autonomy—are magnified. For neonates and infants with DSDs, for whom gender-related surgery is considered, these same principles apply but with different, powerful tensions. For both, informed consent takes on particular importance.
 
 ## Ethical Principles
 
