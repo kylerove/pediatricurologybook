@@ -14,7 +14,7 @@ breadcrumbs:
     permalink: /book/
 toc: true
 js: /assets/js/pages/chapter.js
-review-formatting-complete: 
+review-formatting-complete: 2022-10-03 KR
 ---
 
 By **Niall J. O'Sullivan**{:.author-names}<sup>1</sup>, **Anthony A. Caldamone**{:.author-names}<sup>2</sup>, & **Fardod O'Kelly**{:.author-names}<sup>3,4,5</sup>  
@@ -27,7 +27,8 @@ _<sup>5</sup>Surgical Affairs, Royal College of Surgeons in Ireland_{:.author-ti
 
 ## Introduction
 
-The use of social media has progressed considerably over the past decade, with approximately 3.484 billion people worldwide engaging in at least one application in 2019.{% cite karim2020a chou2019a --file 11-67 %} The use of social media applications such as Facebook, YouTube, Instagram, Twitter and TikTok has become an integral part of people's lives, with many users dedicating several hours of their day to these various platforms.{% cite karim2020a --file 11-67 %} According to the National Cancer Institute (NCI), social media usage in the United States increased from approximately 27% to 86% between 2009 and 2019, reflecting a 59% increase in a ten year period.{% cite chou2019a --file 11-67 %} This rise has been particularly prominent in the younger adult population, 90% of whom with internet access are social media users.{% cite villanti2016a --file 11-67 %} YouTube is the most commonly utilised platform, with approximately 73% of U.S adults reporting use.{% cite centre2019a --file 11-67 %} This is closely followed by Facebook (69%), Instagram (37%), Pinterest (28%), LinkedIn (27%), Snapchat (24%) and Twitter (22%). Individual social media platforms, their characteristics and potential uses in pediatric urology are outlined in ([Table 1](#table-1){:.table-link}) With an increased uptake of social media by young adults, the potential exists to deliver high quality health information and interventions to a cohort that may be hard-to-reach with conventional health promotion and disease prevention measures.{% cite villanti2016a --file 11-67 %}
+The use of social media has progressed considerably over the past decade, with approximately 3.484 billion people worldwide engaging in at least one application in 2019.{% cite karim2020a chou2019a --file 11-67 %} The use of social media applications such as Facebook, YouTube, Instagram, Twitter and TikTok has become an integral part of people's lives, with many users dedicating several hours of their day to these various platforms.{% cite karim2020a --file 11-67 %} According to the National Cancer Institute (NCI), social media usage in the United States increased from approximately 27% to 86% between 2009 and 2019, reflecting a 59% increase in a ten year period.{% cite chou2019a --file 11-67 %} This rise has been particularly prominent in the younger adult population, 90% of whom with internet access are social media users.{% cite villanti2016a --file 11-67 %} YouTube is the most commonly utilised platform, with approximately 73% of U.S adults reporting use.{% cite centre2019a --file 11-67 %} This is closely followed by Facebook (69%), Instagram (37%), Pinterest (28%), LinkedIn (27%), Snapchat (24%) and Twitter (22%). Individual social media platforms, their characteristics and potential uses in pediatric urology are outlined in [Table 1](#table-1){:.table-link}. With an increased uptake of social media by young adults, the potential exists to deliver high quality health information and interventions to a cohort that may be hard-to-reach with conventional health promotion and disease prevention measures.{% cite villanti2016a --file 11-67 %}
+{:.drop-caps}
 
 **Table 1**{:#table-1}{:.table-number} Social media platforms, their characteristics and potential uses in pediatric urology**
 
