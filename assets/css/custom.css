@@ -842,7 +842,7 @@ p.p-video-number {
   padding: 0.8em 1.1em;
 }
 
-.key-points-list, .suggested-readings-list, .resources-list {
+.key-points-list, .suggested-readings-list, .resources-list, .key-points-paragraph {
   background: #FE423D;
   /*border: 1px solid #e1e1e1;*/
   border-bottom-left-radius: 0.3em;
@@ -853,6 +853,10 @@ p.p-video-number {
   color: #ffffff;
   font-weight: 200;
   font-size: 1.2em;
+}
+
+.key-points-paragraph {
+  padding: 0 1.1em 1em 1.1em;
 }
 
 .suggested-readings-head, .suggested-readings-list {

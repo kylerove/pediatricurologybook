@@ -59,7 +59,7 @@ The metanephros develops into the functional and anatomically positioned kidney 
 {:.key-points-head}
 
 The developing kidney and upper urinary tract develop through the pronephros, mesonephros, and metanephros stages. The metanephros is comprised of the metanephric blastema and ureteric bud that respectively develop into the renal parenchyma and collecting system. The mesonephros persists and contributes to the development of the bladder trigone, upper tract collecting system, and the male reproductive system.
-{:.key-points-list}
+{:.key-points-paragraph}
 
 ## Lower Urinary Tract
 
@@ -87,7 +87,7 @@ In females, the urogenital sinus forms the entire urethra and the distal vagina.
 {:.key-points-head}
 
 The cloaca is initially a common chamber that is divided by the urorectal septum to form the urogenital sinus and the anorectal canal. The urogenital sinus subsequently enlarges cranially to form the bladder and contributes to the urethra in both sexes. The allantois concurrently involutes to form the urachus, which later becomes the median umbilical ligament.
-{:.key-points-list}
+{:.key-points-paragraph}
 
 ## Gonads and Reproductive Tracts
 
@@ -132,7 +132,7 @@ Comparable to gonadal development, female reproductive tract development is also
 {:.key-points-head}
 
 Gonadal and ductal differentiation is outlined in ([Table 1](#table-1){:.table-link}) The undifferentiated gonad and primordial germ cells can develop into the testis with spermatogonia or the ovary with oogonia. The subsequent hormone secretion from these gonads influences the mesonephric (Wolffian) duct to become the epididymis, appendix epididymis, vas deferens, ejaculatory duct, and seminal vesicle or the paramesonephric (Mullerian) duct to become the fallopian tube, uterus, cervix, and proximal vagina.
-{:.key-points-list}
+{:.key-points-paragraph}
 
 ## External Genitalia
 
@@ -156,6 +156,7 @@ Although androgen absence avoids masculinization, development of the external fe
 The urogenital sinus and external genitalia develop into the clitoris, labia majora and minora, and lower vagina under both the influence of estrogen and absence of androgens ([Figure 10](#figure-10){:.figure-link}) The genital tubercle regresses in the absence of androgens and forms the clitoris. Urogenital sinus (initially formed after cloacal division) gives rise to the entire female urethra and the distal vagina. The distal vagina fuses cranially with the paramesonephric ducts. Central cells degrade to form the vaginal lumen and the posterior wall invaginates to form the hymen. The urogenital folds become the labia minora with minimal posterior fusion to form the posterior fourchette. The labioscrotal swellings remain unfused in the female to become the labia majora.
 
 **Table 1**{:#table-1}{:.table-number} Sexual differentiation and development.
+
 |                                   | Male                                                                             | Female                                          |
 |-----------------------------------|----------------------------------------------------------------------------------|-------------------------------------------------|
 | Gonads                            |                                                                                  |                                                 |
@@ -173,7 +174,7 @@ The urogenital sinus and external genitalia develop into the clitoris, labia maj
 {:.key-points-head}
 
 Differentiation of the external genitalia is also outlined in ([Table 1](#table-1){:.table-link}) The genital tubercle becomes the phallus in males and the clitoris in females. The urogenital folds become the urethral plate in males and the labia minora in females. The labioscrotal swellings develop into the scrotum in males and the labia majora in females. As part of lower urinary tract development, the urogenital sinus forms the proximal urethra and its urogenital folds form the urethral plate for the distal urethra in males. In contrast, the urogenital sinus forms the entire urethra in females as well as the distal vagina.
-{:.key-points-list}
+{:.key-points-paragraph}
 
 ## Conclusion
 
