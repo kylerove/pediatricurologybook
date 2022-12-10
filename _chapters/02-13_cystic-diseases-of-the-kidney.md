@@ -331,7 +331,7 @@ Continued research leads to basic science and clinical advancements, helping to 
 
 *[CKD]: chronic kidney disease
 *[ADPKD]: autosomal dominant polycystic kidney disease
-*[ARPKD]: audosomal recessive polycystic kidney disease
+*[ARPKD]: autosomal recessive polycystic kidney disease
 *[MCDK]: multicystic dysplastic kidney
 *[ESRD]: end stage renal disease
 *[ACE]: angiotensin converting enzyme
