@@ -947,3 +947,16 @@ p.drop-caps:first-letter {
 div.chapter-02-13 table:first-of-type th {
   width: 50%;
 }
+
+div#toc {
+  column-count:2;
+}
+
+@media (max-width: 576px) {
+    div#toc {
+      column-count:1;
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+}
+

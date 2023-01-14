@@ -13,7 +13,7 @@ breadcrumbs:
 toc: false
 ---
 
-<div id="toc" markdown="1" style="column-count:2">
+<div id="toc" markdown="1">
 
 {% for i in (0..11) %}
   {% assign section = site.data.sections | where: "number",i | first %}
