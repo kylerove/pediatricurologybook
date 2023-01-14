@@ -665,10 +665,10 @@ a.citation {
   height: 18px;
   text-decoration: none;
   color: #FE423D;
-  padding: 0px 12px 0px 3px;
+  padding: 0px 8px 0px 3px;
   border-radius:2px;
   background: url("/assets/img/icon-ref-link-red.svg") right center no-repeat;
-  background-size: 0.7em 0.7em;
+  background-size: 0.45em 0.45em;
   line-height:18px;
 }
 
@@ -677,14 +677,14 @@ a.citation span {
   color: #FE423D;
   text-decoration: none;
   font-weight:400;
-  font-size:0.9em;
+  font-size:0.8em;
 }
 
 a.citation:hover {
   background-color:#FE423D !important;
   color:#fff;
   background: url("/assets/img/icon-ref-link-white.svg") right center no-repeat;
-  background-size: 0.7em 0.7em;
+  background-size: 0.45em 0.45em;
   text-decoration: none;
   border-radius:2px;
 }
@@ -693,7 +693,7 @@ a.citation:hover span {
   color: #fff;
   text-decoration: none;
   font-weight:400;
-  font-size:0.9em;
+  font-size:0.8em;
 }
 
 a.figure-link, a.table-link, a.video-link {

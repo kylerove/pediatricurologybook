@@ -161,7 +161,7 @@ M<sub>1</sub> receptors are found in the brain, glands (such as salivary glands)
 
 #### Beta-3 Agonists
 
-Agonists of the β<sub>3</sub> adrenoceptor, such as mirabegron can increase bladder capacity without increasing voiding pressure or post-void residual volume.{% cite andersson2009a --file 03-20 %} Treatment with these agents leads to smooth muscle relaxation and the generally accepted mechanism of relaxation is via downstream activation of adenyl cyclase with the subsequent production of cyclic adenosine monophosphate (cAMP) followed by inhibition of the Rho-kinase pathway**.**{% cite uchida2005a frazier2005a --file 03-20 %} However, evidence also indicates that elevated cAMP also activates protein kinase A, which then activates large-conductance calcium-dependent K^+^ (BK) channels. Activation of these BK channels leads to hyperpolarization of bladder smooth muscle and increased detrusor stability.{% cite kobayashi2000a --file 03-20 %} Mirabegron is approved for treatment of OAB in adults and children in the US and Europe.
+Agonists of the β<sub>3</sub> adrenoceptor, such as mirabegron can increase bladder capacity without increasing voiding pressure or post-void residual volume.{% cite andersson2009a --file 03-20 %} Treatment with these agents leads to smooth muscle relaxation and the generally accepted mechanism of relaxation is via downstream activation of adenyl cyclase with the subsequent production of cyclic adenosine monophosphate (cAMP) followed by inhibition of the Rho-kinase pathway**.**{% cite uchida2005a frazier2005a --file 03-20 %} However, evidence also indicates that elevated cAMP also activates protein kinase A, which then activates large-conductance calcium-dependent K<sup>+</sup> (BK) channels. Activation of these BK channels leads to hyperpolarization of bladder smooth muscle and increased detrusor stability.{% cite kobayashi2000a --file 03-20 %} Mirabegron is approved for treatment of OAB in adults and children in the US and Europe.
 
 #### Other Medications
 
@@ -227,8 +227,8 @@ The hallmark of OAB is urgency and by definition, children with this symptom can
    2. Avoid excessive gas from overloading with fiber; gas is just as detrimental as constipation and results in distention of the gut
    3. Fiber supplementation without water leads to worsening of the constipation
 2. Anticholinergics or Terazosin or Doxazosin
-   i. Dry mouth or memory problems can be due to anticholinergic medications. Watch for constipation becoming worse with anticholinergics
-   ii. Dizziness and fatigue due to alpha blockers can be prevented by ensuring patients hydrate and increase salt intake.
+   1. Dry mouth or memory problems can be due to anticholinergic medications. Watch for constipation becoming worse with anticholinergics
+   2. Dizziness and fatigue due to alpha blockers can be prevented by ensuring patients hydrate and increase salt intake.
 3. Evaluate for neuropsychiatric problems and treating accordingly
    1. SSRIs can be associated with irritability and suicidal thoughts
    2. Sympathomimetics for ADHD can lead to tightening of the bladder neck and potential negative effects on flow rates and even dysuria. Weight loss and constipation are associated with sympathomimetics.
