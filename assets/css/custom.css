@@ -341,6 +341,27 @@ h3 {
   font-size: 1.6em;
   text-transform: inherit;
   }
+
+h4 {
+  margin-bottom: 12px;
+  font-size: 1.3em;
+  font-weight: 400;
+  font-style: italic;
+}
+
+h5 {
+  margin-bottom: 12px;
+  font-size: 1.2em;
+  font-weight: 500;
+  font-variant-caps: all-small-caps;
+}
+
+h6 {
+  margin-bottom: 12px;
+  font-size: 1.1em;
+  font-weight: 500;
+  font-variant-caps: all-petite-caps;
+}
   
 h1 strong, h2 strong, h3 strong, h4 strong, h5 strong, h6 strong {
   font-weight: bold;
@@ -960,3 +981,14 @@ div#toc {
     }
 }
 
+ol ol {
+  list-style-type: lower-alpha;
+}
+
+ol ol ol {
+  list-style-type: lower-roman;
+}
+
+ol ol ol ol {
+  list-style-type: lower-greek;
+}
