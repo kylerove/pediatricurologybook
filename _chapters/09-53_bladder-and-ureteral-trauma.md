@@ -172,7 +172,7 @@ Suspicion of ureteral injury is critical in any child with high-intensity abdomi
 
 **CT scan is the best method to diagnose ureteral trauma.** Already in the excretory phase, it may not show passage of contrast towards the distal ureter, which may lead to suspicion of ureteral avulsion.
 
-Although a **retrograde pyelogram** is probably the most accurate method to assess ureteral integrity, [it is not practical in an acute trauma setting]{.underline}.
+Although a **retrograde pyelogram** is probably the most accurate method to assess ureteral integrity, [it is not practical in an acute trauma setting]{:.text-decoration-underline}.
 
 An intraoperative evaluation can also be performed by direct inspection of the ureter with the help of methylene blue injection via the urinary route or by parenteral administration of indigo carmine.{% cite buckley2004a broghammer2006a --file 09-53 %}
 

@@ -92,7 +92,7 @@ As stated previously, urinary concentration occurs in the collecting ducts in th
 {:.key-points-head}
 
 - To estimate urine osmolality (Uosm), multiply the last two digits of the urine specific gravity by 30.
-- Example: Urine specific gravity of 1.0**20**{:.underline}
+- Example: Urine specific gravity of 1.0**20**{:.text-decoration-underline}
 - Estimated Uosm = 20 × 30 = 600 mOsm/kg
 {:.key-points-list}
 
@@ -124,7 +124,7 @@ In the setting of AKI, it is important to understand that a rise in creatinine t
 
 #### Etiology of AKI
 
-A typical starting point to determine the etiology of AKI includes an assessment of prerenal, intrinsic renal, or obstructive processes. [Obstruction]{.underline} can be ruled out via imaging, typically via renal and bladder ultrasound. Prerenal and intrinsic etiologies of kidney injury will be discussed herein.
+A typical starting point to determine the etiology of AKI includes an assessment of prerenal, intrinsic renal, or obstructive processes. [Obstruction]{:.text-decoration-underline} can be ruled out via imaging, typically via renal and bladder ultrasound. Prerenal and intrinsic etiologies of kidney injury will be discussed herein.
 
 ##### Prerenal Azotemia
 
