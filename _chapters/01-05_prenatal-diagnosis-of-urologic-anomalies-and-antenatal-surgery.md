@@ -23,7 +23,7 @@ _University of Iowa Hospitals and Clinics, Department of Urology, Iowa City, IA,
 
 ## Introduction
 
-A second trimester comprehensive fetal anatomic survey has become standard prenatal care. Prenatal ultrasound detects 84.4--97% of all fetal urinary tract malformations and these anomalies may be detected as early as 12--14 weeks of gestation,{% cite bronshtein1990a corteville1991a --file 01-05 %} Prior to routine antenatal screening, symptomatic children with urologic abnormalities were detected after birth, presenting with such symptoms as urosepsis, pain, hematuria, a palpable mass or failure to thrive, often requiring surgical intervention. The advent of routine prenatal ultrasonography has shifted the scope of pediatric urologic care from an interventional/surgical model to an antenatal counseling role.
+A second trimester comprehensive fetal anatomic survey has become standard prenatal care. Prenatal ultrasound detects 84.4--97% of all fetal urinary tract malformations and these anomalies may be detected as early as 12--14 weeks of gestation.{% cite bronshtein1990a corteville1991a --file 01-05 %} Prior to routine antenatal screening, symptomatic children with urologic abnormalities were detected after birth, presenting with such symptoms as urosepsis, pain, hematuria, a palpable mass or failure to thrive, often requiring surgical intervention. The advent of routine prenatal ultrasonography has shifted the scope of pediatric urologic care from an interventional/surgical model to an antenatal counseling role.
 
 Antenatal hydronephrosis is seen in 1--5% of all pregnancies and represents the most frequent prenatal diagnosis.{% cite mallik2008a --file 01-05 %} The majority of these patients have mild renal pelvis dilation that spontaneously resolves; however, hydronephrosis may be secondary to obstruction of the urinary tract, which may or may not benefit from prenatal intervention. As such, a comprehensive knowledge of the pathophysiology of potential urinary tract malformations which may be detected via antenatal screening and their possible prenatal manifestations and intervention is required.
 
@@ -73,7 +73,7 @@ Amniotic fluid has long been recognized as playing an important role in fetal lu
 
 ## Epidemiology
 
-Congenital anomalies of the kidney and urinary tract{% cite renkema2011a --file 01-05 %} occur in 1/500 live births and the incidence of neonatal death from CAKUT is about 1/2000 live births,{% cite renkema2011a hogan2012a --file 01-05 %} Hydronephrosis is the most common prenatal urinary abnormality identified, occurring in 1--5% of all pregnancies, with the risk of any postnatal pathology increasing per degree of hydronephrosis (11.9% for mild, 45.1% for moderate and 88.3% for severe hydronephrosis).{% cite lee2006a --file 01-05 %} Most obstructive urologic anomalies occur in males, with a male to female ratio of 4:1, with a predilection for the left kidney to be involved,{% cite reddy1998a harrison1982a --file 01-05 %}
+Congenital anomalies of the kidney and urinary tract{% cite renkema2011a --file 01-05 %} occur in 1/500 live births and the incidence of neonatal death from CAKUT is about 1/2000 live births.{% cite renkema2011a hogan2012a --file 01-05 %} Hydronephrosis is the most common prenatal urinary abnormality identified, occurring in 1--5% of all pregnancies, with the risk of any postnatal pathology increasing per degree of hydronephrosis (11.9% for mild, 45.1% for moderate and 88.3% for severe hydronephrosis).{% cite lee2006a --file 01-05 %} Most obstructive urologic anomalies occur in males, with a male to female ratio of 4:1, with a predilection for the left kidney to be involved,{% cite reddy1998a harrison1982a --file 01-05 %}
 
 ## Pathogenesis
 
@@ -81,7 +81,7 @@ Fetal uropathy may be caused by genetic issues, such as autosomal recessive poly
 
 ## Evaluation and Diagnosis
 
-As previously mentioned, prenatal ultrasound detects 84.4--97% of all fetal urinary tract malformations and these anomalies may be detected as early as 12--14 weeks of gestation,{% cite bronshtein1990a corteville1991a --file 01-05 %} Many of these abnormalities can be diagnosed via ultrasound, with fetal MRI providing greater clarification. In addition, many of these genitourinary conditions overlap in presentation on initial imaging.
+As previously mentioned, prenatal ultrasound detects 84.4--97% of all fetal urinary tract malformations and these anomalies may be detected as early as 12--14 weeks of gestation.{% cite bronshtein1990a corteville1991a --file 01-05 %} Many of these abnormalities can be diagnosed via ultrasound, with fetal MRI providing greater clarification. In addition, many of these genitourinary conditions overlap in presentation on initial imaging.
 
 ### Prenatal Ultrasonography
 
@@ -100,7 +100,7 @@ On MRI, the bladder will appear as a round/ovoid structure with a uniform high s
 
 ### Upper Urinary Tract Dilation
 
-Hydronephrosis is detected in 1--5% of prenatal ultrasounds.{% cite swenson2015a --file 01-05 %} Upper urinary tract dilation needs to be taken into consideration with other findings, such as the appearance of the renal parenchyma, amniotic fluid volume, ureteral dilation, or the appearance of the fetal bladder and urethral dilation,{% cite mure2008a mouriquand2001a --file 01-05 %} The three most common anomalies related to prenatal upper tract dilation are ureteropelvic junction (UPJ) abnormalities, ureterovesical junction (UVJ) abnormalities, and vesicoureteral reflux (VUR).
+Hydronephrosis is detected in 1--5% of prenatal ultrasounds.{% cite swenson2015a --file 01-05 %} Upper urinary tract dilation needs to be taken into consideration with other findings, such as the appearance of the renal parenchyma, amniotic fluid volume, ureteral dilation, or the appearance of the fetal bladder and urethral dilation.{% cite mure2008a mouriquand2001a --file 01-05 %} The three most common anomalies related to prenatal upper tract dilation are ureteropelvic junction (UPJ) abnormalities, ureterovesical junction (UVJ) abnormalities, and vesicoureteral reflux (VUR).
 
 ### Hydronephrosis Grading Systems
 
@@ -128,7 +128,7 @@ The need for further prenatal imaging may be based upon anteroposterior pelvic d
 
 ### Vesicoureteral Reflux
 
-In the 2010 Pediatric Vesicoureteral Reflux Guidelines panel summary report, the authors noted that of the 6,579 infants with prenatal hydronephrosis, VUR was present in 4756 (72%).{% cite skoog2010a --file 01-05 %} Despite these findings, prenatal imaging has a poor sensitivity in detecting VUR. Even if renal pelvic diameter (RPD) increases on prenatal ultrasound, increasing RPD is not predictive of VUR,{% cite dias2009a chitrit2016a --file 01-05 %} Another study identified, that change in shape/size of the renal pelvis and ureter on prenatal imaging occurred in only 17.2% of fetuses who were diagnosed with postnatal VUR, making this is poor predictor of urinary reflux.{% cite chitrit2016a --file 01-05 %}
+In the 2010 Pediatric Vesicoureteral Reflux Guidelines panel summary report, the authors noted that of the 6,579 infants with prenatal hydronephrosis, VUR was present in 4756 (72%).{% cite skoog2010a --file 01-05 %} Despite these findings, prenatal imaging has a poor sensitivity in detecting VUR. Even if renal pelvic diameter (RPD) increases on prenatal ultrasound, increasing RPD is not predictive of VUR.{% cite dias2009a chitrit2016a --file 01-05 %} Another study identified, that change in shape/size of the renal pelvis and ureter on prenatal imaging occurred in only 17.2% of fetuses who were diagnosed with postnatal VUR, making this is poor predictor of urinary reflux.{% cite chitrit2016a --file 01-05 %}
 
 ### Lower Urinary Tract Obstruction
 
@@ -145,7 +145,7 @@ Posterior urethral valves can manifest as hydronephrosis, hydroureteronephrosis,
 
 ### Prune Belly Syndrome
 
-As the severity of PBS is variable, its antenatal diagnosis is difficult. Generally, the kidneys appear hyperechoic and dysplastic, with dilation of the ureters and a thickened bladder wall. Anhydroamnios and compressed abdominal and thoracic contents may also be seen,{% cite alkhamis2019a ome2013a --file 01-05 %} The earlier the suspicion for PBS occurs on prenatal imaging, the worse the prognosis. MRI can further delineate the extent of genitourinary abnormalities, including renal hypoplasia, dysplasia, ureteral dilation, megacystis, dilated prostatic urethra, and prostatic hypoplasia.{% cite chauvin2012a --file 01-05 %}
+As the severity of PBS is variable, its antenatal diagnosis is difficult. Generally, the kidneys appear hyperechoic and dysplastic, with dilation of the ureters and a thickened bladder wall. Anhydroamnios and compressed abdominal and thoracic contents may also be seen.{% cite alkhamis2019a ome2013a --file 01-05 %} The earlier the suspicion for PBS occurs on prenatal imaging, the worse the prognosis. MRI can further delineate the extent of genitourinary abnormalities, including renal hypoplasia, dysplasia, ureteral dilation, megacystis, dilated prostatic urethra, and prostatic hypoplasia.{% cite chauvin2012a --file 01-05 %}
 
 ### Urethral Atresia and Anterior Urethral Abnormalities
 
@@ -190,7 +190,7 @@ There are two current widely accepted interventions for prenatal LUTO: vesicoamn
 
 ### Vesicoamniotic Shunting
 
-Vesicoamniotic shunting is performed with local anesthesia under real-time, two-dimensional ultrasound guidance,{% cite kilby2014a morris2013a --file 01-05 %} Under sterile technique, a vesicoamniotic catheter is percutaneously inserted with optimal placement where the distal end of the shunt lies in the fetal bladder and the proximal end in the amniotic cavity ([Figure 9](#figure-9){:.figure-link}){% cite morris2013a --file 01-05 %} Early models detail the use of double-ended pigtail catheters, while more recent studies have explored double-basket catheters as an alternative modality. Variable outcomes have been reported, with survival rates ranging from 41% to 80%, depending on patient selection,{% cite manning1986a won2006a --file 01-05 %} The most recent randomized PLUTO trial encountered significant issues with patient recruitment, leading to premature termination of the study while trying to provide further clarity on the utility of vesicoamniotic shunting.{% cite morris2013a --file 01-05 %} This study, along with other small retrospective analyses and anecdotal evidence, has shown an improvement in perinatal survival,{% cite manning1986a won2006a morris2013b --file 01-05 %} although longer term outcomes remain unclear. All studies highlight the need for further prospective, randomized control studies for this intervention.
+Vesicoamniotic shunting is performed with local anesthesia under real-time, two-dimensional ultrasound guidance.{% cite kilby2014a morris2013a --file 01-05 %} Under sterile technique, a vesicoamniotic catheter is percutaneously inserted with optimal placement where the distal end of the shunt lies in the fetal bladder and the proximal end in the amniotic cavity ([Figure 9](#figure-9){:.figure-link}){% cite morris2013a --file 01-05 %} Early models detail the use of double-ended pigtail catheters, while more recent studies have explored double-basket catheters as an alternative modality. Variable outcomes have been reported, with survival rates ranging from 41% to 80%, depending on patient selection,{% cite manning1986a won2006a --file 01-05 %} The most recent randomized PLUTO trial encountered significant issues with patient recruitment, leading to premature termination of the study while trying to provide further clarity on the utility of vesicoamniotic shunting.{% cite morris2013a --file 01-05 %} This study, along with other small retrospective analyses and anecdotal evidence, has shown an improvement in perinatal survival,{% cite manning1986a won2006a morris2013b --file 01-05 %} although longer term outcomes remain unclear. All studies highlight the need for further prospective, randomized control studies for this intervention.
 
 ![Figure 9]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-05-9.jpg){:.float-start .img-fluid}  
 **Figure 9**{:#figure-9}{:.figure-number} Depiction of ultrasonographic guidance placing a vesicoamniotic shunt, final shunt placement and an ultrasound showing the shunt (blue arrow) within the urinary bladder (yellow arrow) and amniotic space (red arrow).

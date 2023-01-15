@@ -102,7 +102,7 @@ Management of the intra-abdominal testis:
 
 Promoting capacity for satisfying sexual relations.
 
-Individuals with AIS can have satisfying sexual relationships, whether or not they decide to use their vagina. For those who do, most individuals have adequate vaginal capacity for intercourse. A minority will have a degree of vaginal hypoplasia which may make penetrative intercourse challenging,{% cite sarpel2005a hurme2009a --file 07-41 %} In selected cases, serial self-dilatation may be helpful if the person wishes to increase vaginal length. Only rarely is surgery required,{% cite mcquillan2014a warne2012a --file 07-41 %} Psychosocial supports such as counseling, peer support and gynaecology involvement may assist with this process.
+Individuals with AIS can have satisfying sexual relationships, whether or not they decide to use their vagina. For those who do, most individuals have adequate vaginal capacity for intercourse. A minority will have a degree of vaginal hypoplasia which may make penetrative intercourse challenging.{% cite sarpel2005a hurme2009a --file 07-41 %} In selected cases, serial self-dilatation may be helpful if the person wishes to increase vaginal length. Only rarely is surgery required.{% cite mcquillan2014a warne2012a --file 07-41 %} Psychosocial supports such as counseling, peer support and gynaecology involvement may assist with this process.
 
 ## South American Perspective
 
