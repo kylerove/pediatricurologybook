@@ -124,7 +124,7 @@ In the setting of AKI, it is important to understand that a rise in creatinine t
 
 #### Etiology of AKI
 
-A typical starting point to determine the etiology of AKI includes an assessment of prerenal, intrinsic renal, or obstructive processes. [Obstruction]{:.text-decoration-underline} can be ruled out via imaging, typically via renal and bladder ultrasound. Prerenal and intrinsic etiologies of kidney injury will be discussed herein.
+A typical starting point to determine the etiology of AKI includes an assessment of prerenal, intrinsic renal, or obstructive processes. *Obstruction*{:.text-decoration-underline} can be ruled out via imaging, typically via renal and bladder ultrasound. Prerenal and intrinsic etiologies of kidney injury will be discussed herein.
 
 ##### Prerenal Azotemia
 
@@ -270,3 +270,4 @@ Regardless of the dialysis modality chosen, the goal of every pediatric nephrolo
 *[HD]: hemodialysis
 *[UF]: ultrafiltration
 *[ESRD]: end stage renal disease
+*[NGAL]: neutrophil gelatinase associated lipoprotein
