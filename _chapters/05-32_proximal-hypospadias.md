@@ -210,7 +210,7 @@ The Onlay Island Flap procedure: OIF is indicated in boys whose curvature is cor
 
 - Described in the setting of a boy whose curvature is corrected with skin dissection or plication in combination with an adequate urethral plate{% cite snodgrass2002a --file 05-32 %}
 - Technical modifications including urethral plate mobilization and transverse corporotomies, in the setting of persistent ventral curvature of greater than 30 degrees after degloving, to increase its applicability.
-- However, analysis by Snodgrass et al.{% cite  --file 05-32 %}{% cite snodgrass2013a --file 05-32 %} suggested that aggressive mobilization of the urethral plate can lead to devascularization, increasing the risk of stricture formation, which ultimately limits the applicability of proximal TIP in the setting of severe hypospadias with chordee. Because of a higher risk of complications, this technique has since fallen out of favour for other two-stage repairs, such as the Byars flap or STAG repair.
+- However, analysis by Snodgrass et al suggested that aggressive mobilization of the urethral plate can lead to devascularization, increasing the risk of stricture formation, which ultimately limits the applicability of proximal TIP in the setting of severe hypospadias with chordee.{% cite snodgrass2013a --file 05-32 %} Because of a higher risk of complications, this technique has since fallen out of favour for other two-stage repairs, such as the Byars flap or STAG repair.
 
 ### Two-Staged Hypospadias Repair
 

@@ -30,7 +30,7 @@ Nephrolithiasis is the formation of stones inside kidney due to deposition of va
 
 ## Embryology
 
-The kidney develops from three primary layers of the mesoderm---the pronephros, mesonephros, and metanephros. The pronephros is the most primitive stage of kidney development. It will eventually regress and is no longer part of the adult kidney. The mesonephros eventually forms part of the male genitalia ductal system and regresses in females.{% cite  --file 09-48 %} The ureteric bud branches off from the mesonephros and will induce the mesoderm to start formation of the ductal system and the ureters. The metanephros develops into the nephron system.{% cite nishinakamura2019a --file 09-48 %}
+The kidney develops from three primary layers of the mesoderm---the pronephros, mesonephros, and metanephros. The pronephros is the most primitive stage of kidney development. It will eventually regress and is no longer part of the adult kidney. The mesonephros eventually forms part of the male genitalia ductal system and regresses in females. The ureteric bud branches off from the mesonephros and will induce the mesoderm to start formation of the ductal system and the ureters. The metanephros develops into the nephron system.{% cite nishinakamura2019a --file 09-48 %}
 
 ## Epidemiology
 
