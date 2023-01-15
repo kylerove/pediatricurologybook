@@ -200,7 +200,7 @@ Tight blood control to the 50th% for age, sex and percentile height has been sho
 
 ##### Anemia of Chronic Kidney Disease
 
-Children with CKD have several reasons to be anemic---including erythropoietin deficiency and increased hepcidin levels which leads to poor utilization of iron stores.{% cite atkinson2015a --file 01-03 %} Patients with CKD should have routine CBC's to monitor for the development of anemia. If and when they become anemic, iron stores should be checked and normalized. Patients who remain anemic despite adequate iron stores should be started on erythropoiesis stimulating agents such as epoetin alfa or darbepoetin alfa.{% cite lamb2013a --file 01-03 %}
+Children with CKD have several reasons to be anemic---including erythropoietin deficiency and increased hepcidin levels which leads to poor utilization of iron stores.{% cite atkinson2015a --file 01-03 %} Patients with CKD should have routine CBCs to monitor for the development of anemia. If and when they become anemic, iron stores should be checked and normalized. Patients who remain anemic despite adequate iron stores should be started on erythropoiesis stimulating agents such as epoetin alfa or darbepoetin alfa.{% cite lamb2013a --file 01-03 %}
 
 ##### Metabolic Bone Disease
 
