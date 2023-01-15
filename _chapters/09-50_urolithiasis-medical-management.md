@@ -51,7 +51,7 @@ Spot urines for calcium, citrate, uric acid, oxalate and cystine can be obtained
 |             | 3-5 years      | <1.5 (<1.0)                   |                                                                                                                                               |
 |             | 5-10 years     | <0.9 (<0.6)                   |                                                                                                                                               |
 |             | >10 years      | <0.6 (<0.4)                   |                                                                                                                                               |
-| Citrate**   | 0 to 5 years   | >0.2 to 0.42 (>0.12 to 0.25)  | >310 mg/1.73 m2 per 24 hours (>1.6 mmol/1.73 m² per 24 hours) in girls; >365 mg/1.73 m2 per 24 hours (>1.9 mmol/1.73 m² per 24 hours) in boys |
+| Citrate**   | 0 to 5 years   | >0.2 to 0.42 (>0.12 to 0.25)  | >310 mg/1.73 m² per 24 hours (>1.6 mmol/1.73 m² per 24 hours) in girls; >365 mg/1.73 m² per 24 hours (>1.9 mmol/1.73 m² per 24 hours) in boys |
 |             | >5 years       | >0.14 to 0.25 (>0.08 to 0.15) |                                                                                                                                               |
 | Magnesium   | > 2 years      | >0.13*                        | >0.8mg/kg (>0.04 mmol/kg)                                                                                                                     |
 
@@ -95,7 +95,7 @@ General dietary recommendation in all children with urolithiasis regardless of e
 
 | Recommendation              | Details                                  |
 |-----------------------------|------------------------------------------|
-| Fluid intake                | High at >2 L / 1.73 m2/day, mainly water |
+| Fluid intake                | High at >2 L / 1.73 m²/day, mainly water |
 | Salt intake                 | Low at <3 mEq/kg/day                     |
 | Vegetables and fruit intake | High                                     |
 | Calcium intake              | 100% of the daily allowance              |
