@@ -183,7 +183,7 @@ Use of dexmedetomidine as an adjunct to caudal anesthesia has been linked to hig
 
 Multimodal analgesia combines the use of nerve block, opioid, and non-opioid pain medications to optimize pain control.
 
-#### Nsaids
+#### NSAIDs
 
 Despite lack of strong, large-scale evidence regarding its efficacy, ketorolac is likely safe and currently is widely used in the peri-operative period.{% cite mcnicol2018a --file 01-06 %} Ketorolac is indicated, for short-term use only, in acutely painful conditions. It is not indicated for mild pain and is contraindicated in those patients with advanced renal disease and those who are inadequately volume resuscitated. Using it at the lowest effective dose (e.g., 0.5 mg/kg IV or less) is associated with analgesia equal to higher doses but with minimal side effects. Ketorolac should also be avoided in patients at high risk of bleeding or gastrointestinal ulcer disease. Practice among anesthesiologists varies, but recent literature suggests use in healthy neonates (at least 3 weeks old and not preterm) and infants is not associated with increased adverse effects.{% cite aldrink2011a stone2021a --file 01-06 %}
 
@@ -193,7 +193,7 @@ Acetaminophen is the most used non-opioid analgesic in the pediatric population 
 
 ## Postoperative Concerns
 
-### Ponv
+### PONV
 
 One common potentially preventable side effect of surgery and anesthesia is postoperative nausea and vomiting (PONV). PONV can result in significant discomfort as well as decreased patient satisfaction.{% cite hohne2014a --file 01-06 %} Combination therapy is more effective than monotherapy. Anesthetic considerations to reduce the risk of PONV include regional anesthesia and multimodal analgesia to reduce the need for perioperative opioids, adequate preoperative hydration by minimizing fasting times, adequate intraoperative hydration, avoidance of volatile anesthetics, and prophylactic treatment with pharmacologic agents.{% cite urits2020a gan2014a --file 01-06 %}
 
