@@ -14,7 +14,7 @@ breadcrumbs:
     permalink: /book/
 toc: true
 js: /assets/js/pages/chapter.js
-review-formatting-complete: 
+review-formatting-complete: 2023-01-14 KR
 ---
 
 By **Joaquín Pedro Camacho, MD**{:.author-names}, **Roberto Vagni, MD**{:.author-names}, **Juan Manuel Moldes, MD**{:.author-names} & **María Agustina Ar. Camacho**{:.author-names}  
