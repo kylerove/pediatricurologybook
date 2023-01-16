@@ -2,7 +2,7 @@
 section: 01
 chapter: 05
 sort-key: 01-05
-title: Prenatal Diagnosis of Urologic Anomalies and Antenatal Surgery
+title: Prenatal Diagnosis and Antenatal Surgery
 layout: chapter
 lang: en
 breadcrumbs:
