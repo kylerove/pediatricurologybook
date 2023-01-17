@@ -142,6 +142,19 @@ A complete understanding of the genetic components of CAKUT is essential for dev
 
 Congenital anomalies of the kidney and urinary tract (CAKUT) are structural abnormalities that affect the kidneys and urinary tract. It is estimated that there are around 4--60 cases per 10,000 births. A CAKUT diagnosis is usually made during a prenatal ultrasound or after birth in newborns with associated clinical signs and symptoms. The most common anomaly is ureteropelvic junction obstruction, which affects approximately 20% of people with the condition. The development of the kidneys and urinary tract involves the formation and differentiation of several structures, including the ureteric buds and metanephros, which must properly connect to form the functional kidneys and urinary tract. Disruptions in this process can lead to CAKUT. There are various categories of CAKUT disorders including those affecting the number, morphology, and position of the kidneys, and those affecting the collecting system. In 10--25% of cases, CAKUT is caused by genetic disorders. Several genes have been identified that are associated with the development of various kidney related diseases. Research is ongoing to improve our understanding of the causes of CAKUT and to develop better prevention and treatment strategies. Despite its current limitations and difficulties, molecular genetic diagnosis may provide hope for improving the clinical management of patients with CAKUT in the future.
 
+## Key Points
+{:.key-points-head}
+
+- Congenital anomalies of the kidney and urinary tract (CAKUT) are a group of structural abnormalities that affect the kidneys and urinary tract, with an estimated 4 to 60 cases per 10,000 births in the overall population. 
+- The development of the kidneys and urinary tract in the fetus involves a complex process that begins in the early weeks of pregnancy and involves the formation and differentiation of several structures. Disruptions in this process can lead to a range of congenital anomalies.
+- The prevalence of CAKUT in preterm infants was 2% in a recent large reported cohort with 409,704 infants. 
+- The most common anomaly is ureteropelvic junction obstruction, which affects approximately 20% of individuals with the condition. 
+- In 10-25% of cases, CAKUT is attributed to genetic disorders.
+- Genetic evaluation is advancing, increasing the ability to identify the genetic causes of CAKUT and predict the likelihood of developing these conditions. 
+- Genetic testing is not always necessary for diagnosing CAKUT, it is typically based on a combination of clinical presentation, medical history, and imaging studies. 
+- A complete understanding of the genetic components of CAKUT is essential for developing accurate genetic testing strategies and guiding clinical decision-making in genetic testing.
+- Longitudinal studies are required to investigate the long-term effects of early diagnosis and management of CAKUT. 
+{:.key-points-list}
 
 ## References
 
