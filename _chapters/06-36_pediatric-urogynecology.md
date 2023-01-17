@@ -53,7 +53,8 @@ Labial adhesions refer to the fusion of the labia minora. It typically starts at
 ![Figure 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-36-4.jpeg){:.float-start .img-fluid}  
 **Figure 4**{:#figure-4}{:.figure-number} Examples of labial adhesions
 
-![Figure 5]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-36-5.jpeg){:.float-start .img-fluid}  [Figure 5](#figure-5){:.figure-link}. Examples of labial adhesions
+![Figure 5]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-36-5.jpeg){:.float-start .img-fluid}  
+**Figure 5**{:#figure-5}{:.figure-number}. Examples of labial adhesions
 
 ## Urethral Prolapse
 
@@ -78,5 +79,4 @@ Vulvovaginitis is a term used to cover a wide variety of presentations of inflam
 
 {% bibliography --file 06-36 %}
 
-*[XY]: 
-*[KUB]: 
+*[KUB]: kidney ureter bladder radiograph
