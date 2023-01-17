@@ -1,5 +1,5 @@
 # Home - Reasons to read the book
-# Last updated 2020-09-25
+# Last updated 2023-01-16
 
 -
   language: en
@@ -29,16 +29,6 @@
     icon: "fas fa-people-arrows"
     color: "text-dark"
     body: "Stay connected. [Contributors’](/contributors/) social media handles are readily available so you can ask them your questions."
-  -
-    head: "Stay in the Loop"
-    icon: "fas fa-wifi"
-    color: "text-quaternary"
-    body: "Check out highlighted presentations from [SPU](https://spuonline.org), [AUA](https://www.auanet.org), [BAPU](https://www.bapu.org.uk) and [ESPU](https://www.espu.org/)."
-  -
-    head: "Not Just for Pediatric Urologists"
-    icon: "fas fa-users"
-    color: "text-secondary"
-    body: "Synopses are provided up front for pediatricians, patients, and families, so you have just what you need to know about your topic of interest."
   -
     head: "Code of Conduct"
     icon: "fas fa-handshake"

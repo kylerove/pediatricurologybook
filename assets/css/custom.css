@@ -515,6 +515,12 @@ ul.contributors {
   break-inside:avoid;
 }
 
+div.site-map h2 {
+    font-size:1.5em;
+    line-height:1.5em;
+    margin-bottom:16px;
+}
+
 #toc h2 {
     font-size:1.8em;
     line-height:30px;
@@ -529,19 +535,19 @@ ul.contributors {
     font-style: italic;
 }
 
-#toc h2 span,#toc h3 span {
+#toc h2 span, #toc h3 span, .site-map h2 span, .site-map h3 span {
     font-weight:bold;
     font-style:normal;
 }
 
-#toc ul {
+#toc ul, .site-map ul {
     list-style:none;
     border-left: 3px #eee solid;
     padding-left:10px;
     margin-bottom:10px;
 }
 
-#toc ul ul {
+#toc ul ul, .site-map ul ul {
     list-style:none;
     border-left: 3px #f6f6f6 solid;
     padding-left:10px;
@@ -969,12 +975,12 @@ div.chapter-02-13 table:first-of-type th {
   width: 50%;
 }
 
-div#toc {
+div#toc, div.site-map {
   column-count:2;
 }
 
 @media (max-width: 576px) {
-    div#toc {
+    div#toc, div.site-map {
       column-count:1;
       padding-left: 20px;
       padding-right: 20px;

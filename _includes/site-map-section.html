@@ -1,0 +1,22 @@
+
+{% assign section_title = section.titles | where: "language",site.active_lang | first %}
+{% if section.number == 0 %}  
+## {{ section_title.title }}
+{% else %}
+## <span>{{ section.number }}</span> {{ section_title.title }}
+{% endif %}
+
+  {% if section.subsections == nil %}
+    {% assign section_chapters = site.chapters | where: "section", i | sort: "sort-key" %}
+    {% for chapter in section_chapters %}{% if chapter.chapter == 0 %}
+  - [{{ chapter.title }}]({{ site.url }}{{ site.baseurl }}{{ chapter.url }}){% else %}{% if chapter.pending %}
+  - {{ chapter.chapter | removeleadingzeros }} {{ chapter.title }} _(coming soon)_{% else %}
+  - {{ chapter.chapter | removeleadingzeros }} [{{ chapter.title }}]({{ site.url }}{{ site.baseurl }}{{ chapter.url }}){% endif %}{% endif %}{% endfor %}
+  {% else %}
+    {% for subsection in section.subsections %}
+- ### <span>{{ subsection.index }}</span> {{ subsection.title }}
+      {% assign subsection_chapters = site.chapters | where: "section", section.index | where: "subsection", subsection.index | sort: "sort-key" %}
+      {% for chapter in subsection_chapters  %}
+  - {{ chapter.section }}.{{ chapter.subsection }}.{{ chapter.chapter }} [{{ chapter.title }}]({{ site.url }}{{ site.baseurl }}{{ chapter.url }}){% endfor %}{% endfor %}{% endif %}
+  {% if section.number == 11 %}
+{% endif %}
