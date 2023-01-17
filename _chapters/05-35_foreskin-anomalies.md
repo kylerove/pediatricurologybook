@@ -18,7 +18,7 @@ review-formatting-complete: 2023-01-17 KR
 ---
 
 By **Ruiz Javier, MD**{:.author-names} & **Rosiere Nicolas, MD**{:.author-names}  
-_Pediatric Urology Departmemt, J. P. Garrahan Pediatric Hospital, Buenos Aires, Argentina_{:.author-title}
+_Pediatric Urology Department, J.P. Garrahan Pediatric Hospital, Buenos Aires, Argentina_{:.author-title}
 {:.attribution}
 
 ## Embryology
