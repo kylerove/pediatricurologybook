@@ -17,7 +17,7 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-16 KR
 ---
 
-By **Emily Clennon MD**{:.author-names}, **J. Christopher Austin, MD**{:.author-names} & **Casey A. Seideman MD**{:.author-names}  
+By **Emily Clennon, MD**{:.author-names}, **J. Christopher Austin, MD**{:.author-names} & **Casey A. Seideman, MD**{:.author-names}  
 _Oregon Health Sciences University, Portland, OR, USA_{:.author-title}
 {:.attribution}
 
