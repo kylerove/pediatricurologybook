@@ -18,7 +18,7 @@ toc: false
 Below you will find the editors responsible for the content of this book---including it's special digital features---made possible because this book was created for the internet and exists here alone.
 {: .lead}
 
-The possibilities are endless with the use of online media like linking to contributors' social media accounts, embedding video and other media right in the book chapters, regular updates of content, the ability to subscribe to updates to information important to you, and more. If you have any great ideas, please [contact us]({{ site.url }}{{ site.baseurl }}/contact-us/)!
+The possibilities are endless with the use of online media like linking to contributors' social media accounts, embedding video and other media right in the book chapters, regular updates of content, and more. If you have any great ideas, please [contact us]({{ site.url }}{{ site.baseurl }}/contact-us/)!
 
 {% assign this_translation = site.data.translations | where: "language",site.active_lang | first %}
 {% include editors-list.html contributors=site.data.contributors translation=this_translation %}

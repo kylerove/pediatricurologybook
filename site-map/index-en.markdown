@@ -32,7 +32,6 @@ toc: false
 - [Search](/search/)
 - [Site Map](/site-map/)
 - [Sponsors](/sponsors/)
-- [Subscribe](/subscribe/)
 
 </div>
 <div class="site-map" markdown="1">
