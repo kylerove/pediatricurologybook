@@ -75,7 +75,7 @@ Genes implicated in the development of renal cystic disease:{% cite srivastava20
 ![Figure 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-12-3.jpg){:.float-start .img-fluid}  
 **Figure 3**{:#figure-3}{:.figure-number} Differences and similarities in the prevalence of the four most commonly implicated CNV loci in CAKUT patients.{% cite sanna-cherchi2018a --file 01-12 %}
 
-## Mcdk
+## MCDK
 
 MCDK is non-inherited congenital cystic diseases, a type of renal dysplasia that causes multiple non-communicating cysts separated by dysplastic parenchyma. The prevalence of MCDK is about 1 in 3,600 to 1 in 4,300 live births.{% cite gordon1988a schreuder2009a --file 01-12 %} The cause of MCDK is unknown, but it is thought to potentially be related to abnormal formation of the ureteric bud, exposure to teratogens, or urinary tract obstruction. MCDK is often detected through antenatal ultrasonography. As it often does not cause symptoms or complications, it is usually only identified postnatally if there is a noticeable mass or if it is discovered incidentally during imaging for another condition.
 
@@ -153,8 +153,6 @@ Congenital anomalies of the kidney and urinary tract (CAKUT) are structural abno
 *[ADPKD]: autosomal dominant polycystic kidney disease
 *[ARPKD]: autosomal recessive polycystic kidney disease
 *[PKD]: polycystic kidney disease
-*[ESCAPE]: 
-*[STUDY]: 
 *[UPJ]: ureteropelvic junction
 *[UPJO]: ureteropelvic junction obstruction
 *[VUR]: vesicoureteral reflux
