@@ -153,7 +153,7 @@ Invasive methods:
 - **Preputioplasty:** the constricting band is identified and a 1--2 cm dorsal longitudinal incision is performed. Release of the constricting band permits reduction of glandular edema so the foreskin can be reduced. The incision is then sutured in a transverse fashion with non-continuous reabsorbable sutures ([Figure 8](#figure-8){:.figure-link}).{% cite little2005a devries1996a --file 05-35 %}
 
 ![Figure 8]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-35-8.png){:.float-start .img-fluid}  
-**Figure 8**{:#figure-8}{:.figure-number} Prepucioplasty.
+**Figure 8**{:#figure-8}{:.figure-number} Preputioplasty.
 
 ## Inconspicuous Penis
 
