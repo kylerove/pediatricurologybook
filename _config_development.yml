@@ -6,11 +6,12 @@ description: This free, online book of Pediatric Urology, Edition 2.0, features 
 baseurl: ""
 url: "http://127.0.0.1:4000"
 twitter_username: pediatricurologybook
+mastodon_username: "@pediatricurologybook"
 github_username: kylerove/pediatricurologybook
-facebook_username: pediatricurologybook
-youtube_username: pediatricurologybook
-vimeo_username: pediatricurologybook
-tiktok_username: pediatricurologybook
+#facebook_username: pediatricurologybook
+youtube_username: "@pediatricurologybook"
+#vimeo_username: pediatricurologybook
+#tiktok_username: pediatricurologybook
 repository: kylerove/pediatricurologybook
 permalink: pretty
 img: /img/logo.png
