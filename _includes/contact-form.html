@@ -1,46 +1,5 @@
 <div class="row">
   <div class="col-lg-6">
-    <form class="contact-form" novalidate="novalidate">
-      <div class="conflict-of-interest-disclosure-form-success alert alert-success d-none mt-4" id="contactSuccess">
-        <i class="far fa-thumbs-up"></i> <strong>{{ include.translation.success }}!</strong> {{ include.translation.message-sent }}
-      </div>
-      <div class="conflict-of-interest-disclosure-form-error alert alert-danger d-none mt-4" id="contactError">
-        <i class="fas fa-exclamation-triangle"></i> <strong>{{ include.translation.error }}!</strong> {{ include.translation.message-not-sent }}
-      </div>          
-      <div class="form-row">
-        <div class="form-group col-lg-6">
-          <div>
-            <label class="required font-weight-bold text-dark text-2" for="name">{{ include.translation.full-name }}</label>
-            <input type="text" value="" data-msg-required="{{ include.translation.name-required }}" maxlength="100" class="form-control" name="name" required="">
-          </div>
-        </div>
-        <div class="form-group col-lg-6">
-          <div>
-            <label class="required font-weight-bold text-dark text-2" for="email">{{ include.translation.email-address }}</label>
-            <input type="email" value="" data-msg-required="{{ include.translation.email-required }}" data-msg-email="{{ include.translation.email-invalid }}" maxlength="255" class="form-control" name="email" required="">
-          </div>
-        </div>
-      </div>
-      <div class="form-row">
-        <div class="form-group col">
-          <div>
-            <label class="required font-weight-bold text-dark text-2">{{ include.translation.subject }}</label>
-            <input type="text" value="" data-msg-required="{{ include.translation.subject-required }}" maxlength="100" class="form-control" name="subject" required="">
-          </div>
-        </div>
-      </div>
-      <div class="form-row">
-        <div class="form-group col">
-          <div>
-            <label class="required font-weight-bold text-dark text-2">{{ include.translation.message }}</label>
-            <textarea maxlength="5000" data-msg-required="{{ include.translation.message-required }}" rows="8" class="form-control" name="message" required=""></textarea>
-          </div>
-        </div>
-      </div>
-    </form>
-    <button class="btn btn-primary btn-modern" id="submit">{{ include.translation.submit }}</button>
-  </div>
-  <div class="col-lg-6">
     <div class="appear-animation animated fadeIn appear-animation-visible" data-appear-animation="fadeIn" data-appear-animation-delay="800" style="animation-delay: 800ms;">
       <h4 class="mt-2 mb-1">{{ include.translation.get-in-touch }}</h4>
       <p>{{ include.translation.please-contact }}</p>
@@ -61,7 +20,8 @@
         {%- if site.linkedin_username -%}<li class="social-icons-linkedin"><a href="https://www.linkedin.com/{{ site.linkedin_username| cgi_escape | escape }}" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in top-6"></i></a> <a href="https://www.linkedin.com/{{ site.linkedin_username| cgi_escape | escape }}" target="_blank" title="Linkedin">LinkedIn: {{ site.linkedin_username }}</a></li>{%- endif -%}
         {%- if site.pinterest_username -%}<li class="social-icons-pinterest"><a href="https://www.pinterest.com/{{ site.pinterest_username| cgi_escape | escape }}" target="_blank" title="Pinterest"><i class="fab fa-pinterest top-6"></i></a> <a href="https://www.pinterest.com/{{ site.pinterest_username| cgi_escape | escape }}" target="_blank" title="Pinterest"></a> Pinterest: {{ site.pinterest_username }}</li>{%- endif -%}
         {%- if site.twitter_username -%}<li class="social-icons-twitter"><a href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}" target="_blank" title="Twitter"><i class="fab fa-twitter top-6"></i></a> <a href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}" target="_blank" title="Twitter">Twitter: @{{ site.twitter_username }}</a></li>{%- endif -%}
-        {%- if site.youtube_username -%}<li class="social-icons-youtube"><a href="https://www.youtube.com/{{ site.youtube_username| cgi_escape | escape }}" target="_blank" title="Youtube"><i class="fab fa-youtube top-6"></i></a> <a href="https://www.youtube.com/{{ site.youtube_username| cgi_escape | escape }}" target="_blank" title="Youtube">YouTube: {{ site.youtube_username }}</a></li>{%- endif -%}
+        {%- if site.mastodon_username -%}<li class="social-icons-mastodon"><a href="https://med-mastodon.com/@{{ site.mastodon_username| cgi_escape | escape }}" target="_blank" title="Mastodon"><i class="fab fa-mastodon top-6"></i></a> <a href="https://med-mastodon.com/@{{ site.mastodon_username| cgi_escape | escape }}" target="_blank" title="Mastodon">Mastodon: @{{ site.mastodon_username }}@med-mastodon.com</a></li>{%- endif -%}
+        {%- if site.youtube_username -%}<li class="social-icons-youtube"><a href="https://www.youtube.com/@{{ site.youtube_username| cgi_escape | escape }}" target="_blank" title="Youtube"><i class="fab fa-youtube top-6"></i></a> <a href="https://www.youtube.com/{{ site.youtube_username| cgi_escape | escape }}" target="_blank" title="Youtube">YouTube: @{{ site.youtube_username }}</a></li>{%- endif -%}
         {%- if site.vimeo_username -%}<li class="social-icons-vimeo"><a href="https://www.vimeo.com/{{ site.vimeo_username| cgi_escape | escape }}" target="_blank" title="Vimeo"><i class="fab fa-vimeo-v top-6"></i></a> <a href="https://www.vimeo.com/{{ site.vimeo_username| cgi_escape | escape }}" target="_blank" title="Vimeo">Vimeo: {{ site.vimeo_username }}</a></li>{%- endif -%}
         {%- if site.googleplus_username -%}<li class="social-icons-googleplus"><a href="https://plus.google.com/{{ site.googleplus_username| cgi_escape | escape }}" target="_blank" title="Google Plus"><i class="fab fa-google-plus-g top-6"></i></a> <a href="https://plus.google.com/{{ site.googleplus_username| cgi_escape | escape }}" target="_blank" title="Google Plus">Google Plus: {{ site.googleplus_username }}</a></li>{%- endif -%}
         {%- if site.tiktok_username -%}<li class="social-icons-tiktok"><a href="https://www.tiktok.com/{{ site.tiktok_username| cgi_escape | escape }}" target="_blank" title="Tiktok"><i class="fab fa-tiktok top-6"></i></a> <a href="https://www.tiktok.com/{{ site.tiktok_username| cgi_escape | escape }}" target="_blank" title="Tiktok">Tiktok: @{{ site.tiktok_username }}</a></li>{%- endif -%}
