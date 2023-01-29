@@ -23,6 +23,7 @@ By **Jennifer M. Lovin, MD**{:.author-names} & **Wolfgang H. Cerwinka, MD**{:.au
 ## Introduction
 
 The advent of endoscopic instrumentation has revolutionized the field of urology, improving both diagnostic and therapeutic potential for urologic disorders. Over the past several decades, technologic advancements have allowed miniaturization of adult urologic instruments for use in the pediatric genitourinary tract. Cystourethroscopy, ureteroscopy and nephroscopy are indispensable instruments for the pediatric urologist to diagnose and treat conditions from vesicoureteral reflux, nephrolithiasis and posterior urethral valves to congenital anomalies and genitourinary trauma. Previously open surgical procedures have been transformed into endoscopic procedures that are less invasive and allow faster recovery of our patients.
+{:.drop-caps}
 
 In this chapter, we will discuss the role of lower and upper tract endoscopy in the pediatric patient and provide a guide for evaluation, diagnosis, and treatment of conditions requiring pediatric endoscopy.
 

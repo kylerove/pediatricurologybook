@@ -24,6 +24,7 @@ _The University of Chicago Comer Children\'s Hospital, Chicago, Illinois, USA_{:
 ## Introduction
 
 Congenital anomalies of the kidney and urinary tract (CAKUT) are a group of structural abnormalities that affect the kidneys and urinary tract. It is estimated that there are approximately 4 to 60 cases per 10,000 births in the overall population. A CAKUT diagnosis is typically made during a routine prenatal ultrasound examination or postnatally in a newborn with associated clinical signs and symptoms.{% cite murugapoopathy2020a --file 01-12 %} The prevalence of CAKUT in preterm infants was 2% in recent large, reported cohort with 409704 infants.{% cite hays2022a --file 01-12 %}
+{:.drop-caps}
 
 The most common anomaly is ureteropelvic junction obstruction, which affects approximately 20% of individuals with the condition. Among the other types of CAKUT, there is multicystic dysplastic kidneys, renal agenesis, renal dysplasia, renal hypoplasia, vesicoureteral reflux, megaureter, duplex collecting system, ectopic ureter, and posterior urethral valves ([Figure 1](#figure-1){:.figure-link}).
 

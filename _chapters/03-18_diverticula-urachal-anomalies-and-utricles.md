@@ -26,6 +26,7 @@ _Oregon Health and Science University, Portland, OR, USA_{:.author-title}
 ### Embryology and Anatomy
 
 The urachus is a tubular structure that connects the allantois at the umbilicus to the dome of the bladder and is patent during gestation.{% cite jm2016a --file 03-18 %} The lumen normally closes around the twelfth week of gestation and obliterates completely. Following obliteration, all that typically remains is a fibrous cord running from the inferior aspect of the umbilicus to the dome of the bladder. The urachus is extraperitoneal and easily viewed during laparoscopic visualization of the pelvis ([Figure 1](#figure-1){:.figure-link}).
+{:.drop-caps}
 
 ![Figure 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-18-1.jpeg){:.float-start .img-fluid}  
 

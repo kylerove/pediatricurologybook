@@ -24,6 +24,7 @@ _Hospital de Clínicas de Porto Alegre, Porto Alegre, Brazil_{:.author-title}
 ## Introduction
 
 Trauma refers to injury caused by external force from a variety of mechanisms, including traffic- or transportation-related injuries, falls, assault (e.g., blunt weapon, stabbing, gunshot), explosions, animal bites, etc.{% cite guideline2020a --file 09-55 %} Traumatic injuries are the leading cause of death in the United States for people ages 1--44 years, and a significant cause of morbidity and loss of productive life across all ages.{% cite unknown-a --file 09-55 %} Worldwide, traumatic injuries are the sixth leading cause of death and the fifth leading cause of moderate and severe disability.{% cite unknown2010a --file 09-55 %} The kidneys are the most commonly injured genitourinary organ.
+{:.drop-caps}
 
 The lower urinary and genital tract may sustain injury through a wide variety of mechanisms. Although rarely life-threatening, mismanagement can lead to devastating long-term morbidity and, in some cases, permanent disability. In the acute scenario, it is of main relevance to distinguish between scenarios when immediate reconstruction is appropriate, as in testicular trauma with albuginea rupture, or better managed by a delayed correction.
 

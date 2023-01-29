@@ -24,6 +24,7 @@ _University of Iowa Hospitals and Clinics, Department of Urology, Iowa City, IA,
 ## Introduction
 
 A second trimester comprehensive fetal anatomic survey has become standard prenatal care. Prenatal ultrasound detects 84.4--97% of all fetal urinary tract malformations and these anomalies may be detected as early as 12--14 weeks of gestation.{% cite bronshtein1990a corteville1991a --file 01-05 %} Prior to routine antenatal screening, symptomatic children with urologic abnormalities were detected after birth, presenting with such symptoms as urosepsis, pain, hematuria, a palpable mass or failure to thrive, often requiring surgical intervention. The advent of routine prenatal ultrasonography has shifted the scope of pediatric urologic care from an interventional/surgical model to an antenatal counseling role.
+{:.drop-caps}
 
 Antenatal hydronephrosis is seen in 1--5% of all pregnancies and represents the most frequent prenatal diagnosis.{% cite mallik2008a --file 01-05 %} The majority of these patients have mild renal pelvis dilation that spontaneously resolves; however, hydronephrosis may be secondary to obstruction of the urinary tract, which may or may not benefit from prenatal intervention. As such, a comprehensive knowledge of the pathophysiology of potential urinary tract malformations which may be detected via antenatal screening and their possible prenatal manifestations and intervention is required.
 

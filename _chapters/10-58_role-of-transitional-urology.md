@@ -24,6 +24,7 @@ _Boston Children's Hospital, Boston, MA, USA_{:.author-title}
 ## Introduction
 
 The transitional urologist is charged with the care of pediatric urology patients as they progress to adult care. While the disease processes that compose transitional urology ([Table 1](#table-1){:.table-link}) are themselves rare, they collectively amount to a significant burden. An estimated 3,573 babies were born in the United States in 2012 with spina bifida (2,765), posterior urethral valves (PUV, 493), bladder exstrophy (118), or cloacal anomalies (197).{% cite martinez2016a --file 10-58 %} At the time of this writing, these patients are approaching adolescence and recent dramatic advances in the diagnosis and care of congenital urogenital anomalies and spinal dysraphism means that they will do so with unprecedented success. In the coming years, they will require transitional urologic care.
+{:.drop-caps}
 
 **Table 1**{:#table-1}{:.table-number} Conditions that may be seen by the transitional urologist.
 

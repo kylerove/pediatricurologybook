@@ -25,6 +25,7 @@ _Imperial College London, London, UK_{:.author-title}
 ## Introduction
 
 Congenital anomalies of the ureterovesical junction (UVJ) often present with a dilated or 'mega'-ureter ([Figure 1](#figure-1){:.figure-link}). Many synonyms for this condition exist, including hydroureter and megaloureter, but all represent a ureter with a diameter larger than normal with or without associated renal pelvis dilatation. Smith classified megaureters into four categories, obstructed, refluxing, refluxing with obstruction, and non-refluxing/non-obstructing, later subdivided into primary and secondary by King.{% cite smith1977a king1980a --file 03-17 %} The Pfister-Hendren classification, established in 1978, was based on the morphological appearance: type I involved the distal ureter without associated hydronephrosis; type II extended to both ureter and pelvis; and type III was associated with severe hydroureteronephrosis and ureteric tortuosity.{% cite pfister1978a --file 03-17 %} Congenital megaureters are twice as common in males, and present with a left-to-right ratio of 1.8:1.{% cite liu1994a --file 03-17 %} As the refluxing UVJ anomaly is discussed in detail elsewhere, the focus of this chapter will be the obstructed, and non-obstructed non-refluxing, megaureters.
+{:.drop-caps}
 
 ![Figure 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-17-1.jpg){:.float-start .img-fluid}  
 **Figure 1**{:#figure-1}{:.figure-number} Intra-operative view of megaureter (MU) and narrowed, aperistaltic juxta-vesical segment (AS).

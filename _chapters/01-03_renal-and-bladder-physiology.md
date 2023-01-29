@@ -25,6 +25,7 @@ _University of Colorado, Aurora CO, USA_{:.author-title}
 ## Introduction
 
 The kidneys play an essential role in the normal health and development of children. The nephron is the functioning unit of the kidney, with each kidney containing \~500,000--1,000,000 nephrons. Cumulatively, the basic processes of the nephron are 1) filtration, 2) reabsorption, and 3) secretion.
+{:.drop-caps}
 
 ![Figure 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-03-1.svg){:.float-start .img-fluid}  
 **Figure 1**{:#figure-1}{:.figure-number} The nephron is the functioning unit of the kidney and is composed of the glomerulus, proximal tubule, loop of Henle, distal convoluted tubule and collecting duct.

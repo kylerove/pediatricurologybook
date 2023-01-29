@@ -24,6 +24,7 @@ _Seattle Children's Hospital, Division of Urology, Seattle, WA_{:.author-title}
 ## Introduction
 
 Despite the functional differences between the urinary tract and the reproductive system, the embryologic origins and development of these systems are integrated with one another. The urinary tract is comprised of the kidneys, ureters, bladder, and urethra. This system functions to excrete waste and maintain fluid and electrolyte balance. The kidneys also produce hormones that regulate blood pressure, erythropoietin production, and vitamin D synthesis. The genital system is composed of gonads, reproductive tracts, and external genitalia. This system synthesizes and receives hormones for growth and development, produces and transports spermatozoa and oocytes, and, in females, sustains and supports fetal development.
+{:.drop-caps}
 
 An understanding of the embryologic development of the genitourinary tract provides a foundation for understanding the anatomic and physiologic function of these organs as well as the pathophysiology of maldeveloped structures. While embryology pertaining to various genitourinary conditions are provided in detail in other chapters, the purpose of this chapter is to provide an overview of the embryology for the genitourinary tract.
 

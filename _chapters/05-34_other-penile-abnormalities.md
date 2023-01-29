@@ -24,6 +24,7 @@ _The Royal Children's Hospital Melbourne, Australia_{:.author-title}
 ## Introduction
 
 This chapter aims to discuss other penile conditions that may be encountered (apart from hypospadias) which may potentially warrant surgical intervention or correction. These include chordee, penile torsion, buried penis and congenital megaprepuce.
+{:.drop-caps}
 
 Chordee and penile torsion may be associated with hypospadias or other urological conditions; or may be an isolated entity. The term congenital chordee has been used interchangeably as chordee without hypospadias, congenital short urethra and congenital penile curvature throughout literature. Snodgrass proposed that 'chordee without hypospadias' be replaced by 'congenital penile curvature' and will be referred to as such throughout this chapter.{% cite snodgrass2008a --file 05-34 %} There are varying degrees of congenital penile curvature. This can be ventral, dorsal, and lateral or a combination of the three.
 

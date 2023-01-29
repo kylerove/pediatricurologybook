@@ -25,6 +25,7 @@ _Department of Surgery, Division of Urology, University of Colorado, Aurora, CO,
 ## Introduction
 
 The need for urological reconstruction is long established and the range of techniques available continues to expand. With introduction of new technology (e.g., robotic surgery) the options for achieving those techniques also looks to be expanding. The problem with all of these innovations is that whilst they are attractive (to a surgeon) and they can be made to sound attractive (to a patient) the favorable elements (e.g., reduced hospital stay, reduction in abdominal scars etc) are weighed against an influence on outcome that is not yet fully understood.
+{:.drop-caps}
 
 This chapter will examine some of the long-term data that have been published in relation to urological reconstruction, it will also take a brief look at some of the aspects that make our interpretation difficult including variation in technique and the incorporation of new technology.
 

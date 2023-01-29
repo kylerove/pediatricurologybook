@@ -24,6 +24,7 @@ _Department of Urology, Yale University School of Medicine, New Haven, CT, USA_{
 ## Introduction
 
 Congenital spinal dysraphism accounts for the vast majority of cases of pediatric neurogenic bladder and bowel.{% cite bauer2008a --file 03-19 %} Other causes of neurogenic dysfunction involving the spine include sacral agenesis, tethered cord, cloacal malformations, and spinal cord injuries. Children with central nervous system abnormalities such as spastic diplegia (cerebral palsy) may also experience neurogenic bladder.
+{:.drop-caps}
 
 Poor bladder dynamics can lead to chronic kidney disease and a multitude of potential sequelae.{% cite oakeshott2010a --file 03-19 %} Management of neurogenic bladder includes achieving low pressure urinary storage and providing urinary continence while preserving upper tract function. Optimal treatment requires a multidisciplinary care team to prevent and manage potential sequelae that may affect function, quality of life, and survival. Given that spina bifida accounts for most cases of neurogenic bladder, it will be the focus of the chapter herein.
 

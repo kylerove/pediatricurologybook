@@ -28,6 +28,7 @@ _<sup>3</sup> University of Kentucky, Department or Urology & Pediatrics, Lexing
 ### Introduction
 
 Pheochromocytoma (PCC) is a catecholamine secreting tumor. There are limited data available concerning management of this rare tumor in children and adolescents. Management is usually extrapolated from a combination of the adult guidelines and case reports/series. In the pediatric population, surgery is the mainstay of treatment, but there are recent advances in new treatments and management of metastatic disease.{% cite asai2017a fishbein2012a --file 08-42 %}
+{:.drop-caps}
 
 ### Embryology
 

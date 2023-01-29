@@ -24,6 +24,7 @@ _University of Oklahoma, Oklahoma City, OK, USA_{:.author-title}
 ## Introduction
 
 Bladder exstrophy is a rare genitourinary malformation that, when simply defined, refers to the eversion of the bladder to the outside of the body ([Figure 1](#figure-1){:.figure-link}). It is a rare genitourinary malformation for which the management still challenges the field of pediatric urology. More completely, the *Exstrophy-Epispadias Complex* comprises many defects that range from isolated male or female epispadias, classic bladder exstrophy, and even cloacal exstrophy.
+{:.drop-caps}
 
 ![Figure 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-21-1.jpeg){:.float-start .img-fluid}  
 **Figure 1**{:#figure-1}{:.figure-number} Newborn male with classic bladder exstrophy.

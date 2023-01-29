@@ -23,6 +23,7 @@ By **Nguyen, NT**{:.author-names}, **Herbst, MO**{:.author-names}, & **Titler, S
 ## Introduction
 
 Pediatric urology procedures cover a wide range of patient types, surgical approaches, and a broad spectrum of anesthetic requirements and approaches. Anesthesia plans may vary to include anesthesia for same-day outpatient surgery procedures in healthy patients with an isolated urologic concern or they may be more involved and complex.
+{:.drop-caps}
 
 Anesthesia in medically complex patients or those involving multiple stages of surgical intervention may include multimodal analgesia, various neuraxial or regional anesthetic block techniques in addition to general anesthesia and may require inpatient stays where postoperative acute pain services can be provided. Medically complex patients may benefit from a visit to the pre-anesthesia or pre-surgical optimization clinic to ensure that all follow-up information is up to date (e.g., echocardiogram and cardiology clearance in patients with congenital heart disease) and to allow for timely completion of any necessary laboratory work or imaging.
 

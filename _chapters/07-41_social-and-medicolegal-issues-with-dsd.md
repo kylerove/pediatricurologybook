@@ -31,6 +31,7 @@ By **Kiarash Taghavi**{:.author-names}<sup>a,b</sup>, **Nathalie Webb**{:.author
 ### Introduction: The Child's Wellbeing is at the Centre of Care and Ethical Concern
 
 Making shared-decisions about the well-being of infants, children and adolescents with differences or disorders of sex development (DSD) involves the integration of a complex range of medical, psychosocial, ethical, human rights, and legal considerations.{% cite unknown-a --file 07-41 %} The established pillars of multi-disciplinary care of children with DSD within our clinical network include,{% cite gillam2010a vora2021a --file 07-41 %}
+{:.drop-caps}
 
 - minimising *physical risk* to the child;
 - minimising *psychosocial risk* to the child;

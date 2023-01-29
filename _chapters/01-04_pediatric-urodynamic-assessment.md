@@ -23,6 +23,7 @@ By **Cristian Sager, MD**{:.author-names}
 ## Introduction
 
 The urodynamic assessment of the lower urinary tract (LUT) function comprises the use of appropriate methods of evaluation during the bladder filling and voiding phases. The correct instrumentation of the studies provides the pathophysiological understanding of urologic entities that may affect children and adolescents with the aim of optimizing their therapeutic management.
+{:.drop-caps}
 
 Pediatric urodynamics requires trained staff that must implement an appropriate methodology in a setting adapted to the pediatric universe in order to deal with situations of stress correctly and obtain as much clinical urologic information as possible.
 

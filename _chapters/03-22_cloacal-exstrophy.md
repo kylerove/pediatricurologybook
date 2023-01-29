@@ -24,6 +24,7 @@ _Johns Hopkins University, Baltimore, MD, USA_{:.author-title}
 ## Introduction
 
 Cloacal exstrophy (CE) commonly referred to as the omphalocele, exstrophy of the bladder, imperforate anus, and spinal abnormalities (OEIS) complex, is the least common manifestation of the exstrophy-epispadias complex (EEC), however, it represents the greatest divergence from typical anatomy and development. As a multisystem defect, it requires a dedicated multidisciplinary approach to achieve optimal outcomes for patients and their families. This chapter provides a review of cloacal exstrophy through a modern lens alongside future directions in understanding this burdensome condition.
+{:.drop-caps}
 
 ## Embryology
 

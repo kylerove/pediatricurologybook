@@ -20,6 +20,7 @@ review-formatting-complete: 2023-01-16 KR
 ## Introduction
 
 Bladder exstrophy (BE) is a devastating congenital abnormality of the urinary tract in which infants are born with the urinary bladder extruded through their abdominal wall, a urethra that is open dorsally, and significant secondary abnormalities of the genitalia. It is widely regarded as the most surgically challenging and complex congenital disorder of the urinary tract.{% cite weiss2020a --file 06-37 %} BE varies in degree of severity and exists on a continuum described as the bladder exstrophy-epispadias complex (BEEC).{% cite ludwig2005a --file 06-37 %} The incidence of the BEEC is \~1 in 10,000.{% cite ludwig2005a --file 06-37 %}
+{:.drop-caps}
 
 Cloacal exstrophy (CE) is on the severe end of the BEEC spectrum. CE is a rare congenital disorder with an incidence of 1 in 200,000--400,000 live births.{% cite phillips2011a woo2010a --file 06-37 %} Common associated anomalies include omphalocele, bladder exstrophy, imperforate anus, and spinal dysraphism.{% cite woo2010a --file 06-37 %} Additional features include a midline plate of exstrophied cecum flanked by 2 bladder halves, a segment of ileum prolapsing from the cecal plate and a blind ending, rudimentary hindgut accompanied by an imperforate anus.{% cite woo2010a --file 06-37 %}
 

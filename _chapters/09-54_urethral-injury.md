@@ -24,6 +24,7 @@ _Ankara University, Ankara, Turkey_{:.author-title}
 ## Introduction
 
 Urethral traumas are part of the urological emergency conditions that often require multidisciplinary co-assessment. In the case of septic symptoms, all possible traumas in other organs and sources of infection should also be considered. In the case of acute symptoms of the scrotum or gross hematuria, immediate urological evaluation is required. The therapy depends on the severity of the injury; the options range from primary splinting using a catheter, possibly under visual control, to an end-to-end surgical anastomosis.
+{:.drop-caps}
 
 Urethral injuries are mostly caused by traffic accidents. In principle, the trauma mechanism can be classified as blunt or penetrating. In addition, urethral injuries after iatrogenic interventions (catheterization, cystoscopy, etc.) or due to foreign bodies being introduced into the urethral lumen. In addition, iatrogenic injuries are much more common in children due to their more fragile and vulnerable urethra. As a result, transurethral instruments should only be performed by experienced urologists, and endoscopic stone treatment should not be extracted primarily, but if possible, lithotripsed in situ before extraction.
 

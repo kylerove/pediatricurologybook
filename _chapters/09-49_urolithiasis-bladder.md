@@ -23,6 +23,7 @@ By **Aneetha Pasupati**{:.author-names}, **Bhaveshkumar Patel**{:.author-names},
 ## Introduction
 
 'Urinary stones' is a malady known to humans since early times; evident from the findings of urinary stones in Egyptian mummies. Sir G E Smith found a bladder calculus, dated to 4800 BC, in the mummy of the pelvis of a 16-years old in 1901 in El Amrah, Egypt. The calculus had concentric laminations of calcium oxalate, ammonium magnesium phosphate around a uric acid nucleus.{% cite ellis1979a shattock1905a schwartz2000a --file 09-49 %} Sushruta, India, 600 BC, in his medical text, Sushruta Samhita, described formation of bladder stones and perineal lithotomy! Urinary stone disease finds its mention in Ancient Greek texts and recognition by Hippocrates. Ancient Arabic medicine has perineal lithotomy described in a book by Al-Razi in 841--926 AD.{% cite l2010a --file 09-49 %}
+{:.drop-caps}
 
 Historical urinary stone disease literature is fascinating with the morbidity of the disease, the mortality of the surgical attempted cures, and the descriptions of "lithotmus, stein-schnieider, clysters, lithotryptors to crush stone!
 

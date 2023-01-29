@@ -24,6 +24,7 @@ _Department of Radiology, Yale New Haven Hospital, New Haven, CT, USA_{:.author-
 ## Introduction
 
 Diagnostic imaging is a powerful tool for understanding the natural history of many conditions affecting the genitourinary (GU) tract, from both an anatomic and a functional perspective. With optimal use, diagnostic imaging improves patient outcomes while minimizing patient risk. Multiple modalities are available to image the human body in detail including ultrasound (US), magnetic resonance imaging (MRI), computed tomography (CT), nuclear scintigraphy, and fluoroscopy/ radiography. Technological advances in these modalities are ongoing.
+{:.drop-caps}
 
 In the pediatric setting, the indications for diagnostic imaging depend not only upon the clinical presentation, but also the age (or level of development) of the patient. More than one imaging technique may be required to fully evaluate the anatomy and physiology of the GU tract. While the clinical presentation is paramount and will often allow for an algorithmic approach to imaging, the best approach in a teenager can differ from that in a baby or toddler.
 

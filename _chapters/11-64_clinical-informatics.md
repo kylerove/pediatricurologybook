@@ -17,7 +17,7 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-29 KR
 ---
 
-By **Kyle Rove, MD**{:.author-names}<sup>1,2</sup>** & **Sarah L. Hecht, MD**{:.author-names}<sup>3</sup>  
+By **Kyle Rove, MD**{:.author-names}<sup>1,2</sup> & **Sarah L. Hecht, MD**{:.author-names}<sup>3</sup>  
 _<sup>1</sup> Department of Pediatric Urology, Children's Hospital Colorado, Aurora, CO, USA_{:.author-title}  
 _<sup>2</sup> Division of Urology, Department of Surgery, University of Colorado, Aurora, CO, USA_{:.author-title}  
 _<sup>3</sup> Division of Urology, Oregon Health & Sciences University, Portland, OR, USA_{:.author-title}
@@ -32,11 +32,11 @@ Increasingly, there is broad recognition that clinical expertise and information
 
 Clinical informatics can also be defined by what it is not: physicians using a computer, physicians who use clinical software (at any level of expertise), or physicians performing data analysis or research. Historically, the young field of clinical informatics has struggled to convey what it is that we do, and stating what we are not is a useful exercise to emphasize the definition. [Figure 1](#figure-1){:.figure-link} demonstrates some of the overlap and functions of clinical informatics with the field of analytics. Similarly, [Figure 2](#figure-2){:.figure-link} shows how overlap between the health care system, clinical care, and information technology and systems leads to different domains of expertise with clinical informatics at the center.
 
-![Figure 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-64-1.png){:.float-start .img-fluid}  
+![Figure 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-64-1.svg){:.float-start .img-fluid}  
 **Figure 1**{:#figure-1}{:.figure-number} Clinical informatics as a domain has some overlap and relationship with analytics (which in many healthcare systems is nacent), but each has unique elements distinct from the other.
 
 **Figure 2**{:#figure-2}{:.figure-number} Overlapping domains in and around clinical care differentiate clinical
-![Figure 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-64-2.png){:.float-start .img-fluid}   informatics from domains such as quality improvement and patient safety and the information technology help desk. Clinical informatics sits at the intersection of the three larger domains, clinical care, the healthcare system and information and communications technology.
+![Figure 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-64-2.svg){:.float-start .img-fluid}   informatics from domains such as quality improvement and patient safety and the information technology help desk. Clinical informatics sits at the intersection of the three larger domains, clinical care, the healthcare system and information and communications technology.
 
 ## Defining EMR---What It Is
 
@@ -74,7 +74,7 @@ The EMR era has made it increasing simple to store patient information such as n
 
 Clinical informaticists are well positioned to positively impact this by encouraging the use of and creating documentation templates within the EMR. Why is this important? Too often, clinicians repeat mundane tasks over and over, without realizing or understanding that the EMR can automate tasks and work. A great example of this is when patients with common pediatric urology problems are seen in clinic (e.g., hypospadias, hydronephrosis, vesicoureteral reflux, bowel and bladder dysfunction). If you find yourself having the same conversation with patients and families and presenting similar options, a clinical note template can turn 10 minutes "re-creating the wheel" to document said conversation into a 30--60 second exercise of filling out key details in a clinical note template that is saved in the EMR.
 
-**Table 3**{:#table-3}{:.table-number} provides a list of new patient ***shared*** note template outpatient phenotypes at my organization. Note the word ***shared***: Our group has elected to create this shared resource to all providers. The benefit of sharing is that we have standardized the documentation for \~95% of new patients, which fall into this list, and all providers benefit as issues are corrected and the template is refined.
+[Table 3](#table-3){:.table-link} provides a list of new patient ***shared*** note template outpatient phenotypes at my organization. Note the word ***shared***: Our group has elected to create this shared resource to all providers. The benefit of sharing is that we have standardized the documentation for \~95% of new patients, which fall into this list, and all providers benefit as issues are corrected and the template is refined.
 
 **Table 3**{:#table-3}{:.table-number} List of new patient shared note templates at Children's Hospital Colorado as of 2023.
 
@@ -104,7 +104,7 @@ Clinical informaticists are well positioned to positively impact this by encoura
 | Varicocele / spermatocele         |
 | Vesicoureteral reflux             |
 
-Creation of Discrete Data
+### Creation of Discrete Data
 
 An enormous advantage the EMR holds over paper records lies within structured, or discrete, data. One may think of discrete data as information that has been parsed into its base elements, labeled, and stored such that it can be easily accessed. Within the EMR, much of the data important for clinical documentation has already been captured in this way---dates, names, vital signs, lab values, diagnoses, etc. Such data can facilitate direct patient care and can be leveraged for secondary uses including outcomes tracking and clinical research.
 
@@ -140,9 +140,9 @@ The "five rights" of CDS are important to consider in designing and building new
 
 ## Informatics Training
 
-Clinical informatics is now taught through formal training programs that are GME-accredited. Board certification is available for those who wish to formalize their training.{% cite lehmann2018a --file 11-64 %} There are currently two pathways available to board certification (which is granted after passing a written exam) through the American Board of Preventative Medicine: 1) clinical informatics training pathway where you can sit for the board after completing graduate medical education (GME) certified training (typically one year), or 2) practice pathway that allows those with formal roles in your organization with at least 0.25 full-time equivalent dedicated time. The latter is available through 2023 (but this grandfather clause has been extended several times, recognizing that not all clinical informaticists have received formal training, but rather have gone through on-the-job training). More information about board certification requirements for clinical informatics is available through the [[American Board of Preventative Medicine]{.underline}](https://www.theabpm.org/become-certified/subspecialties/clinical-informatics/).
+Clinical informatics is now taught through formal training programs that are GME-accredited. Board certification is available for those who wish to formalize their training.{% cite lehmann2018a --file 11-64 %} There are currently two pathways available to board certification (which is granted after passing a written exam) through the American Board of Preventative Medicine: 1) clinical informatics training pathway where you can sit for the board after completing graduate medical education (GME) certified training (typically one year), or 2) practice pathway that allows those with formal roles in your organization with at least 0.25 full-time equivalent dedicated time. The latter is available through 2023 (but this grandfather clause has been extended several times, recognizing that not all clinical informaticists have received formal training, but rather have gone through on-the-job training). More information about board certification requirements for clinical informatics is available through the [American Board of Preventative Medicine](https://www.theabpm.org/become-certified/subspecialties/clinical-informatics/).
 
-## Emr Governance
+## EMR Governance
 
 Given the complexity of the EMR, particularly in ones with integrated outpatient, lab, pharmacy, inpatient, ED, OR functionality, changes to the EMR cannot be made by a small team without input from the organization. Many hospitals and systems with large EMRs have set up governance committees that discuss and decide on major changes that might impact a broad swath of users. Serving on these committees can provide valuable insight into new features of an EMR, may help you stave off a change that might negatively impact your team, or provide a venue to discuss a feature or build that might benefit your group or organization.
 
