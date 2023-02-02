@@ -134,7 +134,7 @@ Constipation or urinary tract infections (UTIs) should be addressed before uroth
 
 Successful treatment is determined by the degree that the child and parents are satisfied with the results. Satisfaction and improved quality of life may be a reason to end treatment instead of endeavoring the best results. When treatment is not successful, it is important to identify the reason.
 
-When the results of standard urotherapy are unsatisfactory, specific urotherapy is recommended. This therapy combines specialist interventions such as biofeedback of the pelvic floor, cognitive behavioral therapy, psychotherapy, neuro-stimulation, or clean intermittent catheterization).{% cite chang2017a yang2018a nieuwhof-leppink2021a hagstroem2009a --file 03-20 %} Specific urotherapy is tailored to the specific type of bladder-bowel dysfunction and is composed of specific programs for children with treatment-resistant symptoms. These programs help children to learn how to void, when to void, and how often to void. Repeated practice is necessary to habituate the new voiding behavior.{% cite macneily2016a --file 03-20 %}
+When the results of standard urotherapy are unsatisfactory, specific urotherapy is recommended. This therapy combines specialist interventions such as biofeedback of the pelvic floor, cognitive behavioral therapy, psychotherapy, neuro-stimulation, or clean intermittent catheterization.{% cite chang2017a yang2018a nieuwhof-leppink2021a hagstroem2009a --file 03-20 %} Specific urotherapy is tailored to the specific type of bladder-bowel dysfunction and is composed of specific programs for children with treatment-resistant symptoms. These programs help children to learn how to void, when to void, and how often to void. Repeated practice is necessary to habituate the new voiding behavior.{% cite macneily2016a --file 03-20 %}
 
 Children with behavioral problems require a tailored plan to the unique needs of the child.{% cite niemczyk2015a --file 03-20 %} For comorbidities and severe bladder-overactivity, medication may be necessary.{% cite chang2017a --file 03-20 %}
 
@@ -258,6 +258,9 @@ The child with dysfunctional voiding habitually contracts the urethral sphincter
    1. Avoid diarrhea or fecal accidents with poorly controlled or over aggressive use of osmotic agents and cathartics
    2. Avoid excessive gas from overloading with fiber; gas is just as detrimental as constipation and results in distention of the gut
    3. Fiber supplementation without water leads to worsening of the constipation
+   4. Behavioral problems, like ADHD and ASS
+   5. Even if the child seems cooperative, an avoidant attitude towards correct voiding behavior can still prevail, failing to make the real effort needed to achieve the result.
+   6. Urinary tract infections
 2. Repeat uroflowmetry and confirm if the problem persists
 3. If etiology is external sphincter dyssynergia (ESS)
    1. Biofeedback
@@ -290,10 +293,11 @@ The old entity "lazy bladder" has replaced by the neutral term underactive bladd
 1. Evaluations will include a uroflowmetry with pelvic floor EMG and if possible a second abdominal muscle EMG.
 2. If abdominal straining is evident with a weak inefficient flow rate (flow index \<0.7) and elevated postvoid residual, consider the diagnosis of UAB.
 3. Confirm with urodynamics
-4. Consider alpha blockers to help open bladder neck and improve emptying
-5. Up to 50% of patients also have OAB and need treatment of OAB to prevent incontinence or recurrent UTIs
-6. ISS is commonly seen in UAB patients and treatment with alpha blockers is necessary in these patients.
-7. Consider CIC if patients have high PVR and or have recurrent UTIs; some have utilized sacral neuromodulation but with limited success
+4. Start urotherapy
+5. Consider alpha blockers to help open bladder neck and improve emptying
+6. Up to 50% of patients also have OAB and need treatment of OAB to prevent incontinence or recurrent UTIs
+7. ISS is commonly seen in UAB patients and treatment with alpha blockers is necessary in these patients.
+8. Consider CIC if patients have high PVR and or have recurrent UTIs; some have utilized sacral neuromodulation but with limited success
 
 ### Pollakiuria
 
