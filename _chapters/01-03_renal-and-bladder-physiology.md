@@ -66,7 +66,7 @@ In addition to the Schwartz equation, several other equations to estimate GFR ha
 
 **Table 1**{:#table-1}{:.table-number} A sample of various equations to estimate eGFR in children using serum creatinine, serum cystatin C, or both serum measures.
 
-| eGFR Equation                                                                | Study Population                            | Calculator                                                                                           |
+| Estimated GFR (eGFR) Equation                                                | Study Population                            | Calculator                                                                                           |
 |------------------------------------------------------------------------------|---------------------------------------------|------------------------------------------------------------------------------------------------------|
 | **Creatinine only**                                                          |                                             |                                                                                                      |
 | Schwartz equation (k=0.55){% cite schwartz1976a --file 01-03 %}              | Children 1–21 with CKD                      | —                                                                                                    |
@@ -245,6 +245,7 @@ Regardless of the dialysis modality chosen, the goal of every pediatric nephrolo
 
 {% bibliography --file 01-03 %}
 
+*[eGFR]: estimated glomerular filtration rate
 *[GFR]: glomerular filtration rate
 *[ADH]: antidiuretic hormone
 *[CKD]: chronic kidney disease
