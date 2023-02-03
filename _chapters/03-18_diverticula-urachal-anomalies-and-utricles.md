@@ -60,7 +60,7 @@ Interestingly there is a single case report of a patent urachus that spontaneous
 
 ### Clinical Presentation
 
-**The most common presenting symptoms in children with urachal anomalies are umbilical drainage persisting weeks after delivery or a mass and/or pain due to infection.**{% cite naiditch2013a cilento1998a yiee2007a gleason2015a --file 03-18 %} The umbilical drainage may be clear, serous, purulent, or bloody and is a clue to the its cause: persistent clear fluid leakage (likely urine) in an infant is suggestive of a patent urachus while cloudy, serous, or bloody fluid is indicative of an urachal sinus or cyst. There is a bimodal age distribution with presentation at a mean of 1-3 months of age for those with urachal sinus or patency versus 3 years for those who present with a urachal cyst.{% cite yiee2007a --file 03-18 %} **The differential diagnosis of umbilical drainage also includes omphalitis, omphalomesenteric duct remnant, or an umbilical granuloma**.{% cite cilento1998a --file 03-18 %}
+**The most common presenting symptoms in children with urachal anomalies are umbilical drainage persisting weeks after delivery or a mass and/or pain due to infection.**{% cite naiditch2013a cilento1998a yiee2007a gleason2015a --file 03-18 %} The umbilical drainage may be clear, serous, purulent, or bloody and is a clue to its cause: persistent clear fluid leakage (likely urine) in an infant is suggestive of a patent urachus while cloudy, serous, or bloody fluid is indicative of an urachal sinus or cyst. There is a bimodal age distribution with presentation at a mean of 1-3 months of age for those with urachal sinus or patency versus 3 years for those who present with a urachal cyst.{% cite yiee2007a --file 03-18 %} **The differential diagnosis of umbilical drainage also includes omphalitis, omphalomesenteric duct remnant, or an umbilical granuloma**.{% cite cilento1998a --file 03-18 %}
 
 **Table 2**{:#table-2}{:.table-number} Presenting Symptoms in Children with Urachal Anomalies.
 
@@ -79,14 +79,14 @@ Physical examination may also be helpful. A patent urachus or urachal sinus can 
 ![Figure 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-18-3.png){:.float-start .img-fluid}  
 **Figure 3**{:#figure-3}{:.figure-number} Patent urachus in a newborn. A. Demonstrates the beefy red appearance of the umbilical end of a patent urachus. B. The umbilical skin has been everted and a small feeding has been passed through the patent urachus into the bladder.
 
-Some urachal anomalies are incidentally discovered during the routing radiographic evaluation of other disorders, such as urinary tract infections or prenatal hydronephrosis. Urachal cysts are likely to be seen during ultrasound imaging of the bladder ([Figure 4](#figure-4){:.figure-link}).
+Some urachal anomalies are incidentally discovered during the routine radiographic evaluation of other disorders, such as urinary tract infections or prenatal hydronephrosis. Urachal cysts are likely to be seen during ultrasound imaging of the bladder ([Figure 4](#figure-4){:.figure-link}).
 
 ![Figure 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-18-4.jpeg){:.float-start .img-fluid}  
 **Figure 4**{:#figure-4}{:.figure-number} Sagittal view if the dome of the bladder in the midline. There is a large anechoic urachal cyst anterior to the bladder wall.
 
 ### Urachal Carcinoma
 
-As urachal carcinoma is not a disease reported to present in children or adolescents, the treatment of this disorder will not be included in this chapter.{% cite ashley2007a sheldon1984a --file 03-18 %} **As will be discussed in the section on management, the risk of an asymptomatic urachal anomaly developing carcinoma and, thus, the value of prophylactic excision are unknown. **Risk factors for carcinoma in a urachal anomaly include size greater than 4 cm and age \> 55 years. Calcifications are a common feature in carcinoma, however, the significance of calcifications in an asymptomatic benign urachal remnant is unknown.{% cite ashley2007a sheldon1984a --file 03-18 %} It would seem prudent to remove lesions with calcifications, given that calcifications that may be associated with chronic inflammation, which is associated with carcinogenesis.
+As urachal carcinoma is not a disease reported to present in children or adolescents, the treatment of this disorder will not be included in this chapter.{% cite ashley2007a sheldon1984a --file 03-18 %} **As will be discussed in the section on management, the risk of an asymptomatic urachal anomaly developing carcinoma and, thus, the value of prophylactic excision are unknown**. **Risk factors for carcinoma in a urachal anomaly include size greater than 4 cm and age \> 55 years**. Calcifications are a common feature in carcinoma, however, the significance of calcifications in an asymptomatic benign urachal remnant is unknown.{% cite ashley2007a sheldon1984a --file 03-18 %} It would seem prudent to remove lesions with calcifications, given that calcifications that may be associated with chronic inflammation, which is associated with carcinogenesis.
 
 ### Radiologic Evaluation
 
@@ -103,7 +103,7 @@ The lesions may be several centimeters in diameter and can, on occasion, spread 
 **CT should not be considered an integral component of the routine workup** but can detect anomalies missed by US and thus is useful in cases of high clinical suspicion without clear diagnosis ([Figure 7](#figure-7){:.figure-link}).
 
 ![Figure 7]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-18-7.png){:.float-start .img-fluid}  
-**Figure 7**{:#figure-7}{:.figure-number} CT scan in a patient with recurrent bloody umbilical drainage. A. Image just inferior to the umbilicus demonstrate a normal appearing urachus (fibrous cord) just inferior to the rectus muscles in the midline. B. A urachal cyst is demonstrated more inferiorly. C. The proximity of the inferior extent of the cyst and the dome of the bladder is demonstrated.* *
+**Figure 7**{:#figure-7}{:.figure-number} CT scan in a patient with recurrent bloody umbilical drainage. A. Image just inferior to the umbilicus demonstrates a normal appearing urachus (fibrous cord) just inferior to the rectus muscles in the midline. B. A urachal cyst is demonstrated more inferiorly. C. The proximity of the inferior extent of the cyst and the dome of the bladder is demonstrated.
 
 **The evaluation should also include a renal ultrasound to ensure the absence of hydronephrosis or other congenital kidney anomalies**.{% cite cilento1998a yiee2007a copp2009a gonzales2001a --file 03-18 %}  The incidence of concomitant kidney abnormalities has varied widely in published series, but given the lack of morbidity and risk with ultrasound, it is prudent to include imaging the kidneys as part of the work-up.{% cite fox2011a --file 03-18 %} 
 
@@ -112,9 +112,9 @@ The lesions may be several centimeters in diameter and can, on occasion, spread 
 In general, symptomatic urachal remnants should be treated with surgical excision. This should include complete excision of the urachus from the umbilicus to the dome of the bladder ([Figure 8](#figure-8){:.figure-link}). 
 
 ![Figure 8]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-18-8.png){:.float-start .img-fluid}  
-**Figure 8**{:#figure-8}{:.figure-number} Open excision of urachal cyst. A. Intra-operative view of a urachal cyst excision via an infra-umbilical midline incision. The cyst is in center with the bladder attachment to the right, and the fibrous cord extending to the umbilicus on the left. B. The specimen (cyst) after excision with the small cuff of bladder (right end of specimen).*   *
+**Figure 8**{:#figure-8}{:.figure-number} Open excision of urachal cyst. A. Intra-operative view of a urachal cyst excision via an infra-umbilical midline incision. The cyst is in center with the bladder attachment to the right, and the fibrous cord extending to the umbilicus on the left. B. The specimen (cyst) after excision with the small cuff of bladder (right end of specimen).
 
-The necessity of excising bladder mucosa with urachal cysts or sinuses that are not continuous with the bladder wall is debated.{% cite macneily1992a cilento1998a rich1983a mesrobian1997a mccollum2003a --file 03-18 %} Infected urachal cysts present another dilemma, as the marked enlargement of the cyst due to infection and surrounding inflammation make simple excision more difficult and may increase the risk of complications. One can approach the infected urachal cyst in either a single or staged approach.{% cite rich1983a mesrobian1997a minevich1997a --file 03-18 %} The relative merits and risks of the two approaches is further discussed below.
+The necessity of excising bladder mucosa with urachal cysts or sinuses that are not continuous with the bladder wall is debated.{% cite macneily1992a cilento1998a rich1983a mesrobian1997a mccollum2003a --file 03-18 %} Infected urachal cysts present another dilemma, as the marked enlargement of the cyst due to infection and surrounding inflammation make simple excision more difficult and may increase the risk of complications. One can approach the infected urachal cyst in either a single or staged approach.{% cite rich1983a mesrobian1997a minevich1997a --file 03-18 %} The relative merits and risks of the two approaches are further discussed below.
 
 Surgical excision of the urachal remnant is curative and there are no functional sequelae from its excision, as it is a vestigial remnant. The main surgical dilemma occurs in patients who present with an asymptomatic lesion that is incidentally discovered in imaging.
 
@@ -156,8 +156,8 @@ In infants and small children complete resection of the urachus can easily be ac
 
 - Urachal anomalies most commonly present as umbilical drainage persisting weeks after delivery or umbilical mass and/or pain due to infection.
 - The differential diagnosis of umbilical drainage includes urachal anomaly, omphalitis, omphalomesenteric duct remnant, or an umbilical granuloma.
-- The absolute risk of an asymptomatic urachal anomaly developing carcinoma is unknown.** **Risk factors for carcinoma in a urachal anomaly include size greater than 4 cm and age \>55 years. 
-- Abdominal ultrasound is adequate for diagnosis or urachal anomaly in most patients. Workup should include renal ultrasound to evaluate for congenital kidney anomalies.
+- The absolute risk of an asymptomatic urachal anomaly developing carcinoma is unknown. Risk factors for carcinoma in a urachal anomaly include size greater than 4 cm and age \>55 years. 
+- Abdominal ultrasound is adequate for diagnosis of urachal anomaly in most patients. Workup should include renal ultrasound to evaluate for congenital kidney anomalies.
 - Symptomatic urachal remnants should be excised via open, laparoscopic, or robotic-assisted approach. If using a laparoscopic or robotic approach, the umbilicus cannot be used as a port site.
 - Uncomplicated infections of urachal cysts can be treated conservatively with antibiotics ± percutaneous drainage. Immediate excision carries significant risk of post-operative infection. Delayed excision is reasonable but may not be necessary as closure of remnants/cyst is possible and recurrent infection rare especially in children \<6 months old.
 {:.key-points-list}
@@ -172,7 +172,7 @@ In male fetuses, the production of Mullerian inhibiting substance (MIS) by Serto
 
 Prostatic utricles (PU) are not clinically significant unless complete regression was impaired and the utricle maintains a dilated, cystic appearance, acting as a diverticulum of the prostatic urethra. **Utricle enlargement is associated with hypospadias, cryptorchidism, disorders of sexual differentiation, and unilateral renal agenesis**.{% cite ikoma1985a hester2017a dai2021a devine1980a liu2019a farikullah2012a --file 03-18 %} Case series indicate PU dilation occurs in 10-33% of patients with proximal hypospadias, with incidence increasing with severity of hypospadias defect.{% cite hester2017a devine1980a --file 03-18 %} In one series of boys with normal external genitalia with symptomatic PU, unilateral renal agenesis was found in nearly one-third of cases.{% cite liu2019a --file 03-18 %}
 
-**PU may be asymptomatic, cause symptoms related to obstruction or urinary stasis---**recurrent urinary tract infections, epidydimo-orchitis, urethral discharge, retention, stone formation, or post-void dribbling---or may present with abdominal pain, hematuria, or hematospermia.{% cite dai2021a liu2019a desautel1999a --file 03-18 %} Rarely, malignant transformation has been reported.{% cite liu2019a farikullah2012a nallabothula2017a --file 03-18 %}
+PU may be asymptomatic, cause symptoms related to obstruction or urinary stasis---recurrent urinary tract infections, epidydimo-orchitis, urethral discharge, retention, stone formation, or post-void dribbling---**or may present with abdominal pain, hematuria, or hematospermia**.{% cite dai2021a liu2019a desautel1999a --file 03-18 %} Rarely, malignant transformation has been reported.{% cite liu2019a farikullah2012a nallabothula2017a --file 03-18 %}
 
 **Dilation of the prostatic utricle may impede catheterization of males with hypospadias---**difficult catheterization may be the presenting or only symptom of prostatic utricle in these patients. Large utricles may be palpable inferior or posterior to the bladder on digital rectal exam.{% cite dai2021a liu2019a desautel1999a yeung2001a --file 03-18 %}
 
@@ -203,11 +203,11 @@ Differential diagnosis for prostatic utricles includes müllerian duct cyst (not
 
 ### Management
 
-Successful conservative management of symptomatic utricles has not been well described and would generally require frequent or long-term, prophylactic antibiosis for recurrent infection.{% cite liu2019a --file 03-18 %} **A variety of successful surgical approaches have been described with complete excision of the utricle offering definitive management.** For utricles with very small orifices, transrectal ultrasound guided aspiration and transurethral catheterization and aspiration, orifice incision, and fulguration have been all reported.{% cite dai2021a liu2019a desautel1999a babu2021a --file 03-18 %} These approaches are minimally invasive but confer higher incidence of symptom recurrence than excision. **Open, laparoscopic, and robotic-assisted approaches to excision have all been described, and there is no consensus regarding optimum approach.** The robotic approach may be advantageous due to the difficult location of the utricle. Utricles may be accessed via extraperitoneal, extravesical, transvesical, posterior sagittal, or perineal approaches.{% cite dai2021a liu2019a desautel1999a yeung2001a bayne2021a --file 03-18 %} Concomitant cystoscopy can help define the limits of dissection in laparoscopic procedures.{% cite yeung2001a bayne2021a --file 03-18 %} Reported conversions from laparoscopic to open approaches for utricle excision are uncommon.
+Successful conservative management of symptomatic utricles has not been well described and would generally require frequent or long-term prophylactic antibiosis for recurrent infection.{% cite liu2019a --file 03-18 %} **A variety of successful surgical approaches have been described with complete excision of the utricle offering definitive management.** For utricles with very small orifices, transrectal ultrasound guided aspiration and transurethral catheterization and aspiration, orifice incision, and fulguration have been all reported.{% cite dai2021a liu2019a desautel1999a babu2021a --file 03-18 %} These approaches are minimally invasive but confer higher incidence of symptom recurrence than excision. **Open, laparoscopic, and robotic-assisted approaches to excision have all been described, and there is no consensus regarding optimum approach.** The robotic approach may be advantageous due to the difficult location of the utricle. Utricles may be accessed via extraperitoneal, extravesical, transvesical, posterior sagittal, or perineal approaches.{% cite dai2021a liu2019a desautel1999a yeung2001a bayne2021a --file 03-18 %} Concomitant cystoscopy can help define the limits of dissection in laparoscopic procedures.{% cite yeung2001a bayne2021a --file 03-18 %} Reported conversions from laparoscopic to open approaches for utricle excision are uncommon.
 
 The key principles of excision regardless of approach are adequate dissection, excision, and water-tight closure of the utricle orifice and avoidance of injury to the pelvic nerves, vas deferens, seminal vessels, seminal colliculi, and rectum.
 
-**Table 5**{:#table-5}{:.table-number} Surgical approaches to prostatic utricle and post-operative recurrence of presenting symptoms
+**Table 5**{:#table-5}{:.table-number} Surgical approaches to prostatic utricle excision and post-operative recurrence of presenting symptoms
 
 | Approach    | Endoscopic |  Endoscopic  |   Open   |     Open     | Laparoscopic | Laparoscopic |
 |-------------|:----------:|:------------:|:--------:|:------------:|:------------:|:------------:|
@@ -227,7 +227,7 @@ The key principles of excision regardless of approach are adequate dissection, e
 - The prostatic utricle is a small remnant of the paramesonephric ducts that persists in males as an expansion of the prostatic urethra.
 - Utricle enlargement is associated with hypospadias, cryptorchidism, disorders of sexual differentiation, and unilateral renal agenesis.
 - Prostatic utricles may be asymptomatic, cause symptoms related to obstruction or urinary stasis, or may present with abdominal pain, hematuria, or hematospermia.
-- Dilation of the prostatic utricle may impede catheterization of males with hypospadias[.]{.underline}
+- Dilation of the prostatic utricle may impede catheterization of males with hypospadias.
 - Symptomatic prostatic utricles may be excised by open, laparoscopic, or robotic-assisted approach.
 {:.key-points-list}
 
@@ -242,11 +242,11 @@ Congenital diverticula are thought to be a result of a defect in the detrusor mu
 Congenital bladder diverticula are associated with genetic syndromes that impact connective tissue development: Ehlers-Danlos types IV, V, IX; Menkes syndrome; Williams-Beuren syndrome, and fetal alcohol syndrome.{% cite bayne2021a psutka2013a sammour2014a --file 03-18 %} **Unlike acquired diverticula, congenital diverticula are found in smooth walled bladders that typically demonstrate normal voiding mechanics, are solitary defects, and are not associated with increased risk of malignancy**.{% cite es2017a --file 03-18 %} Congenital diverticula occur more often in males and are generally larger than those acquired by neurogenic bladder dysfunction.{% cite es2017a --file 03-18 %}
 
 ![Figure 11]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-18-11.png){:.float-start .img-fluid}  
-**Figure 11**{:#figure-11}{:.figure-number} Intraoperative demonstration of large paraureteral bladder diverticulum with proximal dilation and medical displacement of ureter.{% cite bhat2012a --file 03-18 %}
+**Figure 11**{:#figure-11}{:.figure-number} Intraoperative demonstration of large paraureteral bladder diverticulum with proximal dilation and medial displacement of ureter.{% cite bhat2012a --file 03-18 %}
 
 ### Acquired Diverticula
 
-**Acquired or secondary diverticula develop because of neurogenic or obstructive pathology in the lower urinary tract**. Though the most common type of diverticulum in adults, secondary diverticula are rare in pediatric patients and signal severe lower tract dysfunction.{% cite es2017a --file 03-18 %} They are more likely to be found near the bladder dome, may be multiple, and are more likely to be seen in a trabeculated bladder. Acquired diverticula in general are associated with neurogenic bladder and bladder outlet obstruction, and in pediatric patients can be seen with posterior urethral valves, prune belly syndrome.{% cite blane1994a es2017a --file 03-18 %}
+**Acquired or secondary diverticula develop because of neurogenic or obstructive pathology in the lower urinary tract**. Though the most common type of diverticulum in adults, secondary diverticula are rare in pediatric patients and signal severe lower tract dysfunction.{% cite es2017a --file 03-18 %} They are more likely to be found near the bladder dome, may be multiple, and are more likely to be seen in a trabeculated bladder. Acquired diverticula in general are associated with neurogenic bladder and bladder outlet obstruction, and in pediatric patients can be seen with posterior urethral valves & prune belly syndrome.{% cite blane1994a es2017a --file 03-18 %}
 
 ### Clinical Presentation
 
@@ -280,7 +280,7 @@ Bladder diverticula are often first detected on bladder ultrasound as a hypoecho
 ![Figure 14]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-18-14.png){:.float-start .img-fluid}  
 **Figure 14**{:#figure-14}{:.figure-number} Congenital bladder diverticulum as seen on ultrasound, pelvic CT, and cystoscopy.{% cite nerli2019a --file 03-18 %}
 
-**Urodynamic studies may be considered in patients with bladder diverticula if underlying lower tract dysfunction is suspected or if presence diverticulum does not adequately explain the patient's presenting symptoms.** Detrusor overactivity can be seen in around half of these patients, possible secondary to hypotonia within and around the diverticulum and chronic urinary stasis.{% cite psutka2013a marte2015a --file 03-18 %} Diverticula complicate interpretation of cystometrogram, as they sink intravesical pressure. Stasis of urine within the diverticulum and associated VUR may also complicate results.{% cite psutka2013a --file 03-18 %}
+**Urodynamic studies may be considered in patients with bladder diverticula if underlying lower tract dysfunction is suspected or if presence of a diverticulum does not adequately explain the patient's presenting symptoms.** Detrusor overactivity can be seen in around half of these patients, possibly secondary to hypotonia within and around the diverticulum and chronic urinary stasis.{% cite psutka2013a marte2015a --file 03-18 %} Diverticula complicate interpretation of cystometrogram, as they sink intravesical pressure. Stasis of urine within the diverticulum and associated VUR may also complicate results.{% cite psutka2013a --file 03-18 %}
 
 **Endoscopic evaluation may help clarify anatomy and is recommended during surgical intervention but is not necessary for diagnosis of bladder diverticulum.**
 
@@ -309,14 +309,6 @@ Bladder diverticulectomy may be performed endoscopically or via trans- or extrav
 
 Important surgical considerations regardless of approach are culture-guided peri-operative antimicrobial prophylaxis, avoidance of injury or devascularizaion of the ureter or vas deferens, avoidance of rectal injury in repair of large posterior diverticula, and post-operative bladder decompression.{% cite psutka2013a --file 03-18 %}
 
-## Summary
-
-Urachal anomalies may present in various forms and most often cause drainage from the umbilicus or infection. Anomalies may be managed conservatively and can spontaneously resolve. Infected cysts may be percutaneously drained, and any symptomatic anomaly can be excised via open or laparoscopic approaches. The risk of malignant transformation of asymptomatic urachal anomalies in children is unknown.
-
-Prostatic utricle dilation is associated with hypospadias and other genitourinary anomalies and may be asymptomatic or cause symptoms related to outlet obstruction and urinary stasis. Utricles may be diagnosed via RUG, VCUG, or US. For symptomatic patients, excision may be accomplished via endoscopic, open, or laparoscopic approaches, with endoscopic management conferring a higher risk of recurrence.
-
-Pediatric bladder diverticula may be either congenital or acquired. Congenital diverticula are due to detrusor defects near the ureteral sheath and are associated with VUR as well as connective tissue disorders. Diverticula are often asymptomatic but may cause infection, irritative voiding symptoms, retention, or abdominal pain and are often associated with detrusor overactivity. Acquired diverticula are secondary to lower urinary tract obstruction or neurogenic bladder. Indications for operative repair include refractory or severe symptoms, size \>3cm, and associated urinary tract dysfunction. Intervention should be preceded by management of any other lower tract pathology. There is no consensus regarding operative approach, and ureteral reimplantation is often performed simultaneously.
-
 ## Key Points
 {:.key-points-head}
 
@@ -327,6 +319,14 @@ Pediatric bladder diverticula may be either congenital or acquired. Congenital d
 - For those with refractory symptoms or complicated diverticula, surgical excision may be performed via transvesical or extravesical approach. Ureteral reimplantation can be performed simultaneously as necessary.
 - Prior to any operative intervention, voiding dysfunction should be evaluated and managed.
 {:.key-points-list}
+
+## Summary
+
+Urachal anomalies may present in various forms and most often cause drainage from the umbilicus or infection. Anomalies may be managed conservatively and can spontaneously resolve. Infected cysts may be percutaneously drained, and any symptomatic anomaly can be excised via open or laparoscopic approaches. The risk of malignant transformation of asymptomatic urachal anomalies in children is unknown.
+
+Prostatic utricle dilation is associated with hypospadias and other genitourinary anomalies and may be asymptomatic or cause symptoms related to outlet obstruction and urinary stasis. Utricles may be diagnosed via RUG, VCUG, or US. For symptomatic patients, excision may be accomplished via endoscopic, open, or laparoscopic approaches, with endoscopic management conferring a higher risk of recurrence.
+
+Pediatric bladder diverticula may be either congenital or acquired. Congenital diverticula are due to detrusor defects near the ureteral sheath and are associated with VUR as well as connective tissue disorders. Diverticula are often asymptomatic but may cause infection, irritative voiding symptoms, retention, or abdominal pain and are often associated with detrusor overactivity. Acquired diverticula are secondary to lower urinary tract obstruction or neurogenic bladder. Indications for operative repair include refractory or severe symptoms, size \>3cm, and associated urinary tract dysfunction. Intervention should be preceded by management of any other lower tract pathology. There is no consensus regarding operative approach, and ureteral reimplantation is often performed simultaneously.
 
 ## References
 
