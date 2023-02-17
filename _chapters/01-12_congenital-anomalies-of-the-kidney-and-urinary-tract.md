@@ -3,6 +3,8 @@ section: 01
 chapter: 12
 sort-key: 01-12
 title: Congenital Anomalies of the Kidney and Urinary Tract
+description: Chapter 12 goes into details on congenital anomalies of the kidney and urinary tract (CAKUT).
+thumbnail: 01-12_congenital-anomalies-of-the-kidney-and-urinary-tract.png
 layout: chapter
 lang: en
 breadcrumbs:

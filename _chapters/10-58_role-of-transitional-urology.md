@@ -3,6 +3,8 @@ section: 10
 chapter: 58
 sort-key: 10-58
 title: Role of Transitional Urology
+description: Chapter 58 provides insight into the newest subspecialty within urology, transitional urology, and how we can systematically approach continuing care for patients with congenital urologic anomalies.
+thumbnail: 10-58_role-of-transitional-urology.png
 layout: chapter
 lang: en
 breadcrumbs:

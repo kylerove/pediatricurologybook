@@ -3,6 +3,8 @@ section: 03
 chapter: 19
 sort-key: 03-19
 title: Neurogenic Bladder
+description: Chapter 19 discusses neurogenic bladder and its workup and management.
+thumbnail: 03-19_neurogenic-bladder.png
 layout: chapter
 lang: en
 breadcrumbs:

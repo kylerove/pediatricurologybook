@@ -3,6 +3,8 @@ section: 08
 chapter: 43
 sort-key: 08-43
 title: Bladder Malignancies
+description: Chapter 43 summarizes pediatric malignancies of the urinary bladder.
+thumbnail: 08-43_bladder-malignancies.png
 layout: chapter
 lang: en
 breadcrumbs:

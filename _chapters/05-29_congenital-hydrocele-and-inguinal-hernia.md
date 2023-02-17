@@ -3,6 +3,8 @@ section: 05
 chapter: 29
 sort-key: 05-29
 title: Congenital Hydrocele and Inguinal Hernia
+description: Chapter 29 dives into the related concepts of congenital hydrocele and pediatric inguinal hernia.
+thumbnail: 05-29_congenital-hydrocele-and-inguinal-hernia.png
 layout: chapter
 lang: en
 breadcrumbs:

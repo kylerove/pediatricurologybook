@@ -3,6 +3,8 @@ section: 04
 chapter: 26
 sort-key: 04-26
 title: Congenital and Traumatic Urethral Stricture
+description: Chapter 26 discusses concepts around pediatric urethral stricture, both congenital and acquired causes.
+thumbnail: 04-26_congenital-and-traumatic-urethral-stricture.png
 layout: chapter
 lang: en
 breadcrumbs:

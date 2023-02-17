@@ -3,6 +3,8 @@ section: 08
 chapter: 42
 sort-key: 08-42
 title: Kidney and Adrenal Malignacies
+description: Chapter 42 summarizes pediatric malignancies in the kidney and adrenal gland.
+thumbnail: 08-42_kidney-and-adrenal-malignacies.png
 layout: chapter
 lang: en
 breadcrumbs:

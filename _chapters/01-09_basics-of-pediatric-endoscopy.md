@@ -3,6 +3,8 @@ section: 01
 chapter: 09
 sort-key: 01-09
 title: Basics of Pediatric Endoscopy
+description: Chapter 9 details the basics of pediatric endoscopy.
+thumbnail: 01-09_basics-of-pediatric-endoscopy.png
 layout: chapter
 lang: en
 breadcrumbs:

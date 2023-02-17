@@ -3,6 +3,8 @@ section: 11
 chapter: 60
 sort-key: 11-60
 title: Tissue Engineering—Current Status and Future
+description: Chapter 60 summaries the current state and future prospects for tissue engineering as it applies to pediatric urology.
+thumbnail: 11-60_tissue-engineering-current-status-and-future.png
 layout: chapter
 lang: en
 breadcrumbs:

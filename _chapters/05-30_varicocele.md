@@ -3,6 +3,8 @@ section: 05
 chapter: 30
 sort-key: 05-30
 title: Varicocele
+description: Chapter 30 provides insights into the diagnosis and management of male varicocele.
+thumbnail: 05-30_varicocele.png
 layout: chapter
 lang: en
 breadcrumbs:
@@ -38,7 +40,7 @@ The majority of varicoceles in adolescents are identified incidentally by the pa
 
 Severity of varicoceles are measured on a grade 0 (subclinical, detected on ultrasound only) to grade 3 scale ([Table 1](#table-1){:.table-link}).{% cite dubin1970a --file 05-30 %} It is important to assess if there is a significant difference in testicular size, as this may be a surrogate for impaired spermatogenesis, and can be an indication for surgical intervention.{% cite jungwirth2012a kolon2015a --file 05-30 %} Ipsilateral testicular hypotrophy is often associated with varicoceles, with rates as high as 80% with grade 3 varicoceles.{% cite steeno1976a --file 05-30 %} The most sensitive assessment of testicular volume is scrotal ultrasound, common formulas used to calculate testicular volume include the Lambert formula (`volume = length × width × height × 0.71`) and the ellipsoid formula (`volume = length × width × height × 0.52`). A significant difference in testicular volume is calculated as a 10--20% difference or 2 to 3 mL difference in size for more than 6--12 month, especially in prepubertal patients.
 
-## Management: Surgical Intervention Vs Observation
+## Management: Surgical Intervention Versus Observation
 
 The decision to treat adolescents with varicoceles remains controversial, as there is no significant evidence or longitudinal studies demonstrating a significant correlation between adolescent varicoceles and future fertility. Chu et al followed over 200 adolescent males with asymptomatic varicoceles for a median of three years with serial examinations and demonstrated that 2/3 developed normal semen parameters without surgical intervention.{% cite chu2017a --file 05-30 %} An analysis in 2013 looked at the proteomic profile in adolescents with and without varicoceles with both normal and abnormal semen parameters, and did not find a difference.{% cite zylbersztejn2013a --file 05-30 %} This is in keeping with current European and American guidelines which advise serial examinations or scrotal ultrasounds for male adolescents with varicoceles who are currently asymptomatic and have no evidence of testicular hypotrophy.{% cite jungwirth2012a jarow2002a --file 05-30 %}
 

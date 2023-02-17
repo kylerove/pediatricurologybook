@@ -3,6 +3,8 @@ section: 01
 chapter: 08
 sort-key: 01-08
 title: Laparoscopic and Robotic Applications
+description: Chapter 8 describes laparoscopic and robotic application in pediatric urology.
+thumbnail: 01-08_laparoscopic_and_robotic_applications.png
 layout: chapter
 lang: en
 breadcrumbs:

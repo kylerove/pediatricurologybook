@@ -3,6 +3,8 @@ section: 06
 chapter: 37
 sort-key: 06-37
 title: Female Epispadias
+description: Chapter 37 delves into female epispadias, its classification, diagnosis, and treatment.
+thumbnail: 06-37_female-epispadias.png
 layout: chapter
 lang: en
 breadcrumbs:

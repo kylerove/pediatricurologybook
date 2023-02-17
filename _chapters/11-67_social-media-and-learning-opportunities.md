@@ -3,6 +3,8 @@ section: 11
 chapter: 67
 sort-key: 11-67
 title: Social Media and Learning Opportunities
+description: Chapter 67 dives into the current concepts and best practices around social media and modern medicine.
+thumbnail: 11-67_social-media-and-learning-opportunities.png
 layout: chapter
 lang: en
 breadcrumbs:

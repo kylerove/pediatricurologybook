@@ -3,6 +3,8 @@ section: 03
 chapter: 20
 sort-key: 03-20
 title: Voiding Dysfunction
+description: Chapter 20 dives into the concepts around voiding dysfunction and how to identify and manage it.
+thumbnail: 03-20_voiding-dysfunction.png
 layout: chapter
 lang: en
 breadcrumbs:

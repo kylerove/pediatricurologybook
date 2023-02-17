@@ -3,6 +3,8 @@ section: 05
 chapter: 32
 sort-key: 05-32
 title: Proximal Hypospadias
+description: Chapter 32 summarizes proximal hypospadias, the more severe form of hypospadias, its associations and complications of treatment.
+thumbnail: 05-32_proximal-hypospadias.png
 layout: chapter
 lang: en
 breadcrumbs:

@@ -3,6 +3,8 @@ section: 11
 chapter: 66
 sort-key: 11-66
 title: Leadership and Training in Pediatric Urology
+description: Chapter 66 provides insight and wisdom for the aspiring pediatric urologist leader in each of us.
+thumbnail: 11-66_leadership-and-training-in-pediatric-urology.png
 layout: chapter
 lang: en
 breadcrumbs:

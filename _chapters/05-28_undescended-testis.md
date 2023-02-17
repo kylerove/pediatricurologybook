@@ -3,6 +3,8 @@ section: 05
 chapter: 28
 sort-key: 05-28
 title: Undescended Testis
+description: Chapter 28 discusses male undescended testis, its causes, diagnosis and workup and treatment options.
+thumbnail: 05-28_undescended-testis.png
 layout: chapter
 lang: en
 breadcrumbs:

@@ -3,6 +3,8 @@ section: 03
 chapter: 17
 sort-key: 03-17
 title: Megaureter
+description: Chapter 17 discusses megaureter, its origins, diagnosis, and treatment.
+thumbnail: 03-17_megaureter.png
 layout: chapter
 lang: en
 breadcrumbs:

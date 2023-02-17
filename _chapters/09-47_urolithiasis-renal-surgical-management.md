@@ -3,6 +3,8 @@ section: 09
 chapter: 47
 sort-key: 09-47
 title: Urolithiasis—Renal Surgical Management
+description: Chapter 47 dives into the surgical management of kidney stones.
+thumbnail: 09-47_urolithiasis-renal-surgical-management.png
 layout: chapter
 lang: en
 breadcrumbs:
@@ -40,7 +42,7 @@ The most important advantage which ESWL provides is that it is a non-invasive pr
 
 ### Disadvantages of ESWL
 
-The most important drawback is low stone clearance rates in comparison to endourological procedures. Secondly, even ESWL requires general anesthesia in vast majority of pediatric patients ([Figure 1](#figure-1){:.figure-link}). Thirdly, there are concerns regarding effects of ESWL on the growing and developing kidney. Lifshitz _et al_.studied effects of ESWL on 29 for a mean of 9 years, and found that there was a trend towards reduced renal growth in the treated kidneys with one case of hypertension..{% cite lifshitz1998a --file 09-47 %} However, the authors believed that the changes were due to abnormal kidneys and changes were not attributable to ESWL. Further follow up of 39 children treated with ESWL had no hypertension or renal scarring on DMSA scan, after a range of 6 months to 8 years.{% cite traxer1999a --file 09-47 %} Villanyi _et al_ examined in 16 children between the ages of 6 and 14 that there was no deterioration in renal function but there was transient excretion of various surrogate markers of renal damage, such as beta2- macroglobulin for a week. So, the recommendation that an interval of at least 15 days should be left between two successive ESWL treatments.{% cite villanyi2001a --file 09-47 %} However, at present, there is no significant evidence to suggest that ESWL in the pediatric population has any significant long-term effects.
+The most important drawback is low stone clearance rates in comparison to endourological procedures. Secondly, even ESWL requires general anesthesia in vast majority of pediatric patients ([Figure 1](#figure-1){:.figure-link}). Thirdly, there are concerns regarding effects of ESWL on the growing and developing kidney. Lifshitz _et al_ studied effects of ESWL on 29 for a mean of 9 years, and found that there was a trend towards reduced renal growth in the treated kidneys with one case of hypertension..{% cite lifshitz1998a --file 09-47 %} However, the authors believed that the changes were due to abnormal kidneys and changes were not attributable to ESWL. Further follow up of 39 children treated with ESWL had no hypertension or renal scarring on DMSA scan, after a range of 6 months to 8 years.{% cite traxer1999a --file 09-47 %} Villanyi _et al_ examined in 16 children between the ages of 6 and 14 that there was no deterioration in renal function but there was transient excretion of various surrogate markers of renal damage, such as beta2- macroglobulin for a week. So, the recommendation that an interval of at least 15 days should be left between two successive ESWL treatments.{% cite villanyi2001a --file 09-47 %} However, at present, there is no significant evidence to suggest that ESWL in the pediatric population has any significant long-term effects.
 
 ![Figure 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-47-1.png){:.float-start .img-fluid}  
 **Figure 1**{:#figure-1}{:.figure-number} ESWL in pediatric patient under GA

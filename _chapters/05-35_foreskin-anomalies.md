@@ -3,6 +3,8 @@ section: 05
 chapter: 35
 sort-key: 05-35
 title: Foreskin Anomalies
+description: Chapter 35 provides insights into foreskin anomalies, including balanitis and paraphimosis.
+thumbnail: 05-35_foreskin-anomalies.png
 layout: chapter
 lang: en
 breadcrumbs:

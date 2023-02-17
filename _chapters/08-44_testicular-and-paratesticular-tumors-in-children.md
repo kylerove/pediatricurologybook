@@ -3,6 +3,8 @@ section: 08
 chapter: 44
 sort-key: 08-44
 title: Testicular and Paratesticular Tumors in Children
+description: Chapter 44 summarizes pediatric testicular and paratesticular tumors.
+thumbnail: 08-44_testicular-and-paratesticular-tumors-in-children.png
 layout: chapter
 lang: en
 breadcrumbs:

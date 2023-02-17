@@ -3,6 +3,8 @@ section: 11
 chapter: 65
 sort-key: 11-65
 title: Ethical Dilemmas and Considerations
+description: Chapter 65 addresses common concepts within medical ethics and dilemmas and considerations for the pediatric urologist.
+thumbnail: 11-65_ethical-dilemmas-and-considerations.png
 layout: chapter
 lang: en
 breadcrumbs:

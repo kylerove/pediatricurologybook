@@ -3,6 +3,8 @@ section: 05
 chapter: 34
 sort-key: 05-34
 title: Other Penile Abnormalities
+description: Chapter 34 summarizes other congenital penile abnormalities including penile curvature and megaprepuce.
+thumbnail: 05-34_other-penile-abnormalities.png
 layout: chapter
 lang: en
 breadcrumbs:

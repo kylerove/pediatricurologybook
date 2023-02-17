@@ -3,6 +3,8 @@ section: 01
 chapter: 01
 sort-key: 01-01
 title: Embryology of Urinary Tract
+description: Chapter 1 details the embryologic origins of the urinary tract.
+thumbnail: 01-01_embryology-of-urinary-tract.png
 layout: chapter
 lang: en
 breadcrumbs:

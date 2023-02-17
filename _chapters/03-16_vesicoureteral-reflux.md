@@ -3,6 +3,8 @@ section: 03
 chapter: 16
 sort-key: 03-16
 title: Vesicoureteral Reflux
+description: Chapter 16 reviews vesicoureteral reflux.
+thumbnail: 03-16_vesicoureteral-reflux.png
 layout: chapter
 lang: en
 breadcrumbs:

@@ -3,6 +3,8 @@ section: 09
 chapter: 49
 sort-key: 09-49
 title: Urolithiasis—Bladder
+description: Chapter 49 discusses the surgical management of urolithiasis of the bladder.
+thumbnail: 09-49_urolithiasis-bladder.png
 layout: chapter
 lang: en
 breadcrumbs:

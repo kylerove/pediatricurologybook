@@ -3,6 +3,8 @@ section: 04
 chapter: 24
 sort-key: 04-24
 title: Posterior Urethral Valves and Infravesical Obstruction
+description: Chapter 24 delves into posterior urethral valves and other infravesical causes of obstruction.
+thumbnail: 04-24_posterior-urethral-valves-and-infravesical-obstruction.png
 layout: chapter
 lang: en
 breadcrumbs:

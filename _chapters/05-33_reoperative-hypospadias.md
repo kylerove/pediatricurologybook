@@ -3,6 +3,8 @@ section: 05
 chapter: 33
 sort-key: 05-33
 title: Reoperative Hypospadias
+description: Chapter 33 dives into the management of patients who have complications after hypospadias repair.
+thumbnail: 05-33_reoperative-hypospadias.png
 layout: chapter
 lang: en
 breadcrumbs:

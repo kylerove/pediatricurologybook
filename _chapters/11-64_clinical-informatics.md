@@ -3,6 +3,8 @@ section: 11
 chapter: 64
 sort-key: 11-64
 title: Clinical Informatics
+description: Chapter 64 dives into an increasingly important concept of clinical informatics and how to engage and apply this within pediatric urology.
+thumbnail: 11-64_clinical-informatics.png
 layout: chapter
 lang: en
 breadcrumbs:

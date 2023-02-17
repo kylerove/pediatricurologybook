@@ -4,7 +4,6 @@
   
   {%- seo -%}
 
-
   {% I18n_Headers %}
   <!-- Favicon -->
   <link rel="icon" href="{{ site.url }}{{ site.baseurl }}/favicon.ico" type="image/x-icon" > <!-- 32×32 -->
@@ -14,6 +13,16 @@
   
   <!-- Mobile Metas -->
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+  
+  <!-- Social Media Tags -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/assets/site-img/{{ page.thumbnail }}" />
+  <meta name="twitter:site" content="@{{ site.twitter_username }}" />
+  <meta name="twitter:title" content="{{ page.title }}" />
+  <meta name="twitter:description" content="{{ page.description }}" />
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
+  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/site-img/{{ page.thumbnail }}" />
 
   <!-- Analytics -->
   {%- if jekyll.environment == 'production' and site.google_analytics -%}

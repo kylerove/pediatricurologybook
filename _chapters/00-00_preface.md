@@ -3,6 +3,8 @@ section: 00
 chapter: 00
 sort-key: 0
 title: Preface
+description: Welcome to version two of PediatricUrologyBook.com. We describe our vision and how this book came.
+thumbnail: 00-00_preface.png
 layout: chapter
 lang: en
 breadcrumbs:

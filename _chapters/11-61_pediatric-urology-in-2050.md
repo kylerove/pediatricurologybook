@@ -3,6 +3,8 @@ section: 11
 chapter: 61
 sort-key: 11-61
 title: Pediatric Urology in 2050
+description: Chapter 61 is a really neat compilation from experts in various subspecialties within pediatric urology as to what our field will look like in the year 2050.
+thumbnail: 11-61_pediatric-urology-in-2050.png
 layout: chapter
 lang: en
 breadcrumbs:

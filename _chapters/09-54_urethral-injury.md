@@ -3,6 +3,8 @@ section: 09
 chapter: 54
 sort-key: 09-54
 title: Urethral Injury
+description: Chapter 54 provides insight into urethral trauma in boys and girls.
+thumbnail: 09-54_urethral-injury.png
 layout: chapter
 lang: en
 breadcrumbs:

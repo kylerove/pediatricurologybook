@@ -3,6 +3,8 @@ section: 01
 chapter: 03
 sort-key: 01-03
 title: Renal and Bladder Physiology
+description: Chapter 3 details renal and bladder physiology.
+thumbnail: 01-03_renal-and-bladder-physiology.png
 layout: chapter
 lang: en
 breadcrumbs:

@@ -3,6 +3,8 @@ section: 07
 chapter: 41
 sort-key: 07-41
 title: Social and Medicolegal Issues with DSD
+description: Chapter 41 discusses worldwide views on the social and medicolegal concerns that shape our understanding of disorders or differences of sexual development.
+thumbnail: 07-41_social-and-medicolegal-issues-with-dsd.png
 layout: chapter
 lang: en
 breadcrumbs:

@@ -3,6 +3,8 @@ section: 03
 chapter: 22
 sort-key: 03-22
 title: Cloacal Exstrophy
+description: Chapter 22 provides an overview of cloacal exstrophy and its management.
+thumbnail: 03-22_cloacal-exstrophy.png
 layout: chapter
 lang: en
 breadcrumbs:

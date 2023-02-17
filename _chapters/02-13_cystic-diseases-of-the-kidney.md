@@ -3,6 +3,8 @@ section: 02
 chapter: 13
 sort-key: 02-13
 title: Cystic Diseases of the Kidney
+description: Chapter 13 discusses cystic diseases of the kidney and implications.
+thumbnail: 02-13_cystic-diseases-of-the-kidney.png
 layout: chapter
 lang: en
 breadcrumbs:

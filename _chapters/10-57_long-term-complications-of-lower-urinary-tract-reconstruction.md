@@ -3,6 +3,8 @@ section: 10
 chapter: 57
 sort-key: 10-57
 title: Long Term Complications of Lower Urinary Tract Reconstruction
+description: Chapter 57 discusses the long term complications of lower urinary tract reconstruction.
+thumbnail: 10-57_long-term-complications-of-lower-urinary-tract-reconstruction.png
 layout: chapter
 lang: en
 breadcrumbs:

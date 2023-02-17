@@ -3,6 +3,8 @@ section: 03
 chapter: 21
 sort-key: 03-21
 title: Bladder Exstrophy and Epispadias Complex
+description: Chapter 21 discusses bladder exstrophy and epispadias.
+thumbnail: 03-21_bladder-exstrophy-and-epispadias-complex.png
 layout: chapter
 lang: en
 breadcrumbs:

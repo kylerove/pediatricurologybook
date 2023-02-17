@@ -3,6 +3,8 @@ section: 05
 chapter: 31
 sort-key: 05-31
 title: Distal Hypospadias
+description: Chapter 31 discusses distal hypospadias, its origins, diagnosis, and treatment options.
+thumbnail: 05-31_distal-hypospadias.png
 layout: chapter
 lang: en
 breadcrumbs:

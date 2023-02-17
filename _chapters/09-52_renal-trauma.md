@@ -3,6 +3,8 @@ section: 09
 chapter: 52
 sort-key: 09-52
 title: Renal Trauma
+description: Chapter 52 provides insights into the types of pediatric renal trauma, grading schemes, and management options.
+thumbnail: 09-52_renal-trauma.png
 layout: chapter
 lang: en
 breadcrumbs:

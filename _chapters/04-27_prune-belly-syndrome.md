@@ -3,6 +3,8 @@ section: 04
 chapter: 27
 sort-key: 04-27
 title: Prune Belly Syndrome
+description: Chapter 27 summarizes prune belly syndrome (PBS) or Eagle-Barrett syndrome, which is a rare multisystem condition typically characterized by constellation of anomalies.
+thumbnail: 04-27_prune-belly-syndrome.png
 layout: chapter
 lang: en
 breadcrumbs:

@@ -3,6 +3,8 @@ section: 09
 chapter: 48
 sort-key: 09-48
 title: Urolithiasis—Ureteral Surgical Management
+description: Chapter 48 discusses the surgical management of ureterolithiasis.
+thumbnail: 09-48_urolithiasis-ureteral-surgical-management.png
 layout: chapter
 lang: en
 breadcrumbs:

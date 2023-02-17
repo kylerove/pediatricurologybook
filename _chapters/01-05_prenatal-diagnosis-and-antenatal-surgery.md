@@ -3,6 +3,8 @@ section: 01
 chapter: 05
 sort-key: 01-05
 title: Prenatal Diagnosis and Antenatal Surgery
+description: Chapter 5 describes prenatal diagnosis of urologic conditions and antenatal surgery.
+thumbnail: 01-05_prenatal-diagnosis-and-antenatal-surgery.png
 layout: chapter
 lang: en
 breadcrumbs:

@@ -3,6 +3,8 @@ section: 04
 chapter: 25
 sort-key: 04-25
 title: Duplex Urethral Anomalies and Syringocoele
+description: Chapter 25 summarizes duplex urethral anomalies and syringocoele.
+thumbnail: 04-25_duplex-urethral-anomalies-and-syringocoele.png
 layout: chapter
 lang: en
 breadcrumbs:

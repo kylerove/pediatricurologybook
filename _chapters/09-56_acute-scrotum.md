@@ -3,6 +3,8 @@ section: 09
 chapter: 56
 sort-key: 09-56
 title: Acute Scrotum
+description: Chapter 56 dives into the concept of acute scrotum, its differential diagnosis, and pediatric urology approach to workup and management.
+thumbnail: 09-56_acute-scrotum.png
 layout: chapter
 lang: en
 breadcrumbs:

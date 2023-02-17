@@ -3,6 +3,8 @@ section: 02
 chapter: 15
 sort-key: 02-15
 title: Duplex, Migration, and Fusion Anomalies
+description: Chapter 15 introduces concepts of duplex kidney, kidney migration, and kidney fusion anomalies.
+thumbnail: 02-15_duplex-migration-and-fusion-anomalies.png
 layout: chapter
 lang: en
 breadcrumbs:

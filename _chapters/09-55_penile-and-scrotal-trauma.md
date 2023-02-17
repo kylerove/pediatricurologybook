@@ -3,6 +3,8 @@ section: 09
 chapter: 55
 sort-key: 09-55
 title: Penile and Scrotal Trauma
+description: Chapter 55 discusses pediatric management of penile and scrotal trauma.
+thumbnail: 09-55_penile-and-scrotal-trauma.png
 layout: chapter
 lang: en
 breadcrumbs:

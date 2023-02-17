@@ -3,6 +3,8 @@ section: 11
 chapter: 63
 sort-key: 11-63
 title: Quality Improvement in Pediatric Urology
+description: Chapter 63 summaries current hot topics around quality improvement in pediatric urology.
+thumbnail: 11-63_quality-improvement-in-pediatric-urology.png
 layout: chapter
 lang: en
 breadcrumbs:

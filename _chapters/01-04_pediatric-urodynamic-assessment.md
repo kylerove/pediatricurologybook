@@ -3,6 +3,8 @@ section: 01
 chapter: 04
 sort-key: 01-04
 title: Pediatric Urodynamic Assessment
+description: Chapter 4 describes pediatric urodynamic assessments.
+thumbnail: 01-04_pediatric-urodynamic-assessment.png
 layout: chapter
 lang: en
 breadcrumbs:

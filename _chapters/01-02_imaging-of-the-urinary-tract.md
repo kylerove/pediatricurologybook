@@ -3,6 +3,8 @@ section: 01
 chapter: 02
 sort-key: 01-02
 title: Imaging of the Urinary Tract
+description: Chapter 2 details imaging of the pediatric urinary tract.
+thumbnail: 01-02_imaging-of-the-urinary-tract.png
 layout: chapter
 lang: en
 breadcrumbs:

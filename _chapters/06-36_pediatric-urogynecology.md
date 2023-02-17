@@ -3,6 +3,8 @@ section: 06
 chapter: 36
 sort-key: 06-36
 title: Pediatric Urogynecology
+description: Chapter 36 discusses common pediatric urogynecologic conditions and their treatment.
+thumbnail: 06-36_pediatric-urogynecology.png
 layout: chapter
 lang: en
 breadcrumbs:

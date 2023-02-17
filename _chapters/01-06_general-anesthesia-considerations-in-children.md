@@ -3,6 +3,8 @@ section: 01
 chapter: 06
 sort-key: 01-06
 title: General Anesthesia Considerations In Children
+description: Chapter 6 describes the considerations when giving general anesthesia to children.
+thumbnail: 01-06_general-anesthesia-considerations-in-children.png
 layout: chapter
 lang: en
 breadcrumbs:

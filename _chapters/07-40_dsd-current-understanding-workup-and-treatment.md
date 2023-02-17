@@ -3,6 +3,8 @@ section: 07
 chapter: 40
 sort-key: 07-40
 title: DSD—Current Understanding, Workup and Treatment
+description: Chapter 40 discusses our current understanding of disorders or differences of sexual development.
+thumbnail: 07-40_dsd-current-understanding-workup-and-treatment.png
 layout: chapter
 lang: en
 breadcrumbs:
