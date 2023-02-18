@@ -9,7 +9,7 @@
   <meta name="description" content="{{ page.description }}" />
   <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
   <script type="application/ld+json">
-  {"@context":"https://schema.org","@type":"WebSite","author":{"@type":"Person","name":"{{ site.author }}"},"dateModified":"{% last_modified_at %FT%%T%z %}","description":"{{ page.description }}","headline":"{{ page.title }}","name":"{{ site.title }}","url":"{{ site.url }}{{ site.baseurl }}{{ page.url }}"}</script>
+  {"@context":"https://schema.org","@type":"WebSite","author":{"@type":"Person","name":"{{ site.author }}"},"dateModified":"{% last_modified_at %FT%%H:%M:%S%z %}","description":"{{ page.description }}","headline":"{{ page.title }}","name":"{{ site.title }}","url":"{{ site.url }}{{ site.baseurl }}{{ page.url }}"}</script>
 
   <!-- I18n headers -->
   {% I18n_Headers %}
