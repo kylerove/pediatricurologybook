@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-description: Home page for PediatricUrology Book.com
+description: This free, online book of Pediatric Urology, Edition 2.0, features frequently-updated topics such as management of hydronephrosis, hypospadias techniques, approaches to urinary tract infection, information about bowel and bladder dysfunction, neurogenic bladder, pediatric urologic oncology, and much more.
 thumbnail: home.png
 permalink: /
 js: /assets/vendor/owl.carousel/owl.carousel.min.js

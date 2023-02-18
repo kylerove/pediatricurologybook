@@ -17,7 +17,6 @@ gem "jekyll", "~> 4.2.0"
 group :jekyll_plugins do
   gem "jekyll-polyglot", "~> 1.4.0"
   gem "jekyll-minifier", "~> 0.1.10"
-  gem "jekyll-seo-tag", "~> 2.6"
   gem "jekyll-toc", "~> 0.14.0"
   gem "jekyll-scholar", "~> 6.8.0"
   gem "jekyll-timeago", "~> 0.13.1"

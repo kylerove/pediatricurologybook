@@ -22,7 +22,6 @@ timezone: America/Denver
 plugins:
   - jekyll-minifier
   - jekyll-polyglot
-  - jekyll-seo-tag
   - jekyll-toc
   - jekyll-timeago
   - jekyll-last-modified-at

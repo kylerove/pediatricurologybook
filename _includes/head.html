@@ -1,9 +1,17 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>{{ page.title }} | {{ site.title }}</title>
   
-  {%- seo -%}
+  <!-- SEO stuff -->
+  <meta name="generator" content="Jekyll v4.2.2" />
+  <meta name="author" content="{{ site.author }}" />
+  <meta name="description" content="{{ page.description }}" />
+  <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"WebSite","author":{"@type":"Person","name":"{{ site.author }}"},"dateModified":"{% last_modified_at %FT%%T%z %}","description":"{{ page.description }}","headline":"{{ page.title }}","name":"{{ site.title }}","url":"{{ site.url }}{{ site.baseurl }}{{ page.url }}"}</script>
 
+  <!-- I18n headers -->
   {% I18n_Headers %}
   <!-- Favicon -->
   <link rel="icon" href="{{ site.url }}{{ site.baseurl }}/favicon.ico" type="image/x-icon" > <!-- 32×32 -->
@@ -16,18 +24,16 @@
   
   <!-- Social Media Tags -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/assets/site-img/{{ page.thumbnail }}" />
+  <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/assets/thumbs/{{ page.thumbnail }}" />
   <meta name="twitter:site" content="@{{ site.twitter_username }}" />
   <meta name="twitter:title" content="{{ page.title }}" />
   <meta name="twitter:description" content="{{ page.description }}" />
+  <meta property="og:locale" content="{{ page.lang | default: site.lang | default: "en" }}" />
+  <meta property="og:site_name" content="{{ site.title }}" />
   <meta property="og:title" content="{{ page.title }}" />
   <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
-  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/site-img/{{ page.thumbnail }}" />
-
-  <!-- Analytics -->
-  {%- if jekyll.environment == 'production' and site.google_analytics -%}
-    {%- include google-analytics.html -%}
-  {%- endif -%}
+  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/thumbs/{{ page.thumbnail }}" />
+  <meta property="og:description" content="{{ page.description }}" />
   
   <!-- Vendor CSS -->
   <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/vendor/bootstrap/css/bootstrap.min.css">
