@@ -7,9 +7,106 @@
   <meta name="generator" content="Jekyll v4.2.2" />
   <meta name="author" content="{{ site.author }}" />
   <meta name="description" content="{{ page.description }}" />
+  <meta property="article:published_time" content="2023-04-28" />
   <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
   <script type="application/ld+json">
-  {"@context":"https://schema.org","@type":"WebSite","author":{"@type":"Person","name":"{{ site.author }}"},"dateModified":"{% last_modified_at %F %}T{% last_modified_at %H:%M:%S%z %}","description":"{{ page.description }}","headline":"{{ page.title }}","name":"{{ site.title }}","url":"{{ site.url }}{{ site.baseurl }}{{ page.url }}"}</script>
+    {
+      "@context":"https://schema.org",
+      "@type":"WebSite",
+      {% if page.chapter != blank %}"editor": [
+        {% assign editors = site.data.contributors | sort: "last" %}{% assign editor_count = 0 %}{% for editor in editors %}{% if editor.editor == "yes" %}{% assign editor_count = editor_count | plus: 1 %}{% if editor_count > 1 %},{% endif %}{
+          "@type":"Person",
+          {% if editor.email != blank %}"email":"{{ editor.email }}",{% endif %}
+          {% if editor.institution1 != blank or editor.institution2 != blank or editor.institution3 != blank or editor.institution4 != blank %}"affiliation":[
+            {% if editor.institution1 != blank %}{
+              "@type":"Organization",
+              {% if editor.institution1-website != blank %}"url":"{{ editor.institution1-website }}",{% endif %}
+              "name":"{{ editor.institution1 }}"
+            }{% endif %}{% if editor.institution2 != blank %},{
+              "@type":"Organization",
+              {% if editor.institution2-website != blank %}"url":"{{ editor.institution2-website }}",{% endif %}
+              "name":"{{ editor.institution2 }}"
+            }{% endif %}{% if editor.institution3 != blank %},{
+              "@type":"Organization",
+              {% if editor.institution3-website != blank %}"url":"{{ editor.institution3-website }}",{% endif %}
+              "name":"{{ editor.institution3 }}"
+            }{% endif %}{% if editor.institution4 != blank %},{
+              "@type":"Organization",
+              {% if editor.institution4-website != blank %}"url":"{{ editor.institution4-website }}",{% endif %}
+              "name":"{{ editor.institution4 }}"
+            }{% endif %}
+          ],{% endif %}
+          "familyName": "{{ editor.last }}",
+          "givenName": "{{ editor.first }}",
+          {% if editor.middle != blank %}"additionalName":"{{ editor.middle }}",
+          "name":"{{ editor.first }} {{ editor.middle }} {{ editor.last }}"{% else %}"name":"{{ editor.first }} {{ editor.last }}"{% endif %}
+        }
+      {% endif %}{% endfor %}],
+      {% endif %}"author":[
+        {% assign authors = site.data.contributors | sort: "last" %}{% assign page_authors = page.authors %}{% assign author_count = 0 %}{% for author in authors %}{% assign author_id = author.author-id | ceil %}{% if page.chapter == blank %}{% if author.editor == "yes" %}{% assign author_count = author_count | plus: 1 %}{% if author_count > 1 %},{% endif %}{
+          "@type":"Person",
+          {% if author.email != blank %}"email":"{{ author.email }}",{% endif %}
+          {% if author.institution1 != blank or author.institution2 != blank or author.institution3 != blank or author.institution4 != blank %}"affiliation":[
+            {% if author.institution1 != blank %}{
+              "@type":"Organization",
+              {% if author.institution1-website != blank %}"url":"{{ author.institution1-website }}",{% endif %}
+              "name":"{{ author.institution1 }}"
+            }{% endif %}{% if author.institution2 != blank %},{
+              "@type":"Organization",
+              {% if author.institution2-website != blank %}"url":"{{ author.institution2-website }}",{% endif %}
+              "name":"{{ author.institution2 }}"
+            }{% endif %}{% if author.institution3 != blank %},{
+              "@type":"Organization",
+              {% if author.institution3-website != blank %}"url":"{{ author.institution3-website }}",{% endif %}
+              "name":"{{ author.institution3 }}"
+            }{% endif %}{% if author.institution4 != blank %},{
+              "@type":"Organization",
+              {% if author.institution4-website != blank %}"url":"{{ author.institution4-website }}",{% endif %}
+              "name":"{{ author.institution4 }}"
+            }{% endif %}
+          ],{% endif %}
+          "familyName": "{{ author.last }}",
+          "givenName": "{{ author.first }}",
+          {% if author.middle != blank %}"additionalName":"{{ author.middle }}",
+          "name":"{{ author.first }} {{ author.middle }} {{ author.last }}"{% else %}"name":"{{ author.first }} {{ author.last }}"{% endif %}
+        }
+        {% endif %}{% else %}{% for page_author in page_authors %}{% assign page_author_id = page_author.author-id | ceil %}{% if author_id == page_author_id %}{% assign author_count = author_count | plus: 1 %}{% if author_count > 1 %},{% endif %}{
+          "@type":"Person",
+          {% if author.email != blank %}"email":"{{ author.email }}",{% endif %}
+          {% if author.institution1 != blank or author.institution2 != blank or author.institution3 != blank or author.institution4 != blank %}"affiliation":[
+            {% if author.institution1 != blank %}{
+              "@type":"Organization",
+              {% if author.institution1-website != blank %}"url":"{{ author.institution1-website }}",{% endif %}
+              "name":"{{ author.institution1 }}"
+            }{% endif %}{% if author.institution2 != blank %},{
+              "@type":"Organization",
+              {% if author.institution2-website != blank %}"url":"{{ author.institution2-website }}",{% endif %}
+              "name":"{{ author.institution2 }}"
+            }{% endif %}{% if author.institution3 != blank %},{
+              "@type":"Organization",
+              {% if author.institution3-website != blank %}"url":"{{ author.institution3-website }}",{% endif %}
+              "name":"{{ author.institution3 }}"
+            }{% endif %}{% if author.institution4 != blank %},{
+              "@type":"Organization",
+              {% if author.institution4-website != blank %}"url":"{{ author.institution4-website }}",{% endif %}
+              "name":"{{ author.institution4 }}"
+            }{% endif %}
+          ],{% endif %}
+          "familyName": "{{ author.last }}",
+          "givenName": "{{ author.first }}",
+          {% if author.middle != blank %}"additionalName":"{{ author.middle }}",
+          "name":"{{ author.first }} {{ author.middle }} {{ author.last }}"{% else %}"name":"{{ author.first }} {{ author.last }}"{% endif %}
+        }
+      {% endif %}{% endfor %}{% endif %}{% endfor %}],
+      "datePublished":"2023-04-28",
+      "dateModified":"{% last_modified_at %F %}",
+      "description":"{{ page.description }}",
+      "image":"{{ site.url }}{{ site.baseurl }}/assets/thumbs/{{ page.thumbnail }}",
+      "headline":"{{ page.title }}",
+      "name":"{{ site.title }}",
+      "url":"{{ site.url }}{{ site.baseurl }}{{ page.url }}"
+    }
+  </script>
 
   <!-- I18n headers -->
   {% I18n_Headers %}

@@ -5,6 +5,15 @@ sort-key: 0
 title: Preface
 description: Welcome to version two of PediatricUrologyBook.com. We describe our vision and how this book came.
 thumbnail: 00-00_preface.png
+authors:
+  -
+    author-id: 61
+  -
+    author-id: 62
+  -
+    author-id: 11
+  -
+    author-id: 59
 layout: chapter
 lang: en
 breadcrumbs:
