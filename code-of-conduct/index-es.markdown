@@ -1,6 +1,8 @@
 ---
 layout: code-of-conduct
 title: Código de Conducta
+description: Código de conducta aceptado por todos los editores y colaboradores.
+thumbnail: codigo-de-conducta.png
 permalink: /code-of-conduct/
 lang: es
 breadcrumbs:

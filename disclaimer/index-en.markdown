@@ -1,6 +1,8 @@
 ---
 layout: disclaimer
 title: Disclaimer
+description: Disclaimer for use of Pediatric Urology Book.
+thumbnail: disclaimer.png
 permalink: /disclaimer/
 lang: en
 breadcrumbs:

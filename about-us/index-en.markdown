@@ -1,9 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: about-us
 title: About Us
+description: All about Pediatric Urology Book, its history, evolution, and ongoing mission.
+thumbnail: about-us.png
 permalink: /about-us/
 lang: en
 breadcrumbs:

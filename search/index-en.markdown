@@ -1,6 +1,8 @@
 ---
 layout: search
 title: Search
+description: Search functionality for Pediatric Urology Book.
+thumbnail: search.png
 permalink: /search/
 lang: en
 breadcrumbs:

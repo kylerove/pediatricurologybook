@@ -1,6 +1,8 @@
 ---
 layout: home
 title: Home
+description: Home page for PediatricUrology Book.com
+thumbnail: home.png
 permalink: /
 js: /assets/vendor/owl.carousel/owl.carousel.min.js
 lang: en

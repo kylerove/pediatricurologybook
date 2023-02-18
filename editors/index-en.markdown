@@ -1,6 +1,8 @@
 ---
 layout: editors
 title: Editors
+description: Editors, both current, liaison, and emeritus, for Pediatric Urology Book.
+thumbnail: editors.png
 permalink: /editors/
 lang: en
 breadcrumbs:

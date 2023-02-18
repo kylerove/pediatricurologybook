@@ -1,9 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: site-map
-Title: Site Map
+title: Site Map
+description: Site map listing for Pediatric Urology Book.
+thumbnail: site-map.png
 permalink: /site-map/
 lang: en
 breadcrumbs:

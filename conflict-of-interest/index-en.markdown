@@ -1,6 +1,8 @@
 ---
 layout: conflict-of-interest
 title: Conflict of Interest
+description: Conflict of interest disclosures by all editors and contributors.
+thumbnail: conflict-of-interest.png
 permalink: /conflict-of-interest/
 js: /assets/js/pages/conflict-of-interest.js
 lang: en
