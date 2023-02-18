@@ -7,7 +7,7 @@ permalink: /code-of-conduct/
 lang: es
 breadcrumbs:
   - 
-    title: Inicio
+    title: Página principal
     permalink: /
   - 
     title: Código de Conducta

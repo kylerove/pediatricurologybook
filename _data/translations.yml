@@ -222,14 +222,36 @@
   other-methods: Otros métodos para ponerse en contacto con los editores.
   address: Habla a
   email: Email
-  social-media: Redes sociales
+  social-media: Medios de comunicación social
   next-step: Próximo paso
+  unexpected-error: ERROR INESPERADO
+  unexpected-error-occurred: Ha ocurrido un error inesperado. Póngase en contacto con el administrador del sitio si esto persiste.
+  error-go-home: VOLVER A LA PÁGINA PRINCIPAL
+  page-not-found: Página no encontrada :(
+  requested-page-not-found: La página solicitada no pudo ser encontrada.
+  learn-more: Aprende más
+  learn-more-about-our-sponsors: Más información sobre nuestros patrocinadores
+  our: Nuestro
+  who: Quienes
+  we-are: somos
+  reasons: Razones
+  to-read: Para Leer
+  home-about-us-lead: Somos urólogos pediátricos practicantes, junto con espectaculares especialistas médicos y quirúrgicos que buscan mejorar aún más nuestro campo retribuyendo a la comunidad con este rico recurso educativo.
+  home-about-us-more: La última versión de este libro se basa en el valor y la visión de los editores anteriores.
+  history: Historia
+  history-head: Por el bien de la posteridad, ensamblado en pedazos, así es como llegó a ser todo.
+  sponsor: Patrocinador
+  forbidden: Prohibido
+  nice-try: ¡Buen intento! El servidor denegó el acceso a la página o al recurso al que intentabas acceder.
+  search: Buscar
+  disclaimer: Descargo de responsabilidad
+  section: Sección
   website: Sitio web
   link-to-doi: Enlace a DOI
   link-to-pubmed: Enlace a PubMed
-  chapter-will-take: Le tomará aproximadamente
-  time-to-read: minutos leer este capítulo.
-  last-modified: Última actualización
+  chapter-will-take: Este capítulo durará aproximadamente
+  time-to-read: minutos para leer.
+  last-updated: Última actualización
   link-to-external-site: Enlace a sitio web externo
 - 
   language: zh
@@ -329,10 +351,159 @@
   email: 电子邮件
   social-media: 社交媒体
   next-step: 下一步
+  unexpected-error: 意外的错误
+  unexpected-error-occurred: 发生意外的错误。 如果仍然存在，请联系网站管理员！
+  error-go-home: 返回主页
+  page-not-found: 找不到网页
+  requested-page-not-found: 所需的页面无法找到。
+  learn-more: 了解更多
+  learn-more-about-our-sponsors: 详细了解我们的赞助商
+  our: 我们的
+  who: 谁
+  we-are: 我们是
+  reasons: 原因
+  to-read: 读书
+  home-about-us-lead: 我们正在执业儿科泌尿科医师，与优秀的内科和外科专家一起寻求通过利用这一丰富的教育资源回馈社区来进一步加强我们的领域。
+  home-about-us-more: 本书的最新版本建立在前任编辑的勇气和远见之上。
+  history: 历史
+  history-head: 为了子孙后代，零零碎碎拼凑起来，才成了这一切。
+  sponsor: 赞助
+  forbidden: 禁止
+  nice-try: 不错的尝试！ 服务器拒绝访问您尝试访问的页面或资源。
+  search: 搜索
+  disclaimer: 免责声明
+  section: 部分
   website: 网站
   link-to-doi: 链接到 DOI
   link-to-pubmed: 链接到 PubMed
   chapter-will-take: 阅读本章大约需要
   time-to-read: 分钟。
-  last-modified: 最近更新时间
+  last-updated: 最近更新时间
   link-to-external-site: 链接到外部网站
+- 
+  language: pt
+  about-us: Sobre Nós
+  about: Sobre
+  us: Nós
+  contact-us: Contate-nos
+  chapter-contents: Conteúdo do capítulo
+  contact: Contato
+  contributor: Colaborador
+  contributors: Colaboradors
+  editor: Editor
+  editor-f: Editora
+  editors: Editores
+  emeritus-editor: Editor Emérito
+  home: Lar
+  read-the-book: Leia o livro
+  search: Procurar
+  sponsors: Patrocinadores
+  copyright: Direito autoral
+  by: por
+  period: .
+  all-rights-reserved: Todos os direitos reservados
+  site-map: Mapa do site
+  table-of-contents: Índice
+  last-updated: Ultima atualização
+  coi: Conflito de interesses
+  has-coi: tem conflito de interesse
+  coi-details: Detalhes do conflito de interesses
+  has-relevant-disclosures: Tem divulgações relevantes
+  no-disclosures: Sem divulgações
+  not-filed: Não arquivado
+  research: Pesquisar
+  research-placeholder: Por exemplo, estudo de pesquisa da Novartis
+  research-desc: Pesquisa realizada como investigador para entidades comerciais ou não comerciais, incluindo subsídios ou outros patrocínios dessas entidades.
+  investment: Investimento
+  investment-placeholder: Por exemplo, ações da Elsevier
+  investment-desc: Propriedade de ações pessoais ou familiares, dividendos ou receitas recebidas de interesses comerciais que fornecem cuidados de saúde ou serviços. (A propriedade passiva de ações por meio de fundos mútuos não precisa ser divulgada.)
+  employee: Funcionário
+  employee-placeholder: Por exemplo, salário do WebMD
+  employee-desc: Salários de qualquer entidade comercial, incluindo qualquer publicação, internet, comércio eletrônico ou outra empresa comercial que forneça produtos ou serviços de saúde
+  expert-witness: Perito
+  expert-witness-placeholder: Por exemplo, testemunha do réu em 2 litígios
+  expert-witness-desc: Testemunho médico especializado para julgamento, audiência, depoimento, declaração juramentada ou qualquer outro tipo de procedimento legal
+  speaker: Palestrante
+  speaker-placeholder: Por exemplo, palestrante da Abbvie, inspetor de laboratório de cadáveres da Ethicon
+  speaker-desc: Honorários ou reembolsos recebidos como membros do corpo docente, mesa de palestrantes, palestra patrocinada pela indústria, apresentadores, presidentes, fiscais ou consultores. As funções além do participante da reunião devem ser divulgadas.
+  consultant-advisor: Consultor/Assessor
+  consultant-advisor-placeholder: Por exemplo, membro do conselho consultivo científico da Allergan
+  consultant-advisor-desc: Atendimento em conselhos científicos
+  ownership-interest-patent-royalties: Participação de Propriedade/Patente/Royalties
+  ownership-interest-patent-royalties-placeholder: Por exemplo, patente no NewFangledCatheter®
+  ownership-interest-patent-royalties-desc: Propriedade em qualquer entidade comercial, incluindo publicação, patentes pendentes conhecidas, royalties, internet, comércio eletrônico, serviços auxiliares ou outra empresa comercial que forneça produtos de saúde
+  leadership: Liderança
+  leadership-placeholder: Por exemplo, membro do conselho SCS-AUA
+  leadership-desc: Conselho, diretor, curador, editor ou outra posição de liderança em sociedade ou organização comercial
+  health-publishing: Publicação de saúde
+  health-publishing-placeholder: Por exemplo, Editor Assistente do Journal of Pediatric Urology
+  health-publishing-desc: Conselhos editoriais e autores, incluindo qualquer publicação, arranjos de royalties
+  other: Outro
+  other-desc: Qualquer outra relação financeira ou de outra forma que possa influenciar ou influenciar o divulgador relacionado ao campo da saúde
+  conflict-of-interest: Conflito de interesses
+  conflicts-of-interest: Conflitos de interesse
+  disclosure: Divulgação
+  instructions: Instruções
+  coi-disclosure-p1: Revise a política de <a href="/conflict-of-interest/">Conflito de interesses</a> do Livro de Urologia Pediátrica antes de fazer qualquer divulgação. O não envio de uma divulgação completa ou precisa pode resultar na revogação do seu trabalho e na reatribuição do trabalho a outro autor.
+  coi-disclosure-p2: Os conflitos de interesse são derivados da existência de um relacionamento e não são necessariamente de natureza financeira.
+  success: Sucesso
+  disclosure-sent: Sua divulgação foi enviada aos editores.
+  error: Erro
+  disclosure-not-sent: Ocorreu um erro ao processar sua divulgação.
+  full-name: Nome completo
+  name-required: Por favor, insira seu nome.
+  email-address: Endereço de email
+  email-required: Por favor, indique o seu endereço de e-mail.
+  email-invalid: Por favor insira um endereço de e-mail válido.
+  email-too-short: Insira um endereço de e-mail mais longo.
+  do-you-have-disclosure: Você ou um membro da família tem alguma revelação relevante a fazer?
+  do-you-have-disclosure-required: Por favor selecione uma opção.
+  no-disclosure: Não, não tenho divulgações relevantes ou conflitos de interesse a declarar.
+  yes-disclosure: Sim, tenho divulgações relevantes ou conflitos de interesse a declarar.
+  personal: Pessoal
+  family: Família
+  how-to-fill-out-disclosure: Se não houver, deixe em branco. Se vários na mesma categoria, separe com vírgulas.
+  submit-disclosure: Enviar divulgação
+  message-sent: Sua mensagem foi enviada aos editores.
+  message-not-sent: Ocorreu um erro ao enviar sua mensagem aos editores.
+  subject: Assunto
+  subject-required: Por favor, introduza el asunto.
+  message: Mensagem
+  message-required: Por favor insira a sua mensagem.
+  submit: Enviar
+  get-in-touch: Entrar em contato
+  please-contact: Sinta-se à vontade para entrar em contato conosco com perguntas, dúvidas, correções ou comentários.
+  other-methods: Outros métodos para entrar em contato com os editores
+  address: Endereço
+  email: E-mail
+  social-media: Mídia social
+  next-step: Próxima Etapa
+  unexpected-error: ERRO INESPERADO
+  unexpected-error-occurred: Ocorreu um erro inesperado. Entre em contato com o administrador do site se isso persistir!
+  error-go-home: VOLTAR PARA A PÁGINA INICIAL
+  page-not-found: Página não encontrada :(
+  requested-page-not-found: A página solicitada não pôde ser encontrada.
+  learn-more: Saber mais
+  learn-more-about-our-sponsors: Saiba mais sobre nossos patrocinadores
+  our: Nosso
+  who: Quem
+  we-are: Nós Somos
+  reasons: Motivos
+  to-read: Para ler
+  home-about-us-lead: Somos urologistas pediátricos praticantes, acompanhados por espetaculares especialistas médicos e cirúrgicos que buscam aprimorar ainda mais nosso campo, retribuindo à comunidade com este rico recurso educacional.
+  home-about-us-more: A última iteração deste livro se apoia na garra e na visão dos editores anteriores.
+  history: História
+  history-head: Para o bem da posteridade, reunido em pedaços, foi assim que tudo aconteceu.
+  sponsor: Patrocinador
+  forbidden: Proibido
+  nice-try: Boa tentativa! O servidor negou acesso à página ou recurso que você estava tentando acessar.
+  search: Procurar
+  disclaimer: Isenção de responsabilidade
+  section: Seção
+  website: Local na rede Internet
+  link-to-doi: Link para DOI
+  link-to-pubmed: Link para o PubMed
+  chapter-will-take: Este capítulo levará aproximadamente
+  time-to-read: minutos para ler.
+  last-updated: Ultima atualização
+  link-to-external-site: Link para site externo

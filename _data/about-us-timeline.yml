@@ -6,11 +6,6 @@
   elements:
   -
     date: 2023
-    head: "Book translated in multiple languages"
-    body: "[Pediatric Urology Book](/) is successfully translated into Spanish, Portuguese, and Chinese."
-    side: "left"
-  -
-    date: 2022
     head: "Version 2.0 is published"
     body: "A new edition of [Pediatric Urology Book](/) is completed and published on the website complete with brand new design and new multimedia content."
     side: "right"
@@ -22,7 +17,7 @@
   -
     date: 2011
     head: "Version 1.0 is published"
-    body: "The first edition of [Pediatric Urology Book](/) is published online." 
+    body: "The first edition of [Pediatric Urology Book](https://v1.pediatricurologybook.com/) is published online." 
     side: "right"
   -
     date: 2009
@@ -34,11 +29,6 @@
   elements:
   -
     date: 2023
-    head: "Libro traducido a varios idiomas"
-    body: "[Libro de Urología Pediátrica](/) se traduce con éxito al español, portugués y chino."
-    side: "left"
-  -
-    date: 2022
     head: "Se publica la versión 2.0"
     body: "Una nueva edición del [Libro de Urología Pediátrica](/) se completa y se publica en el sitio web con un nuevo diseño y nuevo contenido multimedia."
     side: "right"
@@ -50,7 +40,7 @@
   -
     date: 2011
     head: "Se publica la versión 1.0"
-    body: "La primera edición del [Libro de Urología Pediátrica](/) se publica en línea." 
+    body: "La primera edición del [Libro de Urología Pediátrica](https://v1.pediatricurologybook.com/) se publica en línea." 
     side: "right"
   -
     date: 2009
@@ -62,11 +52,6 @@
   elements:
   -
     date: 2023
-    head: "翻译成多种语言的书"
-    body: "[小儿泌尿外科书籍](/) 成功翻译成西班牙文、葡萄牙文、中文。"
-    side: "left"
-  -
-    date: 2022
     head: "2.0版本发布"
     body: "新版的 [小儿泌尿外科书籍](/)已完成并在网站上发布，具有全新的设计和新的多媒体内容。"
     side: "right"
@@ -78,10 +63,33 @@
   -
     date: 2011
     head: "1.0版本发布"
-    body: "[小儿泌尿外科书籍](/)第一版在线出版。" 
+    body: "[小儿泌尿外科书籍](https://v1.pediatricurologybook.com/)第一版在线出版。" 
     side: "right"
   -
     date: 2009
     head: "一切开始的地方"
     body: "[Cooper](/editors/#cooper-christopher-s), [Godbole](/editors/#godbole-prasad-p), & [Wilcox](/editors/#wilcox-duncan-t) 他们萌生了[小儿尿泌泌外科书籍](/)的想法，目的是利用开放的网络免费提供小儿泌尿科内容。" 
+    side: "left"
+-
+  language: pt
+  elements:
+  -
+    date: 2023
+    head: "A versão 2.0 é publicada"
+    body: "Uma nova edição do [Livro de Urologia Pediátrica](/) é concluída e publicada no site com novo design e novo conteúdo multimídia."
+    side: "right"
+  -
+    date: 2020
+    head: "Novos editores selecionados"
+    body: "Os editores da edição original decidem que é hora de novas ideias e energia levarem o [Livro de Urologia Pediátrica](/) para o próximo nível. Eles passam a edição do livro para [Arlen](editors/#arlen-angela-m), [Gundeti](/editors/#gundeti-mohan-s), [López](/editors/#lopez-pedro-jose), e [Rove](/editors/#rove-kyle-o)."
+    side: "left"
+  -
+    date: 2011
+    head: "A versão 1.0 é publicada"
+    body: "A primeira edição do [Pediatric Urology Book] (https://v1.pediatricurologybook.com/) é publicada online." 
+    side: "right"
+  -
+    date: 2009
+    head: "Onde tudo começou"
+    body: "[Cooper](/editors/#cooper-christopher-s), [Godbole](/editors/#godbole-prasad-p) e [Wilcox](/editors/#wilcox-duncan-t) tiveram a ideia para [Livro de urologia pediátrica](/) com a ideia de usar a web aberta para oferecer conteúdo de urologia pediátrica gratuitamente." 
     side: "left"

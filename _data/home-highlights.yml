@@ -22,3 +22,66 @@
     icon: "fas fa-book"
     button: "Read the book"
     link: "/book/"
+-
+  language: es
+  entries:
+  -
+    banner: "v2.0"
+    head: "Sumérgete en el nuevo Libro de Urología Pediátrica"
+    subhead: "Todo el contenido nuevo y colaboradores"
+    img: "/assets/site-img/home/david-chalmers-chco.jpg"
+    bg-position: "30% 25%"
+    icon: "fas fa-book"
+    button: "Leer el libro"
+    link: "/book/"
+  -
+    banner: "v2.0"
+    head: "Consulta el nuevo Libro de Urología Pediátrica"
+    subhead: "Todo el contenido nuevo, figuras, videos y más."
+    img: "/assets/site-img/home/ipad-reading.jpg"
+    bg-position: "50% 10%"
+    icon: "fas fa-book"
+    button: "Leer el libro"
+    link: "/book/"
+-
+  language: zh
+  entries:
+  -
+    banner: "v2.0"
+    head: "深入研究新的小儿泌尿外科书籍"
+    subhead: "所有新内容和贡献者"
+    img: "/assets/site-img/home/david-chalmers-chco.jpg"
+    bg-position: "30% 25%"
+    icon: "fas fa-book"
+    button: "读了这本书"
+    link: "/book/"
+  -
+    banner: "v2.0"
+    head: "查看新的小儿泌尿外科书籍"
+    subhead: "所有新内容、数字、视频等"
+    img: "/assets/site-img/home/ipad-reading.jpg"
+    bg-position: "50% 10%"
+    icon: "fas fa-book"
+    button: "读了这本书"
+    link: "/book/"
+-
+  language: pt
+  entries:
+  -
+    banner: "v2.0"
+    head: "Mergulhe no novo livro de urologia pediátrica"
+    subhead: "Todos os novos conteúdos e colaboradores"
+    img: "/assets/site-img/home/david-chalmers-chco.jpg"
+    bg-position: "30% 25%"
+    icon: "fas fa-book"
+    button: "Leia o livro"
+    link: "/book/"
+  -
+    banner: "v2.0"
+    head: "Confira o novo livro de Urologia Pediátrica"
+    subhead: "Todos os novos conteúdos, figuras, vídeos e muito mais"
+    img: "/assets/site-img/home/ipad-reading.jpg"
+    bg-position: "50% 10%"
+    icon: "fas fa-book"
+    button: "Leia o livro"
+    link: "/book/"

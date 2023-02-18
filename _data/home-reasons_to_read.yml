@@ -39,4 +39,117 @@
     icon: "fas fa-sun"
     color: "text-secondary"
     body: "We require all [contributors](/contributors/) and [editors](/editors/) to report [conflicts of interest](/conflict-of-interest/) to preserve freedom from bias."
-
+-
+  language: es
+  entries:
+  -
+    head: "Autoría internacional"
+    icon: "fas fa-globe-africa"
+    color: "text-primary"
+    body: "Los [editores](/editors/) cultivan contenido de [colaboradores](/contributors/) con diversos antecedentes internacionales que brindan relevancia a una amplia audiencia."
+  -
+    head: "Acceso libre y gratuito"
+    icon: "fas fa-laptop"
+    color: "text-secondary"
+    body: "[Este libro](/book/) está libre de las limitaciones de los modelos de publicación tradicionales, lo que permite que cualquier persona pueda leer. No se requiere contraseña."
+  -
+    head: "Videos de Trámites Relevantes"
+    icon: "fas fa-video"
+    color: "text-tertiary"
+    body: "Vea videos cortos integrados de procedimientos operativos clave, demostrando principios clave y técnicas específicas."
+  -
+    head: "Actualizaciones periódicas"
+    icon: "fas fa-sync-alt"
+    color: "text-quaternary"
+    body: "El libro de texto tradicional está desactualizado en el momento de su publicación. Las actualizaciones periódicas lo mantendrán actualizado con los cambios en la práctica."
+  -
+    head: "Medios de comunicación social"
+    icon: "fas fa-people-arrows"
+    color: "text-dark"
+    body: "Mantente conectado. Los identificadores de redes sociales de [contribuyentes](/contributors/) están disponibles para que pueda hacerles sus preguntas."
+  -
+    head: "Código de conducta"
+    icon: "fas fa-handshake"
+    color: "text-primary"
+    body: "Nuestro objetivo es fomentar una atmósfera de inclusión y comprensión con un propósito. Consulte nuestro [código de conducta](/code-of-conduct/) aceptado por todos los [editores](/editors/) y [colaboradores](/contributors/) por igual."
+  -
+    head: "Claro"
+    icon: "fas fa-sun"
+    color: "text-secondary"
+    body: "Requerimos que todos los [colaboradores](/contributors/) y [editores](/editors/) informen [conflictos de intereses](/conflict-of-interest/) para preservar la libertad de parcialidad."
+-
+  language: zh
+  entries:
+  -
+    head: "国际著作权"
+    icon: "fas fa-globe-africa"
+    color: "text-primary"
+    body: "[编辑](/editors/) 从具有多元化国际背景的 [贡献者](/contributors/) 那里培养内容，为广大受众提供相关性。"
+  -
+    head: "免费、开放获取"
+    icon: "fas fa-laptop"
+    color: "text-secondary"
+    body: "[本书](/book/)不受传统出版模式的束缚，任何人都可以阅读。 无需密码。"
+  -
+    head: "相关程序视频"
+    icon: "fas fa-video"
+    color: "text-tertiary"
+    body: "查看关键操作程序的嵌入式短视频，演示关键原则和具体技术。"
+  -
+    head: "定期更新"
+    icon: "fas fa-sync-alt"
+    color: "text-quaternary"
+    body: "传统的教科书在出版时就已经过时了。 定期更新将使您及时了解实践中的变化。"
+  -
+    head: "社交媒体"
+    icon: "fas fa-people-arrows"
+    color: "text-dark"
+    body: "保持联系。 [贡献者](/contributors/) 社交媒体句柄随时可用，因此您可以向他们提问。"
+  -
+    head: "行为守则"
+    icon: "fas fa-handshake"
+    color: "text-primary"
+    body: "我们的目标是营造一种有目的的包容和理解的氛围。 请参阅我们的[行为准则](/code-of-conduct/)，所有[编辑](/editors/) 和[贡献者](/contributors/) 都一致同意。"
+  -
+    head: "透明"
+    icon: "fas fa-sun"
+    color: "text-secondary"
+    body: "我们要求所有 [贡献者](/contributors/) 和 [编辑](/editors/) 报告 [利益冲突](/conflict-of-interest/) 以防止偏见。"
+-
+  language: pt
+  entries:
+  -
+    head: "Autoria internacional"
+    icon: "fas fa-globe-africa"
+    color: "text-primary"
+    body: "Os [editores](/editors/) cultivam o conteúdo de [contribuidores](/contributors/) com diversas origens internacionais, fornecendo relevância para um público amplo."
+  -
+    head: "Livre, acesso aberto"
+    icon: "fas fa-laptop"
+    color: "text-secondary"
+    body: "[Este livro](/book/) está livre das restrições dos modelos editoriais tradicionais, permitindo que qualquer pessoa leia. Nenhuma senha necessária."
+  -
+    head: "Videos of Relevant Procedures"
+    icon: "fas fa-video"
+    color: "text-tertiary"
+    body: "View embedded short videos of key operative procedures, demonstrating key principles and specific techniques."
+  -
+    head: "Atualizações Regulares"
+    icon: "fas fa-sync-alt"
+    color: "text-quaternary"
+    body: "O livro didático tradicional está desatualizado no momento em que é publicado. Atualizações regulares irão mantê-lo atualizado com as mudanças na prática."
+  -
+    head: "Mídia social"
+    icon: "fas fa-people-arrows"
+    color: "text-dark"
+    body: "Permaneça conectado. Os identificadores de mídia social de [Contributors'](/contributors/) estão prontamente disponíveis para que você possa fazer suas perguntas."
+  -
+    head: "Código de Conduta"
+    icon: "fas fa-handshake"
+    color: "text-primary"
+    body: "Nosso objetivo é promover uma atmosfera de inclusão e compreensão propositais. Veja nosso [código de conduta](/code-of-conduct/) aceito por todos os [editores](/editors/) e [contribuidores](/contributors/)."
+  -
+    head: "Claro"
+    icon: "fas fa-sun"
+    color: "text-secondary"
+    body: "Exigimos que todos os [contribuidores](/contributors/) e [editores](/editors/) relatem [conflitos de interesse](/conflict-of-interest/) para preservar a isenção de preconceito."

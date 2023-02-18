@@ -13,8 +13,8 @@
     <hr class="solid my-3 appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900" style="animation-delay: 900ms;">
     {% if site.active_lang == "en" and sponsor.description-en != null %}
       {{ sponsor.description-en | markdownify }}
-    {% elsif site.active_lang == "sp" and sponsor.description-sp != null %}
-      {{ sponsor.description-sp | markdownify }}
+    {% elsif site.active_lang == "es" and sponsor.description-es != null %}
+      {{ sponsor.description-es | markdownify }}
     {% elsif site.active_lang == "zh" and sponsor.description-zh != null  %}
       {{ sponsor.description-zh | markdownify }}
     {% elsif site.active_lang == "pt" and sponsor.description-pt != null  %}
