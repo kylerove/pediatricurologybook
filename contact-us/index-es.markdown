@@ -8,7 +8,7 @@ js: /assets/js/pages/contact-us.js
 lang: es
 breadcrumbs:
   - 
-    title: Página principal
+    title: Inicio
     permalink: /
   - 
     title: Contacta con Nosotros

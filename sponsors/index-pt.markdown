@@ -7,7 +7,7 @@ permalink: /sponsors/
 lang: pt
 breadcrumbs:
   - 
-    title: Pagina inicial
+    title: Página Inicial
     permalink: /
   - 
     title: Patrocinadores

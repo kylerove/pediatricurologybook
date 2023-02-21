@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Pagina inicial
+title: Página Inicial
 description: Este livro on-line gratuito de Urologia Pediátrica, Edição 2.0, apresenta tópicos atualizados com frequência, como manejo de hidronefrose, técnicas de hipospádia, abordagens para infecção do trato urinário, informações sobre disfunção intestinal e da bexiga, bexiga neurogênica, oncologia urológica pediátrica e muito mais.
 thumbnail: home.png
 permalink: /
@@ -8,7 +8,7 @@ js: /assets/vendor/owl.carousel/owl.carousel.min.js
 lang: en
 breadcrumbs: 
   - 
-    title: Pagina inicial
+    title: Página Inicial
     permalink: /
 toc: false
 ---

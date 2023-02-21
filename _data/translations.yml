@@ -126,6 +126,8 @@
   time-to-read: minutes to read.
   last-updated: Last updated
   link-to-external-site: Link to external website
+  by-cap: "By "
+  comma: ","
 - 
   language: es
   about-us: Sobre Nosotros
@@ -226,7 +228,7 @@
   next-step: Próximo paso
   unexpected-error: ERROR INESPERADO
   unexpected-error-occurred: Ha ocurrido un error inesperado. Póngase en contacto con el administrador del sitio si esto persiste.
-  error-go-home: VOLVER A LA PÁGINA PRINCIPAL
+  error-go-home: VOLVER A LA Inicio
   page-not-found: Página no encontrada :(
   requested-page-not-found: La página solicitada no pudo ser encontrada.
   learn-more: Aprende más
@@ -253,6 +255,8 @@
   time-to-read: minutos para leer.
   last-updated: Última actualización
   link-to-external-site: Enlace a sitio web externo
+  by-cap: "Por "
+  comma: ","
 - 
   language: zh
   about-us: 关于我们
@@ -267,7 +271,7 @@
   editor-f: 编辑
   editors: 编者
   emeritus-editor: 荣誉编辑
-  home: 主页
+  home: 首页
   read-the-book: 读了这本书
   search: 搜索
   sponsors: 赞助商
@@ -353,7 +357,7 @@
   next-step: 下一步
   unexpected-error: 意外的错误
   unexpected-error-occurred: 发生意外的错误。 如果仍然存在，请联系网站管理员！
-  error-go-home: 返回主页
+  error-go-home: 返回首页
   page-not-found: 找不到网页
   requested-page-not-found: 所需的页面无法找到。
   learn-more: 了解更多
@@ -380,6 +384,8 @@
   time-to-read: 分钟。
   last-updated: 最近更新时间
   link-to-external-site: 链接到外部网站
+  by-cap: ""
+  comma: "，"
 - 
   language: pt
   about-us: Sobre Nós
@@ -507,3 +513,5 @@
   time-to-read: minutos para ler.
   last-updated: Ultima atualização
   link-to-external-site: Link para site externo
+  by-cap: "Por "
+  comma: ","

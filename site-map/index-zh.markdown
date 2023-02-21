@@ -7,7 +7,7 @@ permalink: /site-map/
 lang: zh
 breadcrumbs:
   -
-    title: 主页
+    title: 首页
     permalink: /
   -
     title: 网站地图
@@ -19,7 +19,7 @@ toc: false
 
 <div class="site-map" markdown="1">
   
-- [主页]（/）
+- [首页]（/）
 - [关于我们](/about-us/)
 - [书](/book/)
 - [行为准则](/code-of-conduct/)

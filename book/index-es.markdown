@@ -7,7 +7,7 @@ permalink: /book/
 lang: es
 breadcrumbs:
   - 
-    title: Página principal
+    title: Inicio
     permalink: /
   - 
     title: Libro

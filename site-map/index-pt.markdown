@@ -7,7 +7,7 @@ permalink: /site-map/
 lang: pt
 breadcrumbs:
   -
-    title: Pagina inicial
+    title: Página Inicial
     permalink: /
   -
     title: Mapa do Site
@@ -19,7 +19,7 @@ toc: false
 
 <div class="site-map" markdown="1">
   
-- [Pagina inicial](/)
+- [Página Inicial](/)
 - [Sobre nós](/about-us/)
 - [Livro](/book/)
 - [Código de Conduta](/code-of-conduct/)

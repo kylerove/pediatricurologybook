@@ -7,7 +7,7 @@ permalink: /disclaimer/
 lang: es
 breadcrumbs:
   - 
-    title: Página principal
+    title: Inicio
     permalink: /
   - 
     title: Descargo de responsabilidad

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Página principal
+title: Inicio
 description: Este libro gratuito en línea de Urología pediátrica, Edición 2.0, presenta temas que se actualizan con frecuencia, como el manejo de la hidronefrosis, técnicas de hipospadias, enfoques para la infección del tracto urinario, información sobre disfunción intestinal y vesical, vejiga neurogénica, oncología urológica pediátrica y mucho más.
 thumbnail: home.png
 permalink: /
@@ -8,7 +8,7 @@ js: /assets/vendor/owl.carousel/owl.carousel.min.js
 lang: en
 breadcrumbs: 
   - 
-    title: Página principal
+    title: Inicio
     permalink: /
 toc: false
 ---

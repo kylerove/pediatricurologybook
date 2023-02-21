@@ -7,7 +7,7 @@ permalink: /book/
 lang: zh
 breadcrumbs:
   - 
-    title: 主页
+    title: 首页
     permalink: /
   - 
     title: 书

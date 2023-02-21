@@ -27,7 +27,7 @@ We the [editors]({{ site.url }}{{ site.baseurl }}/editors/) recognize the need f
 
 We recognize that professionals—especially those involved in clinical care, leadership positions, policy-making, research, education, standard-setting, fundraising or outreach for a professional organization—are subject to COIs. Therefore, we consider it unwise to embrace a general policy which would prevent participation by individuals having relationships which may represent COIs. The existence of an actual or apparent COI does not imply fault or wrongdoing on the part of an individual.
 
-Our policy requires disclosure of financial or intellectual relationships which may be regarded as possibly influencing the work of [editors]({{ site.url }}{{ site.baseurl }}/editors/) or [contributors]({{ site.url }}{{ site.baseurl }}/contributors/). Relationships that may create a conflict of interest must be disclosed regardless of whether or not compensation was received. The potential for a conflict arises from the existence of the relationship not the monetary value. Relationships that may give rise to conflict of interest may be of a personal nature or through a familiy member. All relationships should be disclosed.
+Our policy requires disclosure of financial or intellectual relationships which may be regarded as possibly influencing the work of [editors]({{ site.url }}{{ site.baseurl }}/editors/) or [contributors]({{ site.url }}{{ site.baseurl }}/contributors/). Relationships that may create a conflict of interest must be disclosed regardless of whether or not compensation was received. The potential for a conflict arises from the existence of the relationship not the monetary value. Relationships that may give rise to conflict of interest may be of a personal nature or through a family member. All relationships should be disclosed.
 
 We require that all [editors]({{ site.url }}{{ site.baseurl }}/editors/) maintain annual updates to their COI disclosure using the appropriate [disclosure form]({{ site.url }}{{ site.baseurl }}/assets/disclosure_form.xlsx), and all [contributors]({{ site.url }}{{ site.baseurl }}/contributors/) must provide complete disclosure prior to publication or major revision (at discretion of the editors) of any content contribution to [Pediatric Urology Book]({{ site.url }}{{ site.baseurl }}). All conflicts of interest will be published and updated below along with date of last update.
 
@@ -61,7 +61,7 @@ Participation as an expert medical testimony for a trial, hearing, deposition, a
 
 ### {% icon fas fa-microphone-alt %}Speaker / Lecturer
 
-Honoraria or reimbursements received as faculty members, speakers' bureau, industry-sponspored lecture, presenters, chairs, proctors, or consultants must be listed. Roles beyond meeting attendee should also be disclosed.
+Honoraria or reimbursements received as faculty members, speakers' bureau, industry-sponsored lecture, presenters, chairs, proctors, or consultants must be listed. Roles beyond meeting attendee should also be disclosed.
 {: .coi-type}
 
 ### {% icon fas fa-ad %}Consultant / Advisor
@@ -110,7 +110,7 @@ Any other financial or relationship which might otherwise bias or influence the 
 
 ## Enforcement
 
-Alleged violations of the disclosure requirement and other provisions of this policy will be invetigated by the [editors]({{ site.url }}{{ site.baseurl }}/editors/). [Contributors]({{ site.url }}{{ site.baseurl }}/contributors/) will have an opportunity to respond in writing to the [editors]({{ site.url }}{{ site.baseurl }}/editors/), who will recommend and/or enact penalties as appropriate to the violation.
+Alleged violations of the disclosure requirement and other provisions of this policy will be investigated by the [editors]({{ site.url }}{{ site.baseurl }}/editors/). [Contributors]({{ site.url }}{{ site.baseurl }}/contributors/) will have an opportunity to respond in writing to the [editors]({{ site.url }}{{ site.baseurl }}/editors/), who will recommend and/or enact penalties as appropriate to the violation.
 
 Penalties may include:
 

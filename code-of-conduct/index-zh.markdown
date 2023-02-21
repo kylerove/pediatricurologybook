@@ -7,7 +7,7 @@ permalink: /code-of-conduct/
 lang: zh
 breadcrumbs:
   - 
-    title: 主页
+    title: 首页
     permalink: /
   - 
     title: 行为守则

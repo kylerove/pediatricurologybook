@@ -8,7 +8,7 @@ js: /assets/js/pages/contact-us.js
 lang: zh
 breadcrumbs:
   - 
-    title: 主页
+    title: 首页
     permalink: /
   - 
     title: 联系我们

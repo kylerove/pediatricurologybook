@@ -7,7 +7,7 @@ permalink: /search/
 lang: pt
 breadcrumbs:
   - 
-    title: Pagina inicial
+    title: Página Inicial
     permalink: /
   - 
     title: Procurar
