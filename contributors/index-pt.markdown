@@ -1,36 +1,36 @@
 ---
 layout: contributors
-title: Contributors
-description: List of all worldwide contributors to Pediatric Urology Book.
+title: Contribuidores
+description: Lista de todos os colaboradores mundiais do Pediatric Urology Book.
 thumbnail: contributors.png
 permalink: /contributors/
-lang: en
+lang: pt
 breadcrumbs:
   - 
-    title: Home
+    title: Página Inicial
     permalink: /
   - 
-    title: Contributors
+    title: Contribuidores
     permalink: /contributors/
 toc: true
 ---
 
-# Contributors
+# Contribuidores
 
 ## Geographic Representation
 
-<img src="/assets/site-img/contributor-map.svg" class="img-fluid" style="width:100%" alt="Geographic representation of Pediatric Urology Book contributors">
+<img src="/assets/site-img/contributor-map.svg" class="img-fluid" style="width:100%" alt="Representação geográfica dos colaboradores do Livro de Urologia Pediátrica">
 
-We feel incredibly lucky to have worked with over 130 contributors from around the world, sharing their expertise through their contributions to the book. Some numbers to share with our readers:
+Sentimo-nos incrivelmente sortudos por ter trabalhado com mais de 130 colaboradores de todo o mundo, compartilhando seus conhecimentos por meio de suas contribuições para o livro. Alguns números para compartilhar com nossos leitores:
 
-- {{ site.data.contributors.size }} contributors
-- Authors are from 23 different countries, spanning 6 continents
-- 59 chapters _(9 coming soon)_
-- 361 figures
-- 78 tables
-- 2,699 references (!)
+- {{ site.data.contributors.size }} contribuidores
+- Os autores são de 23 países diferentes, abrangendo 6 continentes
+- 59 capítulos _(9 em breve)_
+- 361 figuras
+- 78 tabelas
+- 2,699 referências (!)
 
-## Contributors By Section
+## Colaboradores por Seção
 
 {% assign the_translation = site.data.translations | where: "language",site.active_lang | first %}
 {% assign the_sections = site.data.sections | sort: "number" %}

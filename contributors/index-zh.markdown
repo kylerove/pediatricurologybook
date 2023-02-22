@@ -1,7 +1,7 @@
 ---
 layout: contributors
-title: Contributors
-description: List of all worldwide contributors to Pediatric Urology Book.
+title: 贡献者
+description: 儿科泌尿外科书籍的所有全球贡献者名单。
 thumbnail: contributors.png
 permalink: /contributors/
 lang: en
@@ -10,27 +10,27 @@ breadcrumbs:
     title: Home
     permalink: /
   - 
-    title: Contributors
+    title: 贡献者
     permalink: /contributors/
 toc: true
 ---
 
-# Contributors
+# 贡献者
 
-## Geographic Representation
+## 地理代表
 
-<img src="/assets/site-img/contributor-map.svg" class="img-fluid" style="width:100%" alt="Geographic representation of Pediatric Urology Book contributors">
+<img src="/assets/site-img/contributor-map.svg" class="img-fluid" style="width:100%" alt="小儿泌尿外科书籍贡献者的地理代表性">
 
-We feel incredibly lucky to have worked with over 130 contributors from around the world, sharing their expertise through their contributions to the book. Some numbers to share with our readers:
+我们非常幸运能够与来自世界各地的 130 多位贡献者合作，通过他们对本书的贡献分享他们的专业知识。 一些数字与我们的读者分享：
 
-- {{ site.data.contributors.size }} contributors
-- Authors are from 23 different countries, spanning 6 continents
-- 59 chapters _(9 coming soon)_
-- 361 figures
-- 78 tables
-- 2,699 references (!)
+- {{ site.data.contributors.size }} 贡献者
+- 作者来自 6 大洲的 23 个不同国家
+- 59章 _（即将推出9章）_
+- 361 数字
+- 78桌
+- 2,699 条参考文献 (!)
 
-## Contributors By Section
+## 贡献者按部分
 
 {% assign the_translation = site.data.translations | where: "language",site.active_lang | first %}
 {% assign the_sections = site.data.sections | sort: "number" %}
