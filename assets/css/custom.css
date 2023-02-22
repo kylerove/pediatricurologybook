@@ -384,6 +384,17 @@ aside ul.nav-list li:last-child a {
   border-radius: 6px;
   }
 
+ul.contributors > li {
+    border: 1px solid transparent;
+    border-radius: 7px;
+    padding: 10px;
+  }
+
+ul.contributors > li:hover {
+  background-color: #f6f6f6;
+  border: 1px solid #e1e1e1;
+}
+
 div.editors ul.thumb-info-social-icons li, div.contributors ul.thumb-info-social-icons li {
   display: inline-block;
   margin: -1px 1px 0 0;
@@ -863,6 +874,12 @@ p.p-video-number {
   font-size: 1.5em;
   font-weight: bold;
 }
+
+@media (max-width: 575.98px) { 
+  .author-name a {
+    font-size: 1.25em;
+  }
+ }
 
 div.attribution ul.thumb-info-social-icons {
   margin: 0;
