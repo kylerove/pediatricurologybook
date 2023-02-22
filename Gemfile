@@ -38,3 +38,6 @@ gem "webrick", "~> 1.7"
 # liquid filters
 gem "liquid_reading_time", "~> 1.1.3"
 gem "liquid_pluralize","~> 1.0.3"
+
+# html proofer
+gem 'html-proofer'
