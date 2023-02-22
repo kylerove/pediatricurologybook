@@ -17,7 +17,7 @@ toc: false
 
 # Patrocinadores
 
-Este trabajo está patrocinado por subvenciones educativas sin restricciones de [Escuela de Medicina de la Universidad de Yale](https://medicine.yale.edu), [Children's Hospital Colorado](https://www.childrencolorado.org) y [The University of Medicina de Chicago](https://www.uchicagomedicine.org). [Editores](/editors/) y [colaboradores](/contributors/) tienen autoridad exclusiva sobre el contenido y las decisiones editoriales. Revise la declaración de [conflicto de intereses](/conflict-of-interest/) para obtener más detalles.
+Este trabajo está patrocinado por subvenciones educativas sin restricciones de [Escuela de Medicina de la Universidad de Yale](https://medicine.yale.edu), [Children's Hospital Colorado](https://www.childrenscolorado.org) y [The University of Medicina de Chicago](https://www.uchicagomedicine.org). [Editores](/editors/) y [colaboradores](/contributors/) tienen autoridad exclusiva sobre el contenido y las decisiones editoriales. Revise la declaración de [conflicto de intereses](/conflict-of-interest/) para obtener más detalles.
 
 # Sobre los Patrocinadores
 
