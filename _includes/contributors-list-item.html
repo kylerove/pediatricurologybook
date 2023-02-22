@@ -1,4 +1,5 @@
 {% assign contributor = include.contributor %}
+{% assign this_translation = include.this_translation %}
 <li id="{{ contributor.last | append: "-" | append: contributor.first | append: "-" | append: contributor.middle | slugify: "latin" }}" class="break-avoid">
     <div class="post-info">
         <h4 class="mb-0 no_toc">{{ contributor.first }} {{ contributor.middle }} {{ contributor.last }}{% if contributor.deg1 != null %}, {{ contributor.deg1 }}{% endif %}{% if contributor.deg2 != null %}, {{ contributor.deg2 }}{% endif %}{% if contributor.deg3 != null %}, {{ contributor.deg3 }}{% endif %}{% if contributor.deg4 != null %}, {{ contributor.deg4 }}{% endif %}{% if contributor.deg5 != null %}, {{ contributor.deg5 }}{% endif %}{% if contributor.deg6 != null %}, {{ contributor.deg6 }}{% endif %}{% if contributor.deg7 != null %}, {{ contributor.deg7 }}{% endif %}</h4>
@@ -22,8 +23,8 @@
                 {% if contributor.city-state-country != null %}<br>{{ contributor.city-state-country }}{% endif %}
             </address>
             <ul class="thumb-info-social-icons mt-1 mb-4">
-                  {% if contributor.website != null %}<li class="social-icons-website"><a href="{{ contributor.website }}" target="_blank" title="{{ translation.website }}"><i class="fas fa-link"></i></a></li>{% endif %}
-                  {% if contributor.email != null %}<li class="social-icons-email"><a href="mailto:{{ contributor.email }}" target="_blank" title="{{ translation.email }}"><i class="fas fa-envelope"></i></a></li>{% endif %}
+                  {% if contributor.website != null %}<li class="social-icons-website"><a href="{{ contributor.website }}" target="_blank" title="{{ this_translation.website }}"><i class="fas fa-link"></i></a></li>{% endif %}
+                  {% if contributor.email != null %}<li class="social-icons-email"><a href="mailto:{{ contributor.email }}" target="_blank" title="{{ this_translation.email }}"><i class="fas fa-envelope"></i></a></li>{% endif %}
                   {% if contributor.linkedin != null %}<li class="social-icons-linkedin"><a href="{{ contributor.linkedin }}" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a></li>{% endif %}
                   {% if contributor.twitter != null %}<li class="social-icons-twitter"><a href="{{ contributor.twitter }}" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a></li>{% endif %}
                   {% if contributor.mastodon != null %}<li class="social-icons-mastodon"><a href="{{ contributor.mastodon }}" target="_blank" title="Mastodon"><i class="fab fa-mastodon"></i></a></li>{% endif %}
@@ -35,7 +36,7 @@
                   {% if contributor.instagram != null %}<li class="social-icons-instagram"><a href="{{ contributor.instagram }}" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a></li>{% endif %}
                   {% if contributor.doximity != null %}<li class="social-icons-doximity"><a href="{{ contributor.doximity }}" target="_blank" title="Doximity"><i class="ai2 ai-doximity"></i></a></li>{% endif %}
                   {% if contributor.researchgate != null %}<li class="social-icons-researchgate"><a href="{{ contributor.researchgate }}" target="_blank" title="ResearchGate"><i class="ai2 ai-researchgate"></i></a></li>{% endif %}
-                  {% if contributor.orcid != null %}<li class="social-icons-orcid"><a href="{{ contributor.orcid }}" target="_blank" title="ResearchGate"><i class="ai2 ai-orcid"></i></a></li>{% endif %}
+                  {% if contributor.orcid != null %}<li class="social-icons-orcid"><a href="{{ contributor.orcid }}" target="_blank" title="ORCiD"><i class="ai2 ai-orcid"></i></a></li>{% endif %}
                   {% if contributor.pubmed != null %}<li class="social-icons-pubmed"><a href="{{ contributor.pubmed }}" target="_blank" title="PubMed"><i class="ai2 ai-pubmed"></i></a></li>{% endif %}
             </ul>
         </div>

@@ -1,6 +1,14 @@
-{% assign contributors = include.contributors %}
+{% assign translation = include.translation %}
+{% assign chapters = include.chapters %}
 <ul class="simple-post-list m-0 no_toc_section contributors">
-    {% for the_contributor in contributors %}
-        {% include contributors-list-item.html contributor=the_contributor %}
-    {% endfor %}
+
+{% for chapter in chapters %}
+    {% if chapter.chapter != 0 %}
+        {% for author in chapter.authors %}
+            {% assign the_contributor = site.data.contributors | where: "author-id",author.author-id | first %}
+            {% include contributors-list-item.html contributor=the_contributor this_translation=translation %}
+        {% endfor %}
+    {% endif %}
+{% endfor %}
+
 </ul>
