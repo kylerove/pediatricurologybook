@@ -52,9 +52,9 @@ Outras ferramentas usadas na criação deste livro:
 
 ## Quem **Somos**
 
-Nós, os [editores](/editors/), somos todos urologistas pediátricos experientes com uma série de publicações revisadas por pares, capítulos em livros didáticos e responsabilidade editorial por livros didáticos e periódicos a nosso crédito. A crença de que “O conhecimento deve ser livre” é comum a todos e, com isso em mente, nós, juntamente com nossos colaboradores, pretendemos espalhar esse conhecimento em urologia pediátrica em um formato on-line aberto que é emocionante e (ainda) revolucionário desde que a versão 1 foi lançada em 2010. É claro que a melhoria contínua é a chave para o sucesso contínuo e, portanto, ficaríamos em dívida pelo seu feedback. Certamente não poderíamos ter feito isso sem o apoio e o conselho de nossas famílias.
+Nós, os [editores]({{ site.url }}{{ site.baseurl }}/editors/), somos todos urologistas pediátricos experientes com uma série de publicações revisadas por pares, capítulos em livros didáticos e responsabilidade editorial por livros didáticos e periódicos a nosso crédito. A crença de que “O conhecimento deve ser livre” é comum a todos e, com isso em mente, nós, juntamente com nossos colaboradores, pretendemos espalhar esse conhecimento em urologia pediátrica em um formato on-line aberto que é emocionante e (ainda) revolucionário desde que a versão 1 foi lançada em 2010. É claro que a melhoria contínua é a chave para o sucesso contínuo e, portanto, ficaríamos em dívida pelo seu feedback. Certamente não poderíamos ter feito isso sem o apoio e o conselho de nossas famílias.
 
-Embora todas as informações neste site estejam disponíveis gratuitamente e de acesso aberto, os [editores](/editors/) solicitariam que os indivíduos exercessem cortesia com os [colaboradores](/contributors/) na obtenção das permissões necessárias para usar quaisquer imagens ou material digital deste trabalho.
+Embora todas as informações neste site estejam disponíveis gratuitamente e de acesso aberto, os [editores]({{ site.url }}{{ site.baseurl }}/editors/) solicitariam que os indivíduos exercessem cortesia com os [colaboradores]({{ site.url }}{{ site.baseurl }}/contributors/) na obtenção das permissões necessárias para usar quaisquer imagens ou material digital deste trabalho.
 
 Tudo de bom,
 Angela Arlen, PJ López, Mohan Gundeti e Kyle Rove

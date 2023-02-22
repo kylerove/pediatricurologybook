@@ -52,9 +52,9 @@ Other tools used in the making of this book:
 
 ## Who **We Are**
 
-We the [editors](/editors/) are all experienced pediatric urologists with a number of peer reviewed publications, chapters in textbooks and editorial responsibility for textbooks and journals to our credit. The belief that “Knowledge should be free” is common to all and with this in mind, we along with our contributors aim to spread this knowledge in pediatric urology in an open online format that is exciting and (still) revolutionary since version 1 came out in 2010. Of course continual improvement is the key to continued success and we would therefore be indebted for your feedback. We certainly could not have done this without the support and advice from our families.
+We the [editors]({{ site.url }}{{ site.baseurl }}/editors/) are all experienced pediatric urologists with a number of peer reviewed publications, chapters in textbooks and editorial responsibility for textbooks and journals to our credit. The belief that “Knowledge should be free” is common to all and with this in mind, we along with our contributors aim to spread this knowledge in pediatric urology in an open online format that is exciting and (still) revolutionary since version 1 came out in 2010. Of course continual improvement is the key to continued success and we would therefore be indebted for your feedback. We certainly could not have done this without the support and advice from our families.
 
-While all information on this website is freely available and open access, the [editors](/editors/) would request that individuals exercise courtesy to the [contributors](/contributors/) in obtaining the necessary permissions to use any images or digital material from this work.
+While all information on this website is freely available and open access, the [editors]({{ site.url }}{{ site.baseurl }}/editors/) would request that individuals exercise courtesy to the [contributors]({{ site.url }}{{ site.baseurl }}/contributors/) in obtaining the necessary permissions to use any images or digital material from this work.
 
 All the best,  
 Angela Arlen, PJ López, Mohan Gundeti, & Kyle Rove
