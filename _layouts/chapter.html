@@ -35,6 +35,10 @@ layout: default
           </div>
           <div class="col-lg-9 order-1 order-lg-2 chapter-body">
             <p class="time-to-read"><i class="fas fa-circle-info pr-2"></i><em>{{ translation.chapter-will-take }} {{ time }} {{ translation.time-to-read }}</em></p>
+            
+            {%- if page.sort-key != 0 -%}
+                {%- include authors-list.html contributors=site.data.contributors the_translation=translation authors=page.authors -%}
+            {%- endif %}
                 
             {{ content | inject_anchors }}
             

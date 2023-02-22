@@ -1,0 +1,63 @@
+{%- assign contributors = include.contributors -%}
+{%- assign the_translation = include.the_translation -%}
+{%- assign authors = include.authors -%}
+<div class="attribution">
+    <div class="authors">
+        {% assign author_count = authors.size -%}
+        {%- assign affiliation_count = 0 -%}
+        {%- for author in authors -%}
+            {%- assign affiliation_string_full = "" -%}
+            {%- assign author_id = author.author-id | ceil -%}
+            {%- assign the_author = contributors | where: "author-id", author_id | first -%}
+            {%- for i in (1..4) -%}
+                {%- if i == 1 and the_author.institution1 != nil -%}
+                    {%- assign affiliation_count = affiliation_count | plus: 1 -%}
+                    {%- assign affiliation_string_full = affiliation_count -%}
+                {%- endif -%}
+                {%- if i == 2 and the_author.institution2 != nil -%}
+                    {% assign affiliation_count = affiliation_count | plus: 1 -%}
+                    {% assign affiliation_string_full = affiliation_string_full | append: ", " | append: affiliation_count -%}
+                {%- endif -%}
+                {%- if i == 3 and the_author.institution3 != nil -%}
+                    {% assign affiliation_count = affiliation_count | plus: 1 -%}
+                    {% assign affiliation_string_full = affiliation_string_full | append: ", " | append: affiliation_count -%}
+                {%- endif -%}
+                {%- if i == 4 and the_author.institution4 != nil -%}
+                    {%- assign affiliation_count = affiliation_count | plus: 1 -%}
+                    {%- assign affiliation_string_full = affiliation_string_full | append: ", " | append: affiliation_count -%}
+                {%- endif -%}
+            {%- endfor -%}
+            {%- if forloop.index0 == 0 %}{{ the_translation.by-cap }}{% endif %}{% if forloop.index == author_count and author_count != 1 %} &amp; {% endif %}{% include authors-list-item.html this_author=the_author %}{% if forloop.index < author_count and author_count > 2 %}{{ the_translation.comma }}{% endif %} <a id="social-drop-{{ author_id }}" class="social-drop-down" aria-haspopup="true" aria-expanded="false"><i class="fa-regular fa-signal-stream"></i></a> <sup>{{ affiliation_string_full }}</sup>
+        {%- endfor -%}
+    </div>
+    {%- for author in authors -%}
+        {%- assign author_id = author.author-id | ceil -%}
+        {%- assign the_author = contributors | where: "author-id", author_id | first -%}
+        {% include authors-list-social-item.html this_author=the_author -%}
+    {%- endfor -%}
+    <ol class="author-affiliation-list">
+    {%- assign affiliation_count = 0 -%}
+    {%- for author in authors -%}
+        {%- assign author_id = author.author-id | ceil -%}
+        {%- assign the_author = contributors | where: "author-id", author_id | first -%}
+        {%- for i in (1..4) -%}
+            {%- if i == 1 and the_author.institution1 != null -%}
+                {%- assign affiliation_count = affiliation_count | plus: 1 -%}
+        <li class="author-affiliation" value="{{ affiliation_count }}">{% include authors-list-affiliation-item.html this_author=the_author index=i %}</li>
+            {%- endif -%}
+            {%- if i == 2 and the_author.institution2 != null %}
+                {% assign affiliation_count = affiliation_count | plus: 1 -%}
+        <li class="author-affiliation" value="{{ affiliation_count }}">{% include authors-list-affiliation-item.html this_author=the_author index=i %}</li>
+            {%- endif -%}
+            {%- if i == 3 and the_author.institution3 != null %}
+                {% assign affiliation_count = affiliation_count | plus: 1 -%}
+        <li class="author-affiliation" value="{{ affiliation_count }}">{% include authors-list-affiliation-item.html this_author=the_author index=i %}</li>
+            {%- endif -%}
+            {%- if i == 4 and the_author.institution4 != null %}
+                {% assign affiliation_count = affiliation_count | plus: 1 -%}
+        <li class="author-affiliation" value="{{ affiliation_count }}">{% include authors-list-affiliation-item.html this_author=the_author index=i %}</li>
+            {%- endif -%}
+        {%- endfor -%}
+    {%- endfor -%}
+    </ol>
+</div>

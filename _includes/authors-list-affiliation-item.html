@@ -1,0 +1,27 @@
+{%- assign contributor = include.this_author -%}
+{%- assign index = include.index -%}
+<span>
+    <address>
+        {%- if index == 1 and contributor.institution1 != null -%}
+            {%- if contributor.department1 != null %}{{ contributor.department1 }}, {% endif -%}
+            {%- if contributor.division1 != null %}{{ contributor.division1 }}, {% endif -%}
+            {%- if contributor.institution1-website != null -%}<a href="{{ contributor.institution1-website }}">{{ contributor.institution1 }}</a>{% elsif contributor.institution1-website == null %}{{ contributor.institution1 }}{% endif -%}
+        {%- endif -%}
+        {%- if index == 2 and contributor.institution2 != null -%}
+            {%- if contributor.department2 != null %}{{ contributor.department2 }}, {% endif -%}
+            {%- if contributor.division2 != null %}{{ contributor.division2 }}, {% endif -%}
+            {%- if contributor.institution2-website != null -%}<a href="{{ contributor.institution2-website }}">{{ contributor.institution2 }}</a>{%- elsif contributor.institution2-website == null -%}{{ contributor.institution2 }}{% endif -%}
+        {%- endif -%}
+        {%- if index == 3 and contributor.institution3 != null -%}
+            {%- if contributor.department3 != null -%}{{ contributor.department3 }}, {% endif -%}
+            {%- if contributor.division3 != null -%}{{ contributor.division3 }}, {% endif -%}
+            {%- if contributor.institution3-website != null -%}<a href="{{ contributor.institution3-website }}">{{ contributor.institution3 }}</a>{%- elsif contributor.institution3-website == null -%}{{ contributor.institution3 }}{% endif -%}
+        {%- endif -%}
+        {%- if index == 4 and contributor.institution4 != null -%}
+            {%- if contributor.department4 != null -%}{{ contributor.department4 }}, {% endif -%}
+            {%- if contributor.division4 != null -%}{{ contributor.division4 }}, {% endif -%}
+            {%- if contributor.institution4-website != null -%}<a href="{{ contributor.institution4-website }}">{{ contributor.institution4 }}</a>{%- elsif contributor.institution4-website == null -%}{{ contributor.institution4 }}{% endif -%}
+        {%- endif -%}
+        {% if contributor.city-state-country != null %}, {{ contributor.city-state-country }}{% endif %}
+    </address>
+</span>
