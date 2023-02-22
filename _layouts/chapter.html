@@ -2,8 +2,12 @@
 layout: default
 ---
 
-    {% assign translation = site.data.translations | where: "language",site.active_lang | first %}
+    {% assign translation = site.data.translations | where: "language", site.active_lang | first %}
     {% assign time = content | reading_time %}
+    {% assign page_section = page.section | floor %}
+    {% assign section = site.data.sections | where: "number", page_section | first %}
+    {% assign section_title = section.titles | where: "language", site.active_lang | first %}
+    {% assign section_title_slug = section_title.title | slugify %}
     <div role="main" class="main">
       <section class="page-header page-header-modern bg-color-primary page-header-md">
         <div class="container">
@@ -17,7 +21,7 @@ layout: default
               {% for breadcrumb in page.breadcrumbs %}
                 <li><a href="{{ site.url }}{{ site.baseurl }}{{ breadcrumb.permalink }}">{{ breadcrumb.title }}</a></li>
               {% endfor %}
-                <li class="active"><a href="{{ site.url }}{{ site.baseurl }}/book/#section-{{ page.section }}">{{ translation.section }} {{ page.section }}</a></li>
+                <li class="active"><a href="{{ site.url }}{{ site.baseurl }}/book/#{{ section_title_slug }}">{{ translation.section }} {{ page.section }}: {{ section_title.title }}</a></li>
               </ul>
             </div>
           </div>
