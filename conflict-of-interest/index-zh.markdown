@@ -127,6 +127,10 @@ COI可以分为不同的类别。有时，特定关系或披露可能属于多�
 {% assign this_translation = site.data.translations | where: "language",site.active_lang | first %}
 {% include editors-coi.html contributors=site.data.contributors translation=this_translation %}
 
+### 联络编辑
+
+{% include liaison-editors-coi.html contributors=site.data.contributors translation=this_translation %}
+
 ### 投稿
 
 {% include contributors-coi.html contributors=site.data.contributors translation=this_translation %}

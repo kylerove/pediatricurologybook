@@ -127,6 +127,10 @@ Pase el cursor sobre los iconos para obtener detalles del COI revelado.
 {% assign this_translation = site.data.translations | where: "language",site.active_lang | first %}
 {% include editors-coi.html contributors=site.data.contributors translation=this_translation %}
 
+### Editores de Enlace
+
+{% include liaison-editors-coi.html contributors=site.data.contributors translation=this_translation %}
+
 ### Colaboradores
 
 {% include contributors-coi.html contributors=site.data.contributors translation=this_translation %}

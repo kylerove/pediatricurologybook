@@ -127,6 +127,10 @@ Hover over the icons for details of disclosed COI.
 {% assign this_translation = site.data.translations | where: "language",site.active_lang | first %}
 {% include editors-coi.html contributors=site.data.contributors translation=this_translation %}
 
+### Liaison Editors
+
+{% include liaison-editors-coi.html contributors=site.data.contributors translation=this_translation %}
+
 ### Contributors
 
 {% include contributors-coi.html contributors=site.data.contributors translation=this_translation %}
