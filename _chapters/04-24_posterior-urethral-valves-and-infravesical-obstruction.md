@@ -5,6 +5,15 @@ sort-key: 04-24
 title: Posterior Urethral Valves and Infravesical Obstruction
 description: Chapter 24 delves into posterior urethral valves and other infravesical causes of obstruction.
 thumbnail: 04-24_posterior-urethral-valves-and-infravesical-obstruction.png
+authors:
+  -
+    author-id: 49
+  -
+    author-id: 50
+  -
+    author-id: 47
+  -
+    author-id: 48
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,10 +27,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-14 KR
 ---
-
-By **Ketaki Gharpure**{:.author-names}, **Nav Johal**{:.author-names}, **Lisa Steven**{:.author-names}, & **Divyesh Desai**{:.author-names}  
-_Great Ormond Street Hospital, London, UK_{:.author-title}
-{:.attribution}
 
 ## Introduction
 

@@ -5,6 +5,17 @@ sort-key: 07-41
 title: Social and Medicolegal Issues with DSD
 description: Chapter 41 discusses worldwide views on the social and medicolegal concerns that shape our understanding of disorders or differences of sexual development.
 thumbnail: 07-41_social-and-medicolegal-issues-with-dsd.png
+authors:
+  -
+    author-id: 83
+  -
+    author-id: 85
+  -
+    author-id: 84
+  -
+    author-id: 86
+  -
+    author-id: 125
 layout: chapter
 lang: en
 breadcrumbs:
@@ -21,13 +32,7 @@ review-formatting-complete: 2023-01-14 KR
 
 ## Australasian Perspective
 
-By **Kiarash Taghavi**{:.author-names}<sup>a,b</sup>, **Nathalie Webb**{:.author-names}<sup>a</sup>, **Chloe A. Hanna**{:.author-names}<sup>c,d,e</sup>, & **Jacqueline K. Hewitt**{:.author-names}<sup>b,f</sup>  
-<sup>a</sup> _Department of Paediatric Urology, Monash Children\'s Hospital, Monash Health, Melbourne, Victoria, Australia_{:.author-title}  
-<sup>b</sup> _Department of Paediatrics, Monash University, Melbourne, Victoria, Australia_{:.author-title}  
-<sup>c</sup> _Murdoch Children's Research Institute, Melbourne, Victoria, Australia_{:.author-title}  
-<sup>d</sup> _Department of Gynaecology, The Royal Children's Hospital, Melbourne, Victoria, Australia_{:.author-title}  
-<sup>e</sup> _Department of Paediatrics, University of Melbourne, Melbourne, Victoria, Australia_{:.author-title}  
-<sup>f</sup> _Department of Paediatric Endocrinology and Diabetes, Monash Children's Hospital, Melbourne, Victoria, Australia_{:.author-title}
+By **Kiarash Taghavi**{:.author-names}, **Nathalie Webb**{:.author-names}, **Chloe A. Hanna**{:.author-names}, & **Jacqueline K. Hewitt**{:.author-names}  
 {:.attribution}
 
 ### Introduction: The Child's Wellbeing is at the Centre of Care and Ethical Concern
@@ -110,7 +115,6 @@ Individuals with AIS can have satisfying sexual relationships, whether or not th
 ## South American Perspective
 
 By **Francisca Yankovic, MD, MSc**{:.author-names}  
-_Pediatric Urologist, Hospital Exequiel González Cortes & Clínica Santa María, Santiago, Chile_{:.author-title}
 {:.attribution}
 
 Social and medico-legal issues are perhaps some of the most important challenges to adequate management of children with variations of sex development (VSD). Latin America, and in particular Chile, has not been exempt from the controversies that have arisen worldwide regarding the question of performing irreversible surgeries that seek to \"normalize\" the appearance of the external genitalia in children with VSD.

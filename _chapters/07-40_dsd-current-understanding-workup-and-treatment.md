@@ -5,6 +5,11 @@ sort-key: 07-40
 title: DSD—Current Understanding, Workup and Treatment
 description: Chapter 40 discusses our current understanding of disorders or differences of sexual development.
 thumbnail: 07-40_dsd-current-understanding-workup-and-treatment.png
+authors:
+  -
+    author-id: 82
+  -
+    author-id: 81
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,11 +23,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-14 KR
 ---
-
-By **Emilie K. Johnson, MD, MPH, FACS**{:.author-names}<sup>1,2</sup> & **Elizabeth B. Yerkes, MD**{:.author-names}<sup>1,2</sup>  
-<sup>1</sup> _Division of Urology, Ann & Robert H. Lurie Children's Hospital of Chicago_{:.author-title}  
-<sup>2</sup> _Department of Urology, Northwestern University Feinberg School of Medicine_{:.author-title}
-{:.attribution}
 
 ## Introduction and Terminology
 

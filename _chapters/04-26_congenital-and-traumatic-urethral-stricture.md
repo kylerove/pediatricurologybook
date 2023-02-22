@@ -5,6 +5,9 @@ sort-key: 04-26
 title: Congenital and Traumatic Urethral Stricture
 description: Chapter 26 discusses concepts around pediatric urethral stricture, both congenital and acquired causes.
 thumbnail: 04-26_congenital-and-traumatic-urethral-stricture.png
+authors:
+  -
+    author-id: 53
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,10 +21,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: KR 2022-08-15
 ---
-
-By **Ramesh Babu**{:.author-names}  
-_Professor & Senior Consultant in Pediatric Urology, Sri Ramachandra Institute of Higher Education & Research, Chennai, India_{:.author-title}
-{:.attribution}
 
 ## Introduction
 

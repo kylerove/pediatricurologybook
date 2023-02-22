@@ -5,6 +5,13 @@ sort-key: 05-33
 title: Reoperative Hypospadias
 description: Chapter 33 dives into the management of patients who have complications after hypospadias repair.
 thumbnail: 05-33_reoperative-hypospadias.png
+authors:
+  -
+    author-id: 69
+  -
+    author-id: 70
+  -
+    author-id: 71
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,10 +25,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: KR 2022-08-17
 ---
-
-By **Roger Bin Idi**{:.author-names}, **Neetu Kumar**{:.author-names}, & **Imran Mushtaq**{:.author-names}  
-_Great Ormond Street Hospital for Children, Department of Paediatric Urology, UK_{:.author-title}
-{:.attribution}
 
 ## Introduction
 

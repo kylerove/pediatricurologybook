@@ -5,6 +5,13 @@ sort-key: 09-49
 title: Urolithiasis—Bladder
 description: Chapter 49 discusses the surgical management of urolithiasis of the bladder.
 thumbnail: 09-49_urolithiasis-bladder.png
+authors:
+  -
+    author-id: 97
+  -
+    author-id: 99
+  -
+    author-id: 98
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,9 +25,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-14 KR
 ---
-
-By **Aneetha Pasupati**{:.author-names}, **Bhaveshkumar Patel**{:.author-names}, & **Ashish Jiwane**{:.author-names}
-{:.attribution}
 
 ## Introduction
 

@@ -5,6 +5,11 @@ sort-key: 11-65
 title: Ethical Dilemmas and Considerations
 description: Chapter 65 addresses common concepts within medical ethics and dilemmas and considerations for the pediatric urologist.
 thumbnail: 11-65_ethical-dilemmas-and-considerations.png
+authors:
+  -
+    author-id: 118
+  -
+    author-id: 119
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,10 +23,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: 
 ---
-
-By **Karen M. Doersch**{:.author-names}, **David A. Diamond**{:.author-names}  
-_University of Rochester Medical Center, Rochester, NY, USA_{:.author-title}
-{:.attribution}
 
 ## Introduction
 

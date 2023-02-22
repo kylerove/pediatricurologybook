@@ -5,6 +5,13 @@ sort-key: 05-32
 title: Proximal Hypospadias
 description: Chapter 32 summarizes proximal hypospadias, the more severe form of hypospadias, its associations and complications of treatment.
 thumbnail: 05-32_proximal-hypospadias.png
+authors:
+  -
+    author-id: 66
+  -
+    author-id: 67
+  -
+    author-id: 68
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,12 +25,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: KR 2022-08-16
 ---
-
-By **Kashish Khanna**{:.author-names},<sup>1</sup> **Miguel Castellan**{:.author-names},<sup>2</sup> & **Alireza Alam**{:.author-names}<sup>3</sup>  
-_<sup>1</sup> Department of Pediatric Surgery, All India Institute of Medical Sciences, New Delhi, India_{:.author-title}  
-_<sup>2</sup> Pediatric Urology Staff, Director of Pediatric Urology Fellowship, Nicklaus Children's Hospital, University of Miami, Miami, Florida, USA_{:.author-title}  
-_<sup>3</sup> Pediatric Urology Staff, Jackson Memorial Hospital, University of Miami, Miami, Florida, USA_{:.author-title}
-{:.attribution}
 
 ## Introduction
 

@@ -5,6 +5,13 @@ sort-key: 05-30
 title: Varicocele
 description: Chapter 30 provides insights into the diagnosis and management of male varicocele.
 thumbnail: 05-30_varicocele.png
+authors:
+  -
+    author-id: 63
+  -
+    author-id: 61
+  -
+    author-id: 62
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,10 +25,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: KR 2022-08-16
 ---
-
-By **Callum Lavoie**{:.author-names}, **Alex Bain**{:.author-names}, & **Peter Metcalfe**{:.author-names}  
-_University of Alberta, Division of Urology, Edmonton, Alberta, Canada_{:.author-title}
-{:.attribution}
 
 ## Introduction
 

@@ -5,6 +5,11 @@ sort-key: 01-09
 title: Basics of Pediatric Endoscopy
 description: Chapter 9 details the basics of pediatric endoscopy.
 thumbnail: 01-09_basics-of-pediatric-endoscopy.png
+authors:
+  -
+    author-id: 23
+  -
+    author-id: 24
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,9 +23,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-16 KR
 ---
-
-By **Jennifer M. Lovin, MD**{:.author-names} & **Wolfgang H. Cerwinka, MD**{:.author-names}
-{:.attribution}
 
 ## Introduction
 

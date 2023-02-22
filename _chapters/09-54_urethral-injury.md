@@ -5,6 +5,11 @@ sort-key: 09-54
 title: Urethral Injury
 description: Chapter 54 provides insight into urethral trauma in boys and girls.
 thumbnail: 09-54_urethral-injury.png
+authors:
+  -
+    author-id: 107
+  -
+    author-id: 106
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,10 +23,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-14 KR
 ---
-
-By **Parviz Hajiyev**{:.author-names} & **Berk Burgu**{:.author-names}
-_Ankara University, Ankara, Turkey_{:.author-title}
-{:.attribution}
 
 ## Introduction
 

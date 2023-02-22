@@ -5,6 +5,9 @@ sort-key: 11-63
 title: Quality Improvement in Pediatric Urology
 description: Chapter 63 summaries current hot topics around quality improvement in pediatric urology.
 thumbnail: 11-63_quality-improvement-in-pediatric-urology.png
+authors:
+  -
+    author-id: 117
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,10 +21,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: KR 2022-09-05
 ---
-
-By **Yvonne Y. Chan**{:.author-names}  
-_Children's Medical Center Dallas, UT Southwestern, Dallas, TX, USA_{:.author-title}
-{:.attribution}
 
 ## Introduction
 

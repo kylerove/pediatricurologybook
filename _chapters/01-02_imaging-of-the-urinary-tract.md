@@ -5,6 +5,9 @@ sort-key: 01-02
 title: Imaging of the Urinary Tract
 description: Chapter 2 details imaging of the pediatric urinary tract.
 thumbnail: 01-02_imaging-of-the-urinary-tract.png
+authors:
+  -
+    author-id: 12
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,10 +21,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-14 KR
 ---
-
-By **Erin E. Rowe, MD**{:.author-names}  
-_Department of Radiology, Yale New Haven Hospital, New Haven, CT, USA_{:.author-title}
-{:.attribution}
 
 ## Introduction
 

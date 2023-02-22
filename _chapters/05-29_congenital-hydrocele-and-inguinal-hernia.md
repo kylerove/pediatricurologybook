@@ -5,6 +5,15 @@ sort-key: 05-29
 title: Congenital Hydrocele and Inguinal Hernia
 description: Chapter 29 dives into the related concepts of congenital hydrocele and pediatric inguinal hernia.
 thumbnail: 05-29_congenital-hydrocele-and-inguinal-hernia.png
+authors:
+  -
+    author-id: 58
+  -
+    author-id: 57
+  -
+    author-id: 59
+  -
+    author-id: 60
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,10 +27,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-14 KR
 ---
-
-By **Joaquín Pedro Camacho, MD**{:.author-names}, **Roberto Vagni, MD**{:.author-names}, **Juan Manuel Moldes, MD**{:.author-names} & **María Agustina Ar. Camacho**{:.author-names}  
-_Hospital Italiano de Buenos Aires, Pediatric Surgery & Urology Department, Buenos Aires, Argentina_{:.author-title}
-{:.attribution}
 
 ## Introduction
 

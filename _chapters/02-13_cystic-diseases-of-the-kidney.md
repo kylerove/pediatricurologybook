@@ -5,6 +5,13 @@ sort-key: 02-13
 title: Cystic Diseases of the Kidney
 description: Chapter 13 discusses cystic diseases of the kidney and implications.
 thumbnail: 02-13_cystic-diseases-of-the-kidney.png
+authors:
+  -
+    author-id: 27
+  -
+    author-id: 28
+  -
+    author-id: 29
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,10 +25,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: KR 2022-09-03
 ---
-
-By **Adam S. Ostergar**{:.author-names}, **Yifan Meng**{:.author-names}, & **Erica J. Traxel**{:.author-names}  
-_Washington University School of Medicine in Saint Louis, Division of Urologic Surgery, Department of Surgery_{:.author-title}
-{:.attribution}
 
 ## Introduction
 

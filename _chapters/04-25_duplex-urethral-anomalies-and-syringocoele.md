@@ -5,6 +5,11 @@ sort-key: 04-25
 title: Duplex Urethral Anomalies and Syringocoele
 description: Chapter 25 summarizes duplex urethral anomalies and syringocoele.
 thumbnail: 04-25_duplex-urethral-anomalies-and-syringocoele.png
+authors:
+  -
+    author-id: 51
+  -
+    author-id: 52
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,10 +23,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-14 KR
 ---
-
-By **Naser Alsoudan Alanazi**{:.author-names} & **Abraham Cherian**{:.author-names}  
-_Great Ormond Street Hospital, London, UK_{:.author-title}
-{:.attribution}
 
 ## Introduction
 

@@ -5,6 +5,11 @@ sort-key: 05-35
 title: Foreskin Anomalies
 description: Chapter 35 provides insights into foreskin anomalies, including balanitis and paraphimosis.
 thumbnail: 05-35_foreskin-anomalies.png
+authors:
+  -
+    author-id: 75
+  -
+    author-id: 76
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,10 +23,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-17 KR
 ---
-
-By **Ruiz Javier, MD**{:.author-names} & **Rosiere Nicolas, MD**{:.author-names}  
-_Pediatric Urology Department, J.P. Garrahan Pediatric Hospital, Buenos Aires, Argentina_{:.author-title}
-{:.attribution}
 
 ## Embryology
 

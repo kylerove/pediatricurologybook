@@ -5,6 +5,13 @@ sort-key: 05-31
 title: Distal Hypospadias
 description: Chapter 31 discusses distal hypospadias, its origins, diagnosis, and treatment options.
 thumbnail: 05-31_distal-hypospadias.png
+authors:
+  -
+    author-id: 64
+  -
+    author-id: 65
+  -
+    author-id: 7
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,10 +25,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-14 KR
 ---
-
-By **Octavio Herrera**{:.author-names}, **Clark Judge**{:.author-names}, & **Mohan S. Gundeti**{:.author-names}  
-_University of Chicago Medical Center, Comer Children's Hospital, Chicago, IL, USA_{:.author-title}
-{:.attribution}
 
 ## Introduction
 

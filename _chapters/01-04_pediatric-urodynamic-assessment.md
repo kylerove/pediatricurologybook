@@ -5,6 +5,9 @@ sort-key: 01-04
 title: Pediatric Urodynamic Assessment
 description: Chapter 4 describes pediatric urodynamic assessments.
 thumbnail: 01-04_pediatric-urodynamic-assessment.png
+authors:
+  -
+    author-id: 14
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,9 +21,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-15 KR
 ---
-
-By **Cristian Sager, MD**{:.author-names}
-{:.attribution}
 
 ## Introduction
 

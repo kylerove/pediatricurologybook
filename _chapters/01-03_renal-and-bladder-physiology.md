@@ -5,6 +5,9 @@ sort-key: 01-03
 title: Renal and Bladder Physiology
 description: Chapter 3 details renal and bladder physiology.
 thumbnail: 01-03_renal-and-bladder-physiology.png
+authors:
+  -
+    author-id: 13
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,11 +21,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-14 KR
 ---
-
-By **Eric G. Benz, MD**{:.author-names} & **Danielle E. Soranno, M.D.**{:.author-names}  
-_Department of Pediatrics, Division of Nephrology, Children's Hospital Colorado, Aurora CO, USA_{:.author-title}  
-_University of Colorado, Aurora CO, USA_{:.author-title}
-{:.attribution}
 
 ## Introduction
 

@@ -5,6 +5,13 @@ sort-key: 03-22
 title: Cloacal Exstrophy
 description: Chapter 22 provides an overview of cloacal exstrophy and its management.
 thumbnail: 03-22_cloacal-exstrophy.png
+authors:
+  -
+    author-id: 44
+  -
+    author-id: 45
+  -
+    author-id: 46
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,10 +25,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-14 KR
 ---
-
-By **Chad B. Crigger, MD, MPH**{:.author-names}, **Tamir N. Sholklapper, MD**{:.author-names}, & **Heather DiCarlo, MD**{:.author-names}  
-_Johns Hopkins University, Baltimore, MD, USA_{:.author-title}
-{:.attribution}
 
 ## Introduction
 

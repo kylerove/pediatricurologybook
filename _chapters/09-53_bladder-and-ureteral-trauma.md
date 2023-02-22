@@ -5,6 +5,11 @@ sort-key: 09-53
 title: Bladder and Ureteral Trauma
 description: Chapter 53 summarizes a pediatric urology approach to bladder and ureteral trauma.
 thumbnail: 09-53_bladder-and-ureteral-trauma.png
+authors:
+  -
+    author-id: 105
+  -
+    author-id: 104
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,11 +23,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: 2022-09-26 KR
 ---
-
-By **Anna Bujons**{:.author-names}<sup>1</sup> & **Juan Pablo Corbetta**{:.author-names}<sup>2</sup>  
-_<sup>1</sup> Head of Pediatric Urology Division, Fundacion Puigvert, Barcelona, Spain_{:.author-title}  
-_<sup>2</sup> Head of Pediatric Urology Division, Hospital de Pediatria Prof. Dr. Juan P. Garrahan, Buenos Aires, Argentina_{:.author-title}
-{:.attribution}
 
 ## Bladder Trauma
 

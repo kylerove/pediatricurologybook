@@ -5,6 +5,11 @@ sort-key: 09-48
 title: Urolithiasis—Ureteral Surgical Management
 description: Chapter 48 discusses the surgical management of ureterolithiasis.
 thumbnail: 09-48_urolithiasis-ureteral-surgical-management.png
+authors:
+  -
+    author-id: 95
+  -
+    author-id: 96
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,12 +23,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-14 KR
 ---
-
-By **Sheila Mallenahalli**{:.author-names}<sup>1</sup> & **Pankaj P. Dangle**{:.author-names}<sup>2,3</sup>  
-_<sup>1</sup> School of Medicine, University of Alabama at Birmingham, Birmingham, AL, USA_{:.author-title}  
-_<sup>2</sup> Department of Urology, School of Medicine, Indiana University, Indianapolis, IN, USA_{:.author-title}  
-_<sup>3</sup> Riley Children's Hospital, Indianapolis, IN, USA_{:.author-title}
-{:.attribution}
 
 ## Introduction
 

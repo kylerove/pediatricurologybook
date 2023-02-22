@@ -5,6 +5,11 @@ sort-key: 10-58
 title: Role of Transitional Urology
 description: Chapter 58 provides insight into the newest subspecialty within urology, transitional urology, and how we can systematically approach continuing care for patients with congenital urologic anomalies.
 thumbnail: 10-58_role-of-transitional-urology.png
+authors:
+  -
+    author-id: 112
+  -
+    author-id: 113
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,10 +23,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-14 KR
 ---
-
-By **George W. Moran, MD**{:.author-names} & **Julia B. Finkelstein, MD, MPH**{:.author-names}  
-_Boston Children's Hospital, Boston, MA, USA_{:.author-title}
-{:.attribution}
 
 ## Introduction
 

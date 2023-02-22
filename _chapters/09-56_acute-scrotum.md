@@ -5,6 +5,11 @@ sort-key: 09-56
 title: Acute Scrotum
 description: Chapter 56 dives into the concept of acute scrotum, its differential diagnosis, and pediatric urology approach to workup and management.
 thumbnail: 09-56_acute-scrotum.png
+authors:
+  -
+    author-id: 110
+  -
+    author-id: 109
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,10 +23,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-14 KR
 ---
-
-By **Katelyn N. Carty, BS**{:.author-names} & **Christopher E. Bayne, MD**{:.author-names}  
-_Department of Urology, University of Florida College of Medicine, Gainesville, FL, USA_{:.author-title}
-{:.attribution}
 
 ## Introduction
 

@@ -5,6 +5,13 @@ sort-key: 09-47
 title: Urolithiasis—Renal Surgical Management
 description: Chapter 47 dives into the surgical management of kidney stones.
 thumbnail: 09-47_urolithiasis-renal-surgical-management.png
+authors:
+  -
+    author-id: 93
+  -
+    author-id: 92
+  -
+    author-id: 94
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,12 +25,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-14 KR
 ---
-
-By **Ravindra B Sabnis**{:.author-names}<sup>1</sup>, **Rohan Batra**{:.author-names}<sup>2</sup>, & **Arvind Ganpule**{:.author-names}<sup>3</sup>  
-_<sup>1</sup> Chairman, Department of Urology, Muljibhai Patel Urological Hospital, Nadiad, Gujarat, India_{:.author-title}  
-_<sup>2</sup> Consultant Urologist, Department of Urology, Muljibhai Patel Urological Hospital, Nadiad, Gujarat, India_{:.author-title}  
-_<sup>3</sup> Vice-chairman, Department of Urology, Muljibhai Patel Urological Hospital, Nadiad, Gujarat, India_{:.author-title}
-{:.attribution}
 
 ## Introduction
 
@@ -51,9 +52,9 @@ The most important drawback is low stone clearance rates in comparison to endour
 
 PCNL has replaced open surgery and at present is considered to be the first line of treatment for renal stones greater than 20 mm with stone clearance rates of more than 90%.{% cite assimos2016a --file 09-47 %}
 
-PCNL was initially described by Johannson and Fernstrom in 1976. Since then, it has become the main stay of treatment for treatment of renal calculi. PCNL in children was described in 1985 as a case series of seven patients aged between 5 years and 18 years using standard adult instruments.{% cite woodside1985a --file 09-47 %} However, with the continuous decrease in size of optics, nephroscopes and availability of better stone fragmentation technology has allowed the use of smaller tracts for PCNL with decreased complication rates. Mini-PCNL, with tract size up to 20 Fr, ultramini PCNL (11 Fr, 13 Fr), mini-micro PCNL (8 Fr), micro-PCNL with sheath size of 4.85 Fr have led to better acceptability of PCNL even in smaller children.
+PCNL was initially described by Johannson and Fernstrom in 1976. Since then, it has become the main stay of treatment for treatment of renal calculi. PCNL in children was described in 1985 as a case series of seven patients aged between 5 years and 18 years using standard adult instruments.{% cite woodside1985a --file 09-47 %} However, with the continuous decrease in size of optics, nephroscopes and availability of better stone fragmentation technology has allowed the use of smaller tracts for PCNL with decreased complication rates. Mini-PCNL, with tract size up to 20 Fr, ultra-mini PCNL (11 Fr, 13 Fr), mini-micro PCNL (8 Fr), micro-PCNL with sheath size of 4.85 Fr have led to better acceptability of PCNL even in smaller children.
 
-PCNL is performed in general anesthesia. Initially, cystoscopy is performed and a 4 Fr or 5 Fr ureteric catheter is placed in the pelvicalyceal system. It is used for opacification and distention of PCS and irrigation intraoperatively. Then, the child is placed in prone position. The initial puncture can be done using ultrasound guided or fluoro-guided puncture. The initial puncture is most important part of the procedure as the pediatric kidneys are more mobile than the adult kidneys. The pediatric kidneys tend to move away during the initial puncture and dilatation. After confirmation of puncture in the PCS, dilatation can be done using a serial dilator, one step dilator or a balloon dilator. The mini PCNL sheaths are available in different size and tract can be dilated according to the stone size and fragmentation device usage. \([Figure 2](#figure-2){:.figure-link})\] The stone can be fragmented using conventional lithoclast, lasers like holmium laser or new thulium laser fiber. Use of special devices like Shock pulse and Trilogy has also decreased the operative time and improved the stone clearance rates.
+PCNL is performed in general anesthesia. Initially, cystoscopy is performed and a 4 Fr or 5 Fr ureteric catheter is placed in the pelvicalyceal system. It is used for opacification and distention of PCS and irrigation intraoperatively. Then, the child is placed in prone position. The initial puncture can be done using ultrasound guided or fluoro-guided puncture. The initial puncture is most important part of the procedure as the pediatric kidneys are more mobile than the adult kidneys. The pediatric kidneys tend to move away during the initial puncture and dilatation. After confirmation of puncture in the PCS, dilatation can be done using a serial dilator, one step dilator or a balloon dilator. The mini PCNL sheaths are available in different size and tract can be dilated according to the stone size and fragmentation device usage ([Figure 2](#figure-2){:.figure-link}). The stone can be fragmented using conventional lithoclast, lasers like holmium laser or new thulium laser fiber. Use of special devices like Shock pulse and Trilogy has also decreased the operative time and improved the stone clearance rates.
 
 Use of suction devices in sheath or device have added a new dimension for the stone free rates and discussion between dusting and fragmentation in PCNL. A nephrostomy tube can be kept at the end of the procedure. The overall success rates in PCNL range from 81--100% after ancillary procedures ([Table 1](#table-1){:.table-link}).{% cite raza2005a desai2004a samad2006a ganpule2010a --file 09-47 %}
 

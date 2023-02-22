@@ -5,6 +5,11 @@ sort-key: 11-60
 title: Tissue Engineering—Current Status and Future
 description: Chapter 60 summaries the current state and future prospects for tissue engineering as it applies to pediatric urology.
 thumbnail: 11-60_tissue-engineering-current-status-and-future.png
+authors:
+  -
+    author-id: 114
+  -
+    author-id: 115
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,11 +23,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-14 KR
 ---
-
-By **Darren Ha**{:.author-names} & **Kelly T. Harris, MD**{:.author-names}  
-_Children's Hospital Colorado, Department of Pediatric Urology, Aurora, CO_{:.author-title}
-_University of Colorado School of Medicine, Department of Surgery, Division of Urology, Aurora, CO_{:.author-title}
-{:.attribution}
 
 ## Introduction
 

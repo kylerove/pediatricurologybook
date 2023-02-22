@@ -5,6 +5,9 @@ sort-key: 08-44
 title: Testicular and Paratesticular Tumors in Children
 description: Chapter 44 summarizes pediatric testicular and paratesticular tumors.
 thumbnail: 08-44_testicular-and-paratesticular-tumors-in-children.png
+authors:
+  -
+    author-id: 91
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,11 +21,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: KR 2022.08.07
 ---
-
-By **Naeem Samnakay**{:.author-names}  
-_Clinical Associate Professor, Division of Surgery, Medical School, The University of Western Australia_{:.author-title}  
-_Paediatric Surgeon and Urologist, Perth Children's Hospital, Perth, Western Australia_{:.author-title}
-{:.attribution}
 
 ## Introduction
 

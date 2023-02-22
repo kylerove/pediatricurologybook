@@ -5,6 +5,31 @@ sort-key: 11-61
 title: Pediatric Urology in 2050
 description: Chapter 61 is a really neat compilation from experts in various subspecialties within pediatric urology as to what our field will look like in the year 2050.
 thumbnail: 11-61_pediatric-urology-in-2050.png
+authors:
+  -
+    author-id: 116
+  -
+    author-id: 123
+  -
+    author-id: 33
+  -
+    author-id: 126
+  -
+    author-id: 127
+  -
+    author-id: 128
+  -
+    author-id: 79
+  -
+    author-id: 129
+  -
+    author-id: 130
+  -
+    author-id: 131
+  -
+    author-id: 132
+  -
+    author-id: 133
 layout: chapter
 lang: en
 breadcrumbs:
@@ -19,11 +44,10 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-14 KR
 ---
 
-Commentary and Edited By **Liza M. Aguiar**{:.author-names} & **Anthony A. Caldamone**{:.author-names}  
-_Hasbro Children's Hospital, Warren Alpert School of Medicine of Brown University, Providence RI, USA_{:.author-title}  
-{:.attribution}
-
 ## Introduction
+
+Commentary and Edited By **Liza M. Aguiar**{:.author-names} & **Anthony A. Caldamone**{:.author-names}
+{:.attribution}
 
 In 1991, Norman Zinner and co-authors published a paper entitled "Forecast of change in urology."{% cite zinner1991a --file 11-61 %} In this article they reviewed the results of a survey conducted by the Society of University Urologists asking members to identify the most important events or trends that would be likely to occur in the next 10-30 years in urology. This was published as the "1976 Possibilities List." ([Table 1](#table-1){:.table-link}) lists a few of these that you would find interesting. This list covers areas of medical advancement, technological advancements, socio-economic factors, and education and training. Based on an analysis by a panel of experts, it was felt that urologists were remarkably accurate in their forecast of the most important trends and events over the issuing years. Areas where the 1976 urologist survey results did not envision important changes were in diagnostic imaging, HMO/PPOs, and outpatient surgeries.
 {:.drop-caps}
@@ -57,8 +81,7 @@ In this chapter, we take on the challenge of predicting what changes will occur 
 
 ## Prenatal Diagnosis and Treatment in 2050
 
-By **Marie-Klaire Farrugia**{:.author-names}  
-_Chelsea & Westminster and Imperial College Hospitals, Imperial College London England_{:.author-title}
+By **Marie-Klaire Farrugia**{:.author-names}
 {:.attribution}
 
 Antenatal ultrasound and fetal MRI will be obsolete. Fetal anatomy will be visualised by 3D augmented reality, using smart phones. The fetal anatomy can then be analysed digitally and fetal measurements automatically plotted onto growth charts. Artificial intelligence (AI) will capture data instantaneously and provide a medical report. When a group of anomalies is identified, AI will suggest genetic, syndromic or other diagnoses and provide information on prognosis and further management. For example, if fetal lower urinary tract obstruction is diagnosed, the application can then formulate a "virtual cystoscopy," augmented reality model to further delineate the cause of obstruction. Fetal renal cortical analysis (utilising data from echogenicity, cortical thickness or cysts, with the potential addition of fetal urine peptide signature) will estimate fetal renal function. Amniotic fluid level and its components will be measured utilising density and reflectivity data, without the need for invasive testing. Based on AI algorithms, the application will determine whether fetal intervention is indicated, and when. Once intervention is recommended, a special headset is worn by the specialist, whereby computer-generated laser holograms superimpose the safest pathway for the fetal cystoscope to be introduced, on the maternal abdomen. A flexible fetal cystoscope can then be inserted in an antegrade fashion via the fetal abdomen, into the bladder, and the urethra stented with a made-to-measure pre-formed coiled stent which can be "shot" into the urethra. The biggest challenge will be consent, in an era where surgery on the fetus without its consent is controversial.
@@ -69,8 +92,7 @@ Pregnancy and the developing fetus was once a "black box" of medicine. Now, with
 
 ## The “Top-Down” Approach to the Evaluation of Children with Febrile Urinary Tract Infection in 2050
 
-By **Hans G. Pohl**{:.author-names}  
-_Children\'s National Hospital, Washington DC, USA_{:.author-title}
+By **Hans G. Pohl**{:.author-names}
 {:.attribution}
 
 The year 2050 will be celebrated for the consolidation of the US pediatric urology programs into the North American Pediatric Genitourinary Outcomes Alliance and the publication of its first project *"High-yield evaluation and treatment algorithm for pediatric urinary tract infection and associated CAKUT."* First proposed in 2025 at a meeting of the Society for Pediatric Urology to address the nagging question of whether the "bottom-up" or "top-down" approach to UTI evaluation is the superior algorithm, the members agreed to collaborate on a nation-wide multi-institutional study of children younger than 2 years old who presented with initial febrile UTIs. It was agreed that the inclusion of older, toilet-trained children introduced too much complexity and, so, the role of elimination disorders in determining the risk for UTI and how best to manage bladder-bowel dysfunction would be the focus of future collaborations, if this foray succeeded.
@@ -89,8 +111,7 @@ Our understanding of urinary tract infections and vesicoureteral reflux (VUR) in
 
 ## A Look at Hypospadias Management of the Future
 
-By **Christopher Long**{:.author-names}  
-_Children's Hospital of Philadelphia, University of Pennsylvania, Philadelphia PA, USA_{:.author-title}
+By **Christopher J. Long, MD**{:.author-names}
 {:.attribution}
 
 Envisioning the future of hypospadiology must start with an honest assessment of our current success and failures. Recent reports have revealed a low but significant complication rate for distal hypospadias and a much higher risk in proximal repairs, trends that are likely to continue to increase as follow-up extends through puberty. Our current management of hypospadias includes a lack of consistent follow up from childhood repair through adulthood, inconsistent incorporation of patient reported outcomes (PRO), and barriers to multi-institutional collaboration efforts to improve surgical outcomes.
@@ -109,8 +130,7 @@ It is true that the lack of objective assessment and standardization limits our 
 
 ## The Future of Stone Disease in Children
 
-By **Michael P. Kurtz, MD, MPH**{:.author-names}  
-_Boston Children's Hospital, Harvard University School of Medicine Boston MA, USA_{:.author-title}
+By **Michael P. Kurtz, MD, MPH**{:.author-names}
 {:.attribution}
 
 There are exciting advances in the treatment of stones in children, with implications for the future. First caution, then hope.
@@ -125,8 +145,7 @@ The rising prevalence of pediatric stone disease has led to significant patient 
 
 ## Bladder Exstrophy-Epispadias Complex: Beyond the Horizon
 
-By **Dana Weiss**{:.author-names}  
-_Children's Hospital of Philadelphia, University of Pennsylvania, Philadelphia PA, USA_{:.author-title}
+By **Dana A. Weiss**{:.author-names}
 {:.attribution}
 
 Steve Zderic always says, if you want a new idea, read an old book. The treatment of bladder exstrophy has come full circle from the 1960s when John K. Lattimer focused on a delayed complete repair, to the early staged repair championed by Bob Jeffs, John Gearhart and Julian Ansell, and back again to a delayed complete repair (CPRE) described by Michael Mitchell. With new techniques and the added safety net of clean intermittent catheterization, the complete repair is again a common approach in 2021, now refined, under the coaching of Mike Mitchell himself, by the MIBEC consortium at CHOP, Boston Children's, and the Children's Hospital of Wisconsin. The question is where will this ever-changing circle be in 2050? My prediction is that current techniques will continue to improve, and a major adjuvant will be the addition of a "tincture of time" to our initial repairs, be they complete or staged, to achieve the ultimate goal of volitional voiding with continence.
@@ -147,8 +166,7 @@ The Bladder exstrophy-epispadias complex is one of the most complex anomalies in
 
 ## DSD in Pediatric Urology: What to Expect by 2050
 
-By **Anne-Françoise Spinoit**{:.author-names}  
-_Ghent University Hospital, Ghent, Belgium_{:.author-title}
+By **Anne-Françoise Spinoit**{:.author-names}
 {:.attribution}
 
 Differences of Sex Development (DSD) is a field where the medical practice has completely changed over the last thirty years, and I believe even more evolution is to be expected in the next decades.
@@ -173,8 +191,7 @@ Caring for patients with DSD continues to be a struggle in the setting of societ
 
 ## Urologic Management of Spina Bifida in 2050
 
-By **Marcela Leal da Cruz**{:.author-names}  
-_NUPEP/ CACAU Sao Paulo, Brazil_{:.author-title}
+By **Marcela Leal da Cruz**{:.author-names}
 {:.attribution}
 
 Open spina bifida is a major cause of neurogenic bladder in childhood. A new paradigm was established in this scenario after the MOMS study{% cite adzick2011a --file 11-61 %} that substantiated the use of fetal surgery as a standard method in trained services. Despite enthusiastic results of the neurological and orthopedic aspects, bladder function did not follow the same path. The prospective series in the post-MOMS era include the American groups involved in MOMS{% cite brock2019a --file 11-61 %} and the Zurich group{% cite mazzone2020a --file 11-61 %} which suggest some urologic benefits. The data from our group in São Paulo/Brazil{% cite cruz2015a parizi2020a a2021a --file 11-61 %} did not show improvements in bladder function after MMC fetal repair.
@@ -197,8 +214,7 @@ So much of what we do every day, as pediatric urologists, centers around restori
 
 ## Basic Science Research in Pediatric Urology in 2050
 
-By **Luke Harper**{:.author-names}  
-_Hospital Pellegrin-Enfants, CHU Bordeaux, Bordeaux, France_{:.author-title}
+By **Luke Harper**{:.author-names}
 {:.attribution}
 
 Basic science research shapes clinical practice and vice versa. These two fields are intertwined and imagining the future of one requires imagining the future of the other.
@@ -219,8 +235,7 @@ We live in a world in which randomized control trials are considered the *sine q
 
 ## AI for Pediatric Urology in 2050
 
-By **Armando J. Lorenzo**{:.author-names} & **Mandy Rickard**{:.author-names}  
-_Hospital for Sick Children University of Toronto, Toronto, Canada_{:.author-title}
+By **Armando J. Lorenzo**{:.author-names} & **Mandy Rickard**{:.author-names}
 {:.attribution}
 
 Recent years have seen a dramatic interest in the use of cutting-edge analytical tools to evaluate information. Around us, data is captured in exponential amounts, demanding strategies that accurately and efficiently evaluate it. Among the most promising recent advances, is the use of artificial intelligence (AI). This field of computer science aims to develop systems that can perform tasks in a manner that mimics the process in the human brain. The generated algorithms can therefore improve with further refinement and additional data, akin to what we describe as "gaining experience." Within this umbrella term, Machine learning (ML) is a branch of AI that develops programs and algorithms with the goal of providing computers with the ability to learn an assignment automatically, with limited human intervention and without the need to explicitly program each step. Ultimately, these tools can currently tackle a large number of narrow, well-defined tasks, quickly and accurately, impacting everything around us.
@@ -241,40 +256,27 @@ Wayne Gretzky, a famous Canadian ice hockey player once said, "I skate to where 
 
 {% bibliography --file 11-61 %}
 
-*[RI]: 
-*[USA]: 
-*[HMO]: 
-*[PPOs]: 
-*[MRI]: 
-*[AI]: 
-*[DC]: 
-*[US]: 
-*[CAKUT]: 
-*[UTI]: 
-*[UTIs]: 
-*[VCUGs]: 
-*[VUR]: 
-*[DMSA]: 
-*[MRU]: 
-*[VCUG]: 
-*[PA]: 
-*[PRO]: 
-*[MD]: 
-*[MPH]: 
-*[MA]: 
-*[PCNL]: 
-*[FDA]: 
-*[CPRE]: 
-*[MIBEC]: 
-*[CHOP]: 
-*[BE]: 
-*[DSD]: 
-*[UK]: 
-*[NUPEP]: 
-*[CACAU]: 
-*[MOMS]: 
-*[MMC]: 
-*[CHU]: 
-*[ML]: 
-*[PACS]: 
-*[EKG]: 
+*[HMO]: health maintenance organization
+*[PPOs]: preferred provider organization
+*[MRI]: magnetic resonance imaging
+*[AI]: artificial intelligence
+*[CAKUT]: congenital anomalies of the kidney and urinary tract
+*[UTI]: urinary tract infection
+*[UTIs]: urinary tract infections
+*[VCUGs]: voiding cystourethrograms
+*[VUR]: vesicoureteral reflux
+*[DMSA]: dimercaptosuccinic acid
+*[MRU]: magnetic resonance urography
+*[VCUG]: voiding cystourethrogram
+*[PRO]: patient reported outcomes
+*[PCNL]: percutaneous nephrolithotomy
+*[FDA]: US Food and Drug Administration
+*[CPRE]: complete primary repair of exstrophy
+*[MIBEC]: Multi-Institutional Bladder Exstrophy Consortium
+*[BE]: bladder exstrophy
+*[DSD]: difference of sexual development
+*[MOMS]: Management of Myelomeningocele Study
+*[MMC]: myelomeningocele
+*[ML]: machine learning
+*[PACS]: picture archiving and communication system
+*[EKG]: electrocardiogram

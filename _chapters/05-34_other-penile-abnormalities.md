@@ -5,6 +5,13 @@ sort-key: 05-34
 title: Other Penile Abnormalities
 description: Chapter 34 summarizes other congenital penile abnormalities including penile curvature and megaprepuce.
 thumbnail: 05-34_other-penile-abnormalities.png
+authors:
+  -
+    author-id: 74
+  -
+    author-id: 72
+  -
+    author-id: 73
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,10 +25,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: KR 2022-08-17
 ---
-
-By **Colin Brook**{:.author-names}, **Annette Chang**{:.author-names}, & **Juan Bortagaray**{:.author-names}  
-_The Royal Children's Hospital Melbourne, Australia_{:.author-title}
-{:.attribution}
 
 ## Introduction
 

@@ -5,6 +5,13 @@ sort-key: 11-67
 title: Social Media and Learning Opportunities
 description: Chapter 67 dives into the current concepts and best practices around social media and modern medicine.
 thumbnail: 11-67_social-media-and-learning-opportunities.png
+authors:
+  -
+    author-id: 124
+  -
+    author-id: 123
+  -
+    author-id: 122
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,14 +25,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: 2022-10-03 KR
 ---
-
-By **Niall J. O'Sullivan**{:.author-names}<sup>1</sup>, **Anthony A. Caldamone**{:.author-names}<sup>2</sup>, & **Fardod O'Kelly**{:.author-names}<sup>3,4,5</sup>  
-_<sup>1</sup>Urology, Tallaght University Hospital, Dublin, Ireland_{:.author-title}  
-_<sup>2</sup>Pediatric Urology, Brown University and Hasbro Children\'s Hospital, Providence, RI, USA_{:.author-title}  
-_<sup>3</sup>Paediatric Urology, Beacon Hospital, Dublin, Ireland_{:.author-title}  
-_<sup>4</sup>School of Medicine, University College Dublin_{:.author-title}  
-_<sup>5</sup>Surgical Affairs, Royal College of Surgeons in Ireland_{:.author-title}
-{:.attribution}
 
 ## Introduction
 

@@ -5,6 +5,13 @@ sort-key: 01-05
 title: Prenatal Diagnosis and Antenatal Surgery
 description: Chapter 5 describes prenatal diagnosis of urologic conditions and antenatal surgery.
 thumbnail: 01-05_prenatal-diagnosis-and-antenatal-surgery.png
+authors:
+  -
+    author-id: 15
+  -
+    author-id: 16
+  -
+    author-id: 17
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,10 +25,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-14 KR
 ---
-
-By **Joanna Orzel, MD**{:.author-names}, **Jordan Richards, MD**{:.author-names}, & **Douglas W. Storm, MD**{:.author-names}
-_University of Iowa Hospitals and Clinics, Department of Urology, Iowa City, IA, USA_{:.author-title}
-{:.attribution}
 
 ## Introduction
 

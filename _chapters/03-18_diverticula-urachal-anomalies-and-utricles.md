@@ -5,6 +5,13 @@ sort-key: 03-18
 title: Diverticula, Urachal Anomalies, and Utricles
 description: Chapter 18 examines bladder diverticulae, urachal anomalies, and utricles.
 thumbnail: 03-18_diverticula-urachal-anomalies-and-utricles.png
+authors:
+  -
+    author-id: 35
+  -
+    author-id: 34
+  -
+    author-id: 36
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,10 +25,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-16 KR
 ---
-
-By **Emily Clennon, MD**{:.author-names}, **J. Christopher Austin, MD**{:.author-names} & **Casey A. Seideman, MD**{:.author-names}  
-_Oregon Health and Science University, Portland, OR, USA_{:.author-title}
-{:.attribution}
 
 ## Urachal Anomalies
 

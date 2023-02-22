@@ -22,10 +22,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-14 KR
 ---
 
-By **Sarah Hecht, MD**{:.author-names}  
-_Department of Urology, Oregon Health & Sciences University, Portland, OR, USA_{:.author-title}
-{:.attribution}
-
 ## Introduction
 
 Duplication, migration, and fusion anomalies of the urinary tract are common and lead to various structural and functional abnormalities. Anatomic sequelae of ureteral duplication include ectopic ureter, ureterocele, and vesicoureteral reflux. These may manifest clinically as urinary tract obstruction, infection, incontinence, and renal dysplasia. Common migration and fusion anomalies include renal ectopia and horseshoe kidney, which are occasionally associated with pathology including renal dysplasia, vesicoureteral reflux, obstruction, and stone disease. Severity varies widely, and treatment ranges from observation to major surgical reconstruction. Treatment, when indicated, is primarily surgical and is aimed at preservation of renal function, minimizing morbidity from urinary tract infection, correction of urinary incontinence, and relief of symptoms associated with urinary tract obstruction.

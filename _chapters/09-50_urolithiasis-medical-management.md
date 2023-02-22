@@ -5,6 +5,11 @@ sort-key: 09-50
 title: Urolithiasis—Medical Management
 description: Chapter 50 discusses medical management options for urolithiasis.
 thumbnail: 09-50_urolithiasis-medical-management.png
+authors:
+  -
+    author-id: 100
+  -
+    author-id: 101
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,8 +23,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-14 KR
 ---
-
-By **Larisa Kovacevic, MD**{:.author-names} & **Natalija Kovacevic, MD**{:.author-names}
 
 ## Introduction
 

@@ -5,6 +5,11 @@ sort-key: 02-14
 title: Hydronephrosis and Ureteropelvic Junction Obstruction
 description: Chapter 14 delves into topics of hydronephrosis and ureteropelvic junction obstruction.
 thumbnail: 02-14_hydronephrosis-and-ureteropelvic-junction-obstruction.png
+authors:
+  -
+    author-id: 30
+  -
+    author-id: 31
 layout: chapter
 lang: en
 breadcrumbs:

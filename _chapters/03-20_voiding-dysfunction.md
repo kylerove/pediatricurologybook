@@ -5,6 +5,13 @@ sort-key: 03-20
 title: Voiding Dysfunction
 description: Chapter 20 dives into the concepts around voiding dysfunction and how to identify and manage it.
 thumbnail: 03-20_voiding-dysfunction.png
+authors:
+  -
+    author-id: 39
+  -
+    author-id: 40
+  -
+    author-id: 41
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,11 +25,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-14 KR
 ---
-
-By **Israel Franco, MD**{:.author-names},<sup>1</sup> **Sarah Lambert, MD**{:.author-names},<sup>1</sup> & **Anka J. Nieuwhof-Leppink, PhD**{:.author-names}<sup>2</sup>  
-_<sup>1</sup> Yale School of Medicine, New Haven, CT, USA_{:.author-title}  
-_<sup>2</sup> Department of Medical Psychology and Social Work and Urology, Wilhelmina Children's Hospital, University Medical Center Utrecht, Utrecht, the Netherlands_{:.author-title}
-{:.attribution}
 
 ## Introduction
 

@@ -5,6 +5,11 @@ sort-key: 11-64
 title: Clinical Informatics
 description: Chapter 64 dives into an increasingly important concept of clinical informatics and how to engage and apply this within pediatric urology.
 thumbnail: 11-64_clinical-informatics.png
+authors:
+  -
+    author-id: 4
+  -
+    author-id: 9
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,12 +23,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-29 KR
 ---
-
-By **Kyle Rove, MD**{:.author-names}<sup>1,2</sup> & **Sarah L. Hecht, MD**{:.author-names}<sup>3</sup>  
-_<sup>1</sup> Department of Pediatric Urology, Children's Hospital Colorado, Aurora, CO, USA_{:.author-title}  
-_<sup>2</sup> Division of Urology, Department of Surgery, University of Colorado, Aurora, CO, USA_{:.author-title}  
-_<sup>3</sup> Division of Urology, Oregon Health & Sciences University, Portland, OR, USA_{:.author-title}
-{:.attribution}
 
 ## Introduction
 
@@ -150,7 +149,7 @@ Given the complexity of the EMR, particularly in ones with integrated outpatient
 
 ## Informatics Leadership and Help Desk
 
-Many physicians have expressed frustration at not knowing where to start. Knowing your IT and informatics leadership is a start. Many organizations (big and small) have someone designated to lead the IT team (perhaps called a Chief Information Officer or CIO). There is also likely someone clinical designated to liaise with the CIO to represent clinicians. At many organizations, this is a Chief Medical Informatics Officer or CMIO). Knowing who these people are at your organization is half the battle. Asking them to include designated persons to represent your interests is also key. These designated representatives should have an interest in informatics (if not formal training) and be empowered to make decisions on behalf of your group, while also serving as someone who can help facilitate change, which has emerged as a constant new normal in the EMR era.
+Many physicians have expressed frustration at not knowing where to start when there are issues or frustration with the current state of affairs. Knowing your IT and informatics leadership is a good place to begin. Many organizations (big and small) have someone designated to lead the IT team (perhaps called a Chief Information Officer or CIO). There is also likely someone clinical designated to liaise with the CIO to represent clinicians. At many organizations, this is a Chief Medical Informatics Officer or CMIO. Knowing who these people are at your organization is half the battle. Asking them to include designated persons to represent your interests is also key. These designated representatives should have an interest in informatics (if not formal training) and be empowered to make decisions on behalf of your group, while also serving as someone who can help facilitate change, which has emerged as a constant new normal in the EMR era.
 
 Beyond engaging with key leaders at your health care organization, half the battle of EMR issues stems from a variation on the economics concept of "tragedy of the commons." This is where a shared resource (in this case, the EMR) is allowed to fester secondary to the prioritization of self-interest (read: precious clinician time and the assumption that others are handling an issue) over the attention to and betterment of said resource. More directly, when users encounter unexpected results in the EMR (unknown new error or functionality that is broken), we observe that most users work around the issue rather than report it to the help desk. Because IT staff are not clinicians, many of these issues in the EMR can go undetected for days or more because no one reports it to the help desk. **Do not assume that others have reported the issue.** To address the time it takes to call the help desk, delegate the task of notifying the help desk to a staff member (medical assistant, for example) while providing them with enough information to convey the issue.
 

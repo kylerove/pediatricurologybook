@@ -5,6 +5,11 @@ sort-key: 03-19
 title: Neurogenic Bladder
 description: Chapter 19 discusses neurogenic bladder and its workup and management.
 thumbnail: 03-19_neurogenic-bladder.png
+authors:
+  -
+    author-id: 37
+  -
+    author-id: 6
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,10 +23,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-14 KR
 ---
-
-By **Benjamin Press, MD**{:.author-names} & **Angela M. Arlen, MD**{:.author-names}  
-_Department of Urology, Yale University School of Medicine, New Haven, CT, USA_{:.author-title}
-{:.attribution}
 
 ## Introduction
 

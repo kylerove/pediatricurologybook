@@ -5,6 +5,11 @@ sort-key: 03-16
 title: Vesicoureteral Reflux
 description: Chapter 16 reviews vesicoureteral reflux.
 thumbnail: 03-16_vesicoureteral-reflux.png
+authors:
+  -
+    author-id: 32
+  -
+    author-id: 1
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,10 +23,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-14 KR
 ---
-
-By **Gina M. Lockwood**{:.author-names} & **Christopher S. Cooper**{:.author-names}  
-_Pediatric Urology, University of Iowa_{:.author-title}
-{:.attribution}
 
 ## Introduction
 

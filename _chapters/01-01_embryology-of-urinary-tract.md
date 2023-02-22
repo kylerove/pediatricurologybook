@@ -5,6 +5,11 @@ sort-key: 01-01
 title: Embryology of Urinary Tract
 description: Chapter 1 details the embryologic origins of the urinary tract.
 thumbnail: 01-01_embryology-of-urinary-tract.png
+authors:
+  -
+    author-id: 10
+  -
+    author-id: 11
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,10 +23,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-14 KR
 ---
-
-By **Julie W. Cheng, MD, MAE**{:.author-names} & **Kathleen Kieran, MD, MSc, MME**{:.author-names}  
-_Seattle Children's Hospital, Division of Urology, Seattle, WA_{:.author-title}
-{:.attribution}
 
 ## Introduction
 

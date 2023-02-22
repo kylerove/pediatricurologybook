@@ -5,6 +5,9 @@ sort-key: 09-55
 title: Penile and Scrotal Trauma
 description: Chapter 55 discusses pediatric management of penile and scrotal trauma.
 thumbnail: 09-55_penile-and-scrotal-trauma.png
+authors:
+  -
+    author-id: 108
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,10 +21,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-14 KR
 ---
-
-By **Tiago Rosito, MD, PhD**{:.author-names}  
-_Hospital de Clínicas de Porto Alegre, Porto Alegre, Brazil_{:.author-title}
-{:.attribution}
 
 ## Introduction
 

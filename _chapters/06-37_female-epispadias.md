@@ -5,6 +5,11 @@ sort-key: 06-37
 title: Female Epispadias
 description: Chapter 37 delves into female epispadias, its classification, diagnosis, and treatment.
 thumbnail: 06-37_female-epispadias.png
+authors:
+  -
+    author-id: 80
+  -
+    author-id: 79
 layout: chapter
 lang: en
 breadcrumbs:
@@ -28,7 +33,7 @@ Cloacal exstrophy (CE) is on the severe end of the BEEC spectrum. CE is a rare c
 
 On the opposite end of the spectrum lies epispadias. Epispadias is most commonly present as a component of BE and CE, but when epispadias occurs alone, in the absence of BE and CE it is regarded as the least severe variant of the BEEC. Epispadias is defined by an incomplete fusion of the dorsal urethra.{% cite suson2013a --file 06-37 %} This ranges from a mild glanular defect in a covered penis to the penopubic variety that extends proximally to the bladder neck and results in complete incontinence in males or females.{% cite suson2013a --file 06-37 %} Interestingly, the first described case of epispadias is attributed to the Byzantine emperor Heraclius (CE 610--641).{% cite gearhart-a --file 06-37 %} Isolated male epispadias is a rare anomaly, with a reported incidence of 1 in 117,000 males.{% cite gearhart-a --file 06-37 %} Isolated female epispadias is even more rare with an incidence of 1 in 484,000 female patients.{% cite gearhart-a --file 06-37 %} In this chapter we will focus exclusively on female epispadias.
 
-In 1928 Davis classified female epispadias into three categories based on severity. This classification system is still used today.{% cite davis1928a --file 06-37 %} In the lesser degree of epispadias the urethral orifice appears merely patulous. In intermediate epispadias the urethra is dorsally split along most of the urethra. In the most severe degree of epispadias the urethral cleft involves the entire length of the urethra and the sphincteric mechanism is rendered incompetent. Of note, the true prevalence of female epispadias may be higher than what is reported as in less severe cases the changes of the external genitalia may be minimal and if incontinence is not present patients go undiagnosed.{% cite yeni2004a shetty2011a --file 06-37 %}
+In 1928, Davis classified female epispadias into three categories based on severity. This classification system is still used today.{% cite davis1928a --file 06-37 %} In the lesser degree of epispadias the urethral orifice appears merely patulous. In intermediate epispadias the urethra is dorsally split along most of the urethra. In the most severe degree of epispadias the urethral cleft involves the entire length of the urethra and the sphincteric mechanism is rendered incompetent. Of note, the true prevalence of female epispadias may be higher than what is reported as in less severe cases the changes of the external genitalia may be minimal and if incontinence is not present patients go undiagnosed.{% cite yeni2004a shetty2011a --file 06-37 %}
 
 ## Embryology
 
@@ -38,13 +43,13 @@ Other plausible theories concerning the cause of the exstrophy-epispadias comple
 
 below rather than above the cloacal membrane, has been embraced by other investigators.{% cite ambrose1974a patten1952a --file 06-37 %} Another interesting hypothesis that remains controversial describes an abnormal caudal insertion of the body stalk, which results in a failure of interposition of the mesenchymal tissue in the midline.{% cite mildenberger1988a --file 06-37 %} As a consequence of this failure, translocation of the cloaca into the depths of the abdominal cavity does not occur. A cloacal membrane that remains in a superficial infraumbilical position represents an unstable embryonic state with a strong tendency to disintegrate, which has been supported by the laboratory work of Thomalla _et al_.{% cite johnston1974a thomalla1985a --file 06-37 %} Another interesting theory is that maldevelopment of the bony pelvis, rather, is the inciting factor for the development of exstrophy. Beaudoin _et al_ have suggested that lack of "rotation" of the pelvic ring primordium prevents structures attached to the pelvic ring from joining in the midline, allowing herniation of the bladder to occur.{% cite beaudoin1997a --file 06-37 %}
 
-Epidemiology
+## Epidemiology
 
 Complete female epispadias is an extremely rare congenital defect, occurring in about 1/484,000 live births, much less frequently than BE, which is estimated to occur in 1/10,000 to 1/50,000.{% cite gearhart-a --file 06-37 %} The male-to-female ratio of bladder exstrophy derived from multiple series is 2.3:1 and female epispadias is also less common than male epispadias which has a reported incidence of 1 in 117,000 males.{% cite shapiro1984a --file 06-37 %}
 
 The risk of recurrence of BE in a given family is approximately 1 in 100.{% cite ives1980a --file 06-37 %} Shapiro _et al_ in a questionnaire identified the recurrence of BE and epispadias in only 9 of approximately 2,500 indexed cases.{% cite shapiro1985a --file 06-37 %} Shapiro _et al_ determined that the risk of BE in the offspring of individuals with BE and epispadias is 1 in 70 live births, a 500-fold greater incidence than in the general population.{% cite shapiro1984a --file 06-37 %}
 
-Pathogenesis
+## Pathogenesis
 
 Our current understanding of the pathogenesis of epispadias is incomplete. Due to a scarcity of quality research, experts are still unsure of the embryologic origins and genetic mechanisms that give rise to epispadias. However, strides have been made in recent years with respect to identifying candidate genes in the BEEC, which would cover the development of isolated epispadias as well. von Lowtow _et al_ assessed 169 individuals with BEEC (recruited largely from Europe, geo-ethnic genetic origin not reported).{% cite lowtzow2016a --file 06-37 %} They identified several individuals with pathogenic copy number variants, including one with a previously reported duplication in 22q11. This region is also associated with 22q11 Deletion Syndrome (DiGeorge Syndrome), and CAKUT.{% cite sanna-cherchi2012a --file 06-37 %} A subsequent genome-wide association study (GWAS) meta-analysis combining 568 BEEC patients and 3,241 controls of European origin identified an association with a locus containing the transcriptional enhancer ISL1 (p = 2.22 × 10−08).{% cite arkani2018a draaken2015a reutter2014a reutter2007a zhang2017a --file 06-37 %} Further functional and model studies reinforced a possible causal role for ISL1 in BEEC. For example, developmental biology models were used to clarify the location of ISL1 activity in the forming urinary tract.{% cite zhang2017a --file 06-37 %} Genetic lineage analysis of ISL1-expressing cells by a lineage tracer mouse model showed ISL1-expressing cells in the urinary tract of mouse embryos.{% cite zhang2017a --file 06-37 %}
 

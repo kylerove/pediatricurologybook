@@ -5,6 +5,9 @@ sort-key: 03-17
 title: Megaureter
 description: Chapter 17 discusses megaureter, its origins, diagnosis, and treatment.
 thumbnail: 03-17_megaureter.png
+authors:
+  -
+    author-id: 33
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,11 +21,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-14 KR
 ---
-
-By **Marie-Klaire Farrugia MD, MD (Res), FRCSEd (Paed Surg)**{:.author-names}  
-_Chelsea &amp; Westminster and Imperial College Hospitals, London, UK_{:.author-title}  
-_Imperial College London, London, UK_{:.author-title}
-{:.attribution}
 
 ## Introduction
 

@@ -5,6 +5,9 @@ sort-key: 05-28
 title: Undescended Testis
 description: Chapter 28 discusses male undescended testis, its causes, diagnosis and workup and treatment options.
 thumbnail: 05-28_undescended-testis.png
+authors:
+  -
+    author-id: 56
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,10 +21,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-14 KR
 ---
-
-By **Sang Hoon Song, MD, PhD**{:.author-names}  
-_Associate Professor, Department of Urology and Pediatric Urology, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Korea_{:.author-title}
-{:.attribution}
 
 ## Introduction
 

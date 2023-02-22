@@ -5,6 +5,13 @@ sort-key: 08-42
 title: Kidney and Adrenal Malignacies
 description: Chapter 42 summarizes pediatric malignancies in the kidney and adrenal gland.
 thumbnail: 08-42_kidney-and-adrenal-malignacies.png
+authors:
+  -
+    author-id: 89
+  -
+    author-id: 88
+  -
+    author-id: 87
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,12 +25,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: KR 2022-08-18
 ---
-
-By **Jonathan P. Walker**{:.author-names},<sup>1</sup> **Nicholas G. Cost**{:.author-names},<sup>2</sup> & **Amanda F. Saltzman**{:.author-names}<sup>3</sup>  
-_<sup>1</sup> University of Tennessee Chattanooga, Department of Urology, Chattanooga, TN, USA_{:.author-title}  
-_<sup>3</sup> University of Colorado, Department of Surgery, Division of Urology, & Children's Hospital Colorado, Aurora, CO, USA_{:.author-title}  
-_<sup>3</sup> University of Kentucky, Department or Urology & Pediatrics, Lexington, KY, USA_{:.author-title}
-{:.attribution}
 
 ## Tumors of the Adrenal Gland: Pheochromocytoma and Paraganglioma
 

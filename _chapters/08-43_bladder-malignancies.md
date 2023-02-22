@@ -5,6 +5,11 @@ sort-key: 08-43
 title: Bladder Malignancies
 description: Chapter 43 summarizes pediatric malignancies of the urinary bladder.
 thumbnail: 08-43_bladder-malignancies.png
+authors:
+  -
+    author-id: 90
+  -
+    author-id: 87
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,10 +23,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: KR 2022.08.16
 ---
-
-By **Jacqueline Morin, MD**{:.author-names} & **Amanda F. Saltzman, MD**{:.author-names}  
-_Department of Urology, University of Kentucky, Lexington, KY_{:.author-title}  
-{:.attribution}
 
 ## Introduction
 

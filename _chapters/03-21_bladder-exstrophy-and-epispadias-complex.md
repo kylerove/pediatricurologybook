@@ -5,6 +5,11 @@ sort-key: 03-21
 title: Bladder Exstrophy and Epispadias Complex
 description: Chapter 21 discusses bladder exstrophy and epispadias.
 thumbnail: 03-21_bladder-exstrophy-and-epispadias-complex.png
+authors:
+  -
+    author-id: 42
+  -
+    author-id: 43
 layout: chapter
 lang: en
 breadcrumbs:
@@ -18,10 +23,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-16 KR
 ---
-
-By **Adam Rensing, MD, FACS**{:.author-names} & **Dominic Frimberger, MD FACS, FAAP**{:.author-names}  
-_University of Oklahoma, Oklahoma City, OK, USA_{:.author-title}
-{:.attribution} 
 
 ## Introduction
 
