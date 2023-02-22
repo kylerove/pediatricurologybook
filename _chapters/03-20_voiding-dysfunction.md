@@ -23,6 +23,13 @@ breadcrumbs:
     permalink: /book/
 toc: true
 js: /assets/js/pages/chapter.js
+v1-permalinks:
+  -
+    title: Dysfunctional Voiding and Other Daytime Wetting Disorders  
+    link: https://v1.pediatricurologybook.com/dysfunc_void.html
+  -
+    title: Nocturnal Enuresis
+    link: https://v1.pediatricurologybook.com/Nocturnal_enuresis.html
 review-formatting-complete: 2023-01-14 KR
 ---
 

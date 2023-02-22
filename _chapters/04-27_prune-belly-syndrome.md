@@ -21,6 +21,10 @@ breadcrumbs:
     permalink: /book/
 toc: true
 js: /assets/js/pages/chapter.js
+v1-permalinks:
+  -
+    title: Prune Belly Syndrome
+    link: https://v1.pediatricurologybook.com/prune_belly.html
 review-formatting-complete: KR 2022-08-15
 ---
 

@@ -19,6 +19,10 @@ breadcrumbs:
     permalink: /book/
 toc: true
 js: /assets/js/pages/chapter.js
+v1-permalinks: 
+  -
+    title: Urodynamic Assessment
+    link: https://v1.pediatricurologybook.com/urodynamic.html
 review-formatting-complete: 2023-01-15 KR
 ---
 

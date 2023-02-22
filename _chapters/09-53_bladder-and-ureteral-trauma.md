@@ -21,6 +21,10 @@ breadcrumbs:
     permalink: /book/
 toc: true
 js: /assets/js/pages/chapter.js
+v1-permalinks:
+  -
+    title: Urinary Tract Trauma
+    link: https://v1.pediatricurologybook.com/urinary_tract_trauma.html
 review-formatting-complete: 2022-09-26 KR
 ---
 

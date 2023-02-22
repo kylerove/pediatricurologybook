@@ -25,6 +25,10 @@ breadcrumbs:
     permalink: /book/
 toc: true
 js: /assets/js/pages/chapter.js
+v1-permalinks:
+  -
+    title: Hydrocele and Hernia
+    link: https://v1.pediatricurologybook.com/inguinal_hernia.html
 review-formatting-complete: 2023-01-14 KR
 ---
 

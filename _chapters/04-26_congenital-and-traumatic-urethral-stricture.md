@@ -19,6 +19,10 @@ breadcrumbs:
     permalink: /book/
 toc: true
 js: /assets/js/pages/chapter.js
+v1-permalinks:
+  -
+    title: Prenatal Lower Urinary Tract Obstruction 
+    link: https://v1.pediatricurologybook.com/utobstruction.html
 review-formatting-complete: KR 2022-08-15
 ---
 

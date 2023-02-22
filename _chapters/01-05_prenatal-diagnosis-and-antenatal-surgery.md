@@ -23,6 +23,10 @@ breadcrumbs:
     permalink: /book/
 toc: true
 js: /assets/js/pages/chapter.js
+v1-permalinks: 
+  -
+    title: Embryology of the Urinary Tract and Perinatal Urology
+    link: https://v1.pediatricurologybook.com/embryology_urinary_tract.html
 review-formatting-complete: 2023-01-14 KR
 ---
 

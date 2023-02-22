@@ -25,6 +25,13 @@ breadcrumbs:
     permalink: /book/
 toc: true
 js: /assets/js/pages/chapter.js
+v1-permalinks:
+  -
+    title: Posterior Urethral Valves  
+    link: https://v1.pediatricurologybook.com/urethral_valves.html
+  -
+    title: Prenatal Lower Urinary Tract Obstruction 
+    link: https://v1.pediatricurologybook.com/utobstruction.html
 review-formatting-complete: 2023-01-14 KR
 ---
 

@@ -23,6 +23,10 @@ breadcrumbs:
     permalink: /book/
 toc: true
 js: /assets/js/pages/chapter.js
+v1-permalinks:
+  -
+    title: Phalloplasty
+    link: https://www.pediatricurologybook.com/phalloplasty.html
 review-formatting-complete: KR 2022-08-17
 ---
 

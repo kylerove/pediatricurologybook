@@ -21,6 +21,13 @@ breadcrumbs:
     permalink: /book/
 toc: true
 js: /assets/js/pages/chapter.js
+v1-permalinks:
+  -
+    title: Common Foreskin Problems and Hidden Penis 
+    link: https://v1.pediatricurologybook.com/foreskinprob.html
+  -
+    title: Phalloplasty
+    link: https://www.pediatricurologybook.com/phalloplasty.html
 review-formatting-complete: 2023-01-17 KR
 ---
 

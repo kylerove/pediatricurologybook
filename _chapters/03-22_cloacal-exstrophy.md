@@ -23,6 +23,13 @@ breadcrumbs:
     permalink: /book/
 toc: true
 js: /assets/js/pages/chapter.js
+v1-permalinks:
+  -
+    title: Bladder Exstrophy-Epispadias Complex and Cloacal Exstrophy
+    link: https://v1.pediatricurologybook.com/bladder_exstrophy.html
+  -
+    title: Long-term Outcomes and Adolescent Management of Epispadias, Exstrophy and Prune Belly Syndrome
+    link: https://v1.pediatricurologybook.com/long_term_outcomes.html
 review-formatting-complete: 2023-01-14 KR
 ---
 

@@ -21,6 +21,10 @@ breadcrumbs:
     permalink: /book/
 toc: true
 js: /assets/js/pages/chapter.js
+v1-permalinks:
+  -
+    title: Epispadias
+    link: https://v1.pediatricurologybook.com/epispadias.html
 review-formatting-complete: 2023-01-16 KR
 ---
 

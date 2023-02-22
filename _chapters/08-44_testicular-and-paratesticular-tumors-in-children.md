@@ -19,6 +19,13 @@ breadcrumbs:
     permalink: /book/
 toc: true
 js: /assets/js/pages/chapter.js
+v1-permalinks:
+  -
+    title: Rhabdomyosarcoma
+    link: https://v1.pediatricurologybook.com/rhabdomyosarcoma.html
+  -
+    title: Testicular Tumours
+    link: https://v1.pediatricurologybook.com/tumors.html
 review-formatting-complete: KR 2022.08.07
 ---
 

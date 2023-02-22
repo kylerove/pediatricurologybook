@@ -19,6 +19,13 @@ breadcrumbs:
     permalink: /book/
 toc: true
 js: /assets/js/pages/chapter.js
+v1-permalinks:
+  -
+    title: Abnormalities of Migration and Fusion
+    link: https://v1.pediatricurologybook.com/kidney_fusion.html
+  -
+    title: Duplex Kidneys
+    link: https://v1.pediatricurologybook.com/duplex-kidney.html
 review-formatting-complete: 2023-01-14 KR
 ---
 

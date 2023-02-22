@@ -19,6 +19,10 @@ breadcrumbs:
     permalink: /book/
 toc: true
 js: /assets/js/pages/chapter.js
+v1-permalinks:
+  -
+    title: Undescended Testis
+    link: https://v1.pediatricurologybook.com/undesendedtestes.html
 review-formatting-complete: 2023-01-14 KR
 ---
 

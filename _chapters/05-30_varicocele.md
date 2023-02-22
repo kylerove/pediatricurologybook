@@ -23,6 +23,10 @@ breadcrumbs:
     permalink: /book/
 toc: true
 js: /assets/js/pages/chapter.js
+v1-permalinks:
+  -
+    title: Varicocele
+    link: https://v1.pediatricurologybook.com/Varicocele.html
 review-formatting-complete: KR 2022-08-16
 ---
 

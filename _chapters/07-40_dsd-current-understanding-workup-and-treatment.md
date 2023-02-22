@@ -21,6 +21,13 @@ breadcrumbs:
     permalink: /book/
 toc: true
 js: /assets/js/pages/chapter.js
+v1-permalinks:
+  -
+    title: DSD—Issues for a Urologist
+    link: https://v1.pediatricurologybook.com/disorders.html
+  -
+    title: DSD—Issues for an Endocrinologist
+    link: https://v1.pediatricurologybook.com/endocrinology.html
 review-formatting-complete: 2023-01-14 KR
 ---
 

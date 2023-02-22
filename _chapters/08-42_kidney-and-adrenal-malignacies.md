@@ -23,6 +23,13 @@ breadcrumbs:
     permalink: /book/
 toc: true
 js: /assets/js/pages/chapter.js
+v1-permalinks:
+  -
+    title: Renal Tumors
+    link: https://v1.pediatricurologybook.com/renal%20tumor.html
+  -
+    title: Adrenal Tumors—Neuroblastoma and Pheochromocytoma
+    link: https://v1.pediatricurologybook.com/adrenaltumours.html
 review-formatting-complete: KR 2022-08-18
 ---
 

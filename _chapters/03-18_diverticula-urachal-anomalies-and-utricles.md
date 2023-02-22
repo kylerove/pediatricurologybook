@@ -23,6 +23,10 @@ breadcrumbs:
     permalink: /book/
 toc: true
 js: /assets/js/pages/chapter.js
+v1-permalinks:
+  -
+    title: Diverticulum and Urachal Anomalies 
+    link: https://v1.pediatricurologybook.com/urachal_anomolies.html
 review-formatting-complete: 2023-01-16 KR
 ---
 

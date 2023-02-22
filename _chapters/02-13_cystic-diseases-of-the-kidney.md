@@ -23,6 +23,13 @@ breadcrumbs:
     permalink: /book/
 toc: true
 js: /assets/js/pages/chapter.js
+v1-permalinks:
+  -
+    title: Multicystic Dysplastic Kidney
+    link: https://v1.pediatricurologybook.com/muticystic_.html
+  -
+    title: Cystic Kidney Disease
+    link: https://v1.pediatricurologybook.com/cystic_kidney_disease.html
 review-formatting-complete: KR 2022-09-03
 ---
 

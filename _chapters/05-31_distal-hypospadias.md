@@ -23,6 +23,10 @@ breadcrumbs:
     permalink: /book/
 toc: true
 js: /assets/js/pages/chapter.js
+v1-permalinks:
+  -
+    title: Hypospadias
+    link: https://v1.pediatricurologybook.com/hypospadias.html
 review-formatting-complete: 2023-01-14 KR
 ---
 
@@ -150,7 +154,7 @@ Hypospadias is one of the most common congenital anomalies in newborn males. It 
 ## Resources for Patients
 {:.resources-head}
 
-- [Hypospadias & Epispadias Association](http://heainfo.org)
+- [Hypospadias & Epispadias Association](https://heainfo.org)
 {:.resources-list}
 
 ## Suggested Readings
