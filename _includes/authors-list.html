@@ -28,7 +28,7 @@
                     {%- assign affiliation_string_full = affiliation_string_full | append: ", " | append: affiliation_count -%}
                 {%- endif -%}
             {%- endfor -%}
-            {%- if forloop.index0 == 0 %}{{ the_translation.by-cap }}{% endif %}{% if forloop.index == author_count and author_count != 1 %} &amp; {% endif %}{% include authors-list-item.html this_author=the_author %}{% if forloop.index < author_count and author_count > 2 %}{{ the_translation.comma }}{% endif %} <a id="social-drop-{{ author_id }}" class="social-drop-down" aria-haspopup="true" aria-expanded="false"><i class="fa-regular fa-signal-stream"></i></a> <sup>{{ affiliation_string_full }}</sup> </span>
+            {%- if forloop.index0 == 0 %}{{ the_translation.by-cap }}{% endif %}{% if forloop.index == author_count and author_count != 1 %} &amp; {% endif %}{% include authors-list-item.html this_author=the_author %}{% if forloop.index < author_count and author_count > 2 %}{{ the_translation.comma }}{% endif %} <a href="#" id="social-drop-{{ author_id }}" class="social-drop-down" aria-haspopup="true" aria-expanded="false"><i class="fa-regular fa-signal-stream"></i></a> <sup>{{ affiliation_string_full }}</sup> </span>
         {%- endfor -%}
     </div>
     {%- for author in authors -%}
