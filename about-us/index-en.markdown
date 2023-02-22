@@ -37,7 +37,7 @@ The [Pediatric Urology Book](/) has been divided into several sections. In each 
 
 ## How Did We **Self-Publish**?
 
-Self-publishing is not for the faint of heart. You need _someone_ with knowledge of the internet (web servers, [hosting services](https://digitalocean.com), [domain names](https://cloudflare.com), HTML, CSS, Javascript) and frameworks to string it all together ([Git](https://git-scm.com), [GitHub](https://github.com), [Bootstrap](https://getbootstrap.com), [JQuery](https://jquery.com), [Ruby](https://www.ruby-lang.org/en/), [PanDoc](https://pandoc.org), [CSL](http://citationstyles.org/), and a sprinkling of [Perl](https://www.perl.org) and [Python](https://www.python.org)).
+Self-publishing is not for the faint of heart. You need _someone_ with knowledge of the internet (web servers, [hosting services](https://digitalocean.com), [domain names](https://cloudflare.com), HTML, CSS, Javascript) and frameworks to string it all together ([Git](https://git-scm.com), [GitHub](https://github.com), [Bootstrap](https://getbootstrap.com), [JQuery](https://jquery.com), [Ruby](https://www.ruby-lang.org/en/), [PanDoc](https://pandoc.org), [CSL](https://citationstyles.org/), and a sprinkling of [Perl](https://www.perl.org) and [Python](https://www.python.org)).
 
 Some key open source projects helped get this over the finish line:
 - [AnyStyle.io](https://anystyle.io) (parsed the raw references from authors' original submissions)

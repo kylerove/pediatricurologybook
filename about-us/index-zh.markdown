@@ -37,7 +37,7 @@ toc: false
 
 ## 我们是如何**自我发布的**？
 
-自我出版不适合胆小的人。您需要了解互联网（网络服务器、[Digital Ocean](https://digitalocean.com)、[Cloudflare](https://cloudflare.com)、HTML、CSS、Javascript）和框架的人将其串联在一起（[Git](https://git-scm.com)、[GitHub](https://github.com)、[Bootstrap](https://getbootstrap.com)、[JQuery](https://jquery.com)、[Ruby](https://www.ruby-lang.org/en/)、[PanDoc](https://pandoc.org)、[CSL](http://citationstyles.org/)以及[Perl](https://www.perl.org)和[Python](https://www.python.org)的洒水）。
+自我出版不适合胆小的人。您需要了解互联网（网络服务器、[Digital Ocean](https://digitalocean.com)、[Cloudflare](https://cloudflare.com)、HTML、CSS、Javascript）和框架的人将其串联在一起（[Git](https://git-scm.com)、[GitHub](https://github.com)、[Bootstrap](https://getbootstrap.com)、[JQuery](https://jquery.com)、[Ruby](https://www.ruby-lang.org/en/)、[PanDoc](https://pandoc.org)、[CSL](https://citationstyles.org/)以及[Perl](https://www.perl.org)和[Python](https://www.python.org)的洒水）。
 
 一些关键的开源项目帮助它越过了终点线：
 - [AnyStyle.io](https://anystyle.io) (解析作者原始提交的原始引用)

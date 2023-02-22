@@ -37,7 +37,7 @@ O [Livro de Urologia Pediátrica](/) foi dividido em várias seções. Em cada s
 
 ## Como Nós **Autopublicamos**?
 
-Autopublicação não é para os fracos de coração. Você precisa de alguém com conhecimento da internet (servidores da web, [serviços de hospedagem](https://digitalocean.com), [nomes de domínio](https://cloudflare.com), HTML, CSS, Javascript) e estruturas para unir tudo ([Git](https://git-scm.com), [GitHub](https://github.com), [Bootstrap](https://getbootstrap.com), [JQuery](https://jquery.com), [Ruby](https://www.ruby-lang.org/en/), [PanDoc](https://pandoc.org), [CSL](http://citationstyles.org/), e uma pitada de [Perl](https://www.perl.org) e [Python](https://www.python.org)).
+Autopublicação não é para os fracos de coração. Você precisa de alguém com conhecimento da internet (servidores da web, [serviços de hospedagem](https://digitalocean.com), [nomes de domínio](https://cloudflare.com), HTML, CSS, Javascript) e estruturas para unir tudo ([Git](https://git-scm.com), [GitHub](https://github.com), [Bootstrap](https://getbootstrap.com), [JQuery](https://jquery.com), [Ruby](https://www.ruby-lang.org/en/), [PanDoc](https://pandoc.org), [CSL](https://citationstyles.org/), e uma pitada de [Perl](https://www.perl.org) e [Python](https://www.python.org)).
 
 Alguns projetos-chave de código aberto ajudaram a superar isso na linha de chegada:
 - [AnyStyle.io](https://anystyle.io) (aperou as referências brutas das submissões originais dos autores)
