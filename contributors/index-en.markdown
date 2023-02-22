@@ -19,30 +19,30 @@ toc: true
 
 ## Geographic representation
 
-<img src="/assets/site-img/contributor-map.svg" class="img-fluid" alt="Geographic representation of Pediatric Urology Book contributors">
+<img src="/assets/site-img/contributor-map.svg" class="img-fluid" style="width:100%" alt="Geographic representation of Pediatric Urology Book contributors">
+
+We feel incredibly lucky to have worked with over 130 contributors from around the world, sharing their expertise through their contributions to the book. Some numbers to share with our readers:
+
+- {{ site.data.contributors.size }} contributors
+- Authors are from 23 different countries, spanning 6 continents
+- 59 chapters _(9 coming soon)_
+- 361 figures
+- 78 tables
+- 2,699 references (!)
 
 ## Contributors By Section
 
-{% assign translation = site.data.translations | where: "language",site.active_lang | first %}
+{% assign the_translation = site.data.translations | where: "language",site.active_lang | first %}
 {% assign the_sections = site.data.sections | sort: "number" %}
 {% for section in the_sections %}
     {% assign the_title = section.titles | where: "language",site.active_lang | first %}
-    {% if section.number != 0 %}
+    {% assign the_section_number = section.number | floor %}
+    {% if the_section_number != 0 %}
 
-### <span>{{ section.number }}</span> {{ the_title.title }}
+### <span>{{ the_section_number }}</span> {{ the_title.title }}
 
-
+    {% assign section_chapters = site.chapters | where: "section", forloop.index | sort: "sort-key" %}
+    {% include contributors-list.html chapters=section_chapters translation=the_translation %}
+    
     {% endif %}
-  
-    {% assign section_chapters = site.chapters | where: "section", i | sort: "sort-key" %}
-    <ul class="simple-post-list m-0 no_toc_section contributors">
-    {% for chapter in section_chapters %}
-        {% if chapter.chapter != 0 %}
-            {% for author in chapter.authors %}
-                {% assign the_contributor = site.data.contributors | where: "author-id",author.author-id | first %}
-                {% include contributors-list-item.html contributor=the_contributor %}
-            {% endfor %}
-        {% endif %}
-    {% endfor %}
-    </ul>
 {% endfor %}
