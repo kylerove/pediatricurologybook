@@ -1,0 +1,56 @@
+<table class="table table-sm" id="coi-liaison-editors-table">
+              <thead>
+                <tr>
+                  <th data-sort="string" data-sort-onload="yes">{{ include.translation.editor }}</th>
+                  <th data-sort="int">{{ include.translation.last-updated }}</th>
+                  <th data-sort="string">{{ include.translation.has-coi }}?</th>
+                  <th>{{ include.translation.coi-details }}</th>
+                </tr>
+              </thead>
+              <tbody>
+              {% for contributor in include.contributors %}
+                {% if contributor.liaison-editor == "yes" %}
+                {% if contributor.coi-date != null %}
+                <tr id="{{ contributor.last | append: "-" | append: contributor.first | append: "-" | append: contributor.middle | slugify: "latin" }}">
+                  <td data-sort-value="{{ contributor.last }}{{ contributor.first }}{{ contributor.middle }}">
+                    <a href="{{ site.url }}{{ site.baseurl }}/editors/#{{ contributor.last | append: "-" | append: contributor.first | append: "-" | append: contributor.middle | slugify: "latin" }}">{{ contributor.first }} {{ contributor.middle }} {{ contributor.last }}{% if contributor.deg1 != null %}, {{ contributor.deg1 }}{% endif %}{% if contributor.deg2 != null %}, {{ contributor.deg2 }}{% endif %}{% if contributor.deg3 != null %}, {{ contributor.deg3 }}{% endif %}{% if contributor.deg4 != null %}, {{ contributor.deg4 }}{% endif %}{% if contributor.deg5 != null %}, {{ contributor.deg5 }}{% endif %}{% if contributor.deg6 != null %}, {{ contributor.deg6 }}{% endif %}{% if contributor.deg7 != null %}, {{ contributor.deg7 }}{% endif %}</a>
+                  </td>
+                  <td data-sort-value="{{ contributor.coi-date | replace:"-","" }}">{{ contributor.coi-date }}</td>
+                  {% if contributor.coi-yesno == "yes" %}
+                  <td data-sort-value="yes">
+                    <i class="fas fa-plus-square warning" data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.has-relevant-disclosures }}"></i>
+                  </td>
+                  {% else %}
+                  <td data-sort-value="no">
+                    <i class="fas fa-minus-square secondary" data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.no-disclosures }}"></i>
+                  </td>
+                  {% endif %}
+                  <td>
+        {% if contributor.coi-research-personal      != null or contributor.coi-research-family      != null %}<i class="fas fa-flask"            data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.research }}: {% if contributor.coi-research-personal != null %} {{ contributor.coi-research-personal }} (personal){% endif %}{% if contributor.coi-research-personal      != null and contributor.coi-research-family      != null %} / {% endif %}{% if contributor.coi-research-family != null %} {{ contributor.coi-research-family }} (family){% endif %}"></i>{% endif %}
+        {% if contributor.coi-investment-personal    != null or contributor.coi-investment-family    != null %}<i class="fas fa-hand-holding-usd" data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.investment }}: {% if contributor.coi-investment-personal != null %} {{ contributor.coi-investment-personal }} (personal){% endif %}{% if contributor.coi-investment-personal      != null and contributor.coi-investment-family      != null %} / {% endif %}{% if contributor.coi-investment-family != null %} {{ contributor.coi-investment-family }} (family){% endif %}"></i>{% endif %}
+        {% if contributor.coi-employee-personal      != null or contributor.coi-employee-family      != null %}<i class="fas fa-address-card"     data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.employee }}: {% if contributor.coi-employee-personal != null %} {{ contributor.coi-employee-personal }} (personal){% endif %}{% if contributor.coi-employee-personal      != null and contributor.coi-employee-family      != null %} / {% endif %}{% if contributor.coi-employee-family != null %} {{ contributor.coi-employee-family }} (family){% endif %}"></i>{% endif %}
+        {% if contributor.coi-expertwitness-personal != null or contributor.coi-expertwitness-family != null %}<i class="fas fa-balance-scale"    data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.expert-witness }}: {% if contributor.coi-expertwitness-personal != null %} {{ contributor.coi-expertwitness-personal }} (personal){% endif %}{% if contributor.coi-expertwitness-personal      != null and contributor.coi-expertwitness-family      != null %} / {% endif %}{% if contributor.coi-expertwitness-family != null %} {{ contributor.coi-expertwitness-family }} (family){% endif %}"></i>{% endif %}
+        {% if contributor.coi-speaker-personal       != null or contributor.coi-speaker-family       != null %}<i class="fas fa-microphone-alt"   data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.speaker }}: {% if contributor.coi-speaker-personal != null %} {{ contributor.coi-speaker-personal }} (personal){% endif %}{% if contributor.coi-speaker-personal      != null and contributor.coi-speaker-family      != null %} / {% endif %}{% if contributor.coi-speaker-family != null %} {{ contributor.coi-speaker-family }} (family){% endif %}"></i>{% endif %}
+        {% if contributor.coi-consultant-personal    != null or contributor.coi-consultant-family    != null %}<i class="fas fa-ad"               data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.consultant-advisor }}: {% if contributor.coi-consultant-personal != null %} {{ contributor.coi-consultant-personal }} (personal){% endif %}{% if contributor.coi-consultant-personal      != null and contributor.coi-consultant-family      != null %} / {% endif %}{% if contributor.coi-consultant-family != null %} {{ contributor.coi-consultant-family }} (family){% endif %}"></i>{% endif %}
+        {% if contributor.coi-owner-personal         != null or contributor.coi-owner-family         != null %}<i class="fas fa-briefcase"        data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.ownership-interest-patent-royalties }}: {% if contributor.coi-owner-personal != null %} {{ contributor.coi-owner-personal }} (personal){% endif %}{% if contributor.coi-owner-personal      != null and contributor.coi-owner-family      != null %} / {% endif %}{% if contributor.coi-owner-family != null %} {{ contributor.coi-owner-family }} (family){% endif %}"></i>{% endif %}
+        {% if contributor.coi-leadership-personal   != null or contributor.coi-leadership-family   != null %}<i class="fas fa-building"         data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.leadership }}: {% if contributor.coi-leadership-personal != null %} {{ contributor.coi-leadership-personal }} (personal){% endif %}{% if contributor.coi-leadership-personal      != null and contributor.coi-leadership-family      != null %} / {% endif %}{% if contributor.coi-leadership-family != null %} {{ contributor.coi-leadership-family }} (family){% endif %}"></i>{% endif %}
+        {% if contributor.coi-publishing-personal    != null or contributor.coi-publishing-family    != null %}<i class="fas fa-upload"           data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.health-publishing }}: {% if contributor.coi-publishing-personal != null %} {{ contributor.coi-publishing-personal }} (personal){% endif %}{% if contributor.coi-publishing-personal      != null and contributor.coi-publishing-family      != null %} / {% endif %}{% if contributor.coi-publishing-family != null %} {{ contributor.coi-publishing-family }} (family){% endif %}"></i>{% endif %}
+        {% if contributor.coi-other-personal         != null or contributor.coi-other-family         != null %}<i class="fas fa-circle-notch"     data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.other }}: {% if contributor.coi-other-personal != null %} {{ contributor.coi-other-personal }} (personal){% endif %}{% if contributor.coi-other-personal      != null and contributor.coi-other-family      != null %} / {% endif %}{% if contributor.coi-other-family != null %} {{ contributor.coi-other-family }} (family){% endif %}"></i>{% endif %}
+                  </td>
+                </tr>
+                {% else %}
+                <tr>
+                  <td data-sort-value="{{ contributor.last }}{{ contributor.first }}{{ contributor.middle }}">
+                    <a href="{{ site.url }}{{ site.baseurl }}/editors/#{{ contributor.last | append: "-" | append: contributor.first | append: "-" | append: contributor.middle | slugify: "latin" }}">{{ contributor.first }} {{ contributor.middle }} {{ contributor.last }}{% if contributor.deg1 != null %}, {{ contributor.deg1 }}{% endif %}{% if contributor.deg2 != null %}, {{ contributor.deg2 }}{% endif %}{% if contributor.deg3 != null %}, {{ contributor.deg3 }}{% endif %}{% if contributor.deg4 != null %}, {{ contributor.deg4 }}{% endif %}{% if contributor.deg5 != null %}, {{ contributor.deg5 }}{% endif %}{% if contributor.deg6 != null %}, {{ contributor.deg6 }}{% endif %}{% if contributor.deg7 != null %}, {{ contributor.deg7 }}{% endif %}</a>
+                  </td>
+                  <td data-sort-value="0">&mdash;</td>
+                  <td data-sort-value="missing">
+                    <i class="fas fa-question-circle danger" data-toggle="tooltip" data-placement="top" title="" data-original-title="{{ include.translation.not-filed }}!"></i>
+                  </td>
+                  <td>&mdash;</td>
+                </tr>
+                {% endif %}
+                {% endif %}
+              {% endfor %}
+              </tbody>
+            </table>

@@ -40,8 +40,9 @@ We feel incredibly lucky to have worked with over 130 contributors from around t
     {% if the_section_number != 0 %}
 
 ### <span>{{ the_section_number }}</span> {{ the_title.title }}
+---------------
 
-    {% assign section_chapters = site.chapters | where: "section", forloop.index | sort: "sort-key" %}
+    {% assign section_chapters = site.chapters | where: "section", forloop.index0 | sort: "sort-key" %}
     {% include contributors-list.html chapters=section_chapters translation=the_translation %}
     
     {% endif %}
