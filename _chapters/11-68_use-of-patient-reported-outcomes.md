@@ -74,7 +74,7 @@ The age, developmental stage, and cognitive ability of the respondents are key f
 
 - *Youth Self Reports*, which are the youth responding to a direct question about their experience. For example, a youth questionnaire for spina bifida asks, "To what extent do urine problems stop *you* from doing fun things?"{% cite szyma2017a --file 11-68 %}
 - *Caregiver Proxy* *Reports* are forms designed to assess PROs in young children or the cognitively impaired, and are designed to be completed by the caregiver of the subject in question. In these reports, the caregiver reports on the subject's outcomes based upon feedback from or observations of the subject. For instance, a proxy report in spina bifida might ask, "How, if at all, has your child's social life been affected by continence-related concerns?"
-- *Parent or Caregiver Reports* are designed to assess the caregiver's personal experiences and condition or day-to-day life. For example, a parent/caregiver report in spina bifida might ask, "How much, if at all, have the patient's continence-related concerns affected [your]{.underline} \[the parent/caregiver's\] social life?"
+- *Parent or Caregiver Reports* are designed to assess the caregiver's personal experiences and condition or day-to-day life. For example, a parent/caregiver report in spina bifida might ask, "How much, if at all, have the patient's continence-related concerns affected **_your_** \[the parent/caregiver's\] social life?"
 
 #### What are the Domains Being Measured
 
