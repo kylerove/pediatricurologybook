@@ -3,11 +3,11 @@ section: 08
 chapter: 46
 sort-key: 08-46
 title: Concepts on the Oncology Team
-description: Chapter 46 .
+description: Chapter 46 discusses the important topic of multidisciplinary care around pediatric and adolescent, young adult oncology.
 thumbnail: 08-46_concepts-on-the-oncology-team.md.png
 authors:
   -
-    author-id: 
+    author-id: 136
 layout: chapter
 lang: en
 breadcrumbs:
@@ -85,9 +85,9 @@ New research should be directed to investigate better methods to support these h
 
 {% bibliography --file 08-46 %}
 
-*[MDT]: 
-*[MDTs]: 
-*[US]: 
-*[CDSS]: 
-*[EMRs]: 
-*[CDS]: 
+*[MDT]: multidisciplinary team
+*[MDTs]: multidisciplinary teams
+*[US]: ultrasound
+*[CDSS]: clinical decision support system
+*[EMRs]: electronic medical records
+*[CDS]: clinical decision support
