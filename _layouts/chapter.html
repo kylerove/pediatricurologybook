@@ -35,6 +35,10 @@ layout: default
     
             {{ content | toc_only }}
             
+            {% if page.v1-permalinks != nil %}
+                {% include prior-version-links.html links=page.v1-permalinks the_translation=translation %}
+            {% endif %}
+            
             </aside>
           </div>
           <div class="col-lg-9 order-1 order-lg-2 chapter-body">

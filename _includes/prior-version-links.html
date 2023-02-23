@@ -1,0 +1,9 @@
+{%- assign the_translation = include.the_translation -%}
+{%- assign links = include.links -%}
+
+<h5 class="font-weight-bold no_toc"> {{ the_translation.prior-version-links }}</h5>
+<ul class="prior-version-links">
+{% for link in links %}
+    <li><a href="{{ link.link }}" title="{{ link.title }}">{{ link.title }}<small> (v1)</small></a></li>
+{% endfor %}
+</ul>
