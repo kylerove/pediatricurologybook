@@ -128,6 +128,7 @@
   link-to-external-site: Link to external website
   by-cap: "By "
   comma: ","
+  prior-version-links: Prior Version Related Links
 - 
   language: es
   about-us: Sobre Nosotros
@@ -257,6 +258,7 @@
   link-to-external-site: Enlace a sitio web externo
   by-cap: "Por "
   comma: ","
+  prior-version-links: Enlaces Relacionados con Versiones Anteriores
 - 
   language: zh
   about-us: 关于我们
@@ -386,6 +388,7 @@
   link-to-external-site: 链接到外部网站
   by-cap: ""
   comma: "，"
+  prior-version-links: 先前版本相关链接
 - 
   language: pt
   about-us: Sobre Nós
@@ -515,3 +518,4 @@
   link-to-external-site: Link para site externo
   by-cap: "Por "
   comma: ","
+  prior-version-links: Links Relacionados à Versão Anterior
