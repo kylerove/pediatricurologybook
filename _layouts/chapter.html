@@ -7,7 +7,7 @@ layout: default
     {% assign page_section = page.section | floor %}
     {% assign section = site.data.sections | where: "number", page_section | first %}
     {% assign section_title = section.titles | where: "language", site.active_lang | first %}
-    {% assign section_title_slug = section_title.title | slugify %}
+    {% assign section_title_slug = section_title.title | slugify: "latin" %}
     <div role="main" class="main">
       <section class="page-header page-header-modern bg-color-primary page-header-md">
         <div class="container">
