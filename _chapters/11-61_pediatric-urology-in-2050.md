@@ -87,6 +87,7 @@ By **Marie-Klaire Farrugia**{:.author-names}
 Antenatal ultrasound and fetal MRI will be obsolete. Fetal anatomy will be visualised by 3D augmented reality, using smart phones. The fetal anatomy can then be analysed digitally and fetal measurements automatically plotted onto growth charts. Artificial intelligence (AI) will capture data instantaneously and provide a medical report. When a group of anomalies is identified, AI will suggest genetic, syndromic or other diagnoses and provide information on prognosis and further management. For example, if fetal lower urinary tract obstruction is diagnosed, the application can then formulate a "virtual cystoscopy," augmented reality model to further delineate the cause of obstruction. Fetal renal cortical analysis (utilising data from echogenicity, cortical thickness or cysts, with the potential addition of fetal urine peptide signature) will estimate fetal renal function. Amniotic fluid level and its components will be measured utilising density and reflectivity data, without the need for invasive testing. Based on AI algorithms, the application will determine whether fetal intervention is indicated, and when. Once intervention is recommended, a special headset is worn by the specialist, whereby computer-generated laser holograms superimpose the safest pathway for the fetal cystoscope to be introduced, on the maternal abdomen. A flexible fetal cystoscope can then be inserted in an antegrade fashion via the fetal abdomen, into the bladder, and the urethra stented with a made-to-measure pre-formed coiled stent which can be "shot" into the urethra. The biggest challenge will be consent, in an era where surgery on the fetus without its consent is controversial.
 
 ### Comment
+{:.no_toc}
 
 Pregnancy and the developing fetus was once a "black box" of medicine. Now, with better understanding of fetal development, and technological advancements in prenatal imaging and prenatal interventions, the fetus has become as much of a patient as its host. Fetal medicine will continue to grow as a field the more we learn and are able to do during the earliest stages of development. We currently have multiple pediatric subspecialities, but who knows if in the future, we will have fetal subspecialties, including fetal urologists.
 
@@ -106,6 +107,7 @@ In the 2020s, the public discourse focused on the role of social media and "big 
 The consortium confirmed the poor reliability of renal sonography to detect upper urinary tract abnormalities and the improved sensitivity of DMSA and MRU in identifying renal involvement.{% cite mahant2002a bjorgvinsson1991a mackenzie1994a --file 11-61 %} However, there was limited utility in employing a top-down approach the longer the interval between the symptomatic UTI and presentation for evaluation. The "bottom-up" approach had greater sensitivity for the detection of all cases of VUR. Superficially the age-old controversies pitting one form of invasive testing versus another were unresolved, until the inclusion of biomarker data of host-pathogen interaction. Using this multi-variable approach, the consortium proved the superiority of the "top-down" approach where serum and urine biomarkers served as a proxy for DMSA scans.{% cite rahimzadeh2014a --file 11-61 %} A biochemical risk profile could then be created to inform further evaluation by voiding urosonography rather than by VCUG. As clinical data were entered into a risk calculator, the likelihood of the patient's microbiome developing resistance, the likelihood of breakthrough symptomatic UTI and the likelihood of reflux resolution were generated. Not unlike the Partin tables for the prediction of prostate cancer disease progression, the VUR nomograms informed treatment selection; antimicrobial prophylaxis versus surgical correction. At the time of publication, the consortium foresaw that, in addition to foregoing ionizing radiation in the algorithm, catheterization would no longer be required as a new, ultra-fast MRI protocol resulted in rendering intra-vesical urine bright, thus creating the means for cystography without radiation or catheterization. The group celebrated their accomplishment the following year at the Wee Willies July 2051, Anchorage, Alaska, overlooking the leading edge of Portage Glacier as it once again filled the lake of the same name.
 
 ### Comment
+{:.no_toc}
 
 Our understanding of urinary tract infections and vesicoureteral reflux (VUR) in children has greatly evolved over the past 50 years -- from believing that VUR was rare and caused by bladder outlet obstruction to better understanding its natural history, association with bowel and bladder dysfunction, etc. Both parents and pediatric urologists would welcome a world in which the work-up for a febrile urinary tract infection in a child would no longer include invasive testing. In addition, individualized and accurate risk assessment, potentially determined by a nomogram app, would greatly improve our care.
 
@@ -125,6 +127,7 @@ Finally, a framework is being established for a universal database utilizing the
 We can never accurately predict the future, but my hope is that we can harness technologic advances to provide a level of care that we are not yet capable of doing.
 
 ### Comment
+{:.no_toc}
 
 It is true that the lack of objective assessment and standardization limits our ability to assess outcomes for hypospadias surgery, and perhaps technology or even artificial intelligence, can one day facilitate that. But, it may not be until we are able to tissue engineer a urethra or corpora spongiosal tissue, that we can actually significantly improve our surgical outcomes.
 
@@ -140,6 +143,7 @@ Lithotripsy is complex, and while dangerous to bet against urologic ingenuity, w
 Switching to hot science, a rule-shattering finding has the potential to upend lithotripsy. Calcium stone formation has traditionally been modelled unidirectionally, unrelenting, with periods of stasis and growth. Once a clinic I will encounter a patient's family wondering hopefully about a chemical stone dissolution formulation and its predatory, FDA-flouting claims. It turns out, someday, those might work. Stones are constantly in the process of formation and dissolution with over half of all stones undergoing such events.{% cite sivaguru2018a sivaguru2021a --file 11-61 %} Agents that enhance dissolution at the margin may truly dissolve calcium stones. I suspect we will need to keep our supply closets stocked with lithotripsy equipment for some time, as this would be implemented as treatment or secondary prevention in patients already presenting with stones, but we all can dream of a day in which stones can be washed away through diet, or endoluminal application of a medication.
 
 ### Comment
+{:.no_toc}
 
 The rising prevalence of pediatric stone disease has led to significant patient morbidity, in addition to a costly burden on the health care system. With stone disease comes emergency room visits, prescriptions, imaging with potential exposure to radiation, and invasive procedures. It would be remarkable to have a safe litholytic agent that could react with a stone to form a water-soluble compound. We are also looking forward to advancements in technology that would allow for better endoscopic visualization, safer lasering techniques, and of course, stents associated with less stent discomfort.
 
@@ -161,6 +165,7 @@ By well before 2050 we will know what the optimal course of action is, not just 
 If science continues to advance as fast as it has for the last 30 years, we will see even greater advances. Perhaps fetal surgery will become so safe that we can close the bladder in utero, to allow for the additional 3--4 months of bladder cycling before birth, thus shifting the timeline for bladder growth. Or, while our current dream is to repair BE to make a functioning bladder, perhaps by 2050 our understanding of the genetics of exstrophy will be robust and we will have a better understanding of what leads to exstrophy, and with the potential of gene editing, we could prevent bladder exstrophy altogether\... As Yogi Berra said, "It\'s tough to make predictions, especially about the future."
 
 ### Comment
+{:.no_toc}
 
 The Bladder exstrophy-epispadias complex is one of the most complex anomalies in Pediatric Urology, involving anatomic, functional, cosmetic, sexual, reproductive and psychosocial factors. Regionalization of care for rare congenital disorders has long been advocated by physicians and health care leaders, as it has been proven to improve survival and reduce disability. However, it is important to also have a supportive and well-organized healthcare system that allows for access to these centers of excellence in order to prevent disparities between different patient populations.
 
@@ -186,6 +191,7 @@ Where the future will take us is unclear. The task of the professionals is to pr
 This approach may prevent us from having a group of non-operated activists asking us to adjust our approach in a few decades\' time. In this way, we avoid the pendulum swinging too far between the extremes of early and late surgery.
 
 ### Comment
+{:.no_toc}
 
 Caring for patients with DSD continues to be a struggle in the setting of societies that do not totally embrace a more non-binary, fluid view of sexual identity. We hope that in 2050, this will be different. There is widespread concern in the medical community regarding legislation regulating medical care. Most believe that changes in medicine should be based on scientific research and medical guidelines, as these changes are evidence-based and can happen within months and even weeks. It would be impossible to apply legislation in this fast-paced setting. In addition, we know there is nothing absolute in medicine; There is no 100%; There is always an exception to every rule. The viewpoint that every child should be celebrated as an individual is one that we agree is fundamental, yet the very nature of legislation often fails to take into account the specific needs of each patient.
 
@@ -209,6 +215,7 @@ Management of neurogenic bladder principles consists of adequately treating the 
 An evolution in nanotechnology may solve these challenges. Nanomedicine can be applied to improve the specificity of a drug's action, in addition to regenerating and restoring organic functions. Will future generations be able to regenerate the neural tissue affected in MMC or even reprogram the functionality of a neurogenic bladder?
 
 ### Comment
+{:.no_toc}
 
 So much of what we do every day, as pediatric urologists, centers around restoring function to existing anatomy. The neuropathic bladder is one of our biggest challenges. Although there have been significant advancements in the care of spina bifida patients, including fetal intervention, it is exciting to think that pluripotent stem cells could one day develop into a functioning bladder, obviating the need for major reconstructive surgery.
 
@@ -230,6 +237,7 @@ But illness will always be most often the result of the interaction between an i
 Of course, as the great scientist Niels Bohr purportedly said, "Prediction is difficult, especially when dealing with the future," and there is a good chance that future basic research will focus on areas we do not even know exist yet. And, technology has accelerated so much in the past decades that what we have just described might just be the research of 2025. And in reality, by the time we reach 2050, the questions basic science will be concentrating on might well concern the conditions of life on Mars.{% cite bowie-a --file 11-61 %}
 
 ### Comment
+{:.no_toc}
 
 We live in a world in which randomized control trials are considered the *sine qua non* of medical research, as they reveal the most generalizable results. It is remarkable to think that the future of medical research may include more N-of-1 or single subject clinical trials, where an individual patient is the sole unit of observation in a study. This would be the ultimate in individualized medical care.
 
@@ -245,6 +253,7 @@ What does the future hold for AI in pediatric urology in the next few decades? L
 As is the case with many other emergent technologies, caution is warranted. The quality of the data as well as the use of high-level and appropriate methodology ensures proper development of an initial algorithm.{% cite kwong2021a --file 11-61 %} However, further steps are needed to ensure generalizability and minimize bias, common problems in many of the tools that are being generated for different classification and prediction products. Equally important is the issue of blind trust in these tools, which commonly have the so-called "*black box effect"* (i.e., opacity in how the ML algorithm works). The benefits in automation, speed, and ability to deal with complex data becomes meaningless if there is lack of regulation and human supervision.
 
 ### Comment
+{:.no_toc}
 
 John McCarthy, an American computer and cognitive scientist, first described the term artificial intelligence (AI) in 1956 as the science and engineering of making intelligent machines. Now, Fitbit, Apple, and other health trackers can monitor an individual's heart rate, activity levels, sleep levels, and EKG tracings. In the medical field, we have become accustomed to AI helping us peripherally---scheduling of appointments, online check-ins in medical centers, digitization of medical records, reminder calls for follow-up appointments. The question is whether patients and physicians will ever truly trust AI to help diagnose patients, recommend treatment, make predictions about patients\' future health---even with our supervision.
 
