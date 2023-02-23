@@ -38,8 +38,7 @@ The urachus is a tubular structure that connects the allantois at the umbilicus 
 {:.drop-caps}
 
 ![Figure 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-18-1.jpeg){:.float-start .img-fluid}  
-
-[Figure 1](#figure-1){:.figure-link}. Intraperitoneal laparoscopic view of the urachus. The fibrous cord of the urachus (median umbilical ligament) is shown in the midline extending down to the dome of the bladder. The rectum is inferior. The vas deferens can be seen extending laterally just above the rectum.
+**Figure 1**{:#figure-1}{:.figure-number} Intraperitoneal laparoscopic view of the urachus. The fibrous cord of the urachus (median umbilical ligament) is shown in the midline extending down to the dome of the bladder. The rectum is inferior. The vas deferens can be seen extending laterally just above the rectum.
 
 The urachus is covered by the folds of peritoneum to form the median umbilical ligament. Rarely, the urachus may have gaps in the fibrous cord or even complete obliteration of the cord. It is an important surgical landmark for marking the dome of the bladder to ensure proper placement of a vesicostomy.
 

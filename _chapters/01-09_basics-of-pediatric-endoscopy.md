@@ -88,8 +88,7 @@ The AUA Best Practice Statement on Urologic Procedures and Antimicrobial Prophyl
 Prior to induction of anesthesia, endoscopic instruments should be inspected for completeness, compatibility, and function. This is especially important in pediatric endoscopy where various sizes of instruments and accessories are used. Following induction of general anesthesia and preprocedural antibiotic prophylaxis (when indicated), the patient is positioned into dorsal lithotomy ([Figure 1](#figure-1){:.figure-link}). In infants, small rolled towels or gel rolls can be placed under the knees and legs secured in place with tape. Larger children are positioned using stirrups. Genitalia and perineum are prepped with betadine containing antiseptic solution as alcohol and chlorhexidine-based preparations can damage mucus membranes. External anatomy is examined. Mild meatal stenosis can be treated with sequential dilation with McCrae sounds, whereas severe meatal stenosis may require formal meatotomy. Next, a lubricated cystoscope is passed into the urethra and irrigation is turned on. In male patients, the penis is placed on stretch and directed superiorly. This position is optimal for urethroscopy of the anterior urethra, then the surgeon's hand is dropped inferiorly to allow passage into the posterior urethra and bladder. Systematic evaluation of the bladder is performed, any ancillary interventions performed, and the urethra is visualized with active inflow of irrigation during regress of the cystoscope. Note, inspection of the augmented bladder may be difficult due to mucosal folds and mucus production. Irrigation of mucus out of the bladder and judicious use of irrigation can improve visualization. Overdistension of the augmented bladder should be avoided as this can lead to bladder perforation. The flexible cystoscope is passed per urethra in a similar fashion to a urethral catheter and the tip is deflected as needed for visualization and inspection upon entry into the bladder.
 
 ![Figure 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-09-1.jpeg){:.float-start .img-fluid}  
-
-**F**igure 1. Modified Dorsal Lithotomy. Careful positioning into modified dorsal lithotomy in a patient with osteogenesis imperfecta for ureteroscopic stone extraction.
+**Figure 1**{:#figure-1}{:.figure-number} Modified Dorsal Lithotomy. Careful positioning into modified dorsal lithotomy in a patient with osteogenesis imperfecta for ureteroscopic stone extraction.
 
 Cystoscopy can also be performed through a suprapubic tube tract, vesicostomy or catheterizable channel with similar technique. It is important to note surgical details (e.g. type of enteric segment used, channel trajectory, continence mechanism) prior to endoscopy. Catheterizable channels are delicate, and the scope should not be advanced until the lumen is visualized to avoid channel damage or perforation.
 
@@ -136,7 +135,7 @@ Following induction of general anesthesia and administration of guideline direct
 
 Contemporary series report overall complication rates of ureteroscopy ranging from 0-14% in pediatric patients and include urinary tract infection, hematuria, renal colic, post-operative hydronephrosis and ureteral injury.{% cite kucukdurmaz2018a tolga-gulpinar2015a dogan2011a ishii2014a --file 01-09 %} More severe complications (\> Clavien 3) are rare, with complete ureteral avulsion and sepsis occurring in \<1% of patients.{% cite coninck2020a --file 01-09 %} Younger age may be associated with an increased risk of complications following ureteroscopic procedures. A systematic review of 10 studies (1,377 procedures) demonstrated a higher complication rate in children \< 6 years (24%) compared to children \> 6 years (7.1%).{% cite ishii2014a --file 01-09 %}
 
-### *Postoperative Care and Follow Up* 
+### Postoperative Care and Follow Up
 
 Ureteroscopy is an outpatient surgical procedure in most cases. Postoperative pain is treated with nonsteroidal anti-inflammatories and use of opioid analgesics is limited. A recent double blinded, randomized control trial in adult patients demonstrated 10mg of ketorolac to be noninferior to 5mg of oxycodone for treatment of pain after ureteroscopy.{% cite fedrigon2021a --file 01-09 %} Patients with ureteral stents are prescribed anticholinergics and alpha blockers, as use may reduce ureteral stent associated symptoms.{% cite zhou2015a sivalingam2016a --file 01-09 %} Silent ureteral obstruction following ureteroscopy occurs in up to 3% of patients. Therefore, it is our practice to perform a renal ultrasound 4 weeks after ureteroscopy in all patients.{% cite weizer2002a --file 01-09 %}
 
@@ -201,26 +200,25 @@ Technologic advancements in endoscopic equipment have transformed the field of p
 ## Suggested Readings
 {:.suggested-readings-head}
 
-- 37
-- 25
-- 11
+- {% reference tekgul2021a --file 01-09 %}
+- {% reference kokorowski2012a --file 01-09 %}
+- {% reference duty2021a --file 01-09 %}
 {:.suggested-readings-list}
 
 ## References
 
 {% bibliography --file 01-09 %}
 
-*[MD]: 
-*[UPJ]: 
-*[UVJ]: 
-*[CMG]: 
-*[VUR]: 
-*[AUA]: 
-*[GU]: 
-*[TMP]: 
-*[SMX]: 
-*[YAG]: 
-*[ALARA]: 
-*[PCNL]: 
-*[CT]: 
-*[UTI]: 
+*[UPJ]: ureteropelvic junction
+*[UVJ]: ureterovesical junction
+*[CMG]: cystometrogram
+*[VUR]: vesicoureteral reflux
+*[AUA]: American Urological Association
+*[GU]: genitourinary
+*[TMP]: trimethoprim
+*[SMX]: sulfamethoxazole
+*[YAG]: yttrium aluminum garnet
+*[ALARA]: as low as reasonable achievable
+*[PCNL]: percutaneous nephrolithotomy
+*[CT]: computed tomography
+*[UTI]: urinary tract infection
