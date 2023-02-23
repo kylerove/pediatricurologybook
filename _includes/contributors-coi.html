@@ -9,7 +9,7 @@
               </thead>
               <tbody>
               {% for contributor in include.contributors %}
-                {% if contributor.editor != "yes" %}
+                {% if contributor.editor != "yes" and contributor.emeritus-editor != "yes" and contributor.liaison-editor != "yes" %}
                 {% if contributor.coi-date != null %}
                 <tr>
                   <td data-sort-value="{{ contributor.last }}{{ contributor.first }}{{ contributor.middle }}">
