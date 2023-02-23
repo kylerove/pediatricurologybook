@@ -49,6 +49,7 @@ Algunos proyectos clave de código abierto ayudaron a superar la línea de meta:
 Otras herramientas utilizadas en la realización de este libro:
 - [Sketch](https://www.sketch.com)
 - [Poppins font](https://fonts.adobe.com/fonts/poppins)
+- [Nova](https://nova.app)
 
 ## Quiénes **Somos**
 

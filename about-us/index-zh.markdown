@@ -49,6 +49,7 @@ toc: false
 制作这本书时使用的其他工具：
 - [Sketch](https://www.sketch.com)
 - [Poppins font](https://fonts.adobe.com/fonts/poppins)
+- [Nova](https://nova.app)
 
 ## 关于我们
 

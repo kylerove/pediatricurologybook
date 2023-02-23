@@ -49,6 +49,7 @@ Some key open source projects helped get this over the finish line:
 Other tools used in the making of this book:
 - [Sketch](https://www.sketch.com)
 - [Poppins font](https://fonts.adobe.com/fonts/poppins)
+- [Nova](https://nova.app)
 
 ## Who **We Are**
 

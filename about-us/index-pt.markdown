@@ -49,6 +49,7 @@ Alguns projetos-chave de código aberto ajudaram a superar isso na linha de cheg
 Outras ferramentas usadas na criação deste livro:
 - [Sketch](https://www.sketch.com)
 - [Poppins font](https://fonts.adobe.com/fonts/poppins)
+- [Nova](https://nova.app)
 
 ## Quem **Somos**
 
