@@ -25,6 +25,9 @@ v1-permalinks:
   -
     title: Prune Belly Syndrome
     link: https://v1.pediatricurologybook.com/prune_belly.html
+  -
+    title: Long-term Outcomes and Adolescent Management of Epispadias, Exstrophy and Prune Belly Syndrome
+    link: https://v1.pediatricurologybook.com/long_term_outcomes.html
 review-formatting-complete: KR 2022-08-15
 ---
 
