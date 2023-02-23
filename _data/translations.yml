@@ -129,6 +129,8 @@
   by-cap: "By "
   comma: ","
   prior-version-links: Prior Version Related Links
+  liaison-editor-f: Liaison Editor
+  liaison-editor: Liaison Editor
 - 
   language: es
   about-us: Sobre Nosotros
@@ -259,6 +261,8 @@
   by-cap: "Por "
   comma: ","
   prior-version-links: Enlaces Relacionados con Versiones Anteriores
+  liaison-editor-f: Editora de Enlace
+  liaison-editor: Editor de Enlace
 - 
   language: zh
   about-us: 关于我们
@@ -389,6 +393,8 @@
   by-cap: ""
   comma: "，"
   prior-version-links: 先前版本相关链接
+  liaison-editor-f: 联络编辑
+  liaison-editor: 联络编辑
 - 
   language: pt
   about-us: Sobre Nós
@@ -519,3 +525,5 @@
   by-cap: "Por "
   comma: ","
   prior-version-links: Links Relacionados à Versão Anterior
+  liaison-editor-f: Editora de Relacionamento
+  liaison-editor: Editor de Relacionamento
