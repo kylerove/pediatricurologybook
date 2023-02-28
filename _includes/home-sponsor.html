@@ -1,8 +1,8 @@
 {% assign sponsor = include.sponsor %}
-<div class="col-lg-4 mb-5 mb-lg-0 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="300">
+<div class="col-lg-3 mb-5 mb-lg-0 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="300">
 								<div class="testimonial testimonial-style-2 testimonial-with-quotes testimonial-remove-right-quote testimonial-quotes-dark mb-0">
 									<div>
-										<a href="{{ sponsor.url }}"><img src="{{ site.url }}{{ site.baseurl }}{{ sponsor.logo }}" class="img-fluid mb-0" maxheight="{{ sponsor.height }}" alt="{{ sponsor.name }}"></a>
+										<a href="{{ sponsor.url }}"><img src="{{ site.url }}{{ site.baseurl }}{{ sponsor.logo }}" class="img-fluid mb-0" style="max-height: {{ sponsor.height }}px;" alt="{{ sponsor.name }}"></a>
 									</div>
 									<div class="testimonial-author">
 										<p>{{ sponsor.location }}</p>

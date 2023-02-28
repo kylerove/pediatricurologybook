@@ -1,7 +1,4 @@
-# List of site sponsors
-# Last updated 2020-07-05
-
-- 
+-
   name: "Yale University School of Medicine"
   location: "New Haven, Connecticut, USA"
   logo: /assets/site-img/yale-university-logo-black-small.svg
@@ -11,8 +8,7 @@
   description-es: "La Escuela de Medicina de Yale educa y nutre a líderes creativos en medicina y ciencia, promoviendo la curiosidad y la investigación crítica en un entorno inclusivo enriquecido por la diversidad. Avanzamos en el descubrimiento y la innovación fomentados por asociaciones en toda la Universidad, nuestra comunidad local y el mundo. Cuidamos a los pacientes con compasión y nos comprometemos a mejorar la salud de todas las personas. La escuela se estableció en 1810 como la Institución Médica de Yale College. El nombre actual, Escuela de Medicina de Yale, fue adoptado en 1918."
   description-zh: "耶鲁医学院教育和培养医学和科学领域的创新领袖，在多元化的包容环境中促进好奇心和批判性探究。 我们通过大学、当地社区和世界各地的合作伙伴关系促进发现和创新。 我们以爱心关爱患者，致力于改善所有人的健康。 学校成立于 1810 年，当时是耶鲁大学的医学院。 现在的名称耶鲁医学院于 1918 年采用。"
   description-pt: "A Yale School of Medicine educa e nutre líderes criativos em medicina e ciência, promovendo a curiosidade e a investigação crítica em um ambiente inclusivo enriquecido pela diversidade. Promovemos a descoberta e a inovação promovidas por parcerias em toda a Universidade, nossa comunidade local e o mundo. Cuidamos dos pacientes com compaixão e nos comprometemos a melhorar a saúde de todas as pessoas. A escola foi fundada em 1810 como a Instituição Médica do Yale College. O nome atual, Yale School of Medicine, foi adotado em 1918."
-
-- 
+-
   name: "Children’s Hospital Colorado"
   location: "Aurora, Colorado, USA"
   logo: /assets/site-img/childrens-hospital-colorado-logo-centered-black.svg
@@ -22,8 +18,7 @@
   description-es: "Children's Colorado es una red pediátrica líder 100 % dedicada a la salud y el bienestar de niños, adolescentes y adultos jóvenes. Reconocido constantemente como uno de los 10 mejores hospitales pediátricos del país por U.S. News & World Report, Children's Colorado es reconocido a nivel nacional e internacional por sus programas médicos, de investigación, educación y defensa. Está a la vanguardia de la investigación en enfermedades infantiles y tratamientos pioneros que están dando forma al futuro de la pediatría, además de ofrecer atención diaria para niños en todo Colorado y los estados circundantes. Children's Colorado, fundado en 1908, ofrece una gama completa de atención centrada en la familia en sus ubicaciones de atención especializada, de urgencia y de emergencia en todo el área metropolitana de Denver y el sur de Colorado, incluida su ubicación en el campus médico de Anschutz."
   description-zh: "科罗拉多儿童医院是一个领先的儿科网络，100% 致力于儿童、青少年和年轻人的健康和福祉。 科罗拉多儿童医院一直被《美国新闻与世界报道》评为全美 10 大儿科医院之一，其医疗、研究、教育和宣传计划在国内外享有盛誉。 它处于儿童疾病研究的前沿，开创性的治疗方法正在塑造儿科的未来，并为科罗拉多州和周边各州的儿童提供日常护理。 Children's Colorado 成立于 1908 年，在其位于丹佛地铁和科罗拉多州南部的紧急、紧急和专业护理地点提供全方位的以家庭为中心的护理，包括其位于 Anschutz Medical Campus 的位置。"
   description-pt: "O Children's Colorado é uma rede pediátrica líder 100% dedicada à saúde e bem-estar de crianças, adolescentes e jovens adultos. Consistentemente reconhecido como um dos 10 principais hospitais pediátricos do país pelo US News & World Report, o Children's Colorado é reconhecido nacional e internacionalmente por seus programas médicos, de pesquisa, educação e defesa. Está na vanguarda da pesquisa em doenças infantis e tratamentos pioneiros que estão moldando o futuro da pediatria, além de oferecer cuidados diários para crianças em todo o Colorado e nos estados vizinhos. Fundado em 1908, o Children's Colorado oferece uma gama completa de cuidados centrados na família em seus locais de atendimento de urgência, emergência e especialidades em toda a região metropolitana de Denver e no sul do Colorado, incluindo sua localização no Anschutz Medical Campus."
-
-- 
+-
   name: "The University of Chicago Medicine"
   location: "Chicago, Illinois, USA"
   logo: /assets/site-img/university-of-chicago-logo-black.svg
@@ -33,3 +28,13 @@
   description-es: "La Universidad de Medicina de Chicago, con una historia que data de 1927, es un sistema de salud médico académico sin fines de lucro con sede en el campus de la Universidad de Chicago en Hyde Park, y con hospitales, clínicas ambulatorias y consultorios médicos en todo Chicago y sus alrededores. afueras. UChicago Medicine une a cinco organizaciones para cumplir su misión tripartita de educación médica, investigación y atención al paciente: Pritzker School of Medicine, Biological Sciences Division, Medical Center, Community Health and Hospital Division y UChicago Medicine Physicians."
   description-zh: "芝加哥大学医学院 (The University of Chicago Medicine) 的历史可追溯到 1927 年，是一个以芝加哥大学海德公园校区为基础的非营利性学术医疗卫生系统，在芝加哥及其周边地区设有医院、门诊诊所和医师诊所 郊区。 UChicago Medicine 联合五个组织来履行其医学教育、研究和患者护理的三方使命：Pritzker 医学院、生物科学部、医疗中心、社区卫生和医院部以及 UChicago Medicine Physicians。"
   description-pt: "A University of Chicago Medicine, com uma história que data de 1927, é um sistema de saúde médico acadêmico sem fins lucrativos baseado no campus da University of Chicago em Hyde Park, e com hospitais, clínicas ambulatoriais e consultórios médicos em Chicago e seus arredores. subúrbios. A UChicago Medicine une cinco organizações para cumprir sua missão tripartite de educação médica, pesquisa e atendimento ao paciente: Pritzker School of Medicine, Divisão de Ciências Biológicas, Centro Médico, Divisão de Saúde Comunitária e Hospitalar e Médicos de Medicina da UChicago."
+-
+  name: "Urología Pediátrica en Hospital Exequiel González Cortés"
+  location: "Santiago, Chile"
+  logo: /assets/site-img/hospital-exequiel-gonzalez-cortes-logo-black.svg
+  height: 170
+  url: https://www.urologiahegc.cl
+  description-en: "Since the beginning of the 1970s, Urología Pediátrica has seen and treated thousands of children together with their families, always seeking the best for the patient and their future, based on urology from an integral point of view. In the outpatient pediatric urology clinic you will be able to meet our team and it will be where we can talk and resolve all concerns about your child's urological diseases. Urología Pediátrica has top of the line operating rooms with the latest equipment to perform surgeries ranging from the simplest to the most complex."
+  description-es: "Desde principios de los años 70 hemos visto y tratado a miles de niños junto a sus familias, buscando siempre lo mejor para el paciente y su futuro, basándonos en la urología desde un punto de vista integral. En la consulta externa de urología pediátrica podrás conocer a nuestro equipo y será donde podamos hablar y resolver todas las dudas sobre las enfermedades urológicas de tu hijo. Urología Pediátrica cuenta con quirófanos de última generación con equipos de última generación para realizar cirugías desde las más sencillas hasta las más complejas."
+  description-zh: "自 20 世纪 70 年代初以来，我们已经看到并治疗了数以千计的儿童和他们的家人，始终从整体的角度基于泌尿外科为患者和他们的未来寻求最好的。 在门诊小儿泌尿科诊所，您将能够与我们的团队会面，我们将在这里讨论并解决有关您孩子泌尿系统疾病的所有问题。 Urología Pediátrica 拥有配备最新设备的顶级手术室，可进行从最简单到最复杂的手术。"
+  description-pt: "Desde o início da década de 1970 atendemos e tratamos milhares de crianças junto com suas famílias, sempre buscando o melhor para o paciente e seu futuro, tendo como base a urologia de um ponto de vista integral. No ambulatório de urologia pediátrica você poderá conhecer nossa equipe e será onde poderemos conversar e esclarecer todas as dúvidas sobre as doenças urológicas de seu filho. A Urología Pediátrica dispõe de salas cirúrgicas de primeira linha com equipamentos de última geração para realizar cirurgias das mais simples às mais complexas."
