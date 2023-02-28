@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Table of Contents
-description: List of all 67 chapters in Pediatric Urology Book.
+description: List of all 68 chapters in Pediatric Urology Book.
 thumbnail: table-of-contents.png
 permalink: /book/
 lang: en

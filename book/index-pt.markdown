@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Índice
-description: Lista de todos os 67 capítulos do Livro de Urologia Pediátrica.
+description: Lista de todos os 68 capítulos do Livro de Urologia Pediátrica.
 thumbnail: table-of-contents.png
 permalink: /book/
 lang: pt
