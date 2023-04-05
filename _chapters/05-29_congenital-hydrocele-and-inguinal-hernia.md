@@ -45,7 +45,7 @@ In the year 25 A.D., Celsus gave the first reference to hernia repair in childre
 
 Advances in medicine as well as post operative patient care have improved surgical techniques and surgical outcomes over time. Nowadays the surgical procedure is done similarly worldwide with minimal variations depending on the surgeon preferences and the chosen approach (laparoscopic vs conventional) for repair.
 
-![Figure 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-29-1.png){:.float-start .img-fluid}  
+![Figure 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-29-1.svg){:.float-start .img-fluid}  
 **Figure 1**{:#figure-1}{:.figure-number} Timeline
 
 ## Embryology
