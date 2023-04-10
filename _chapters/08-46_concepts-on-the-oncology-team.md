@@ -46,7 +46,7 @@ Studies in adult population has demonstrated that MDT choices improve adherence 
 
 ## Evidence to Support the Role of Mdt
 
-Although the evidence linking MDT approach to enhanced survival has not been clearly established, recent data seem to support the association between it and improved pediatric liver cancer survival in our country. Physicians in training have a great opportunity to discuss specific situations at meetings. Heath-members communicate and share information, especially between hospital-based specialists and primary care doctors, to improve referral and ongoing care.
+Although the evidence linking MDT approach to enhanced survival has not been clearly established, recent data seem to support the association between it and improved pediatric liver cancer survival in our country. Physicians in training have a great opportunity to discuss specific situations at meetings. Health-members communicate and share information, especially between hospital-based specialists and primary care doctors, to improve referral and ongoing care.
 
 Medical oncologists, orthopedic oncologists, pediatric oncologists, head and neck surgeons, diagnostic and interventional radiologists, radiotherapists, pathologists, and nurses are typically the core components of the multidisciplinary cancer team.
 
@@ -62,7 +62,7 @@ Although the necessity of inter-professional contact is universally acknowledged
 
 There is scarce information in the literature about the impact in survival of MDT meetings, and although, they are already widely accepted as the norm in many healthcare systems, making unlikely to have randomized control studies about it, some clinicians have expressed concern about the negative effects these meetings may have on trainees who attend these meetings in a purely passive capacity.{% cite sharma2009a --file 08-46 %} Concerns are also expressed over the patients\' diminishing role in these meetings and the possibility that their preferences and viewpoints may not be completely represented, without giving patients the chance to fully consider all of their available options.
 
-## Role for the Electronic Medical Record
+## Role for Clinical Decision Support Systems
 
 Is there a role for clinical decision support systems (CDSS) in pediatric oncology care? CDSS can be defined as ''systems that are designed to be a direct aid to clinical decision-making in which the characteristics of an individual patient are matched to a computerized clinical knowledge base, and patient-specific assessments or recommendations are then presented to the clinician(s) and/or the patient for a decision''.{% cite sim-a --file 08-46 %}
 
