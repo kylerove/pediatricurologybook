@@ -30,7 +30,7 @@ The exstrophy-epispadias complex (EEC) comprises a wide spectrum of congenital a
 
 ## Epidemiology
 
-The Bladder exstrophy-epispadias-cloacal extrophy complex (BEEC) is more frequent in caucasians. Classic bladder exstrophy (BEX) is the predominant subtype (50%), occurring in 2.15 - 3.3/100,000 live births, and cloacal exstrophy (CEX) is seen in 1/200,000. In recent decades there has been an increase in diagnostic suspicion with advances in fetal medicine.{% cite siffel2011a cervellione2015a --file 03-23 %}
+The Bladder exstrophy-epispadias-cloacal exstrophy complex (BEEC) is more frequent in caucasians. Classic bladder exstrophy (BEX) is the predominant subtype (50%), occurring in 2.15 - 3.3/100,000 live births, and cloacal exstrophy (CEX) is seen in 1/200,000. In recent decades there has been an increase in diagnostic suspicion with advances in fetal medicine.{% cite siffel2011a cervellione2015a --file 03-23 %}
 
 There is a male predominance and the male to female ratio has been reported between 2.3-6:1.{% cite boyadjiev-a --file 03-23 %} However, cloacal exstrophy is the same in both genders (1:1).
 
@@ -49,9 +49,9 @@ The most related theory of embryonic development in exstrophy, held by Marshall 
 
 Other theories are offered concerning the cause of the exstrophy-epispadias complex.{% cite stephens-a ebert2009a --file 03-23 %} Ambrose and O'Brian{% cite ambrose1974a --file 03-23 %} postulated that an abnormal development of the genital hillocks with fusion in the midline below rather than above the cloacal membrane result in the exstrophy defect. Another hypothesis describes an abnormal caudal insertion of the body stalk with failure of the interposition of the mesenchymal tissue in the midline.{% cite mildenberger-a --file 03-23 %} Because of this failure, translocation of the cloaca into the depths of the abdominal cavity does not occur. A cloacal membrane that remains in a superficial infraumbilical position represents an unstable embryonic state with a strong tendency to disintegrate.{% cite gearhart2021a --file 03-23 %} No one theory seems to elucidate all aspects of the complex seen clinically and further study is ongoing to fully describe the developmental process that ultimately forms the exstrophy-epispadias complex.
 
-### Aetiology
+### Etiology
 
-The exact aetiology of this disease has not yet been identified. Nevertheless, it has been confirmed that the triggering event occurs early in pregnancy.{% cite ebert2009a --file 03-23 %} Multiple ongoing studies suggest a possible genetic basis for the development of these conditions.{% cite gearhart2021a --file 03-23 %} There is a higher incidence in children of mothers who received large doses of progesterone in early stages of pregnancy, as in cases of assisted reproduction therapies, and it is estimated that the incidence is up to 7.5 times higher in cases where in vitro fertilization was used.{% cite gearhart2021a --file 03-23 %}
+The exact etiology of this disease has not yet been identified. Nevertheless, it has been confirmed that the triggering event occurs early in pregnancy.{% cite ebert2009a --file 03-23 %} Multiple ongoing studies suggest a possible genetic basis for the development of these conditions.{% cite gearhart2021a --file 03-23 %} There is a higher incidence in children of mothers who received large doses of progesterone in early stages of pregnancy, as in cases of assisted reproduction therapies, and it is estimated that the incidence is up to 7.5 times higher in cases where in vitro fertilization was used.{% cite gearhart2021a --file 03-23 %}
 
 ### Recurrence Risk
 
@@ -59,15 +59,15 @@ The possible role of genetic factors implicated in the expression of EEC is base
 
 ### Familial Recurrences
 
-Although familial occurrence is rare, 30 reported multiplex families support the idea of genetic susceptibility underlying EEC.{% cite ludwig-a --file 03-23 %} In most of these families, two members are affected. However, in rare cases the inheritance of EEC may be consistent with autosomal dominant inheritance with reduced penetrance or with an autosomal recessive trait or X-linked transmission.{% cite reutter-b --file 03-23 %} These observations indicate that one or more genes with a major effect on the phenotype exist, though in most cases additional causal factors are necessary for the phenotype to occur. A small subgroup of cases may follow Mendelian inheritance whereas in the majority, EEC is inherited as a complex trait with multiple genetic factors (heritable or *de novo *somatic or germline mutations), and complex gene-gene, or gene-environment interactions contributing to its formation.{% cite ebert2009a --file 03-23 %}
+Although familial occurrence is rare, 30 reported multiplex families support the idea of genetic susceptibility underlying EEC.{% cite ludwig-a --file 03-23 %} In most of these families, two members are affected. However, in rare cases the inheritance of EEC may be consistent with autosomal dominant inheritance with reduced penetrance or with an autosomal recessive trait or X-linked transmission.{% cite reutter-b --file 03-23 %} These observations indicate that one or more genes with a major effect on the phenotype exist, though in most cases additional causal factors are necessary for the phenotype to occur. A small subgroup of cases may follow Mendelian inheritance whereas in the majority, EEC is inherited as a complex trait with multiple genetic factors (heritable or *de novo *somatic or germ line mutations), and complex gene-gene, or gene-environment interactions contributing to its formation.{% cite ebert2009a --file 03-23 %}
 
-### Molecular Genetics of the Eec
+### Molecular Genetics of the EEC
 
 Cytogenetic and molecular analyses have revealed chromosomal anomalies in 20 EEC patients to date, although none of these appear to be causative.{% cite ebert2009a --file 03-23 %} Numerical chromosomal aberrations were observed in six patients. In a further four BEX males, one BEX female and one girl with CEX, an association with Down syndrome was found.{% cite ludwig-a --file 03-23 %} Aneuploidy of sex chromosomes in five of these cases might point to a gonosomal locus involved in the formation of EEC. Structural aberrations have been identified in six EEC cases and one patient simultaneously presenting with CEX and hypomelanosis of Ito. Although the exact breakpoints have not been determined in any of these cases, several translocations involving the region q32-ter on chromosome 9 were detected.
 
-### Teratogenic Agents and Eec
+### Teratogenic Agents and EEC
 
-Twin studies and epidemiological data suggest environmental factors play a role in the EEC aetiology. However, the existing epidemiological studies have not identified major teratogenic factors.{% cite boyadjiev-a ives-a gambhir-a --file 03-23 %} Several studies have confirmed that male gender, race, advanced parental age{% cite boyadjiev-a --file 03-23 %} and increased parity, even after adjusting for age,{% cite byron-scott-a --file 03-23 %} are predisposing risk factors. Gambhir _et al_.{% cite gambhir-a --file 03-23 %} described periconceptional maternal exposure to smoking to be significantly more common in patients with CEX than in a combined group of patients with epispadias and classic BEX. Several reports described the occurrence of EEC in infants resulting from *in vitro *fertilization, but it is still a matter of debate whether the incidence of EEC children conceived by *in vitro *fertilization appears to be higher than expected.{% cite ebert2009a wood-a --file 03-23 %}
+Twin studies and epidemiological data suggest environmental factors play a role in the EEC etiology. However, the existing epidemiological studies have not identified major teratogenic factors.{% cite boyadjiev-a ives-a gambhir-a --file 03-23 %} Several studies have confirmed that male gender, race, advanced parental age{% cite boyadjiev-a --file 03-23 %} and increased parity, even after adjusting for age,{% cite byron-scott-a --file 03-23 %} are predisposing risk factors. Gambhir _et al_.{% cite gambhir-a --file 03-23 %} described periconceptional maternal exposure to smoking to be significantly more common in patients with CEX than in a combined group of patients with epispadias and classic BEX. Several reports described the occurrence of EEC in infants resulting from *in vitro *fertilization, but it is still a matter of debate whether the incidence of EEC children conceived by *in vitro *fertilization appears to be higher than expected.{% cite ebert2009a wood-a --file 03-23 %}
 
 ## Clinical Presentation
 
@@ -87,7 +87,7 @@ It is possible to suspect these conditions during pregnancy when:
 - There is an omphalocele.
 - There is evidence of anomalies of the lower extremities and/or myelomeningocele (suggestive of cloacal exstrophy).
 
-Three-dimensional ultrasound and the increasing use of fetal MRI will improve the ability to diagnose bladder and cloacal exstrophy.{% cite palmer2011a --file 03-23 %} Antenatal diagnosis allows for prenatal counselling and arrangements to be made for delivery at a specialized exstrophy center. This allows for a multidisciplinary approach by teams with experience dealing with the unique nature of the exstrophy-epispadias complex. 
+Three-dimensional ultrasound and the increasing use of fetal MRI will improve the ability to diagnose bladder and cloacal exstrophy.{% cite palmer2011a --file 03-23 %} Antenatal diagnosis allows for prenatal counseling and arrangements to be made for delivery at a specialized exstrophy center. This allows for a multidisciplinary approach by teams with experience dealing with the unique nature of the exstrophy-epispadias complex. 
 
 ### Neonatal Period
 
@@ -231,8 +231,6 @@ However, if proper management of the condition is accomplished as suggested, the
 |          | 44–81 (male)        |                         |
 
 Currently, these patients have excellent long-term survival, achieving urinary continence in up to 75-80% of patients with bladder exstrophy and 65-70% in cases of cloacal exstrophy;{% cite leclair2018a jarzebowski2009a maruf2020a --file 03-23 %} however, many of them require permanent urinary and intestinal diversions. Generally, sexual function is preserved, and most patients are fertile. Delivery by cesarean section is recommended in female patients who underwent surgery to avoid damage to the continence mechanisms.
-
-
 
 ## References
 
