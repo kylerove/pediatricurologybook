@@ -41,7 +41,7 @@ The following chapter will try to describe in a complete, yet concise and summar
 
 The timeline described below emphasizes historical milestones and advances overtime related to congenital inguinal hernia and hydrocele ([Figure 1](#figure-1){:.figure-link})
 
-In the year 25 A.D., Celsus gave the first reference to hernia repair in children.
+In the year 25 AC, Celsus gave the first reference to hernia repair in children.
 
 Advances in medicine as well as post operative patient care have improved surgical techniques and surgical outcomes over time. Nowadays the surgical procedure is done similarly worldwide with minimal variations depending on the surgeon preferences and the chosen approach (laparoscopic vs conventional) for repair.
 
@@ -134,7 +134,7 @@ Inguinal hernia and hydrocele can be diagnosed by **physical exam** without the 
 
 Incarceration of the hernial sac should be suspected in a patient who presents with severe, sudden onset of pain and a hard, tender, fixed mass in the groin. If it is not reduced manually surgical reduction should follow.{% cite choi2016a stringer2010a --file 05-29 %}
 
-Physical exam should include evaluation of the patient in a supine position, reinforcing, if possible, the valsalva maneuver to identify transient hernias; and the standing-up evaluation where the physician should palpate and compare both groins looking for thickening of the inguinal cord or a bulge. In males, correct descent of testicles should be checked and transillumination (light source over the scrotum showing absence of the testicular shadow) can sometimes help to confirm hydrocele.
+Physical exam should include evaluation of the patient in a supine position, reinforcing, if possible, the Valsalva maneuver to identify transient hernias; and the standing-up evaluation where the physician should palpate and compare both groins looking for thickening of the inguinal cord or a bulge. In males, correct descent of testicles should be checked and transillumination (light source over the scrotum showing absence of the testicular shadow) can sometimes help to confirm hydrocele.
 
 ## Tips
 {:.tips-head .no_toc}
@@ -147,7 +147,7 @@ Physical exam should include evaluation of the patient in a supine position, rei
 ![Figure 9]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-29-9.png){:.float-start .img-fluid}  
 **Figure 9**{:#figure-9}{:.figure-number} Hernia reduction maneuver in neonates.
 
-If the physical exam is not confirmative, inguinal ultrasound may add information to the suspected diagnosis.{% cite park2016a --file 05-29 %} Nonetheless, the physical exam is still the gold standard diagnostic method. The sensibility of ultrasound depends mainly on the operator's skills and cooperation from the patient (stillness and valsalva maneuver). The hernia contents can be hyperechoic due to omental fat, anechoic in the presence of fluid, or of mixed echogenicity with reverberations which correlates with the existence of air in the bowel loops' lumen.{% cite yang2007a --file 05-29 %} The US could also rule out a contralateral inguinal hernia, or PV that could be repair in the same surgery.
+If the physical exam is not confirmative, inguinal ultrasound may add information to the suspected diagnosis.{% cite park2016a --file 05-29 %} Nonetheless, the physical exam is still the gold standard diagnostic method. The sensibility of ultrasound depends mainly on the operator's skills and cooperation from the patient (stillness and Valsalva maneuver). The hernia contents can be hyperechoic due to omental fat, anechoic in the presence of fluid, or of mixed echogenicity with reverberations which correlates with the existence of air in the bowel loops' lumen.{% cite yang2007a --file 05-29 %} The US could also rule out a contralateral inguinal hernia, or PV that could be repair in the same surgery.
 
 ### Differential Diagnosis
 
@@ -228,7 +228,7 @@ The role of laparoscopic repair of inguinal hernias is not fully established. Th
 
 In contrast, the advocates of the laparoscopic approach stress on the fact that this technique ensures reduced invasiveness, without manipulation of the chordal structures, and it can be useful for the correct diagnosis of associated direct and femoral hernias. Moreover, the contralateral internal ring can be clearly visualized and repaired if necessary. Finally, supporters endorse the improved cosmesis resulting after this surgery compared with a conventional incision ([Table 1](#table-1){:.table-link}){% cite holcomb2021a --file 05-29 %}
 
-**Table 1**{:#table-1}{:.table-number} Some advantages and disadvantages regarding LIHR.
+**Table 1**{:#table-1}{:.table-number} The following table exhibits some advantages and disadvantages regarding LIHR:
 
 | ADVANTAGES                                                            | DISADVANTAGES                                                 |
 |-----------------------------------------------------------------------|---------------------------------------------------------------|
@@ -284,7 +284,7 @@ Recurrent inguinal hernia in children may include:
 
 ## Conclusions
 
-Patent processus vaginalis (PV) leads to congenital hydrocele and inguinal hernia. Palpable mass in the groin should be evaluated for possible PV-associated conditions. Physical examination is the gold standard diagnostic method for these conditions. Treatment of inguinal hernia and communicating hydrocele with an associated hernia is always surgical. The success of surgical treatment depends on a high ligation of the sac as well as distal resection of it in hydroceles. Approaches include open inguinal herniorrhaphy as well as laparoscopic.
+Patent Processus Vaginalis (PV) leads to congenital hydrocele and inguinal hernia. Palpable mass in the groin should be evaluated for possible PV-associated conditions. Physical examination is the gold standard diagnostic method for these conditions. Treatment of inguinal hernia and communicating hydrocele with an associated hernia is always surgical. The success of surgical treatment depends on a high ligation of the sac as well as distal resection of it in hydroceles. Approaches include open inguinal herniorrhaphy as well as laparoscopic.
 
 Complications may be seen during surgery or at an early or late postoperative stage, which includes edema, hematoma or recurrent hydrocele, or hernia respectively. Several strategies are described by experts to avoid them. Follow-up should be done periodically for at least 6 months.
 
