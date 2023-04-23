@@ -105,7 +105,7 @@ Most variants are easily identifiable at birth.
 
 In classic BEX, most abnormalities consist of defects of the abdominal wall, bladder, genitalia, pelvic bones, and anus, thus involving the lower urinary tract, genitalia, and musculoskeletal system (limbs), while in cloacal exstrophy there is a greater involvement of the gastrointestinal tract and CNS.
 
-#### Classic Bex
+#### Classic Bladder Exstrophy
 
 The abdominal wall is elongated, and the umbilicus is low-set, located on the upper edge of the bladder plate; it can be associated with a hernial defect or a small omphalocele. The bladder is open anteriorly, with its mucosa fully exposed; polyps may be seen on the surface. Urine drains from the ureteric orifices on the bladder surface. Delayed closure may lead to further inflammatory or mechanical alterations with signs of mucosal inflammation such as a whitish coating, ulcerations, and hyperplastic formations. The para-exstrophic shiny thin skin stripes mark the transition between the normal skin and the squamous metaplastic area. The anus is more anterior, but the sphincteric function is normal. The pubic bones are widely separated and may also be shortened and externally rotated (30%). They are palpable on both sides of the bladder template and the distal end of the triangular edges. Bilateral inguinal hernias are palpable in most patients of both genders.
 
@@ -219,15 +219,15 @@ However, if proper management of the condition is accomplished as suggested, the
 
 | Approach | Continence rate (%) | Literature              |
 |----------|---------------------|-------------------------|
-| MSRE     | 74                  | Gearhart et al{% cite dickson2014a --file 03-23 %}     |
-|          | 62                  | Gupta et al{% cite cuckow2013a --file 03-23 %}        |
-|          | 22                  | Dickson et al{% cite borer2005a --file 03-23 %}      |
-| CPRE     | 80                  | Grady et al{% cite palmer2011a --file 03-23 %}        |
-|          | 74                  | Hammouda et al{% cite baird-a --file 03-23 %}     |
-|          | 23                  | Arab et al{% cite kelly1995a --file 03-23 %}          |
-| RSTM     | 73                  | Kelly et al{% cite roesch-a --file 03-23 %}        |
-|          | 70                  | Jarzebowski et al{% cite borer2015a --file 03-23 %}  |
-|          | 33–67 (female)      | Cuckow et al{% cite ellison-a --file 03-23 %}       |
+| MSRE     | 74                  | Gearhart et al     |
+|          | 62                  | Gupta et al       |
+|          | 22                  | Dickson et al      |
+| CPRE     | 80                  | Grady et al        |
+|          | 74                  | Hammouda et al     |
+|          | 23                  | Arab et al          |
+| RSTM     | 73                  | Kelly et al       |
+|          | 70                  | Jarzebowski et al  |
+|          | 33–67 (female)      | Cuckow et al       |
 |          | 44–81 (male)        |                         |
 
 Currently, these patients have excellent long-term survival, achieving urinary continence in up to 75-80% of patients with bladder exstrophy and 65-70% in cases of cloacal exstrophy;{% cite leclair2018a jarzebowski2009a maruf2020a --file 03-23 %} however, many of them require permanent urinary and intestinal diversions. Generally, sexual function is preserved, and most patients are fertile. Delivery by cesarean section is recommended in female patients who underwent surgery to avoid damage to the continence mechanisms.
@@ -238,16 +238,16 @@ Currently, these patients have excellent long-term survival, achieving urinary c
 
 {% bibliography --file 03-23 %}
 
-*[EEC]: 
-*[BEEC]: 
-*[BEX]: 
-*[CEX]: 
+*[EEC]: exstrophy epispadias complex
+*[BEEC]: bladder exstrophy epispadias complex
+*[BEX]: bladder exstrophy
+*[CEX]: cloacal exstrophy
 *[CEB]: 
-*[MRI]: 
-*[CNS]: 
+*[MRI]: magnetic resonance imaging
+*[CNS]: central nervous system
 *[EC]: 
-*[VUR]: 
-*[UTIs]: 
-*[MSRE]: 
-*[CPRE]: 
-*[RSTM]: 
+*[VUR]: vesicoureteral reflux
+*[UTIs]: urinary tract infections
+*[MSRE]: modern staged repair of exstrophy
+*[CPRE]: complete primary repair of exstrophy
+*[RSTM]: radical soft-tissue mobilization
