@@ -26,9 +26,9 @@ Sentimo-nos incrivelmente sortudos por ter trabalhado com mais de 130 colaborado
 - {{ site.data.contributors.size }} contribuidores
 - Os autores são de 23 países diferentes, abrangendo 6 continentes
 - 63 capítulos _(5 em breve)_
-- 370 figuras
+- 369 figuras
 - 82 tabelas
-- 2,699 referências (!)
+- 2,842 referências (!)
 
 ## Colaboradores por Seção
 
