@@ -108,7 +108,7 @@ Urethral polyps are another unusual anomaly of the male urethra. They may be con
 ## Key Points
 {:.key-points-head}
 
-- Anterior urethral valves are the most common congenital obstructive lesion of the anterior urethra, they present usually with obstructive symptoms. Transurethral incision of the valve is adequate for most patients.
+- Anterior urethral valves are the most common congenital obstructive lesion of the anterior urethra and usually present with obstructive symptoms. Transurethral incision of the valve is adequate for most patients.
 - Urethral diverticulum can present either as the more common wide-mouthed form, or saccular form. Treatment is by endoscopic incision or resection of the obstructing lip or, rarely, by an open perineal approach excising a large diverticulum.
 - Megalourethra It is a rare congenital anomaly characterized by abnormal dilatation of the penile urethra without a structural obstruction. Voiding cystourethrography and renal ultrasonography are performed to establish the diagnosis and evaluate the upper tracts. Treatment centers on reconstructing the urethra and corpus spongiosum using standard principles of hypospadias repair.
 - Syringocoele is a rare cystic dilatation of the distal portion of Cowper’s gland ducts. For all patients, early diagnosis and prompt treatment are vital. Endoscopic management uses various techniques to treat syringocoeles, namely Bugbee electrode, scissors, hooked urethral catheter, catheterization, and Holmium: YAG Laser.
