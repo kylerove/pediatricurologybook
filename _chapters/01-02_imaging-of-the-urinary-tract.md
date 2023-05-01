@@ -134,7 +134,7 @@ Corticomedullary differentiation is normally very conspicuous in neonates. As co
 
 #### Follow Up of Prenatal Urinary Tract Dilation
 
-This is the most common indication for a pediatric renal ultrasound in the outpatient setting. The architecture of the dilated collecting system is usually well-depicted by ultrasound and can provide clues to the etiology. Despite many efforts at standardization (beginning in 1988 and ongoing), descriptive terminology remains sadly inconsistent. The 1988 Society for Fetal Urology (SFU) 5 point grading system (grade 0 to 4) is the basis for the ACR appropriateness criteria, plus the anterior to posterior renal pelvic diameter, with a threshold of greater than 15 mm for a diagnosis of higher grade dilation.{% cite brown2020acr --file 01-02 %} At many institutions (including the author's), no standardized reporting system is in use. Because one radiologist's "mild pelviectasis" is another's "trace hydronephrosis," the referring clinician is well advised to become familiar with the wording within their own institution and encourage standardization where possible.
+This is the most common indication for a pediatric renal ultrasound in the outpatient setting. The architecture of the dilated collecting system is usually well-depicted by ultrasound and can provide clues to the etiology. Despite many efforts at standardization (beginning in 1988 and ongoing), descriptive terminology has been sadly inconsistent. This inconsistency has hampered efforts to correlate urologic outcomes with the degree of prenatal collecting system dilation. While ACR appropriateness criteria are based on the 1988 SFU classification system, most children’s hospitals have now adopted the UTD classification system. This classification system was developed in 2014. UTD introduced unified descriptive terminology for both pre and postnatal ultrasound to facilitate standardized perinatal evaluation.  The clinician is well advised to become familiar with the wording within their affiliated radiology practice and encourage standardization where possible.
 
 ![Figure 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-4.png){:.float-start .img-fluid}  
 **Figure 4**{:#figure-4}{:.figure-number} SFU grading of collecting system dilation
@@ -243,11 +243,11 @@ Abdominal radiographs are often obtained in the acute setting (acute abdominal p
 
 Other potential findings:
 
-- ft tissue calcifications
-- rge abdominal masses
-- ganomegaly
-- ne abnormalities
-- pport device positioning (e.g. ureteral stents)
+- Soft tissue calcifications
+- Large abdominal masses
+- Organomegaly
+- Bone abnormalities
+- Support device positioning (e.g. ureteral stents)
 
 A single supine abdominal radiograph is also commonly obtained by pediatric urologists in the outpatient setting for known or suspected constipation. By expert consensus, this is not indicated in children with large amounts of stool by rectal exam.{% cite north2006a --file 01-02 %} There may be an indication for the practice in cases where a rectal exam is not possible (such as a traumatic history). The provider should remember that abdominal radiographs can result in a non-trivial radiation burden over time.
 
@@ -256,7 +256,7 @@ A single supine abdominal radiograph is also commonly obtained by pediatric urol
 
 ### Voiding Cystourethrography and Voiding Urosonography
 
-VCUG is a specialized radiology procedure that is primarily used to assess for the presence of vesicoureteral reflux (VUR) and to assess urethral morphology. The rationale has been the presumed link between reflux and post infectious scarring. Despite thirty years of study since the beginning of routine antibiotic prophylaxis for reflux, questions remain. Cystograms are less frequently performed than in the past, and watchful waiting is often preferred over antibiotic prophylaxis.{% cite chung2017a --file 01-02 %} It has traditionally been performed using fluoroscopy. A transition is underway in the United States toward the use of contrast enhanced ultrasound (ceUS). In Europe, contrast enhanced ultrasound has been performed since the 1990s and has been widely available since the early 2000s. However, ultrasound contrast agents were not approved for use in the US until 2016. There remains debate as to the sensitivity of ceVUS for urethral anomalies in the male infant. As of this writing, ACR appropriateness criteria still recommend VCUG over ceVUS in that setting, despite the existence of review articles showing excellent depiction of urethral anatomy by ceVUS.{% cite brown2020acr barnewolt2021a duran2017a --file 01-02 %}
+VCUG is a specialized radiology procedure that is primarily used to assess for the presence of vesicoureteral reflux (VUR) and to assess urethral morphology. The rationale has been the presumed link between reflux and post infectious scarring. Despite thirty years of study since the beginning of routine antibiotic prophylaxis for reflux, questions remain. Cystograms are less frequently performed than in the past, and watchful waiting is often preferred over antibiotic prophylaxis.{% cite chung2017a --file 01-02 %} Voiding studies have traditionally been performed using fluoroscopy. A transition is underway in the United States toward the use of contrast enhanced ultrasound (ceUS). In Europe, contrast enhanced ultrasound has been performed since the 1990s and has been widely available since the early 2000s. However, ultrasound contrast agents were not approved for use in the US until 2016. There remains debate as to the sensitivity of ceVUS for urethral anomalies in the male infant. As of this writing, ACR appropriateness criteria still recommend VCUG over ceVUS in that setting, despite the existence of review articles showing excellent depiction of urethral anatomy by ceVUS.{% cite brown2020acr barnewolt2021a duran2017a --file 01-02 %}
 
 Fluoroscopy is still frequently used, including at this author's institution, even though it exposes the patient to ionizing radiation. Another disadvantage of traditional fluoroscopy is that it requires the patient to lie flat to void; this is often difficult for toilet trained patients.
 
@@ -274,7 +274,7 @@ VCUG Technique:
 - Second cycle (at least) in infant or febrile UTI patient
 - Lateral voiding view of urethra in male patient (ideally with catheter out)
 
-Voiding urosonography standard images will mostly be similar, with the exception of the initial scout view. Panoramic views can assist in extending the field of view in sonography, but this remains a limitation of ultrasound.
+Voiding urosonography standard images will mostly be similar, with the exception of the initial scout view. Panoramic views can assist in extending the field of view in sonography. However, smaller field of view remains a limitation of ultrasound.
 
 Care should be taken to fill the bladder adequately and not to overfill. A useful bladder capacity formula (for children over age 12 months) is age plus 2 multiplied by 30 for the predicted bladder capacity (in mL). A newborn can be expected to hold about 50 mL. Oblique fluoroscopic spots or at least last image holds should be obtained with maximal bladder distension to assess for low grade reflux (which can be obscured in the AP projection). Tapping on the bladder, gentle massage over the belly or warm water sprinkled on the skin can be helpful to induce young children to void. Sedation can occasionally make voiding more difficult for patients. Overfilling (to more than twice the predicted capacity) is to be avoided, as it can make this problem more likely.
 
@@ -383,7 +383,7 @@ CT with IV contrast is the standard of care in children for evaluation of blunt 
 
 Non-contrast CT can occasionally be helpful in the pediatric setting for the follow-up of renal and ureteral calculi, or diagnosis when ultrasound is unrevealing.{% cite dillman2018acr --file 01-02 %} Ultrasound may not reveal the obstructing calculus, especially if it is in the mid ureter (where shadowing bowel gas often blocks the sound beam). However, the presence of a dilated collecting system on the symptomatic side may allow the clinician to infer that a stone is present. In children with known calculi or conditions predisposing to calculi, CT may be desired. Very low radiation doses can be employed to assess stone burden or for follow up after intervention for stones.{% cite rodger2018a --file 01-02 %} Hematuria protocols (three phase CT with non-contrast, contrast, and delayed phases) are not appropriate for children due to the high radiation burden.{% cite dillman2018acr --file 01-02 %}
 
-In the United States, MRI has largely replaced CT for tumor staging of the pediatric abdomen and pelvis.{% cite voss2018a --file 01-02 %} However, CT angiography is occasionally requested by our pediatric surgeons for planning purposes. CTA shows organ relationships and vascular anatomy with fewer artifacts and higher resolution than MR, allowing the surgeon to plan a more precise approach in cases of Wilms, neuroblastoma, or other malignancies. Because CT angiography requires a faster injection of contrast and has a higher radiation burden, these scans are actively monitored by a pediatric radiologist.
+In the United States, MRI has largely replaced CT for tumor staging of the pediatric abdomen and pelvis.{% cite voss2018a --file 01-02 %} However, CT angiography is occasionally requested by our pediatric surgeons for planning purposes. CTA shows organ relationships and vascular anatomy with fewer artifacts and higher resolution than MR, allowing the surgeon to plan a more precise approach in cases of Wilms, neuroblastoma, or other malignancies. Because CT angiography requires a faster injection of contrast and has a higher radiation burden, these scans should be actively monitored by a pediatric radiologist.
 
 ![Figure 33]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-33.png){:.float-start .img-fluid}  
 **Figure 33**{:#figure-33}{:.figure-number} Contrast enhanced CT showing high grade renal laceration of left kidney.
@@ -472,7 +472,7 @@ Interventional procedures are integral to the management of pediatric urological
 #### Percutaneous Nephrolithotomy
 
 1. Reserved for patients who are not candidates for ureterscopy or shock wave lithotripsy
-2. 2 step procedure
+2. Two step procedure
    1. Access to collecting system by radiologist using ultrasound/fluoroscopy
    2. Removal of stone by urologist
 
