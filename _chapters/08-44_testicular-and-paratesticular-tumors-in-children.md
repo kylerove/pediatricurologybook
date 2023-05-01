@@ -37,7 +37,7 @@ Testicular and paratesticular tumours are uncommon in children. They can be prim
 - The prepubertal child
 - The adolescent and young adult (AYA)
 
-In either of these age groups, testicular tumors have characteristic features to consider, impacting on management and outcome. Testicular sparing surgery (TSS) can be planned for most of the benign prepubertal testicular lesions; whereas most AYA tumors are suspected to be malignant from the outset, and radical orchidectomy is standard surgical care for primary intratesticular testicular or paratesticular malignancy.
+In either of these age groups, testicular tumors have characteristic features to consider, impacting on management and outcome. Testicular sparing surgery (TSS) can be planned for most of the benign prepubertal testicular lesions; whereas most AYA tumors are suspected to be malignant from the outset, and radical orchidectomy is standard surgical care for primary intratesticular or paratesticular malignancy.
 
 ## Embryology
 
