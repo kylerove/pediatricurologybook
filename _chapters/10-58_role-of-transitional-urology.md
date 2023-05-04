@@ -31,19 +31,19 @@ The transitional urologist is charged with the care of pediatric urology patient
 
 **Table 1**{:#table-1}{:.table-number} Conditions that may be seen by the transitional urologist.
 
-| Conditions                                                   |
-|--------------------------------------------------------------|
-| Neurogenic Bowel and Bladder                                 |
-| Spina Bifida, Cerebral Palsy, Spinal Cord Injury, CNS Tumors |
-| Bladder Exstrophy and Epispadias                             |
-| Cloacal Anomalies                                            |
-| Prune Belly Syndrome                                         |
-| Posterior Urethral Valves                                    |
-| Vesicoureteral Reflux                                        |
-| Hypospadias                                                  |
-| Intersex Conditions                                          |
-| Pediatric Urologic Cancer and Survivorship                   |
-| Stone Disease                                                |
+| Conditions                                                        |
+|-------------------------------------------------------------------|
+| Neurogenic Bowel and Bladder                                      |
+| &nbsp;&nbsp;&nbsp;&nbsp;_Spina Bifida, Cerebral Palsy, Spinal Cord Injury, CNS Tumors_ |
+| Bladder Exstrophy and Epispadias                                  |
+| Cloacal Anomalies                                                 |
+| Prune Belly Syndrome                                              |
+| Posterior Urethral Valves                                         |
+| Vesicoureteral Reflux                                             |
+| Hypospadias                                                       |
+| Intersex Conditions                                               |
+| Pediatric Urologic Cancer and Survivorship                        |
+| Stone Disease                                                     |
 
 The purpose of this chapter is to define the role of the transitional urologist by discussing many of the issues that become or remain prominent as patients with congenital genitourinary disorders progress to adolescence and adulthood.
 
@@ -135,7 +135,7 @@ Patients who experience urinary stasis, recurrent UTIs, and/or have urinary trac
 
 ## Cancer Surveillance
 
-Patients with urinary dysfunction are at elevated risk for developing cancer in their bladders, whether they have undergone augmentation or not. These patients experience higher rates of recurrent UTIs and bladder stones, and often have chronic indwelling catheters and/or reconstructed bladders, which are themselves risk factors for bladder and/or colon cancer**.{% cite groah2002a kantor1984a --file 10-58 %}** Furthermore, these patients suffer from presenting atypically and at advanced stages, likely leading to worse outcomes. Austin and colleagues reported on 8 cases of spina bifida patients treated for bladder cancer at median age of 41 years, of which just one patient had undergone augmentation cystoplasty.{% cite austin2007a --file 10-58 %} These patients commonly presented with atypical symptoms including urosepsis, renal failure, difficult catheterization, more frequent UTIs, and sterile pyuria. While the majority presented with gross hematuria, most of these patients had experienced episodes of gross hematuria in the past. At the time of diagnosis, 88% had either tumor stage 3 or greater or lymph node metastases.
+Patients with urinary dysfunction are at elevated risk for developing cancer in their bladders, whether they have undergone augmentation or not. These patients experience higher rates of recurrent UTIs and bladder stones, and often have chronic indwelling catheters and/or reconstructed bladders, which are themselves risk factors for bladder and/or colon cancer.{% cite groah2002a kantor1984a --file 10-58 %} Furthermore, these patients suffer from presenting atypically and at advanced stages, likely leading to worse outcomes. Austin and colleagues reported on 8 cases of spina bifida patients treated for bladder cancer at median age of 41 years, of which just one patient had undergone augmentation cystoplasty.{% cite austin2007a --file 10-58 %} These patients commonly presented with atypical symptoms including urosepsis, renal failure, difficult catheterization, more frequent UTIs, and sterile pyuria. While the majority presented with gross hematuria, most of these patients had experienced episodes of gross hematuria in the past. At the time of diagnosis, 88% had either tumor stage 3 or greater or lymph node metastases.
 
 The mixing of colonic and urothelial mucosa, prolonged exposure of enteric mucosa to urine and, in the case of ureterosigmoidostomies, the mixing of urine and feces have long been theorized to foster an oncogenic milieu in the reconstructed bladder. This was supported by evidence that tumors or polyps develop in as many as 41% of patients with ureterosigmoidostomies on long term follow-up,{% cite starling1984a stewart1982a zabbo1986a strachan1991a --file 10-58 %} which have since mostly fallen out of favor. By comparison, Husmann and Rathbun have reported a malignancy risk (colonic and urothelial) of 1.5% per decade of life following ileocolonic augments performed for a range of etiologies of bladder dysfunction.{% cite husmann2008a husmann2009a --file 10-58 %} In patients specifically with gastric cystoplasties, the risk is likely greater: 2.8% per decade, as reported by Vemulakonda and colleagues.{% cite vemulakonda2008a --file 10-58 %}
 
@@ -166,11 +166,13 @@ The role of the transitional urologist is multifaceted, including prevention of 
 {:.key-points-list}
 
 ## Suggested Readings
+{:.suggested-readings-head}
 
-- {% reference r2021a --file 10-58 %}
-- {% reference r2021b --file 10-58 %}
+- {% reference r2021a --file 10-58 %} [link](https://university.auanet.org/core/pediatric/transitional-care/index.cfm)
+- {% reference association2018a --file 10-58 %} [link](https://www.spinabifidaassociation.org/guidelines/)
 - {% reference h2015a --file 10-58 %}
 - {% reference woodhouse2012a --file 10-58 %}
+{:.suggested-readings-list}
 
 ## References
 
