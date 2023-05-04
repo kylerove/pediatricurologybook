@@ -140,50 +140,53 @@ This is the most common indication for a pediatric renal ultrasound in the outpa
 **Figure 4**{:#figure-4}{:.figure-number} SFU grading of collecting system dilation
 
 ![Figure 5]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-5.png){:.float-start .img-fluid}  
-**Figure 5**{:#figure-5}{:.figure-number} Duplicated collecting system in a newborn
+**Figure 5**{:#figure-5}{:.figure-number} (a) Urinary tract dilation (UTD) classification shows a transverse view of mid/interpolar kidney. Green arrows indicate anterior-posterior diameter (use largest measurement). The extrarenal pelvis should not be included (gray arrows). (b) Longitudinal views of various grades within the UTD classification system. Adapted from Chow et al 2017.{% cite chow2017classification --file 01-02 %}
 
 ![Figure 6]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-6.png){:.float-start .img-fluid}  
-**Figure 6**{:#figure-6}{:.figure-number} Same patient as ([Figure 5](#figure-5){:.figure-link}) at two weeks old showing more severe dilation
+**Figure 6**{:#figure-6}{:.figure-number} Duplicated collecting system in a newborn
 
 ![Figure 7]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-7.png){:.float-start .img-fluid}  
-**Figure 7**{:#figure-7}{:.figure-number} Ureteropelvic junction obstruction
+**Figure 7**{:#figure-7}{:.figure-number} Same patient as ([Figure 6](#figure-6){:.figure-link}) at two weeks old showing more severe dilation
 
 ![Figure 8]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-8.png){:.float-start .img-fluid}  
-**Figure 8**{:#figure-8}{:.figure-number} Severe caliectasis and cortical thinning in a patient with posterior urethral valves
+**Figure 8**{:#figure-8}{:.figure-number} Ureteropelvic junction obstruction
+
+![Figure 9]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-9.png){:.float-start .img-fluid}  
+**Figure 9**{:#figure-9}{:.figure-number} Severe caliectasis and cortical thinning in a patient with posterior urethral valves
 
 #### Screening for Tumor in Predisposing Genetic Conditions Such as Beckwith-Wiedemann or WAGR
 
 Ultrasound can detect subtle solid masses in young children, as illustrated by the example below. Frequency of screening and age range vary according to the specific predisposing condition.{% cite kalish2017a --file 01-02 %}
 
-![Figure 9]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-9.png){:.float-start .img-fluid}  
-**Figure 9**{:#figure-9}{:.figure-number} Echogenic renal mass on screening ultrasound in a patient with WAGR syndrome.
-
 ![Figure 10]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-10.png){:.float-start .img-fluid}  
-**Figure 10**{:#figure-10}{:.figure-number} MRI confirmed multiple masses (same patient as [Figure 9](#figure-9){:.figure-link}).
+**Figure 10**{:#figure-10}{:.figure-number} Echogenic renal mass on screening ultrasound in a patient with WAGR syndrome.
+
+![Figure 11]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-11.png){:.float-start .img-fluid}  
+**Figure 11**{:#figure-11}{:.figure-number} MRI confirmed multiple masses (same patient as [Figure 10](#figure-10){:.figure-link}).
 
 #### Renal Blood Flow
 
 Ultrasound provides valuable information in cases of suspected renal artery stenosis.
 
-![Figure 11]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-11.png){:.float-start .img-fluid}  
-**Figure 11**{:#figure-11}{:.figure-number} Normal arterial tracing in an 11 year old with hypertension.
+![Figure 12]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-12.png){:.float-start .img-fluid}  
+**Figure 12**{:#figure-12}{:.figure-number} Normal arterial tracing in an 11 year old with hypertension.
 
 #### Renal Calculi
 
 Obstructing calculi may be directly visible by ultrasound or may be inferred by the presence of a dilated collecting system on the symptomatic side. Twinkling artifact can be exploited to detect stones.
 
-![Figure 12]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-12.png){:.float-start .img-fluid}  
-**Figure 12**{:#figure-12}{:.figure-number} Calculus at the lower pole of the right kidney.
-
 ![Figure 13]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-13.png){:.float-start .img-fluid}  
-**Figure 13**{:#figure-13}{:.figure-number} Twinkling artifact improves conspicuity of calculi.
+**Figure 13**{:#figure-13}{:.figure-number} Calculus at the lower pole of the right kidney.
+
+![Figure 14]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-14.png){:.float-start .img-fluid}  
+**Figure 14**{:#figure-14}{:.figure-number} Twinkling artifact improves conspicuity of calculi.
 
 ### Bladder Abnormalities
 
 An adequately distended bladder can be assessed for wall thickening, trabeculation, debris or stones. Bladder masses may be incidentally found. Post void images are useful in patients with suspected dysfunctional voiding.
 
-![Figure 14]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-14.png){:.float-start .img-fluid}  
-**Figure 14**{:#figure-14}{:.figure-number} Highly vascular bladder mass in a teenager.
+![Figure 15]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-15.png){:.float-start .img-fluid}  
+**Figure 15**{:#figure-15}{:.figure-number} Highly vascular bladder mass in a teenager.
 
 **Technique:**
 
@@ -205,35 +208,35 @@ Ultrasound is the modality of choice to assess the scrotum in the setting of pai
 - Views of the spermatic cords (ideally motion clips)
 - Document hydrocele or varicocele if present
 
-![Figure 15]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-15.png){:.float-start .img-fluid}  
-**Figure 15**{:#figure-15}{:.figure-number} Bilateral hydroceles in a neonate
-
 ![Figure 16]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-16.png){:.float-start .img-fluid}  
-**Figure 16**{:#figure-16}{:.figure-number} Non-communicating hydrocele in a neonate
+**Figure 16**{:#figure-16}{:.figure-number} Bilateral hydroceles in a neonate
 
 ![Figure 17]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-17.png){:.float-start .img-fluid}  
-**Figure 17**{:#figure-17}{:.figure-number} Inguinal hernia in a neonate
+**Figure 17**{:#figure-17}{:.figure-number} Non-communicating hydrocele in a neonate
 
 ![Figure 18]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-18.png){:.float-start .img-fluid}  
-**Figure 18**{:#figure-18}{:.figure-number} Torsed testicle with absence of color flow
+**Figure 18**{:#figure-18}{:.figure-number} Inguinal hernia in a neonate
 
 ![Figure 19]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-19.png){:.float-start .img-fluid}  
-**Figure 19**{:#figure-19}{:.figure-number} Torsed testicle with absence of blood flow on power Doppler
+**Figure 19**{:#figure-19}{:.figure-number} Torsed testicle with absence of color flow
 
 ![Figure 20]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-20.png){:.float-start .img-fluid}  
-**Figure 20**{:#figure-20}{:.figure-number} Torsed right testicle and normal blood flow to the left testicle
+**Figure 20**{:#figure-20}{:.figure-number} Torsed testicle with absence of blood flow on power Doppler
 
 ![Figure 21]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-21.png){:.float-start .img-fluid}  
-**Figure 21**{:#figure-21}{:.figure-number} Paratesticular rhabdomyosarcoma in a teenager with painless palpable mass
+**Figure 21**{:#figure-21}{:.figure-number} Torsed right testicle and normal blood flow to the left testicle
 
 ![Figure 22]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-22.png){:.float-start .img-fluid}  
-**Figure 22**{:#figure-22}{:.figure-number} Color image of paratesticular rhabdomyosarcoma
+**Figure 22**{:#figure-22}{:.figure-number} Paratesticular rhabdomyosarcoma in a teenager with painless palpable mass
 
 ![Figure 23]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-23.png){:.float-start .img-fluid}  
-**Figure 23**{:#figure-23}{:.figure-number} Varicocele
+**Figure 23**{:#figure-23}{:.figure-number} Color image of paratesticular rhabdomyosarcoma
 
 ![Figure 24]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-24.png){:.float-start .img-fluid}  
-**Figure 24**{:#figure-24}{:.figure-number} Epididymitis
+**Figure 24**{:#figure-24}{:.figure-number} Varicocele
+
+![Figure 25]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-25.png){:.float-start .img-fluid}  
+**Figure 25**{:#figure-25}{:.figure-number} Epididymitis
 
 ### Radiography
 
@@ -251,8 +254,8 @@ Other potential findings:
 
 A single supine abdominal radiograph is also commonly obtained by pediatric urologists in the outpatient setting for known or suspected constipation. By expert consensus, this is not indicated in children with large amounts of stool by rectal exam.{% cite north2006a --file 01-02 %} There may be an indication for the practice in cases where a rectal exam is not possible (such as a traumatic history). The provider should remember that abdominal radiographs can result in a non-trivial radiation burden over time.
 
-![Figure 25]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-25.png){:.float-start .img-fluid}  
-**Figure 25**{:#figure-25}{:.figure-number} Abdominal radiograph showing mass effect in the right upper quadrant
+![Figure 26]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-26.png){:.float-start .img-fluid}  
+**Figure 26**{:#figure-26}{:.figure-number} Abdominal radiograph showing mass effect in the right upper quadrant
 
 ### Voiding Cystourethrography and Voiding Urosonography
 
@@ -301,20 +304,20 @@ Care should be taken to fill the bladder adequately and not to overfill. A usefu
    - Grade IV -- dilation of the renal pelvis and calyces with moderate ureteral tortuosity
    - Grade V -- gross dilatation of the ureter, pelvis and calyces; ureteral tortuosity; loss of papillary impressions
 
-![Figure 26]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-26.png){:.float-start .img-fluid}  
-**Figure 26**{:#figure-26}{:.figure-number} Radiological grading of vesicoureteral reflux
-
 ![Figure 27]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-27.png){:.float-start .img-fluid}  
-**Figure 27**{:#figure-27}{:.figure-number} Ureterocele on fluoroscopic last image hold
+**Figure 27**{:#figure-27}{:.figure-number} Radiological grading of vesicoureteral reflux
 
 ![Figure 28]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-28.png){:.float-start .img-fluid}  
-**Figure 28**{:#figure-28}{:.figure-number} Grade 3 reflux into both kidneys
+**Figure 28**{:#figure-28}{:.figure-number} Ureterocele on fluoroscopic last image hold
 
 ![Figure 29]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-29.png){:.float-start .img-fluid}  
-**Figure 29**{:#figure-29}{:.figure-number} Grade 5 reflux on the right with ectopic insertion into urethra
+**Figure 29**{:#figure-29}{:.figure-number} Grade 3 reflux into both kidneys
 
 ![Figure 30]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-30.png){:.float-start .img-fluid}  
-**Figure 30**{:#figure-30}{:.figure-number} Dilated posterior urethra and massively dilated right ureter in the setting of posterior urethral valves
+**Figure 30**{:#figure-30}{:.figure-number} Grade 5 reflux on the right with ectopic insertion into urethra
+
+![Figure 31]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-31.png){:.float-start .img-fluid}  
+**Figure 31**{:#figure-31}{:.figure-number} Dilated posterior urethra and massively dilated right ureter in the setting of posterior urethral valves
 
 ### Radionuclide Studies
 
@@ -335,8 +338,8 @@ Dimercaptosuccinic acid (DMSA) binds to plasma proteins and is retained by the r
    - Relative renal function
    - Absolute uptake
 
-![Figure 31]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-31.png){:.float-start .img-fluid}  
-**Figure 31**{:#figure-31}{:.figure-number} DMSA scan showing scarring and reduced function of the right lower moiety of a duplicated kidney and a non-functioning upper moiety
+![Figure 32]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-32.png){:.float-start .img-fluid}  
+**Figure 32**{:#figure-32}{:.figure-number} DMSA scan showing scarring and reduced function of the right lower moiety of a duplicated kidney and a non-functioning upper moiety
 
 #### MAG-3 Scan / Dynamic Renal Scintigraphy
 
@@ -374,8 +377,8 @@ Mercaptoacetyletriglycerine (MAG-3) is highly plasma protein bound, so it is cle
    - Patulous collecting system delaying washout
    - Regions of interest including spleen or liver
 
-![Figure 32]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-32.png){:.float-start .img-fluid}  
-**Figure 32**{:#figure-32}{:.figure-number} MAG 3 scan showing blood flow, excretory phase, and time activity curves in a patient with symmetric renal function and a left UPJ obstruction.
+![Figure 33]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-33.png){:.float-start .img-fluid}  
+**Figure 33**{:#figure-33}{:.figure-number} MAG 3 scan showing blood flow, excretory phase, and time activity curves in a patient with symmetric renal function and a left UPJ obstruction.
 
 ### Computed Tomography
 
@@ -385,17 +388,17 @@ Non-contrast CT can occasionally be helpful in the pediatric setting for the fol
 
 In the United States, MRI has largely replaced CT for tumor staging of the pediatric abdomen and pelvis.{% cite voss2018a --file 01-02 %} However, CT angiography is occasionally requested by our pediatric surgeons for planning purposes. CTA shows organ relationships and vascular anatomy with fewer artifacts and higher resolution than MR, allowing the surgeon to plan a more precise approach in cases of Wilms, neuroblastoma, or other malignancies. Because CT angiography requires a faster injection of contrast and has a higher radiation burden, these scans should be actively monitored by a pediatric radiologist.
 
-![Figure 33]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-33.png){:.float-start .img-fluid}  
-**Figure 33**{:#figure-33}{:.figure-number} Contrast enhanced CT showing high grade renal laceration of left kidney.
-
 ![Figure 34]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-34.png){:.float-start .img-fluid}  
-**Figure 34**{:#figure-34}{:.figure-number} Delayed view through the kidney rules out disruption of the collecting system.
+**Figure 34**{:#figure-34}{:.figure-number} Contrast enhanced CT showing high grade renal laceration of left kidney.
 
 ![Figure 35]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-35.png){:.float-start .img-fluid}  
-**Figure 35**{:#figure-35}{:.figure-number} CT stone study for patient with cystinuria; note partially visible bilateral stents.
+**Figure 35**{:#figure-35}{:.figure-number} Delayed view through the kidney rules out disruption of the collecting system.
 
 ![Figure 36]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-36.png){:.float-start .img-fluid}  
-**Figure 36**{:#figure-36}{:.figure-number} CT angiogram with 3D reconstruction in a cancer patient with complex arterial anatomy; three renal arteries are mapped out for each moiety
+**Figure 36**{:#figure-36}{:.figure-number} CT stone study for patient with cystinuria; note partially visible bilateral stents.
+
+![Figure 37]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-37.png){:.float-start .img-fluid}  
+**Figure 37**{:#figure-37}{:.figure-number} CT angiogram with 3D reconstruction in a cancer patient with complex arterial anatomy; three renal arteries are mapped out for each moiety
 
 ### MRI
 
@@ -423,35 +426,35 @@ In fetal diagnosis, MRI is a complimentary modality to ultrasound. Fast pulse se
       2. Determine level of obstruction in renal tracts (intrinsic and extrinsic)
       3. Congenital anomalies
 
-![Figure 37]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-37.png){:.float-start .img-fluid}  
-**Figure 37**{:#figure-37}{:.figure-number} Fluid sensitive fat-suppressed MR image showing dilated left upper pole in a duplicated kidney.
-
 ![Figure 38]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-38.png){:.float-start .img-fluid}  
-**Figure 38**{:#figure-38}{:.figure-number} Post contrast dynamic MR image shows a dilated but non-obstructed left megaureter.
+**Figure 38**{:#figure-38}{:.figure-number} Fluid sensitive fat-suppressed MR image showing dilated left upper pole in a duplicated kidney.
 
 ![Figure 39]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-39.png){:.float-start .img-fluid}  
-**Figure 39**{:#figure-39}{:.figure-number} Fluid sensitive fat-suppressed MR image shows a hydronephrotic horseshoe kidney and a neurogenic bladder morphology.
+**Figure 39**{:#figure-39}{:.figure-number} Post contrast dynamic MR image shows a dilated but non-obstructed left megaureter.
 
 ![Figure 40]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-40.png){:.float-start .img-fluid}  
-**Figure 40**{:#figure-40}{:.figure-number} Dynamic post-contrast MR series confirms obstruction of the horseshoe kidney.
+**Figure 40**{:#figure-40}{:.figure-number} Fluid sensitive fat-suppressed MR image shows a hydronephrotic horseshoe kidney and a neurogenic bladder morphology.
 
 ![Figure 41]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-41.png){:.float-start .img-fluid}  
-**Figure 41**{:#figure-41}{:.figure-number} Fluid sensitive fat-suppressed MR image shows a small dysplastic left kidney.
+**Figure 41**{:#figure-41}{:.figure-number} Dynamic post-contrast MR series confirms obstruction of the horseshoe kidney.
 
 ![Figure 42]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-42.png){:.float-start .img-fluid}  
-**Figure 42**{:#figure-42}{:.figure-number} Dynamic post-contrast MR series shows delayed and minimal enhancement of the dysplastic kidney indicating limited function.
+**Figure 42**{:#figure-42}{:.figure-number} Fluid sensitive fat-suppressed MR image shows a small dysplastic left kidney.
 
 ![Figure 43]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-43.png){:.float-start .img-fluid}  
-**Figure 43**{:#figure-43}{:.figure-number} Dynamic post-contrast MR series shows small right kidney in a patient with prune belly and bilateral vesicoureteral reflux.
+**Figure 43**{:#figure-43}{:.figure-number} Dynamic post-contrast MR series shows delayed and minimal enhancement of the dysplastic kidney indicating limited function.
 
 ![Figure 44]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-44.png){:.float-start .img-fluid}  
-**Figure 44**{:#figure-44}{:.figure-number} Fluid sensitive fat-suppressed MR image showing replacement of the renal parenchyma with multiple masses in a patient with nephroblastomatosis.
+**Figure 44**{:#figure-44}{:.figure-number} Dynamic post-contrast MR series shows small right kidney in a patient with prune belly and bilateral vesicoureteral reflux.
 
 ![Figure 45]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-45.png){:.float-start .img-fluid}  
-**Figure 45**{:#figure-45}{:.figure-number} Post contrast MR images show enhancement characteristics of the masses.
+**Figure 45**{:#figure-45}{:.figure-number} Fluid sensitive fat-suppressed MR image showing replacement of the renal parenchyma with multiple masses in a patient with nephroblastomatosis.
 
 ![Figure 46]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-46.png){:.float-start .img-fluid}  
-**Figure 46**{:#figure-46}{:.figure-number} View of a normal kidney and adrenal gland in a fetus with ascites 
+**Figure 46**{:#figure-46}{:.figure-number} Post contrast MR images show enhancement characteristics of the masses.
+
+![Figure 47]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-02-47.png){:.float-start .img-fluid}  
+**Figure 47**{:#figure-47}{:.figure-number} View of a normal kidney and adrenal gland in a fetus with ascites 
 
 ### Intervention in Pediatric Urology
 
@@ -491,6 +494,7 @@ Interventional procedures are integral to the management of pediatric urological
 - {% reference dillman2018acr --file 01-02 %}
 - {% reference dillman2016a --file 01-02 %}
 - {% reference duran2017a --file 01-02 %}
+- {% reference chow2017classification --file 01-02 %}
 {:.suggested-readings-list}
 
 ## References
