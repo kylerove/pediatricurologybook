@@ -95,6 +95,19 @@ As mentioned previously, patients who undergo epispadias repair and bladder neck
 
 Isolated female epispadias is an exceedingly rare condition and is regarded as the least severe variant of the BEEC. It varies from a mild distal defect that does not affect continence, to a complete phenotype which extends proximally to the bladder neck and results in complete incontinence.{% cite suson2013a --file 06-37 %} Similar to BE, proximal epispadias is widely regarded as one the most surgically challenging and complex congenital disorder of the urinary tract.{% cite weiss2020a --file 06-37 %} Epispadias repair, bladder neck reconstruction, and even osteotomies may be required in the most severe forms. Many epispadias patients will require lifelong follow up with a urologist who has experience in caring for patients with complex urologic anomalies.
 
+## Key Points
+{:.key-points-head}
+
+- Epispadias is the least severe variant of the BEEC and is defined by an incomplete fusion of the dorsal urethra.
+- Complete female epispadias is an extremely rare congenital defect, occurring in about 1/484,000 live births, much less frequently than BE, which is estimated to occur in 1/10,000 to 1/50,000.
+- The diagnosis of isolated female epispadias is generally made by physical exam postnatally as diagnosis via prenatal imaging is not reliable.
+- The urethral abnormality can range from a short distal defect to one that extends proximally to the bladder neck
+- In the female epispadias patient the goals of treatment are achievement of urinary continence, preservation of the upper urinary tracts, and reconstruction of functional and cosmetically acceptable external genitalia.
+- In patients with mild epispadias who are dry and have only minimal changes to their external genitalia surgical reconstruction may not be necessary.
+- For more severe forms of female epispadias surgical reconstruction is required to obtain continence and correct abnormalities of the external genitalia.
+- Continence rates in females with isolated epispadias have been found to be between 67-87.5%.
+{:.key-points-list}
+
 ## References
 
 {% bibliography --file 06-37 %}
