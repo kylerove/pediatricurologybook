@@ -144,7 +144,7 @@ Tong _et al_ also assessed the utility of excretory-phase computerized tomagraph
 
 Flores _et al_ most recently assessed the utility of repeat CT in a retrospective cohort study of 84 patients \<18 years of age with isolated grade IV-V renal trauma between 2007--2022. There was no difference in the rates of delayed surgical or radiologic intervention, complications, readmissions, or mortaility in patients who underwent a repeat CT and those who underwent no imaging or only a renal ultrasound. These findings questioend the utility of repeat CT for high-grade renal trauma and suggested the need for pediatric-specific guidelines.{% cite flores2022a --file 11-62 %}
 
-**Table 1**{:#table-1}{:.table-number} Summary of Multicenter Collaboratives in Pediatric Urology**
+**Table 1**{:#table-1}{:.table-number} Summary of Multicenter Collaboratives in Pediatric Urology
 
 |                   Name                 |                       Topic                      | Date of Origin or First Publication |        Principal Investigator(s)        |                          Website                          |
 |:--------------------------------------:|:------------------------------------------------:|:-----------------------------------:|:---------------------------------------:|:---------------------------------------------------------:|
