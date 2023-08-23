@@ -11,7 +11,7 @@ authors:
   -
     author-id: 143
   -
-    author-id: 132
+    author-id: 142
   -
     author-id: 7
 layout: chapter
