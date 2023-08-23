@@ -21,14 +21,14 @@ toc: true
 
 <img src="/assets/site-img/contributor-map.svg" class="img-fluid" style="width:100%" alt="Geographic representation of Pediatric Urology Book contributors">
 
-We feel incredibly lucky to have worked with over 130 contributors from around the world, sharing their expertise through their contributions to the book. Some numbers to share with our readers:
+We feel incredibly lucky to have worked with over 140 contributors from around the world, sharing their expertise through their contributions to the book. Some numbers to share with our readers:
 
 - {{ site.data.contributors.size }} contributors
 - Authors are from 23 different countries, spanning 6 continents
-- 63 chapters _(5 coming soon)_
+- 64 chapters _(4 coming soon)_
 - 371 figures
 - 82 tables
-- 2,842 references (!)
+- 2,883 references (!)
 
 ## Contributors By Section
 

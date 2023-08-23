@@ -21,14 +21,14 @@ toc: true
 
 <img src="/assets/site-img/contributor-map.svg" class="img-fluid" style="width:100%" alt="Representación geográfica de los colaboradores del Libro de Urología Pediátrica">
 
-Nos sentimos increíblemente afortunados de haber trabajado con más de 130 colaboradores de todo el mundo, compartiendo su experiencia a través de sus contribuciones al libro. Algunos números para compartir con nuestros lectores:
+Nos sentimos increíblemente afortunados de haber trabajado con más de 140 colaboradores de todo el mundo, compartiendo su experiencia a través de sus contribuciones al libro. Algunos números para compartir con nuestros lectores:
 
 - {{ site.data.contributors.size }} colaboradores
 - Los autores son de 23 países diferentes, que abarcan 6 continentes.
-- 63 capítulos _(5 muy pronto)_
+- 64 capítulos _(4 muy pronto)_
 - 371 cifras
-- 82 mesas
-- 2,842 referencias (!)
+- 81 mesas
+- 2,883 referencias (!)
 
 ## Colaboradores por Sección
 

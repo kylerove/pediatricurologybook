@@ -1,84 +1,23 @@
 # ----------------------
 # add correct libraries
+library(pbapply)
+library(R.utils)
+library(lwgeom)
+library(sp)
+library(rworldmap)
 library(ggalt) # devtools::install_github("hrbrmstr/ggalt")
 library(hrbrthemes) # devtools::install_github("hrbrmstr/hrbrthemes")
-library(nominatim) # devtools::install_github("hrbrmstr/nominatim")
+library(nominatim) # devtools::install_github("francisbarton/nominatim/") #hrbrmstr/nominatim
 library(tidyverse)
+library(sf)
 library(mapproj)
+library(cowplot)
 
 # basis !!!! as of 2023-02-21
 # https://wilkelab.org/practicalgg/articles/Winkel_tripel.html
 
-
-# ----------------------
-# implement my own functions to fix osm api endpoint
-osm_search_kor <- function(query,
-                           country_codes=NULL,
-                           viewbox=NULL,
-                           bounded=FALSE,
-                           address_details=TRUE,
-                           exclude_place_ids=NULL,
-                           limit=1,
-                           email=getOption("OSM_API_EMAIL", "nominatimrpackage@example.com"),
-                           accept_language=getOption("LANG", "en-US,en;q=0.8"),
-                           key = getOption("OSM_API_KEY", "")) {
-  
-  if (nchar(key) == 0) {
-    stop('Please provide a openstreet API key')
-  }
-  
-  bind_rows(pblapply(1:length(query), function(i) {
-    
-    param_base <- "format=json&dedupe=0&debug=0&polygon=0"
-    if (!is.null(country_codes)) param_base <- sprintf("%s&country_codes=%s", param_base, country_codes)
-    if (!is.null(viewbox)) param_base <- sprintf("%s&viewbox=%s", param_base, viewbox)
-    if (!is.null(bounded)) param_base <- sprintf("%s&bounded=%d", param_base, as.numeric(bounded))
-    if (!is.null(exclude_place_ids)) param_base <- sprintf("%s&exclude_place_ids=%s", param_base, exclude_place_ids)
-    if (!is.null(email)) param_base <- sprintf("%s&email=%s", param_base, curl::curl_escape(email))
-    if (!is.null(accept_language)) param_base <- sprintf("%s&accept-language=%s", param_base, curl::curl_escape(accept_language))
-    param_base <- sprintf("%s&key=%s", param_base, key)
-    param_base <- sprintf("%s&address_details=%d", param_base, as.numeric(address_details))
-    param_base <- sprintf("%s&limit=%d", param_base, as.numeric(limit))
-    param_base <- sprintf("%s&q=%s", param_base, gsub(" ", "+", query[i]))
-    
-    if (length(query) > 1 & length(query) != i) Sys.sleep(getOption("NOMINATIM.DELAY"))
-    message(param_base)
-    .search("https://nominatim.openstreetmap.org/search", param_base)
-    
-  }))
-  
-}
-
-.search <- function(search_base, params) {
-  
-  tryCatch({
-    
-    res <- GET(search_base, query=params, timeout(getOption("NOMINATIM.TIMEOUT")))
-    stop_for_status(res)
-    
-    ret <- content(res)
-    
-    if (length(ret) == 0) return(NULL)
-    
-    return(bind_rows(lapply(1:length(ret), function(i) {
-      
-      ret_names <- intersect(names(ret[[i]]),
-                             c("lat", "lon", "display_name"))
-      tmp_df <- data.frame(t(sapply(ret_names, function(x) { ret[[i]][[x]] })), stringsAsFactors=FALSE)
-      
-      
-      tmp_df$lat <- as.numeric(tmp_df$lat)
-      tmp_df$lon <- as.numeric(tmp_df$lon)
-      
-      tmp_df
-      
-    })))
-    
-  }, error=function(e) { message("Error connecting to geocode service", e)})
-  
-  return(NULL)
-  
-}
+# setOption to override search base
+setOption("NOMINATIM.search_base","https://nominatim.openstreetmap.org/search")
 
 
 # ----------------------
@@ -100,8 +39,9 @@ colors <- c("#FE423D","#54D3AB","#FE8F18","#B832C5","#77F27B","#587CFF","#FF3671
 
 # ----------------------
 # narrow contributors table to name/place/editor/emeritus/contributor
-geocoded_locations <- osm_search_kor(locations$location, limit=1, key = getOption("OSM_API_KEY", "jDa4F8WgeWFaSqu4QaAtbHbS0GWMsfjp")) %>% select(display_name,lat,lon)
-contributors <- contributors %>% bind_cols(geocoded_locations)
+geocoded_locations_all <- osm_search(locations$location, limit=1, key = "jDa4F8WgeWFaSqu4QaAtbHbS0GWMsfjp")
+geocoded_locations <- geocoded_locations_all %>% select(display_name,lat,lon)
+#contributors <- contributors %>% bind_cols(geocoded_locations)
 
 # ----------------------
 # get the map ready
