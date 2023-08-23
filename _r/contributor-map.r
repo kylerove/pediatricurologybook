@@ -12,6 +12,7 @@ library(tidyverse)
 library(sf)
 library(mapproj)
 library(cowplot)
+library(stringi)
 
 # basis !!!! as of 2023-02-21
 # https://wilkelab.org/practicalgg/articles/Winkel_tripel.html
@@ -32,7 +33,9 @@ contributors <- read.csv("_data/contributors.csv") %>% mutate(a_contributor = if
 locations <- read.csv("_data/locations.csv") %>% mutate(contributor = ifelse(editor == "",ifelse(emeritus.editor == "","yes",""),"")) %>%
   select(location,editor,emeritus.editor,contributor) %>%
   group_by(location) %>%
-  summarize(editors=any(editor == "yes"),emeritus.editors = any(emeritus.editor == "yes"), contributors=any(contributor=="yes"))
+  summarize(editors=any(editor == "yes"),emeritus.editors = any(emeritus.editor == "yes"), contributors=any(contributor=="yes")) %>%
+  mutate(location_ascii = stri_trans_general(location, "Latin-ASCII"))
+
 # ----------------------
 # define colors
 colors <- c("#FE423D","#54D3AB","#FE8F18","#B832C5","#77F27B","#587CFF","#FF3671","#AAAAAA","#666666","#00DAFF","#FE423D","#FFC300","#54D3AB","#FE8F18","#B832C5","#77F27B","#587CFF","#FF3671","#AAAAAA","#666666","#00DAFF","#FE423D","#FFC300","#54D3AB","#77F27B","#587CFF","#FE423D","#54D3AB","#FE8F18","#B832C5","#77F27B","#587CFF","#FF3671","#AAAAAA","#666666","#00DAFF","#FE423D","#FFC300","#54D3AB","#FE8F18","#B832C5","#77F27B","#587CFF","#FF3671","#AAAAAA","#666666","#00DAFF","#FE423D","#FFC300","#54D3AB","#77F27B","#587CFF","#FFC300","#54D3AB","#FE8F18","#B832C5","#77F27B","#587CFF")
