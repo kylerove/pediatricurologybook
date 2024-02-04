@@ -7,7 +7,9 @@ description: Chapter 59 dives into what we know (and don't know) about the long-
 thumbnail: 10-59_long-term-complications-of-urogential-reconstruction.md.png
 authors:
   -
-    author-id: 
+    author-id: 115
+  -
+    author-id: 111
 layout: chapter
 lang: en
 breadcrumbs:
@@ -34,6 +36,12 @@ Another major limitation to the study and collation of data regarding urogenital
 2. the number of patients in each disease state are often so small that making any meaningful conclusions requires some grouping of patients.
 
 Regardless, we must assess the data as they currently stand and use them to advance and improve the way we study long-term outcomes for these unique and important populations.
+
+**Table 1**{:#table-1}{:.table-number} Summary of long-term considerations in urogenital reconstruction
+
+|                                   **UG Sinus**                                   |                                        **Cloacal Anomalies**                                       |                                                                          **BEEC**                                                                         |                                                    **Proximal Hypospadias**                                                    |
+|:--------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------:|
+| Vaginal stenosis<br>Genital cosmesis<br>Continence<br>Menstruation<br>Obstetrics | Vaginal stenosis<br>Genital cosmesis<br>Continence<br>Menstruation<br>Obstetrics<br>Bowel function | Continence<br>Penile reconstruction<br>Erectile/ejaculatory dysfunction<br>Vaginal stenosis<br>Genital cosmesis<br>Prolapse<br>Menstruation<br>Obstetrics | Recurrent chordee<br>Erectile/ejaculatory dysfunction<br>Complications (fistulae, stricture, diverticulae)<br>Genital cosmesis |
 
 ## Urogenital
 
@@ -92,12 +100,6 @@ Data concerning long-term complications and outcomes after urogenital reconstruc
 - Patients should be cared for by providers working within a multidisciplinary team.
 - An understanding of the potential complications of early surgery is important for those who have undertaken the surgery and those who will care for the patient as an adolescent/adult.
 {:.key-points-list}
-
-**Table 1**{:#table-1}{:.table-number} Summary of long-term considerations in urogenital reconstruction
-
-|                                   **UG Sinus**                                   |                                        **Cloacal Anomalies**                                       |                                                                          **BEEC**                                                                         |                                                    **Proximal Hypospadias**                                                    |
-|:--------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------:|
-| Vaginal stenosis<br>Genital cosmesis<br>Continence<br>Menstruation<br>Obstetrics | Vaginal stenosis<br>Genital cosmesis<br>Continence<br>Menstruation<br>Obstetrics<br>Bowel function | Continence<br>Penile reconstruction<br>Erectile/ejaculatory dysfunction<br>Vaginal stenosis<br>Genital cosmesis<br>Prolapse<br>Menstruation<br>Obstetrics | Recurrent chordee<br>Erectile/ejaculatory dysfunction<br>Complications (fistulae, stricture, diverticulae)<br>Genital cosmesis |
 
 ## References
 

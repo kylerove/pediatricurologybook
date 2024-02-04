@@ -3,11 +3,13 @@ section: 06
 chapter: 38
 sort-key: 06-38
 title: Cloacal Anomaly
-description: Chapter 38 .
+description: Chapter 38 dives into the world of female cloacal anomaly, where urogenital and gastrointestinal tracts did not fully separate.
 thumbnail: 06-38_cloacal-anomaly.md.png
 authors:
   -
-    author-id: 
+    author-id: 9
+  -
+    author-id: 145
 layout: chapter
 lang: en
 breadcrumbs:
@@ -70,7 +72,7 @@ Approximately one quarter to one third of patient with ARM will have associated 
 
 ### VACTERL Association
 
-Multiple syndromes and genetic disorders have been described which include anorectal malformations as a feature. The most significant of these is the VACTERL association, though many others have been described. VACTERL is an acronym for **[v]{.underline}**ertebral anomalies, **[a]{.underline}**norectal anomalies, **[c]{.underline}**ardiac anomalies, **[t]{.underline}**racheo**[e]{.underline}**sophageal fistula, **[r]{.underline}**enal anomalies, and **[l]{.underline}**imb anomalies. Most cases are sporadic rather than hereditary. Not all components of the VACTERL association are expressed in every patient. The most common are vertebral, anorectal, and renal abnormalities. To diagnose VACTERL/VACTER Syndrome, at least 3 of defects must be present.{% cite solomon2011a --file 06-38 %} Other syndromes that may be commonly associated with ARMs include MURCS (Müllerian duct aplasia, renal aplasia, and cervicothoracic somite dysplasia), OEIS (omphalocele, exstrophy, imperforate anus, and spinal defects).{% cite levitt2007a --file 06-38 %}
+Multiple syndromes and genetic disorders have been described which include anorectal malformations as a feature. The most significant of these is the VACTERL association, though many others have been described. VACTERL is an acronym for **[v]{:.text-decoration-underline}**ertebral anomalies, **[a]{:.text-decoration-underline}**norectal anomalies, **[c]{:.text-decoration-underline}**ardiac anomalies, **[t]{:.text-decoration-underline}**racheo**[e]{:.text-decoration-underline}**sophageal fistula, **[r]{:.text-decoration-underline}**enal anomalies, and **[l]{:.text-decoration-underline}**imb anomalies. Most cases are sporadic rather than hereditary. Not all components of the VACTERL association are expressed in every patient. The most common are vertebral, anorectal, and renal abnormalities. To diagnose VACTERL/VACTER Syndrome, at least 3 of defects must be present.{% cite solomon2011a --file 06-38 %} Other syndromes that may be commonly associated with ARMs include MURCS (Müllerian duct aplasia, renal aplasia, and cervicothoracic somite dysplasia), OEIS (omphalocele, exstrophy, imperforate anus, and spinal defects).{% cite levitt2007a --file 06-38 %}
 
 ## Evaluation and Diagnosis
 
