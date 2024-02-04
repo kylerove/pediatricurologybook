@@ -41,7 +41,7 @@ In either of these age groups, testicular tumors have characteristic features to
 
 ## Embryology
 
-The fetal testis develops from the undifferentiated mesodermal gonad after 6 weeks. In a male fetus, the Mullerian duct regresses in response to AMH secreted by the developing testis. The Wolffian system develops in response to testosterone secreted by the developing testis. Leydig cells producing testosterone arise from the gonadal mesoderm and are found in the interstitium of the mature testis. The mesodermal stromal sex cords develop into seminiferous tubules and supporting epithelial cells give rise to Sertoli cells. The somatic cells of the testis are derived from the mesoderm of the gonadal ridge, but the primordial germ cells originate from the epiblast/yolk sac after around 8 days of embryonal development, and migrate to the gonadal ridge, settling in close proximity to the gonadal mesoderm.{% cite silber-a --file 08-44 %}
+The fetal testis develops from the undifferentiated mesodermal gonad after 6 weeks. In a male fetus, the Müllerian duct regresses in response to AMH secreted by the developing testis. The Wolffian system develops in response to testosterone secreted by the developing testis. Leydig cells producing testosterone arise from the gonadal mesoderm and are found in the interstitium of the mature testis. The mesodermal stromal sex cords develop into seminiferous tubules and supporting epithelial cells give rise to Sertoli cells. The somatic cells of the testis are derived from the mesoderm of the gonadal ridge, but the primordial germ cells originate from the epiblast/yolk sac after around 8 days of embryonal development, and migrate to the gonadal ridge, settling in close proximity to the gonadal mesoderm.{% cite silber-a --file 08-44 %}
 
 This derivation of cells from different embryological origins within the developing testis underlies the myriad of possible tumors, with differing behaviours, that may present in the pediatric testis.
 
@@ -302,7 +302,7 @@ Paratesticular rhabdomyosarcoma is the commonest paratesticular malignancy in ch
 
 *[AYA]: adolescent young adult
 *[TSS]: testis-sparing surgery
-*[AMH]: anti-mullerian hormone
+*[AMH]: anti-Müllerian hormone
 *[GCTs]: germ cell tumors
 *[GCNIS]: germ cell neoplasia in situ
 *[USS]: ultrasound study

@@ -174,7 +174,7 @@ In infants and small children complete resection of the urachus can easily be ac
 
 ### Embryology and Anatomy
 
-In male fetuses, the production of Mullerian inhibiting substance (MIS) by Sertoli cells signals the rapid regression of the paramesonephric (Mullerian) ducts---which in females become the Fallopian tubes, oviduct, uterus, and upper 2/3 of the vagina---in the 8-10<sup>th</sup> weeks of gestation. The prostatic utricle is a small remnant of the paramesonephric ducts that persists in males as an expansion of the prostatic urethra.{% cite jm2016a --file 03-18 %} The utricle arises from the midline of the prostate at the cranial aspect of the verumontanum.
+In male fetuses, the production of Müllerian inhibiting substance (MIS) by Sertoli cells signals the rapid regression of the paramesonephric (Müllerian) ducts---which in females become the Fallopian tubes, oviduct, uterus, and upper 2/3 of the vagina---in the 8-10<sup>th</sup> weeks of gestation. The prostatic utricle is a small remnant of the paramesonephric ducts that persists in males as an expansion of the prostatic urethra.{% cite jm2016a --file 03-18 %} The utricle arises from the midline of the prostate at the cranial aspect of the verumontanum.
 
 ### Clinical Presentation
 

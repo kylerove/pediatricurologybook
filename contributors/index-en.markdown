@@ -25,10 +25,10 @@ We feel incredibly lucky to have worked with over 140 contributors from around t
 
 - {{ site.data.contributors.size }} contributors
 - Authors are from 23 different countries, spanning 6 continents
-- 64 chapters _(4 coming soon)_
-- 371 figures
-- 82 tables
-- 2,883 references (!)
+- 66 chapters _(2 coming soon)_
+- 386 figures
+- 84 tables
+- 2,968 references (!)
 
 ## Contributors By Section
 

@@ -242,7 +242,7 @@ For laparoscopic pyeloplasty, transperitoneal or retroperitoneal could both achi
 
 ### Ureteral Reimplantation
 
-Ureteral reimplantation is the gold treatment of vesicoureteral reflux and ureteral stricture. Traditionally, this procedure has been done using an open access. Many different techniques can be used: intravesical Cohen reimplantaion, transvesical Polino-Leadbetter reimplantaion, extravesical Lich-Gregoir reimplantion. All technique could be done through laparoscopic, pneumovesical laparoscopic or robotic approach. Here we introduce pneumovesical laparoscopic Cohen's Reimplantation Procedure ((transverse submucosal bladder tunnel uretero-vesical anastomosis) and extravesical Lich-Gregoir reimplantation.
+Ureteral reimplantation is the gold treatment of vesicoureteral reflux and ureteral stricture. Traditionally, this procedure has been done using an open access. Many different techniques can be used: intravesical Cohen reimplantaion, transvesical Polino-Leadbetter reimplantaion, extravesical Lich-Gregoir reimplantion. All technique could be done through laparoscopic, pneumovesical laparoscopic or robotic approach. Here we introduce pneumovesical laparoscopic Cohen's Reimplantation Procedure (transverse submucosal bladder tunnel uretero-vesical anastomosis) and extravesical Lich-Gregoir reimplantation.
 
 #### Pneumovesical Establishment
 

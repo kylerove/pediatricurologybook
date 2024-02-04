@@ -176,7 +176,7 @@ It is a normal penis hidden by the suprapubic fat pad. It is also called conceal
 Several different categories have been described according to the cause of concealing:
 
 1.  A congenital form with a lack of fixation between the skin and the base of the penis resulting in tenting. Its embryological origin is believed to be secondary from a failure of separation of the migrational planes during the development of the male external genitalia. This anomaly results in penile corporal tethered to the deep fascia and the scrotum located high in the groin ([Figure 9](#figure-9){:.figure-link}).
-2. Two different sub-categories can be easily identified based on the presence or not of **megaprepuce** which is an association of a phimotic ring with a major ballooning of the inner prepuce during micturition (([Figure 1](#figure-1){:.figure-link}0](#figure-10){:.figure-link}). This phenomenon can cause some degree of discomfort to the patient. The hemispheric tumefaction is also named as preputial bladder and it is usually diagnosed by the parents during the first months of life who need to compress it manually to allow the exit of the urine through the phimotic orifice.
+2. Two different sub-categories can be easily identified based on the presence or not of **megaprepuce** which is an association of a phimotic ring with a major ballooning of the inner prepuce during micturition ([Figure 10](#figure-10){:.figure-link}). This phenomenon can cause some degree of discomfort to the patient. The hemispheric tumefaction is also named as preputial bladder and it is usually diagnosed by the parents during the first months of life who need to compress it manually to allow the exit of the urine through the phimotic orifice.
 3.  An acquired form due to obesity ([Figure 9](#figure-9){:.figure-link}). This one should be differentiated from the transient form in the early childhood that resolves with increased age and deambulation
 4.  A cicatrized form secondary to penile surgeries like circumcision.
 
@@ -227,7 +227,7 @@ In the publication by Ruiz et al, a simplified approach of this malformation was
 
 On the other hand, Rod _et al_ highlights the importance of reducing the inner prepuce in length and circumference to avoid an unesthetic appearance. They also described the importance of removing the subcutaneous tissue of the inner prepuce to reduce the probability of local lymphedema.{% cite rod2013a --file 05-35 %}
 
-The ventral V plasty is a combined technique where a V shaped incision is performed in the ventral inner preputial layer. This preputial layer will be leaved in place to be interposed and facilitate the skin closure in the ventral part of the shaft (([Figure 1](#figure-1){:.figure-link}2](#figure-12){:.figure-link}).{% cite shalaby2021a --file 05-35 %}
+The ventral V plasty is a combined technique where a V shaped incision is performed in the ventral inner preputial layer. This preputial layer will be leaved in place to be interposed and facilitate the skin closure in the ventral part of the shaft ([Figure 12](#figure-12){:.figure-link}).{% cite shalaby2021a --file 05-35 %}
 
 ![Figure 12]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-35-12.png){:.float-start .img-fluid}  
 **Figure 12**{:#figure-12}{:.figure-number} Ventral V plasty in an older patient with a severe ventral skin deficiency.
