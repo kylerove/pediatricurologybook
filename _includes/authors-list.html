@@ -6,7 +6,7 @@
         {% assign author_count = authors.size -%}
         {%- assign affiliation_count = 0 -%}
         {%- for author in authors -%}
-            {% if forloop.index0 == 0 %}{{ the_translation.by-cap }}{% endif %}{% if forloop.index == author_count and author_count != 1 %} &amp; {% endif %}<span class="break-avoid ws-nowrap">
+            {% if forloop.index0 == 0 %}{{ the_translation.by-cap }}{% endif %}{% if forloop.index == author_count and author_count != 1 %} &amp; {% endif %}<span class="author-container">
             {%- assign affiliation_string_full = "" -%}
             {%- assign author_id = author.author-id | ceil -%}
             {%- assign the_author = contributors | where: "author-id", author_id | first -%}
