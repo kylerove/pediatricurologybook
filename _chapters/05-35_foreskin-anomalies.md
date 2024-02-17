@@ -101,7 +101,7 @@ BXO (also named as lichen sclerosus) is a chronic inflammatory disease which can
 
 The reported incidence is 0.4 cases/1000 boys per year and the published prevalence of BXO in phimotic patients varies between 9 and 50%. The average age at presentation has been reported to be 8.9 - 10.6 years with a peak incidence between 9 and 11 years of age.{% cite am2022a jayakumar2012a folaranmi2018a --file 05-35 %}
 
-In a recent publication by Filho et al, BXO was diagnosed histologically in 32% of phimotic patients with no clinical suspected BXO after circumcision. The degree of phimosis was no correlated with the presence of BXO ^7,\ 9^.
+In a recent publication by Filho et al, BXO was diagnosed histologically in 32% of phimotic patients with no clinical suspected BXO after circumcision. The degree of phimosis was no correlated with the presence of BXO.{% cite am2022a folaranmi2018a --file 05-35 %}
 
 The diagnosis is mostly clinical. In mild cases with BXO, areas of greyish white discoloration on the glans or the inner layer of the foreskin can be found ([Figure 2](#figure-2){:.figure-link}). As this condition progresses, the skin becomes inelastic with whitish discoloured plaques along with progressive fibrous phimosis. In more severe cases, ulceration and involvement of the meatus and urethra can be found.{% cite celis2014a folaranmi2018a --file 05-35 %}
 
@@ -159,7 +159,7 @@ Invasive methods:
 
 - **Puncture technique:** A 26-gauge needle is used to make approximately 20 puncture holes in the prepuce reducing edema to permit reduction.{% cite little2005a anand2013a --file 05-35 %}
 - **Penile Aspiration:** a tourniquet is applied in the shaft of the penis and then a 20-gauge needle is inserted parallel to the urethra to aspirate 3 to 12 ml of blood from the glans. This procedure reduces the volume of the glans to facilitate manual reduction.{% cite anand2013a --file 05-35 %}
-- **Hyaluronidase injections:** 1 ml of 150 units/mL of hyaluronidase is injected through 2 or 3 sites into the prepuce. Hyaluronidase breaks down the viscous hyaluronic acid in the extracellular fluid and facilitates dissipation of oedema so the foreskin can then be gently retracted over the glans.
+- **Hyaluronidase injections:** 1 ml of 150 units/mL of hyaluronidase is injected through 2 or 3 sites into the prepuce. Hyaluronidase breaks down the viscous hyaluronic acid in the extracellular fluid and facilitates dissipation of edema so the foreskin can then be gently retracted over the glans.
 - **Preputioplasty:** the constricting band is identified and a 1--2 cm dorsal longitudinal incision is performed. Release of the constricting band permits reduction of glandular edema so the foreskin can be reduced. The incision is then sutured in a transverse fashion with non-continuous reabsorbable sutures ([Figure 8](#figure-8){:.figure-link}).{% cite little2005a devries1996a --file 05-35 %}
 
 ![Figure 8]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-35-8.png){:.float-start .img-fluid}  
@@ -167,7 +167,7 @@ Invasive methods:
 
 ## Inconspicuous Penis
 
-It is a penile anomaly where a penis with a normal length (from the tip of the glans to the pubis) and shaft diameter, appears smaller. Different entities are included in this definition as buried penis, trapped penis or webbed penis ^1,\ 18^.
+It is a penile anomaly where a penis with a normal length (from the tip of the glans to the pubis) and shaft diameter, appears smaller. Different entities are included in this definition as buried penis, trapped penis or webbed penis.{% cite l-a shalaby2021a --file 05-35 %}
 
 ### Buried Penis
 

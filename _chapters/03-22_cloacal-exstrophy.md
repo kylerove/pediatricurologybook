@@ -123,7 +123,7 @@ Other associated anomalies of the gastrointestinal tract are seen in 46% of case
 
 ### Other Urologic Anomalies
 
-Anomalies of the upper urinary tract are common, occurring in 41–66% of patients.{% cite mathews1998a mchoney2004a --file 03-22 %} Particular attention to identifying and understanding the patient's upper tract anatomy is vital as unilateral renal agenesis, pelvic kidney or hydronephrosis can be seen in up to 48% of cases, with multiple concomitant renal anomalies in 16% of patients.^19,\ 22^ Horseshoe kidneys, fusion anomalies, and ureteral abnormalities including megaureter and duplication are reported less frequently. Of note, ureteral anomalies can vary widely with possible ectopic ureteral insertion to the vas deferens in the male and into the uterus, vagina, or fallopian tubes in females.{% cite diamond2004a --file 03-22 %}
+Anomalies of the upper urinary tract are common, occurring in 41–66% of patients.{% cite mathews1998a mchoney2004a --file 03-22 %} Particular attention to identifying and understanding the patient's upper tract anatomy is vital as unilateral renal agenesis, pelvic kidney or hydronephrosis can be seen in up to 48% of cases, with multiple concomitant renal anomalies in 16% of patients.{% cite gambhir-a palmer2011a --file 03-22 %} Horseshoe kidneys, fusion anomalies, and ureteral abnormalities including megaureter and duplication are reported less frequently. Of note, ureteral anomalies can vary widely with possible ectopic ureteral insertion to the vas deferens in the male and into the uterus, vagina, or fallopian tubes in females.{% cite diamond2004a --file 03-22 %}
 
 ### Central Nervous System and Vertebral Anomalies
 
