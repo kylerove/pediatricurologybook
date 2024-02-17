@@ -25,6 +25,7 @@ review-formatting-complete: 2023-02-21 KR
 ## Introduction
 
 Pediatric cancer is defined as a rare disease, representing less than 1 percent of all cancers diagnosed in the United States. Nevertheless, is a leading cause of death for children and adolescents.{% cite steliarova-foucher2017a --file 08-46 %} Over the past four decades, there has been a continuous, increase in the incidence of cancers occurring under the age of 15.{% cite steliarova-foucher1991a --file 08-46 %}
+{:.drop-caps}
 
 The likelihood of surviving a diagnosis of childhood cancer depends on the country in which the child lives: in high-income countries, more than 80% of children with cancer are cured, but in many low-income countries less than 30% are cured.{% cite siegel2020a --file 08-46 %} A high proportion of survivors of cancer, represents individuals at high risk of experiencing serious, disabling, and life-threatening acute, chronic, and late adverse effects of cancer and its therapy.{% cite gibson1970a --file 08-46 %}
 

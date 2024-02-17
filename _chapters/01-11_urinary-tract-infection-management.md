@@ -25,6 +25,7 @@ review-formatting-complete: 2023-08-23 KR
 ## Introduction
 
 Urinary tract infections are a common problem in children, constituting one of the most frequent infections of bacterial origin in children under 2 years of age. Urinary tract infection (UTI) is defined as the colonization of the urinary tract, from the bladder to the renal parenchyma, by pathogenic microorganisms, frequently bacteria, associated with leukocyturia and variable symptoms, as we will see below.
+{:.drop-caps}
 
 ## Epidemiology
 

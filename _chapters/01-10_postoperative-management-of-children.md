@@ -25,6 +25,7 @@ review-formatting-complete: 2023-04-22 KR
 ## Introduction
 
 Pediatric postoperative care is a critical aspect of any surgical procedure, and it plays a significant role in the child\'s recovery. The postoperative management of the pediatric patient is essential to prevent complications and ensure optimal healing. This chapter will discuss the postoperative management of the pediatric patient, including intravenous fluids, electrolyte balance, TPN, and pain management.
+{:.drop-caps}
 
 ## Intravenous Fluids
 

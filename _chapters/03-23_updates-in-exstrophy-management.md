@@ -27,6 +27,7 @@ review-formatting-complete: 2023-04-23 KR
 ## Introduction
 
 The exstrophy-epispadias complex (EEC) comprises a wide spectrum of congenital anomalies, all arising from the same embryological defect, ranging from simple glandular epispadias to cloacal exstrophy.{% cite gearhart2001a --file 03-23 %}
+{:.drop-caps}
 
 ## Epidemiology
 

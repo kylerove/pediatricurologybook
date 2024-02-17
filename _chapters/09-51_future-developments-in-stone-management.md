@@ -31,6 +31,7 @@ review-formatting-complete: 2023-02-27 KR
 ## Introduction
 
 The past two decades have seen a dramatic rise in pediatric kidney stone incidence, with adolescents representing the fasting growing age demographic across the lifespan of this disease.{% cite tasian2016a --file 09-51 %} Because children and young adults face unique challenges in terms of care delivery, risks of treatment, and underlying disease processes, advances in kidney stone disease in terms of miniaturization of equipment, reducing ionizing radiation exposure, and improving care for patients with genetic predisposition for urinary stone disease may preferentially benefit pediatric patients. This chapter will review advances not only in surgical equipment but also diagnostics, therapeutics, and care delivery.
+{:.drop-caps}
 
 ## Diagnosis and Initial Evaluation
 

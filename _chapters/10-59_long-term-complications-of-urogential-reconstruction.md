@@ -27,6 +27,7 @@ review-formatting-complete: 2024-02-04 KR
 ## Introduction
 
 Urogenital reconstruction is a broad description of surgeries that many of the most complex pediatric and adult urology patients have undergone. This chapter addresses the long-term considerations for adolescents and young adults (AYA) who have undergone reconstruction for urogenital (UG) sinuses, cloacal anomalies, exstrophy (including cloacal exstrophy and epispadias), and proximal hypospadias with a view to their reconstructive surgical outcomes later in life. Controversies regarding timing of reconstruction are discussed.
+{:.drop-caps}
 
 Of note, long-term outcomes are inherently challenging to study in these complex populations because there have been such radical shifts in how we counsel and manage patients over time. For example, in bladder exstrophy, the modern staged repair became popularized in the early 1970s.{% cite cendron1971a jeffs-a williams1973a --file 10-59 %} In cloacal anomalies and UG sinuses, the posterior sagittal approach and total urethral mobilization (TUM) were published in the 1980s and 1990s.{% cite pa1982a pe1997a --file 10-59 %} Thus, studying an adolescent and adult population today might make conclusions about outdated techniques and attitudes.
 

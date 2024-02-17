@@ -27,6 +27,7 @@ review-formatting-complete: 2024-02-04 KR
 ## Introduction
 
 Anorectal anomalies comprise a spectrum of congenital malformations involving the rectum and anus. Children with anorectal malformations (ARM) are often diagnosed with "imperforate anus" because there is no opening where the normal anal opening should be. This oversimplifies the underlying pathology which frequently involves the urogenital system, spine, and pelvic floor musculature. At one end of the spectrum are minor anomalies in which the anal canal is present, but the anus is anteriorly displaced or covered by perineal skin. With more severe malformations, the rectum fails to reach the perineum and instead connects to the genitourinary tract.
+{:.drop-caps}
 
 The most severe manifestation of anorectal malformation in girls is a cloacal malformation in which the rectum, urethra, and vagina join to form a single confluent channel which opens onto the perineum. Classically, the perineal opening in a cloaca will be anterior on the perineum, at the site where the urethra would normally open. Posterior cloacal anomalies are a rare variant in which the opening is posteriorly deviated, with the urogenital sinus inserting into or just anterior to an orthotopic rectum.{% cite abouzeid2021a pe2010a --file 06-38 %}
 

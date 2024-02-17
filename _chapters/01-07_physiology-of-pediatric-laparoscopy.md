@@ -31,6 +31,7 @@ review-formatting-complete: 2023-08-23 KR
 ## Background
 
 Over the last two decades, the use of laparoscopic and robotic surgical techniques has been widely adopted into urology and pediatric urology. Advantages of laparoscopic surgical approaches include increased magnification, better cosmesis, decreased post-operative pain scores and overall shorter hospital stays compared to open surgical approaches.{% cite andolfi2019a --file 01-07 %} Since the first adoption of laparoscopy in pediatric urology in 1976 by Crotesti _et al_ for the evaluation of undescended testes, laparoscopic technique has greatly advanced the ability to perform complex surgical procedures.{% cite varda2014a --file 01-07 %}
+{:.drop-caps}
 
 The application of robotic surgical systems within pediatric urology was the next breakthrough in advancing minimally invasive technique after laparoscopy. In smaller patients, the limitations of laparoscopy such as limited range of motion and degree of magnification were amplified. Robotic surgery offers greater magnification and visualization of smaller areas, seven degrees range of motion and reduction in hand tremors -- ideal when working in small spaces. Since robotic techniques were first implemented within pediatric urology, the role of robotic surgery has expanded to include a variety of procedures including pyeloplasty, heminephrectomy, bladder neck reconstruction, ureteral reimplant, appendicovesicostomy and others.{% cite silay2016a sorensen2011a murthy2015a --file 01-07 %}
 

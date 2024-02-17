@@ -27,6 +27,7 @@ review-formatting-complete: 2023-02-21 KR
 ## Introduction
 
 In medical practice, patient-self reports of their experience related to a specific disease or a treatment for a given condition may significantly differ from those of caregivers or practitioners. Patient-reported outcomes are a formal mechanism by which practitioners are able to collect data about a patient's experience and gain valuable insight into ways to improve patient experience and the approach to care. These data allow patients and providers to come together in a shared decision-making process to improve the quality of care, treatment approaches, and interventions.
+{:.drop-caps}
 
 However, what constitutes a meaningful patient-reported may be a subject of debate. Patient-Reported Outcomes (PROs), as defined by the US Food and Drug Administration are "any report of the status of a patient's health condition that comes directly from the patient, without interpretation of the patient's response by a clinician or anyone else."{% cite h2009a --file 11-68 %} PROs may be used to measure the effect of a given intervention (medical or behavioral) on a specific concept, such as:
 
