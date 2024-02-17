@@ -79,7 +79,7 @@ To avoid progressive intrapelvic pressure rise, the renal pelvis dilates to acco
 
 ## Evaluation and diagnosis
 
-The diagnosis of ANH is based on measuring the APRPD which is five mm or more in the second trimester and seven mm or more in the third one.{% cite yal2020a --file 02-14 %} Fetal RBUS interpretation involves the following items; fetal sex, amniotic fluid index (AFI), gestational age, associated congenital anomalies, unilateral or bilateral hydronephrosis, degree of hydronephrosis, APRPD, parenchymal status in the form of parenchymal thickness and echogenicity, ureteral dilatation, bladder fullness and cycling in addition to its wall thickness, and urethral dilatation ([Table 1](#table-1){:.table-link})
+The diagnosis of ANH is based on measuring the APRPD which is five mm or more in the second trimester and seven mm or more in the third one.{% cite yal2020a --file 02-14 %} Fetal RBUS interpretation involves the following items; fetal sex, amniotic fluid index (AFI), gestational age, associated congenital anomalies, unilateral or bilateral hydronephrosis, degree of hydronephrosis, APRPD, parenchymal status in the form of parenchymal thickness and echogenicity, ureteral dilatation, bladder fullness and cycling in addition to its wall thickness, and urethral dilatation ([Table 1](#table-1){:.table-link}).
 
 **Table 1**{:#table-1}{:.table-number} The ten questions to be addressed for the evaluation of antenatal hydronephrosis.
 
@@ -110,7 +110,7 @@ In the second trimester, ANH is classified into mild, moderate, and severe when 
 
 The baby should be re-evaluated three to seven days after birth and not earlier to avoid false-negative results caused by transient oliguria of the newborn, especially in the first 48 hours of life. Nevertheless, RBUS is done immediately following labor in cases of bilateral high-grade hydronephrosis, solitary kidney, oligohydramnios, or when PUV is suspected.
 
-In North America, the SFU grading system is used for classifying hydronephrosis while the APRPD is used in Europe. The SFU classification of hydronephrosis is depicted in ([Table 3](#table-3){:.table-link}){% cite hodhod2016a --file 02-14 %}
+In North America, the SFU grading system is used for classifying hydronephrosis while the APRPD is used in Europe. The SFU classification of hydronephrosis is depicted in [Table 3](#table-3){:.table-link}.{% cite hodhod2016a --file 02-14 %}
 
 **Table 3**{:#table-3}{:.table-number} SFU grading system.
 

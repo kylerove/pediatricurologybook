@@ -50,7 +50,7 @@ Overall, PCC has an annual incidence of 3 in 1 million individuals. Of all PCC d
 
 ### Pathogenesis
 
-Discussion of PCC centers around genetic predisposition. Despite the classic "rule of 10s" for PCC, about 40% of pediatric PCCs have a hereditary disposition. ([Table 1](#table-1){:.table-link}) describes the known genetic syndromes associated with PCC.{% cite board2019a chen2010a --file 08-42 %} The genetic link is so strong that up to 70--80% of pediatric patients with PCC or PG have an associated germline mutation. These germline mutations may or may not be a genetic syndrome or hereditary in nature.{% cite bausch2014a king2011a neumann2002a --file 08-42 %} In one study of 49 patients age \<20y with PCC or PG, almost 80% had a germline mutation involving Succinate Dehydrogenase (SDH), von Hippel Lindau (VHL), or Neurofibromatosis Type 1 (NF1).{% cite king2011a --file 08-42 %} When tested for RET (rearranged during transfection), VHL, and SDH mutations, 70% of patients \<10y, 51% of patients 10--20y and 16% of patients \>20y had an identifiable germline mutation.{% cite neumann2002a --file 08-42 %} Considering this strong association, all children, adolescents and young adults with PCC or PG should undergo genetic testing.{% cite b2018a --file 08-42 %} Similarly, for patients with either a family history or known genetic disposition (ex. Multiple Endocrine Neoplasia type 2 (MEN2) and VHL) should undergo regular screening, usually biochemical testing annually beginning at age 5y.{% cite jain2019a --file 08-42 %}
+Discussion of PCC centers around genetic predisposition. Despite the classic "rule of 10s" for PCC, about 40% of pediatric PCCs have a hereditary disposition. [Table 1](#table-1){:.table-link} describes the known genetic syndromes associated with PCC.{% cite board2019a chen2010a --file 08-42 %} The genetic link is so strong that up to 70--80% of pediatric patients with PCC or PG have an associated germline mutation. These germline mutations may or may not be a genetic syndrome or hereditary in nature.{% cite bausch2014a king2011a neumann2002a --file 08-42 %} In one study of 49 patients age \<20y with PCC or PG, almost 80% had a germline mutation involving Succinate Dehydrogenase (SDH), von Hippel Lindau (VHL), or Neurofibromatosis Type 1 (NF1).{% cite king2011a --file 08-42 %} When tested for RET (rearranged during transfection), VHL, and SDH mutations, 70% of patients \<10y, 51% of patients 10--20y and 16% of patients \>20y had an identifiable germline mutation.{% cite neumann2002a --file 08-42 %} Considering this strong association, all children, adolescents and young adults with PCC or PG should undergo genetic testing.{% cite b2018a --file 08-42 %} Similarly, for patients with either a family history or known genetic disposition (ex. Multiple Endocrine Neoplasia type 2 (MEN2) and VHL) should undergo regular screening, usually biochemical testing annually beginning at age 5y.{% cite jain2019a --file 08-42 %}
 
 MEN2 is an autosomal dominant disorder caused by an activating mutation in the RET oncogene. There is a \>50% risk of developing PCC.{% cite board2019a bholah2017a --file 08-42 %} About 20% of patients with MEN2B develop PCC, and all were associated with the classic M918T RET mutation.{% cite makri2019a --file 08-42 %} The majority are diagnosed with screening and few experience clinical symptoms, illustrating the importance of screening for early diagnosis.
 
@@ -75,7 +75,7 @@ Recently, there have been cases suggesting some type of a relationship between P
 
 ### Evaluation and Diagnosis
 
-While the majority of PCCs are benign, the systemic effects of catecholamine excess can have significant morbidity and mortality.{% cite chen2010a --file 08-42 %} Classically described is the "rule of 10s" ([Table 2](#table-2){:.table-link}) To distinguish benign from malignant PCC, metastases must be identified.
+While the majority of PCCs are benign, the systemic effects of catecholamine excess can have significant morbidity and mortality.{% cite chen2010a --file 08-42 %} Classically described is the "rule of 10s" ([Table 2](#table-2){:.table-link}). To distinguish benign from malignant PCC, metastases must be identified.
 
 **Table 2**{:#table-2}{:.table-number} "Rule of 10s"
 
@@ -143,7 +143,7 @@ Pediatric PCC is rare and most recommendations are extrapolated from adult PCC/P
 
 ### Introduction
 
-The vast majority of renal masses found in children are Wilms' tumor (WT), but several other rare and important diagnoses can be found. These are summarized in ([Table 3](#table-3){:.table-link})
+The vast majority of renal masses found in children are Wilms' tumor (WT), but several other rare and important diagnoses can be found. These are summarized in [Table 3](#table-3){:.table-link}.
 
 **Table 3**{:#table-3}{:.table-number} Incidence of pediatric renal tumors{% cite d2013a --file 08-42 %}
 
@@ -174,7 +174,7 @@ There are about 500 cases with WT in the USA annually.{% cite d2013a --file 08-4
 
 While there are several well described syndromes associated with an increased chance of developing WT, this is seen in the minority of patients with WT. The *WT1* gene is critically involved with the development of WT. This is found on the short arm of chromosome 11 (11p13). *WT1* is a tumor suppressor gene that codes for a transcription factor that is linked to embryologic genitourinary development. Homozygous mutations of *WT1*, or nearby coding regions, very often results in the patient developing WT.
 
-Multiple genetic syndromes may predispose children to WT, as listed in table 1.{% cite saltzman2018a --file 08-42 %} Patients with predisposition syndromes and bilateral tumors typically present at earlier ages than those without. Screening protocols are often used for these patients to attempt to diagnose tumors at an earlier stage, but whether these impact overall outcomes is unclear. In general, screening protocols involve an abdominal ultrasound every 3--6 months until age 7--10 years.{% cite saltzman2018a --file 08-42 %}
+Multiple genetic syndromes may predispose children to WT, as listed in [Table 1](#table-1){:.table-link}.{% cite saltzman2018a --file 08-42 %} Patients with predisposition syndromes and bilateral tumors typically present at earlier ages than those without. Screening protocols are often used for these patients to attempt to diagnose tumors at an earlier stage, but whether these impact overall outcomes is unclear. In general, screening protocols involve an abdominal ultrasound every 3--6 months until age 7--10 years.{% cite saltzman2018a --file 08-42 %}
 
 **Table 4**{:#table-4}{:.table-number} WT Predisposition Syndromes{% cite saltzman2018a --file 08-42 %}
 
@@ -195,7 +195,7 @@ The initial imaging modality of choice for a patient with any suspected intra-ab
 
 ### Treatment Options and Their Outcomes
 
-Pre-operative clinical staging and decisions have significant impact on treatment strategies, as outlined in ([Table 5](#table-5){:.table-link})
+Pre-operative clinical staging and decisions have significant impact on treatment strategies, as outlined in [Table 5](#table-5){:.table-link}.
 
 The standard of care according to COG surgical protocols for the initial treatment of unilateral, non-syndromic WT is open radical nephrectomy with regional LN sampling. Notably, pre-operative renal mass biopsy is considered spillage of tumor, and results in clinical upstaging to stage III. Biopsy is rarely used in COG protocols due to the intensification of chemotherapy and radiation with upstaging, both of which have significant side effects. Neoadjuvant chemotherapy may be considered in locally advanced, unresectable tumors, and always with bilateral tumors. Those with venous tumor thrombus into the IVC at or above the hepatic venous confluence or those with overwhelming liver or lung metastases that compromise normal function, based on surgeon and/or anesthesia judgement, may also benefit from neoadjuvant chemotherapy.
 
@@ -266,7 +266,7 @@ Renal cell carcinoma (RCC) in the pediatric, adolescent and young adult populati
 
 ### Embryology
 
-Multiple genetic mutations have been associated with predisposition syndromes for sub-types of RCC ([Table 6](#table-6){:.table-link})
+Multiple genetic mutations have been associated with predisposition syndromes for sub-types of RCC ([Table 6](#table-6){:.table-link}).
 
 **Table 6**{:#table-6}{:.table-number} Genetic syndromes associated with RCC.
 
@@ -292,7 +292,7 @@ This type of tumor is unique in that patients who have received chemotherapeutic
 
 ### Evaluation and Diagnosis
 
-While most adult tumors are identified incidentally, pediatric RCCs commonly present with symptom, namely a palpable mass or gross hematuria. Laboratory work up is the same as for WT (complete blood count, comprehensive metabolic panel and urinalysis). Like for WT, abdominal US should be the first imaging modality, followed by complete staging with CT chest and either CT or MRI with intravenous contrast of the abdomen and pelvis. Staging and grading systems are the same as those used for adult RCC ([Table 7](#table-7){:.table-link})
+While most adult tumors are identified incidentally, pediatric RCCs commonly present with symptom, namely a palpable mass or gross hematuria. Laboratory work up is the same as for WT (complete blood count, comprehensive metabolic panel and urinalysis). Like for WT, abdominal US should be the first imaging modality, followed by complete staging with CT chest and either CT or MRI with intravenous contrast of the abdomen and pelvis. Staging and grading systems are the same as those used for adult RCC ([Table 7](#table-7){:.table-link}).
 
 While NSS and minimally invasive approaches for adult RCC are considered standard of care, their role in pediatric RCC is less clear. The reason for this is likely multifactorial. This disease is rare, and the pathology is not known preoperatively. WT COG surgical protocols emphasize open, radical nephrectomy for the initial treatment of a suspected renal malignancy, which limits the widespread use of laparoscopy and NSS in general for pediatric RCC, despite the familiarity with urologists with this technique.
 

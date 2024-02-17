@@ -73,7 +73,7 @@ Carbon dioxide came to be the most widely used insufflating gas given that it wa
 
 With laparoscopic and robotic surgery, the increased abdominal pressure from pneumoperitoneum can have a profound effect on pediatric patients involving multiple systems ([Table 1](#table-1){:.table-link}).
 
-[Table 1](#table-1){:.table-link}{:#table-1}{:.table-number} Effect of increased abdominal pressure on various body systems during surgery and prevention.
+**Table 1**{:#table-1}{:.table-number} Effect of increased abdominal pressure on various body systems during surgery and prevention.
 
 | System      | Effect of Increased Abdominal Pressure                                                                                                                                                                            | Prevention Strategies                                                                                                                                                                                   |
 |-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

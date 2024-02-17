@@ -226,7 +226,7 @@ The main steps of OIH are detailed below with schematic drawings of the maneuver
 
 The role of laparoscopic repair of inguinal hernias is not fully established. The approach is criticized for transforming an extraperitoneal procedure into a transperitoneal one. Detractors sustain that this technique implies a technically more complex surgery and that it results in a higher recurrence rate than the conventional approach.
 
-In contrast, the advocates of the laparoscopic approach stress on the fact that this technique ensures reduced invasiveness, without manipulation of the chordal structures, and it can be useful for the correct diagnosis of associated direct and femoral hernias. Moreover, the contralateral internal ring can be clearly visualized and repaired if necessary. Finally, supporters endorse the improved cosmesis resulting after this surgery compared with a conventional incision ([Table 1](#table-1){:.table-link}){% cite holcomb2021a --file 05-29 %}
+In contrast, the advocates of the laparoscopic approach stress on the fact that this technique ensures reduced invasiveness, without manipulation of the chordal structures, and it can be useful for the correct diagnosis of associated direct and femoral hernias. Moreover, the contralateral internal ring can be clearly visualized and repaired if necessary. Finally, supporters endorse the improved cosmesis resulting after this surgery compared with a conventional incision ([Table 1](#table-1){:.table-link}).{% cite holcomb2021a --file 05-29 %}
 
 **Table 1**{:#table-1}{:.table-number} The following table exhibits some advantages and disadvantages regarding LIHR:
 

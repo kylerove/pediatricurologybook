@@ -139,7 +139,7 @@ Comparable to gonadal development, female reproductive tract development is also
 ### Key Points
 {:.key-points-head}
 
-Gonadal and ductal differentiation is outlined in ([Table 1](#table-1){:.table-link}) The undifferentiated gonad and primordial germ cells can develop into the testis with spermatogonia or the ovary with oogonia. The subsequent hormone secretion from these gonads influences the mesonephric (Wolffian) duct to become the epididymis, appendix epididymis, vas deferens, ejaculatory duct, and seminal vesicle or the paramesonephric (Müllerian) duct to become the fallopian tube, uterus, cervix, and proximal vagina.
+Gonadal and ductal differentiation is outlined in [Table 1](#table-1){:.table-link}. The undifferentiated gonad and primordial germ cells can develop into the testis with spermatogonia or the ovary with oogonia. The subsequent hormone secretion from these gonads influences the mesonephric (Wolffian) duct to become the epididymis, appendix epididymis, vas deferens, ejaculatory duct, and seminal vesicle or the paramesonephric (Müllerian) duct to become the fallopian tube, uterus, cervix, and proximal vagina.
 {:.key-points-paragraph}
 
 ## External Genitalia
@@ -181,7 +181,7 @@ The urogenital sinus and external genitalia develop into the clitoris, labia maj
 ### Key Points
 {:.key-points-head}
 
-Differentiation of the external genitalia is also outlined in ([Table 1](#table-1){:.table-link}) The genital tubercle becomes the phallus in males and the clitoris in females. The urogenital folds become the urethral plate in males and the labia minora in females. The labioscrotal swellings develop into the scrotum in males and the labia majora in females. As part of lower urinary tract development, the urogenital sinus forms the proximal urethra and its urogenital folds form the urethral plate for the distal urethra in males. In contrast, the urogenital sinus forms the entire urethra in females as well as the distal vagina.
+Differentiation of the external genitalia is also outlined in [Table 1](#table-1){:.table-link}. The genital tubercle becomes the phallus in males and the clitoris in females. The urogenital folds become the urethral plate in males and the labia minora in females. The labioscrotal swellings develop into the scrotum in males and the labia majora in females. As part of lower urinary tract development, the urogenital sinus forms the proximal urethra and its urogenital folds form the urethral plate for the distal urethra in males. In contrast, the urogenital sinus forms the entire urethra in females as well as the distal vagina.
 {:.key-points-paragraph}
 
 ## Conclusion

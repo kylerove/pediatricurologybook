@@ -239,7 +239,7 @@ The Children's Oncology Group (COG) use a Stage I-IV clinical staging system for
 | IV    | Distant metastases, including liver                                                                                                                            |
 | III   | Retroperitoneal LN involvement, but no visceral or extra-abdominal involvement                                                                                 |
 
-The American Joint Commission on Cancer (AJCC) generally uses the Tumor (T), Nodes (N) and Metastases (M) system with an S delineation for post surgical tumor markers ([Table 3](#table-3){:.table-link})
+The American Joint Commission on Cancer (AJCC) generally uses the Tumor (T), Nodes (N) and Metastases (M) system with an S delineation for post surgical tumor markers ([Table 3](#table-3){:.table-link}).
 
 **Table 3**{:#table-3}{:.table-number} AJCC Staging
 

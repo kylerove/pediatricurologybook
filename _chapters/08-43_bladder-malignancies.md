@@ -41,7 +41,7 @@ Risk factors for recurrence and bladder cancer-related death in the pediatric po
 
 Similar to adults, pediatric patients often present with painless gross hematuria (90%) although irritative voiding symptoms such as dysuria, frequency, and urgency may also be common. Delay in diagnosis by at least 1 year has been reported in up to 26% of patients given the rarity of this diagnosis in children and the generally benign differential diagnoses for gross hematuria in a child (e.g. benign urethrorrhagia, trauma, urinary tract infections, congenital urologic anomalies, intrinsic renal disease, voiding dysfunction, etc.).
 
-UCC typically presents as a solitary bladder tumor in children compared to multifocality in adults (94% vs. 6%). 93.4% of tumors are low-grade (pTa or pT1), and there is usually no evidence of nodal involvement or metastasis. ([Table 1](#table-1){:.table-link}) outlines the American Join Committee on Cancer (AJCC) bladder cancer staging.
+UCC typically presents as a solitary bladder tumor in children compared to multifocality in adults (94% vs. 6%). 93.4% of tumors are low-grade (pTa or pT1), and there is usually no evidence of nodal involvement or metastasis. [Table 1](#table-1){:.table-link} outlines the American Join Committee on Cancer (AJCC) bladder cancer staging.
 
 **Table 1**{:#table-1}{:.table-number} AJCC Urothelial cell carcinoma staging
 
@@ -110,7 +110,7 @@ Unlike adult protocols, there are no data to guide the length of surveillance fo
 | Cystoscopy | Every 3 mos | Every 6 mos  | +/- Annually | At discretion of provider |
 | Cytology   | —           | —            | —            | —                         |
 
-Additionally, it is very unlikely that a recurrence or death event would occur beyond three years after initial diagnosis and treatment. The most remote recurrence published is at 32 months after initial diagnosis. A potential surveillance schedule for low grade, low stage UCC was outlined by Rezaee *et al.* based on a 2019 literature review cohort, and this is summarized in ([Table 2](#table-2){:.table-link}) It is important to note that this surveillance schedule has not been rigorously studied by a prospective randomized study proving its safety and is outlined as a starting point for low grade/stage disease only.
+Additionally, it is very unlikely that a recurrence or death event would occur beyond three years after initial diagnosis and treatment. The most remote recurrence published is at 32 months after initial diagnosis. A potential surveillance schedule for low grade, low stage UCC was outlined by Rezaee *et al.* based on a 2019 literature review cohort, and this is summarized in [Table 2](#table-2){:.table-link}. It is important to note that this surveillance schedule has not been rigorously studied by a prospective randomized study proving its safety and is outlined as a starting point for low grade/stage disease only.
 
 ## Bladder Tumors in the Neurogenic Bladder Population
 

@@ -81,7 +81,7 @@ Current recommendations by the American College of Radiology Manual on Contrast 
 - Laryngeal edema
 - Hypotension with tachycardia
 
-Current dosing regimen is summarized in the table below (Tabe 1).{% cite brown2020acr --file 01-02 %}
+Current dosing regimen is summarized in the table below ([Table 1](#table-1){:.table-link}).{% cite brown2020acr --file 01-02 %}
 
 **Table 1**{:#table-1}{:.table-number} Epinephrine dosage for contrast reactions.
 
