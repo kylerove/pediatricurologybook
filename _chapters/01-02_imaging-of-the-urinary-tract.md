@@ -94,7 +94,7 @@ Current dosing regimen is summarized in the table below ([Table 1](#table-1){:.t
 
 ## ACR Appropriateness Criteria
 
-American College of Radiology (ACR) appropriateness criteria are consensus recommendations freely available online to the clinician in search of the appropriate imaging study in various situations. The recommendations are developed by panels of experts and are frequently updated.
+[American College of Radiology](https://www.acr.org/) (ACR) appropriateness criteria are consensus recommendations freely available online to the clinician in search of the appropriate imaging study in various situations. The recommendations are developed by panels of experts and are frequently updated.
 
 **Table 2**{:#table-2}{:.table-number} ACR Appropriateness criteria renal ultrasound recommendations.
 
