@@ -15,7 +15,7 @@ breadcrumbs:
 toc: false
 ---
 
-## 输入几个词来查找此站点上的页面和博客文章。
+## 输入几个单词即可查找此网站上的页面。
 
 <iframe src="https://duckduckgo.com/search.html?site=pediatricurologybook.com&prefill=Search PediatricUrologyBook.com" style="overflow:hidden;margin:0;padding:0;width:100%;height:2rem;" frameborder="0"></iframe>
 
