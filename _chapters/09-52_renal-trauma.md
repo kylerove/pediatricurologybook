@@ -28,9 +28,6 @@ v1-permalinks:
 review-formatting-complete: 2023-01-14 KR
 ---
 
-By **M. Al-Salihi**{:.author-names} & **S. Vallasciani**{:.author-names}
-{:.attribution}
-
 ## Introduction
 
 Renal injury is considered one of the most common urinary tract injuries encountered in both blunt and penetrating trauma. The majority are blunt injuries, with less than 10% being penetrating. Children have a higher risk of blunt renal injuries than adults due to less supportive perinephric fat, and the thoracic ribs are more pliable, which lets the force of trauma transfer to the solid organs.

@@ -28,10 +28,6 @@ v1-permalinks:
 review-formatting-complete: 2023-01-14 KR
 ---
 
-By **Ahmed M. Atwa**{:.author-names} & **Ashraf T. Hafez**{:.author-names}  
-_Urology and Nephrology Center, Mansoura University, Mansoura, Egypt_{:.author-title}
-{:.attribution}
-
 ## Introduction
 
 Hydronephrosis is defined as aseptic dilatation of the renal pelvis with or without the calyces. If it occurs before birth, this is called antenatal hydronephrosis (ANH). The presence of infected hydronephrosis denotes pyonephrosis while the presence of dilated ureter with the dilated renal pelvis is called hydroureteronephrosis (HUN).
