@@ -25,10 +25,10 @@ Nos sentimos increíblemente afortunados de haber trabajado con más de 140 cola
 
 - {{ site.data.contributors.size }} colaboradores
 - Los autores son de 23 países diferentes, que abarcan 6 continentes.
-- 66 capítulos _(2 muy pronto)_
-- 386 cifras
+- 67 capítulos _(1 muy pronto)_
+- 392 cifras
 - 84 mesas
-- 2,968 referencias (!)
+- 2,988 referencias (!)
 
 ## Colaboradores por Sección
 
