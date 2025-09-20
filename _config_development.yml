@@ -116,12 +116,14 @@ languages-captions:
     icon: fa-globe-europe
 exclude_from_localization: ["_r", "_config.yml", "assets", "_layouts", "_includes", "_data", "_references", "_plugin", "README.md", "LICENSE"]
 parallel_localization: false
+lang_from_path: true
 
 # Chapters
 collections:
   chapters:
     output: true
-    sort_by: number
+    sections: true
+    sort_by: sort-key
     permalink: /book/chapters/:title/
 
 # Jekyll Spaceship

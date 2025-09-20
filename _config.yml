@@ -12,7 +12,7 @@ youtube_username: pediatricurologybook
 repository: kylerove/pediatricurologybook
 permalink: pretty
 img: /img/logo.png
-env: development
+env: production
 encoding: utf-8
 theme: null
 version: 2.0.0
@@ -115,6 +115,7 @@ languages-captions:
     icon: fa-globe-europe
 exclude_from_localization: ["_r", "_config.yml", "assets", "_layouts", "_includes", "_data", "_references", "_plugin", "README.md", "LICENSE"]
 parallel_localization: false
+lang_from_path: true
 
 # Chapters
 collections:
