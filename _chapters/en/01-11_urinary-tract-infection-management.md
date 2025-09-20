@@ -4,7 +4,7 @@ chapter: 11
 sort-key: 01-11
 title: Urinary Tract Infection Management
 description: Chapter 11 delves into pediatric urinary tract infections, including how they start, diagnosis, and management.
-thumbnail: 01-11_urinary-tract-infection-management.md.png
+thumbnail: 01-11_urinary-tract-infection-management.png
 authors:
   -
     author-id: 144

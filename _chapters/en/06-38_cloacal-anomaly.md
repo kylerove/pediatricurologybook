@@ -4,7 +4,7 @@ chapter: 38
 sort-key: 06-38
 title: Cloacal Anomaly
 description: Chapter 38 dives into the world of female cloacal anomaly, where urogenital and gastrointestinal tracts did not fully separate.
-thumbnail: 06-38_cloacal-anomaly.md.png
+thumbnail: 06-38_cloacal-anomaly.png
 authors:
   -
     author-id: 9

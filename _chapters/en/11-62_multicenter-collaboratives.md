@@ -4,7 +4,7 @@ chapter: 62
 sort-key: 11-62
 title: Multicenter Collaboratives
 description: Chapter 62 provides a comprehensive rundown of all multicenter collaboratives that are ongoing as of 2023.
-thumbnail: 11-62_multicenter-collaboratives.md.png
+thumbnail: 11-62_multicenter-collaboratives.png
 authors:
   -
     author-id: 139

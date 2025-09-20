@@ -4,7 +4,7 @@ chapter: 07
 sort-key: 01-07
 title: Physiology of Pediatric Laparoscopy
 description: Chapter 07 delves into how pediatric laparoscopy affects the physiology of the pediatric surgical patient.
-thumbnail: 01-07_physiology-of-pediatric-laparoscopy.md.png
+thumbnail: 01-07_physiology-of-pediatric-laparoscopy.png
 authors:
   -
     author-id: 138

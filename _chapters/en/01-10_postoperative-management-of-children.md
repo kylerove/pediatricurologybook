@@ -4,7 +4,7 @@ chapter: 10
 sort-key: 01-10
 title: Postoperative Management of Children
 description: Chapter 10 delves into how we care for pediatric patients after surgery.
-thumbnail: 01-10_postoperative-management-of-children.md.png
+thumbnail: 01-10_postoperative-management-of-children.png
 authors:
   -
     author-id: 4

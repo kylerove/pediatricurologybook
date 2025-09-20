@@ -4,7 +4,7 @@ chapter: 39
 sort-key: 06-39
 title: Urogenital Sinus
 description: Chapter 39 dives into urogenital sinus, where the vagina and urethra join at a common channel.
-thumbnail: 06-39_urogenital-sinus.md.png
+thumbnail: 06-39_urogenital-sinus.png
 authors:
   -
     author-id: 146

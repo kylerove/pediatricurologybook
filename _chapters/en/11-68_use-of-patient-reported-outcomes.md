@@ -4,7 +4,7 @@ chapter: 68
 sort-key: 11-68
 title: Use of Patient-Reported Outcomes
 description: Chapter 68 delves into patient-reported outcomes, which are patient- and family-facing questionnaires that can be used to objectively assess domains from patient perspective.
-thumbnail: 11-68_use-of-patient-reported-outcomes.md.png
+thumbnail: 11-68_use-of-patient-reported-outcomes.png
 authors:
   -
     author-id: 134

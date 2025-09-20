@@ -4,7 +4,7 @@ chapter: 46
 sort-key: 08-46
 title: Concepts on the Oncology Team
 description: Chapter 46 discusses the important topic of multidisciplinary care around pediatric and adolescent, young adult oncology.
-thumbnail: 08-46_concepts-on-the-oncology-team.md.png
+thumbnail: 08-46_concepts-on-the-oncology-team.png
 authors:
   -
     author-id: 136

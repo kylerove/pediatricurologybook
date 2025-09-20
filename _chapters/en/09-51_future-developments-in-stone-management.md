@@ -4,7 +4,7 @@ chapter: 51
 sort-key: 09-51
 title: Future Developments in Stone Management
 description: Chapter 51 delves into the latest and greatest techology to diagnose, prevent, and treat urolithiasis.
-thumbnail: 09-51_future-developments-in-stone-management.md.png
+thumbnail: 09-51_future-developments-in-stone-management.png
 authors:
   -
     author-id: 38

@@ -4,7 +4,7 @@ chapter: 23
 sort-key: 03-23
 title: Updates in Exstrophy Management
 description: Chapter 23 provides a look at what's new in exstrophy management.
-thumbnail: 03-23_updates-in-exstrophy-management.md.png
+thumbnail: 03-23_updates-in-exstrophy-management.png
 authors:
   -
     author-id: 141

@@ -4,7 +4,7 @@ chapter: 59
 sort-key: 10-59
 title: Long Term Complications of Urogential Reconstruction
 description: Chapter 59 dives into what we know (and don't know) about the long-term outcomes of patients who have undergone urogenital reconstruction.
-thumbnail: 10-59_long-term-complications-of-urogential-reconstruction.md.png
+thumbnail: 10-59_long-term-complications-of-urogential-reconstruction.png
 authors:
   -
     author-id: 115
