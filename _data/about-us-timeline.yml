@@ -1,9 +1,14 @@
 # About Us - Timeline elements
-# Last updated 2021-09-12
+# Last updated 2025-09-20
 
 -
   language: en
   elements:
+  -
+    date: 2025
+    head: "Version 2.0 is translated"
+    body: "Leveraging LLM tech and language expert reviewers, we created a toolset and workflow to translate every chapter into Spanish, Portugeuse, French, and Mandarin Chinese. We hope to offer other languages (German, Italian, and Korean in the near future."
+    side: "left"
   -
     date: 2023
     head: "Version 2.0 is published"
@@ -28,6 +33,11 @@
   language: es
   elements:
   -
+    date: 2025
+    head: "La versión 2.0 está traducida"
+    body: "Gracias a la tecnología de LLM y a la colaboración de revisores expertos en idiomas, creamos un conjunto de herramientas y un flujo de trabajo para traducir cada capítulo al español, portugués, francés y chino mandarín. Esperamos ofrecer otros idiomas (alemán, italiano y coreano) próximamente."
+    side: "left"
+  -
     date: 2023
     head: "Se publica la versión 2.0"
     body: "Una nueva edición del [Libro de Urología Pediátrica](/) se completa y se publica en el sitio web con un nuevo diseño y nuevo contenido multimedia."
@@ -51,6 +61,11 @@
   language: zh
   elements:
   -
+    date: 2025
+    head: "2.0 版本已翻译"
+    body: "我们利用法学硕士 (LLM) 技术和语言专家审阅，创建了一套工具和工作流程，将每章翻译成西班牙语、葡萄牙语、法语和中文普通话。我们希望在不久的将来提供其他语言版本（德语、意大利语和韩语）。"
+    side: "left"
+  -
     date: 2023
     head: "2.0版本发布"
     body: "新版的 [小儿泌尿外科书籍](/)已完成并在网站上发布，具有全新的设计和新的多媒体内容。"
@@ -73,6 +88,11 @@
 -
   language: pt
   elements:
+  -
+    date: 2025
+    head: "A versão 2.0 foi traduzida"
+    body: "Com a colaboração de revisores especialistas em tecnologia e idiomas do LLM, criamos um conjunto de ferramentas e um fluxo de trabalho para traduzir cada capítulo para espanhol, português, francês e mandarim. Esperamos oferecer outros idiomas (alemão, italiano e coreano) em breve."
+    side: "left"
   -
     date: 2023
     head: "A versão 2.0 é publicada"

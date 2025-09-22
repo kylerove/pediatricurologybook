@@ -1,6 +1,5 @@
 # 1:1 translations where it makes sense outside language-based pages (e.g., header)
-- 
-  language: en
+- language: en
   about-us: About Us
   about: About
   us: Us
@@ -126,16 +125,15 @@
   time-to-read: minutes to read.
   last-updated: Last updated
   link-to-external-site: Link to external website
-  by-cap: "By "
-  comma: ","
+  by-cap: 'By '
+  comma: ','
   prior-version-links: Prior Version Related Links
   liaison-editor-f: Liaison Editor
   liaison-editor: Liaison Editor
-- 
-  language: es
+- language: es
   about-us: Sobre Nosotros
-  about: About
-  us: Us
+  about: Sobre
+  us: Nosotros
   contact-us: Contacta con Nosotros
   chapter-contents: Contenido del Capítulo
   contact: Contact
@@ -258,13 +256,12 @@
   time-to-read: minutos para leer.
   last-updated: Última actualización
   link-to-external-site: Enlace a sitio web externo
-  by-cap: "Por "
-  comma: ","
+  by-cap: 'Por '
+  comma: ','
   prior-version-links: Enlaces Relacionados con Versiones Anteriores
   liaison-editor-f: Editora de Enlace
   liaison-editor: Editor de Enlace
-- 
-  language: zh
+- language: zh
   about-us: 关于我们
   about: About
   us: Us
@@ -391,12 +388,11 @@
   last-updated: 最近更新时间
   link-to-external-site: 链接到外部网站
   by-cap: ""
-  comma: "，"
+  comma: ，
   prior-version-links: 先前版本相关链接
   liaison-editor-f: 联络编辑
   liaison-editor: 联络编辑
-- 
-  language: pt
+- language: pt
   about-us: Sobre Nós
   about: Sobre
   us: Nós
@@ -522,8 +518,137 @@
   time-to-read: minutos para ler.
   last-updated: Ultima atualização
   link-to-external-site: Link para site externo
-  by-cap: "Por "
-  comma: ","
+  by-cap: 'Por '
+  comma: ','
   prior-version-links: Links Relacionados à Versão Anterior
   liaison-editor-f: Editora de Relacionamento
   liaison-editor: Editor de Relacionamento
+- language: fr
+  about-us: À propos de nous
+  about: À propos de
+  us: Nous
+  contact-us: Contactez-nous
+  chapter-contents: Sommaire du chapitre
+  contact: Contact
+  contributor: Contributeur
+  contributors: Contributeurs
+  editor: Éditeur
+  editor-f: Éditrice
+  editors: Éditeurs
+  emeritus-editor: Éditeur émérite
+  home: Accueil
+  read-the-book: Allez Lire Le Livre
+  search: Rechercher
+  sponsors: Sponsors
+  copyright: Droits d’auteur
+  by: par
+  period: .
+  all-rights-reserved: Tous droits réservés
+  site-map: Plan du site
+  table-of-contents: Table des matières
+  last-updated: Dernière mise à jour
+  coi: COI
+  has-coi: Possède une attestation d'assurance
+  coi-details: Détails du conflit d’intérêts
+  has-relevant-disclosures: Présente des divulgations pertinentes
+  no-disclosures: Aucune divulgation
+  not-filed: Non classé
+  research: Recherche
+  research-placeholder: Par exemple, étude de recherche de Novartis
+  research-desc: Recherche réalisée en tant qu'investigateur pour des entités commerciales ou non commerciales, y compris des subventions ou d'autres formes de parrainage de la part desdites entités.
+  investment: Investissement
+  investment-placeholder: Par exemple, l'action Elsevier
+  investment-desc: Détention personnelle ou familiale d’actions, dividendes ou revenus perçus de la part d’intérêts commerciaux offrant des soins de santé ou des services. (La détention passive d’actions via des fonds communs de placement n’est pas tenue d’être divulguée.)
+  employee: Employé
+  employee-placeholder: 'Par exemple : salaire WebMD'
+  employee-desc: Salaires provenant de toute entité commerciale, y compris toute maison d’édition, société Internet, société de commerce électronique ou toute autre entreprise fournissant des produits ou services de santé
+  expert-witness: Témoin expert
+  expert-witness-placeholder: 'Ex. : Témoin pour le défendeur dans 2 litiges'
+  expert-witness-desc: Témoignage d'expert médical pour un procès, une audience, une déposition, un affidavit ou tout autre type de procédure judiciaire
+  speaker: Haut-parleur
+  speaker-placeholder: P. ex., conférencier pour AbbVie, encadrant d’atelier sur pièces anatomiques pour Ethicon
+  speaker-desc: Honoraires ou remboursements reçus en qualité de membres du corps professoral, de membres d’un bureau de conférenciers, d’orateurs lors de conférences parrainées par l’industrie, d’intervenants, de présidents de session, de procteurs ou de consultants. Les rôles autres que celui de simple participant à la réunion doivent être déclarés.
+  consultant-advisor: Consultant/Conseiller
+  consultant-advisor-placeholder: Par ex., membre du comité consultatif scientifique d'Allergan
+  consultant-advisor-desc: Participation à des comités consultatifs scientifiques
+  ownership-interest-patent-royalties: Participation au capital/Brevet/Redevances
+  ownership-interest-patent-royalties-placeholder: P. ex., brevet sur NewFangledCatheter®
+  ownership-interest-patent-royalties-desc: Participation dans toute entité commerciale, y compris l’édition, les brevets en vigueur connus, les redevances, Internet, le commerce électronique, les services auxiliaires ou toute autre entreprise fournissant des produits de santé
+  leadership: Leadership
+  leadership-placeholder: Par exemple, membre du conseil d'administration de SCS-AUA
+  leadership-desc: Membre du conseil d’administration, dirigeant, administrateur, rédacteur en chef ou autre poste de direction au sein d’une société commerciale ou d’une organisation
+  health-publishing: Édition santé
+  health-publishing-placeholder: Par exemple, Journal of Pediatric Urology rédacteur adjoint
+  health-publishing-desc: Comités de rédaction et auteurs, y compris les éventuels accords d’édition et de redevances
+  other: Autre
+  other-desc: Tout autre intérêt financier ou relation qui pourrait autrement biaiser ou influencer le déclarant, en lien avec le domaine de la santé
+  conflict-of-interest: Conflit d’intérêts
+  conflicts-of-interest: Conflits d'intérêts
+  disclosure: Divulgation
+  instructions: Instructions
+  coi-disclosure-p1: Veuillez consulter la politique du Pediatric Urology Book en matière de <a href="/conflict-of-interest/">conflits d’intérêts</a> avant de faire toute déclaration. Le défaut de soumettre une déclaration complète ou exacte peut entraîner le retrait de votre travail et la réattribution du travail à un autre auteur.
+  coi-disclosure-p2: Les conflits d'intérêts découlent de l'existence d'une relation et ne sont pas nécessairement de nature financière.
+  success: Succès
+  disclosure-sent: Votre divulgation a été transmise aux éditeurs.
+  error: Erreur
+  disclosure-not-sent: Une erreur est survenue lors du traitement de votre déclaration.
+  full-name: Nom complet
+  name-required: Veuillez saisir votre nom.
+  email-address: Adresse e-mail
+  email-required: Veuillez saisir votre adresse e-mail.
+  email-invalid: Veuillez saisir une adresse e-mail valide.
+  email-too-short: Veuillez saisir une adresse e-mail plus longue.
+  do-you-have-disclosure: Avez-vous, vous ou un membre de votre famille, des éléments pertinents à déclarer ?
+  do-you-have-disclosure-required: Veuillez sélectionner une option.
+  no-disclosure: Non, je n’ai aucune information pertinente à divulguer ni aucun conflit d’intérêts à déclarer.
+  yes-disclosure: Oui, j'ai des informations pertinentes à divulguer ou des conflits d'intérêts à déclarer.
+  personal: Personnel
+  family: Famille
+  how-to-fill-out-disclosure: S’il n’y en a pas, laissez vide. S’il y en a plusieurs dans la même catégorie, séparez-les par des virgules.
+  submit-disclosure: Soumettre la déclaration
+  message-sent: Votre message a été envoyé aux éditeurs.
+  message-not-sent: Une erreur est survenue lors de l’envoi de votre message aux éditeurs.
+  subject: Objet
+  subject-required: Veuillez saisir l'objet.
+  message: Message
+  message-required: Veuillez saisir votre message.
+  submit: Envoyer
+  get-in-touch: Prenez contact
+  please-contact: N’hésitez pas à nous contacter pour toute question, demande, correction ou commentaire.
+  other-methods: Autres moyens de contacter les éditeurs
+  address: Adresse
+  email: E-mail
+  social-media: Réseaux sociaux
+  next-step: Étape suivante
+  unexpected-error: ERREUR INATTENDUE
+  unexpected-error-occurred: Une erreur inattendue s'est produite. Veuillez contacter l'administrateur du site si cela persiste !
+  error-go-home: RETOUR À LA PAGE D’ACCUEIL
+  page-not-found: Page introuvable :(
+  requested-page-not-found: La page demandée est introuvable.
+  learn-more: En savoir plus
+  learn-more-about-our-sponsors: En savoir plus sur nos sponsors
+  our: Notre
+  who: Qui
+  we-are: Nous sommes
+  reasons: Raisons
+  to-read: À lire
+  home-about-us-lead: Nous sommes des urologues pédiatriques en exercice, rejoints par des spécialistes médicaux et chirurgicaux exceptionnels, désireux d’améliorer davantage notre discipline en redonnant à la communauté grâce à cette riche ressource éducative.
+  home-about-us-more: La dernière mouture de ce livre s'appuie sur la ténacité et la vision des éditeurs précédents.
+  history: Historique
+  history-head: Pour la postérité, reconstitué par bribes et morceaux, voici comment tout cela est advenu.
+  sponsor: Sponsor
+  forbidden: Interdit
+  nice-try: Bien essayé ! Le serveur a refusé l’accès à la page ou à la ressource à laquelle vous tentiez d’accéder.
+  disclaimer: Avertissement
+  section: Section
+  website: Site Web
+  link-to-doi: Lien vers le DOI
+  link-to-pubmed: Lien vers PubMed
+  chapter-will-take: Ce chapitre prendra environ
+  time-to-read: minutes de lecture.
+  link-to-external-site: Lien vers un site Web externe
+  by-cap: 'Par '
+  comma: ','
+  prior-version-links: Liens connexes de la version précédente
+  liaison-editor-f: Éditrice de liaison
+  liaison-editor: Éditeur de liaison

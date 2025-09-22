@@ -113,6 +113,10 @@ languages-captions:
     caption: Português
     language: pt
     icon: fa-globe-europe
+  - 
+    caption: Français
+    language: fr
+    icon: fa-globe-europe
 exclude_from_localization: ["_r", "_config.yml", "assets", "_layouts", "_includes", "_data", "_references", "_plugin", "README.md", "LICENSE"]
 parallel_localization: false
 lang_from_path: true
