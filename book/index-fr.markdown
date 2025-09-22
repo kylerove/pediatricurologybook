@@ -10,7 +10,7 @@ breadcrumbs:
     title: Accueil
     permalink: /
   - 
-    title: Réserver
+    title: Livre
     permalink: /book/
 toc: false
 ---
