@@ -19,6 +19,8 @@
       {{ sponsor.description-zh | markdownify }}
     {% elsif site.active_lang == "pt" and sponsor.description-pt != null  %}
       {{ sponsor.description-pt | markdownify }}
+    {% elsif site.active_lang == "fr" and sponsor.description-fr != null  %}
+      {{ sponsor.description-fr | markdownify }}
     {% elsif sponsor.description-en != null %}
       {{ sponsor.description-en | markdownify }}
     {% endif %}

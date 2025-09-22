@@ -15,6 +15,9 @@
   -
     language: pt
     title: "Prefácio"
+  - 
+    language: fr
+    title: "Préface"
   number: 0
   section-editor: 
   chapters: [0]
@@ -32,6 +35,9 @@
   -
     language: pt
     title: "Noções básicas de urologia pediátrica"
+  - 
+    language: fr
+    title: "Principes fondamentaux de l'urologie pédiatrique"
   number: 1
   section-editor: Arlen
   chapters: [1,2,3,4,5,6,7,8,9,10,11,12]
@@ -49,6 +55,9 @@
   -
     language: pt
     title: "Rim"
+  -
+    language: fr
+    title: "Rein"
   number: 2
   section-editor: Rove
   chapters: [13,14,15]
@@ -66,6 +75,9 @@
   -
     language: pt
     title: "Bexiga e Ureter"
+  -
+    language: fr
+    title: "Vessie et uretère"
   number: 3
   section-editor: Arlen
   chapters: [16,17,18,19,20,21,22,23]
@@ -83,6 +95,9 @@
   -
     language: pt
     title: "Uretra"
+  -
+    language: fr
+    title: "Urètre"
   number: 4
   section-editor: Gundeti
   chapters: [24,25,26,27]
@@ -100,6 +115,9 @@
   -
     language: pt
     title: "Genitália Externa Masculina"
+  -
+    language: fr
+    title: "Organes Génitaux Externes Masculins"
   number: 5
   section-editor: Lopez
   chapters: [28,29,30,31,32,33,34,35]
@@ -117,6 +135,9 @@
   -
     language: pt
     title: "Genitália Externa Feminina"
+  -
+    language: fr
+    title: "Organes Génitaux Externes Féminins"
   number: 6
   section-editor: Lopez
   chapters: [36,37,38,39]
@@ -134,6 +155,9 @@
   -
     language: pt
     title: "Diferenças de desenvolvimento sexual"
+  -
+    language: fr
+    title: "Différences de Développement Sexuel"
   number: 7
   section-editor: Rove
   chapters: [40,41]
@@ -151,6 +175,9 @@
   -
     language: pt
     title: "Oncologia"
+  -
+    language: fr
+    title: "Oncologie"
   number: 8
   section-editor: Lopez
   chapters: [42,43,44,45,46]
@@ -168,6 +195,9 @@
   -
     language: pt
     title: "Pedras, trauma e emergências"
+  -
+    language: fr
+    title: "Calculs, Traumatismes et Urgences"
   number: 9
   section-editor: Gundeti
   chapters: [47,48,49,50,51,52,53,54,55,56]
@@ -185,6 +215,9 @@
   -
     language: pt
     title: "Urologia do adolescente e de transição"
+  -
+    language: fr
+    title: "Urologie de l'Adolescent et de Transition"
   number: 10
   section-editor: Arlen
   chapters: [57,58,59]
@@ -202,6 +235,9 @@
   -
     language: pt
     title: "Além da fronteira em urologia pediátrica"
+  -
+    language: fr
+    title: "Au-delà des Frontières de l'Urologie Pédiatrique"
   number: 11
   section-editor: Rove
   chapters: [60,61,62,63,64,65,66,67,68]

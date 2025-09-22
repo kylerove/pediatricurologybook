@@ -153,3 +153,41 @@
     icon: "fas fa-sun"
     color: "text-secondary"
     body: "Exigimos que todos os [contribuidores](/contributors/) e [editores](/editors/) relatem [conflitos de interesse](/conflict-of-interest/) para preservar a isenção de preconceito."
+-
+  language: fr
+  entries:
+  -
+    head: "Auteur international"
+    icon: "fas fa-globe-africa"
+    color: "text-primary"
+    body: "Les [éditeurs](/editors/) cultivent le contenu de [contributeurs](/contributors/) d'horizons divers et internationaux, offrant ainsi une pertinence à un large public."
+  -
+    head: "Accès libre et gratuit"
+    icon: "fas fa-laptop"
+    color: "text-secondary"
+    body: "[Ce livre](/book/) est libre des contraintes des modèles d'édition traditionnels et accessible à tous. Aucun mot de passe requis.."
+  -
+    head: "Vidéos des procédures pertinentes"
+    icon: "fas fa-video"
+    color: "text-tertiary"
+    body: "Visionnez de courtes vidéos intégrées de procédures opératoires clés, démontrant les principes clés et les techniques spécifiques."
+  -
+    head: "Mises à jour régulières"
+    icon: "fas fa-sync-alt"
+    color: "text-quaternary"
+    body: "Le manuel traditionnel est obsolète dès sa publication. Des mises à jour régulières vous permettront de rester informé des évolutions de la pratique."
+  -
+    head: "Réseaux sociaux"
+    icon: "fas fa-people-arrows"
+    color: "text-dark"
+    body: "Restez connecté. Les comptes de réseaux sociaux des [contributeurs](/contributors/) sont facilement accessibles afin que vous puissiez leur poser vos questions."
+  -
+    head: "Code de conduite"
+    icon: "fas fa-handshake"
+    color: "text-primary"
+    body: "Nous souhaitons favoriser un climat d'inclusion et de compréhension. Consultez notre [code de conduite](/code-de-conduite/) approuvé par tous les [éditeurs](/editors/) et [contributeurs](/contributors/)."
+  -
+    head: "Nous sommes transparents"
+    icon: "fas fa-sun"
+    color: "text-secondary"
+    body: "Nous demandons à tous les [contributeurs](/contributors/) et [éditeurs](/editors/) de signaler les [conflits d’intérêts](/conflict-of-interest/) afin de préserver l’absence de parti pris."

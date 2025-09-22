@@ -38,6 +38,8 @@
       {{ editor.bio-zh | markdownify }}
     {% elsif site.active_lang == "pt" and editor.bio-pt != null  %}
       {{ editor.bio-pt | markdownify }}
+    {% elsif site.active_lang == "fr" and editor.bio-fr != null  %}
+      {{ editor.bio-fr | markdownify }}
     {% elsif editor.bio-en != null %}
       {{ editor.bio-en | markdownify }}
     {% endif %}

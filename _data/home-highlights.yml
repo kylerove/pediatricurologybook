@@ -85,3 +85,24 @@
     icon: "fas fa-book"
     button: "Leia o livro"
     link: "/book/"
+-
+  language: fr
+  entries:
+  -
+    banner: "v2.0"
+    head: "Plongez dans le nouveau livre d'urologie pédiatrique"
+    subhead: "Tout nouveau contenu et contributeurs"
+    img: "/assets/site-img/home/david-chalmers-chco.jpg"
+    bg-position: "30% 25%"
+    icon: "fas fa-book"
+    button: "Lire le livre"
+    link: "/book/"
+  -
+    banner: "v2.0"
+    head: "Découvrez le nouveau livre d'urologie pédiatrique"
+    subhead: "Tout nouveau contenu, figurines, vidéos et plus encore"
+    img: "/assets/site-img/home/ipad-reading.jpg"
+    bg-position: "50% 10%"
+    icon: "fas fa-book"
+    button: "Lire le livre"
+    link: "/book/"

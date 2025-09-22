@@ -113,3 +113,31 @@
     head: "Onde tudo começou"
     body: "[Cooper](https://pediatricurologybook.com/pt/editors/#cooper-christopher-s), [Godbole](https://pediatricurologybook.com/pt/editors/#godbole-prasad-p) e [Wilcox](https://pediatricurologybook.com/pt/editors/#wilcox-duncan-t) tiveram a ideia para [Livro de urologia pediátrica](/) com a ideia de usar a web aberta para oferecer conteúdo de urologia pediátrica gratuitamente." 
     side: "left"
+-
+  language: fr
+  elements:
+  -
+    date: 2025
+    head: "La version 2.0 est traduite"
+    body: "En nous appuyant sur les technologies du LLM et sur des experts linguistiques, nous avons créé un ensemble d'outils et un flux de travail permettant de traduire chaque chapitre en espagnol, portugais, français et mandarin. Nous espérons proposer prochainement d'autres langues (allemand, italien et coréen)."
+    side: "left"
+  -
+    date: 2023
+    head: "La version 2.0 est publiée"
+    body: "Une nouvelle édition du [Pediatric Urology Book](/) est terminée et publiée sur le site Web avec un tout nouveau design et un nouveau contenu multimédia."
+    side: "right"
+  -
+    date: 2020
+    head: "Nouveaux éditeurs sélectionnés"
+    body: "Les éditeurs de l'édition originale décident qu'il est temps de faire preuve de nouvelles idées et d'énergie pour faire progresser [Pediatric Urology Book](/). Ils confient la révision à [Arlen](https://pediatricurologybook.com/editors/#arlen-angela-m), [Gundeti](https://pediatricurologybook.com/editors/#gundeti-mohan-s), [López](https://pediatricurologybook.com/editors/#lopez-pedro-jose), and [Rove](https://pediatricurologybook.com/editors/#rove-kyle-o)."
+    side: "left"
+  -
+    date: 2011
+    head: "La version 1.0 est publiée"
+    body: "La première édition du [Pediatric Urology Book](https://v1.pediatricurologybook.com/) est publiée en ligne." 
+    side: "right"
+  -
+    date: 2009
+    head: "Là où tout a commencé"
+    body: "[Cooper](https://pediatricurologybook.com/editors/#cooper-christopher-s), [Godbole](https://pediatricurologybook.com/editors/#godbole-prasad-p), & [Wilcox](https://pediatricurologybook.com/editors/#wilcox-duncan-t) ont eu l'idée de [Pediatric Urology Book](/) avec l'idée d'utiliser le Web ouvert pour fournir gratuitement du contenu sur l'urologie pédiatrique." 
+    side: "left"
