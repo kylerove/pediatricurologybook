@@ -21,7 +21,7 @@ breadcrumbs:
     title: Accueil
     permalink: /
   - 
-    title: Réserver
+    title: Livre
     permalink: /book/
 toc: true
 js: /assets/js/pages/chapter.js
