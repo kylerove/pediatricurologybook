@@ -1,0 +1,138 @@
+---
+section: 04
+chapter: 25
+sort-key: 04-25
+title: Anomalies de duplication urétrale et syringocèle
+description: Le chapitre 25 résume les anomalies de duplication urétrale et la syringocèle.
+thumbnail: 04-25_duplex-urethral-anomalies-and-syringocoele-fr.png
+authors:
+  -
+    author-id: 51
+  -
+    author-id: 52
+layout: chapter
+lang: fr
+breadcrumbs:
+  - 
+    title: Accueil
+    permalink: /
+  - 
+    title: Réserver
+    permalink: /book/
+toc: true
+js: /assets/js/pages/chapter.js
+v1-permalinks:
+  -
+    title: Duplication urétrale et autres anomalies urétrales (à l'exclusion de l'hypospadias)
+    link: https://v1.pediatricurologybook.com/OTHERURETHRALANOMALIES.html
+review-formatting-complete: 2025-09-21 KR
+page_id: 04-25_duplex-urethral-anomalies-and-syringocoele
+---
+
+## Introduction
+
+Les anomalies urétrales sont des affections congénitales qui ne sont pas rares, avec certaines variantes rares. Ce chapitre se concentrera sur l'embryologie, l'épidémiologie, le diagnostic, l'évaluation, la réparation, le suivi et les complications de certaines anomalies urétrales antérieures, notamment la valve urétrale antérieure (AUV), la syringocèle, la duplication urétrale et le méga-urètre. Certains estiment même que ces anomalies, à l'exception de la duplication, relèvent d'un même spectre.
+{:.drop-caps}
+
+## Embryologie
+
+Le développement de l'urètre masculin commence par l'extension de la cavité du sinus urogénital à la surface du tubercule génital au cours de la 6e semaine de gestation. Ce sillon d'origine endodermique devient une plaque cellulaire solide, qui se tubulise finalement dans un sens proximodistal pour former l'urètre phallique. L'aspect est identique chez les fœtus mâles et femelles jusqu'à la 9e semaine, et à la 14e semaine, l'urètre masculin a achevé son développement. On divise l'urètre en quatre régions distinctes, chacune avec sa classification anatomique propre et le type cellulaire histologique prédominant de la muqueuse urétrale. L'urètre prostatique et l'urètre membraneux sont les plus proximaux, dérivent du sinus urogénital et sont constitués d'un épithélium transitionnel délicat. Viennent ensuite l'urètre bulbaire et l'urètre pendulaire, dérivés de la plaque urétrale sur la face ventrale du tubercule génital et tapissés proximalement d'un épithélium transitionnel, devenant distalement un épithélium pavimenteux simple. La portion la plus distale de l'urètre pendulaire, également appelée fosse naviculaire, dérive elle aussi de la plaque urétrale lorsqu'elle traverse le gland, mais elle est constituée d'un épithélium pavimenteux stratifié.
+
+## Épidémiologie
+
+Le rapport de l’incidence des AUV à celle des valvules urétrales postérieures (PUV) est de 1:8; les PUV surviennent dans 1 cas pour 8000 à 1 pour 25,000 naissances vivantes de sexe masculin. Les diverticules de l’urètre antérieur sont peu fréquents mais constituent la deuxième forme la plus fréquente d’obstruction urétrale congénitale, après les PUV, chez les nourrissons et les enfants. Moins de 50 cas de mégalourètre avaient été rapportés dans la littérature en 1993, le type scaphoïde étant le plus fréquent. Les kystes du canal de Cowper et les polypes urétraux congénitaux sont très rares.
+
+## Valves urétrales antérieures
+
+Les valvules urétrales antérieures sont la lésion obstructive congénitale la plus fréquente de l’urètre antérieur, mais elles sont 25 à 30 fois moins fréquentes que les PUV. Comme classiquement décrit, elles prennent la forme soit d’une membrane diaphragmatique fenestrée, soit d’une cuspide muqueuse issue de la paroi ventrale de l’urètre. L’embryologie est incertaine, car des valvules urétrales antérieures sont parfois retrouvées à l’extrémité distale d’un diverticule. Cependant, la présence d’un corps spongieux hypoplasique au niveau du segment antérieur de l’urètre atteint suggère une anomalie s’inscrivant dans le spectre de l’hypospadias ou une union défectueuse entre la muqueuse urétrale et l’épithélium de la fosse naviculaire. Une rupture de glandes bulbo-urétrales dilatées a également été suggérée comme étiologie. Ces valvules peuvent se situer n’importe où dans l’urètre antérieur. Dans 40 % des cas, elles siègent au niveau de l’urètre bulbaire, dans 30 % à la jonction péno-scrotale et dans 30 % au niveau de l’urètre pénien. Elles ont rarement été rapportées dans la fosse naviculaire. La présentation est généralement marquée par des symptômes obstructifs. Ces patients présentent fréquemment un écoulement urinaire goutte à goutte, des difficultés mictionnelles, une incontinence, une hésitation mictionnelle ou une rétention urinaire, un jet urinaire faible et des infections urinaires récidivantes. Chez les enfants plus âgés, on peut également observer une énurésie, un goutte-à-goutte post-mictionnel ou un retard staturo-pondéral. Les remaniements secondaires des voies urinaires supérieures sont rares. Cependant, l’obstruction peut entraîner une mégavessie, une rupture vésicale, une hydrouréteronéphrose sévère, une insuffisance rénale aiguë ou une ascite urinaire en période néonatale. La cysto-urétrographie mictionnelle (CUM), l’urétrographie rétrograde et l’endoscopie sont des outils diagnostiques utiles. En CUM, la valvule elle-même peut être visualisée comme un défaut linéaire le long de la paroi ventrale, mais elle peut n’apparaître que comme une modification brusque du calibre de l’urètre.
+
+Un reflux vésico-urétéral a été observé chez environ un tiers des patients, et une dilatation du haut appareil urinaire a été notée chez la moitié. Sur le plan endoscopique, la valve apparaît comme un repli ou un lambeau tissulaire fin et membraneux, situé ventralement, et a parfois été décrite comme une membrane évoquant un iris. Il faut examiner attentivement l’urètre au niveau de l’extrémité distale de tout diverticule urétral, car le flux rétrograde du liquide d’irrigation peut aplatir le mécanisme valvulaire contre la paroi urétrale. Une pression sus-pubienne, vessie pleine, avec les orifices d’irrigation de l’endoscope ouverts, peut mettre en évidence le mécanisme valvulaire plus facilement.
+
+En outre, le soulèvement ou l’accrochage de la valve à l’aide d’une anse endoscopique est inestimable pour identifier la lésion. L’incision transurétrale de la valve suffit chez la plupart des patients, mais il faut veiller à inciser complètement pour éviter toute lèvre obstructive distale. Le traitement endoscopique laisse, dans la plupart des cas, le patient porteur d’un diverticule urétral. Un patient présentant occasionnellement un large diverticule et un défaut du spongieux peut bénéficier d’une réparation à ciel ouvert, permettant la reconstruction de la valve, du diverticule et des tissus enveloppants. Une vésicostomie peut être nécessaire chez un prématuré ou un nourrisson de petite taille pour faciliter la levée de l’obstruction jusqu’à ce que le nourrisson puisse tolérer un cystoscope ou subir une reconstruction ultérieure. Jusqu’à 80 % des enfants atteints de valves urétrales antérieures développeront une dysfonction vésicale, une instabilité, une hyperréflexie, ainsi qu’une diminution de la compliance et de la capacité mises en évidence en urodynamie. En raison d’une présentation plus modérée et plus subtile, l’incidence globale de la fonction rénale préservée dans les VUA est meilleure que dans les VUP, avec environ 78 % des patients ayant une fonction rénale normale après traitement.
+
+## Diverticule urétral
+
+Dans la forme à large collet, plus fréquente, habituellement située dans la région de la jonction pénoscrotale, la lèvre distale peut engendrer une forme d’obstruction valvulaire à mesure que le diverticule se distend progressivement. La présentation se fait soit par des symptômes obstructifs, soit par un égouttement post-mictionnel. Les lésions sacculaires, plus rares, ont un col étroit et peuvent survenir à n’importe quel niveau de l’urètre pénien, y compris au niveau de la fosse naviculaire. La présentation se fait par une infection urinaire; elles sont rarement associées à la formation de calculs au sein du diverticule. Le traitement consiste en une incision endoscopique ou une résection de la lèvre obstructive ou, plus rarement, en une approche périnéale à ciel ouvert pour l’exérèse d’un diverticule volumineux.
+
+## Mégalourètre
+
+Il s’agit d’une anomalie congénitale rare caractérisée par une dilatation anormale de l’urètre pénien sans obstruction évidente. Elle peut être associée à une insuffisance du corps spongieux ou à l’absence complète des corps caverneux. Dans ces cas, la verge ne représente guère plus qu’un sac flasque constitué de peau en externe et de muqueuse urétrale en interne. Elle partage certaines des caractéristiques d’un diverticule urétral, mais comporte une atteinte de l’urètre plus étendue et plus uniforme. La classification en formes fusiforme et scaphoïde reflète la sévérité du défaut et l’effet qui en résulte sur le corps spongieux et les corps caverneux. La forme scaphoïde résulte d’une déficience ou d’une absence du corps spongieux ventral. Une mégalourètre fusiforme touche également le corps spongieux dorsal et les corps caverneux. Adamson et Burge ont décrit un troisième type avec tous les corps intacts. La cause de la mégalourètre demeure quelque peu controversée. Stephens a postulé qu’un retard de canalisation du noyau épithélial distal pourrait entraîner une obstruction et une dilatation proximale. D’autres ont suggéré qu’un arrêt embryologique du mésoderme investissant les plis urétraux influence le développement des corps et des tissus érectiles.
+
+![Figure 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-25-1.jpg){:.float-start .img-fluid}  
+**Figure 1**{:#figure-1}{:.figure-number} Examen sous anesthésie montrant un méga-urètre volumineux intéressant la hampe pénienne.
+
+Le mégalourètre est souvent associé à d'autres anomalies uro-rectales telles que l'anus imperforé, le syndrome de prune-belly et les valves urétrales, ainsi qu'à des degrés variables d'uropathie obstructive. Le diagnostic est souvent évoqué à l'examen clinique, notamment si l'enfant est observé en train d'uriner. Le méat urétral peut être normalement situé mais pathologique. Un phallus mou et allongé caractérise souvent la forme fusiforme, plus rare et plus sévère, avec des corps caverneux insuffisants à la palpation. La ballonisation ventrale lors de la miction est typique du mégalourètre scaphoïde. Une cystouréthrographie mictionnelle et une échographie rénale sont réalisées pour établir le diagnostic et évaluer les voies urinaires supérieures. Le traitement repose sur la reconstruction de l'urètre et du corps spongieux selon les principes standard de la réparation de l'hypospadias. L'urètre scaphoïde peut être ouvert longitudinalement et tubulisé en utilisant les tissus dorsaux et latéraux de meilleure qualité. La forme fusiforme représente un défi bien plus difficile, selon la quantité de tissu des corps érectiles disponible. Certaines peuvent être impossibles à réparer complètement sur le plan fonctionnel et bénéficier, à l'âge adulte, d'une reconstruction des corps érectiles au moyen de prothèses péniennes.
+
+## Syringocèle
+
+La syringocèle (du grec \"syrongos\", signifiant tube et \"coele\", signifiant tuméfaction) est une dilatation kystique rare de la portion distale des canaux de la glande de Cowper. Cette glande tient son nom du chirurgien et anatomiste William Cowper, qui l'a décrite pour la première fois au XVIIe siècle. Les glandes de Cowper sont homologues aux glandes de Bartholin chez la femme. Ces glandes exocrines sont des glandes bulbo-urétrales appariées, situées de part et d'autre de l'urètre membraneux. Les glandes principales reposent sur le diaphragme urogénital, et les glandes accessoires sont profondément situées dans l'urètre bulbaire spongieux. Les canaux de ces glandes traversent le sphincter externe et s'abouchent dans l'urètre bulbaire, s'ouvrant séparément ou en un canal unique commun, un à deux centimètres (cm) plus distalement. Ces glandes produisent une sécrétion mucoïde lors de l'excitation sexuelle et constituent une partie du pré-éjaculat qui aide à lubrifier l'urètre pour le passage des spermatozoïdes.
+
+![Figure 2]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-25-2.jpg){:.float-start .img-fluid}  
+**Figure 2**{:#figure-2}{:.figure-number} Aspect d'une syringocèle non rompue en MCUG
+
+![Figure 3]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-25-3.jpg){:.float-start .img-fluid}  
+**Figure 3**{:#figure-3}{:.figure-number} Aspect d'une syringocèle rompue en MCUG
+
+L'incidence réelle de la syringocèle est inconnue et pourrait être liée à la rareté et à la méconnaissance de cette affection, aggravées par l'existence de diagnostics alternatifs tels qu'un faux trajet, un diverticule urétral ou une valve urétrale antérieure, et, chez certains, à la possibilité d'une résolution spontanée. Les obstructions de l'orifice ductaire sont soit congénitales, soit acquises. La prolifération de l'épithélium ductaire entraîne des kystes de rétention congénitaux et une dilatation ductaire pré-sténotique.
+
+L'infection ou les sondages urétraux répétés sont des causes d'obstruction acquise. La syringocèle est rare et peut se manifester par des infections urinaires récidivantes, une hématurie, des symptômes obstructifs ou un goutte-à-goutte post-mictionnel. Plus rarement, elle peut être découverte fortuitement. Une obstruction sous-vésicale significative due à une syringocèle au début de la vie peut entraîner une maladie rénale chronique et une dysfonction vésicale. Il est donc essentiel, pour tous les patients, d'établir un diagnostic précoce et d'instaurer rapidement un traitement. Une classification utile prend en compte les aspects de la présentation clinique et de la prise en charge du patient. Les groupes sont : obstructif, non obstructif symptomatique et non obstructif asymptomatique. Le groupe obstructif inclurait tous les patients présentant soit des signes ou des symptômes, soit des preuves radiographiques ou endoscopiques d'obstruction sous-vésicale. La présentation survient généralement chez le nourrisson.
+
+Les anomalies associées comprennent une vessie à paroi épaissie, un rein multikystique dysplasique (MCDK), un rein dysplasique et une obstruction de la jonction pyélo-urétérale (PUJ). La cystographie mictionnelle (MCUG) est un examen diagnostique qui peut montrer un aspect de "défaut de remplissage" de l’urètre (syringocèle non rompue) ou l’opacification du kyste rompu avec trabéculation vésicale, VUR et vidange incomplète. Un examen cystoscopique peut être confirmatoire. La prise en charge endoscopique utilise diverses techniques pour traiter les syringocèles, à savoir l’électrode de Bugbee, des ciseaux, un cathéter urétral à crochet, le cathétérisme et le laser Holmium: YAG. Au cours de la prise en charge endoscopique, les syringocèles non rompues sont mises à plat, et les lèvres de toutes les syringocèles rompues peuvent être incisées. La syringocèle n’est pas une affection anodine chez les nourrissons, et tous les patients doivent être traités de manière appropriée et suivis de près. En pratique d’urologie pédiatrique, la syringocèle doit être envisagée lors de l’évaluation d’une obstruction urétrale antérieure. Un suivi rapproché des patients présentant une syringocèle est nécessaire, car jusqu’à 40 % présentent une atteinte rénale, dont près des deux cinquièmes évoluent vers une insuffisance rénale chronique. Une minorité présentent une dysfonction vésicale.
+
+## Atrésie et agénésie urétrales
+
+L’atrésie et l’agénésie urétrales doivent être incluses dans le diagnostic différentiel des anomalies rénales et de l’hydronéphrose bilatérale diagnostiquées in utero. Malheureusement, ces lésions sont incompatibles avec le développement rénal, à moins qu’il n’existe une autre voie d’évacuation de l’urine hors de la vessie, comme un ouraque perméable ou une communication urorectale. La prise en charge dépendra de l’anomalie spécifique et de la quantité de fonction rénale préservée grâce à un drainage urinaire alternatif. Une association entre l’atrésie urétrale et le syndrome prune-belly chez les filles a été reconnue, mais peu de rapports abordent l’issue du traitement chez ces nourrissons gravement malades. La plupart de ces enfants finiront par nécessiter une transplantation rénale en raison de lésions rénales sévères survenues en période néonatale. Chez les garçons, la dilatation progressive par cathéter a été utilisée de manière raisonnable et serait également efficace chez les filles (PADUA-augmentation progressive par dilatation de l’urètre antérieur). Il n’est pas encore clair si cela offrirait une solution à long terme.
+
+## Duplications urétrales
+
+Il s'agit d'un ensemble rare d'anomalies urétrales. Compte tenu des nombreuses variantes anatomiques, aucune voie embryologique commune ne peut expliquer toutes les variantes de duplication urétrale. Johnson a suggéré qu'une fusion défectueuse de la crête génitale et du pli urétral pourrait aboutir à deux canaux distincts, et Lowsley a proposé, comme explication, la persistance de la plaque urogénitale lors des invaginations de la crête génitale. La duplication urétrale peut s'accompagner d'une duplication complète du phallus ou de la vessie, ce qui constitue une anomalie plus sévère. Il existe deux types de duplication, soit sagittale, soit collatérale. La plupart des duplications surviennent dans le plan sagittal avec un phallus unique. Lorsque l'une se situe au-dessus de l'autre dans ce contexte, l'urètre dominant s'abouche en position hypospadique et l'urètre accessoire en position orthotopique. Beaucoup des urètres dorsaux non dominants se terminent en cul-de-sac avant d'atteindre la vessie. Si toutefois elles atteignent la vessie, l'enfant est souvent incontinent par le canal accessoire. Dans la forme collatérale, les urètres dupliqués cheminent côte à côte. La duplication complète de la vessie et de l'urètre est rare, en particulier chez les filles.
+
+![Figure 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-25-4.jpg){:.float-start .img-fluid}  
+**Figure 4**{:#figure-4}{:.figure-number} Cystographie montrant une duplication urétrale en Y, avec des flèches pointant vers l'urètre non dominant (dorsal).
+
+Dans certains cas, les deux urètres quittent la vessie séparément et restent distincts sur toute leur longueur, tandis que dans d'autres cas, les urètres dupliqués s'unissent distalement pour former un seul conduit. Dans la variété dite \'en fuseau\', l'urètre se sépare en deux composantes avant de se réunir de nouveau plus distalement, tandis que, dans les duplications en \'Y\', un urètre accessoire diverge du canal principal pour émerger dans la région périanale ou le périnée. Une symphyse pubienne élargie peut être retrouvée dans les cas associés à un méat épispadique, suggérant un lien avec le complexe d'exstrophie--épispadias. La reconstruction chirurgicale dépend de l'anatomie individuelle, mais implique presque toujours l'exérèse de l'urètre accessoire plus étroit. Une endoscopie au moment de la reconstruction peut parfois être nécessaire pour bien comprendre la lésion. Si le problème est constaté en raison d'une légère bifurcation du jet urinaire pendant la miction, une réparation peut ne pas être nécessaire. Une telle considération n'est généralement appropriée que pour les patients ayant les deux méats immédiatement adjacents l'un à l'autre, et même ces patients peuvent bénéficier d'une simple méatoplastie pour réunir les deux orifices en un seul. La complexité de la réparation augmente à mesure que les deux orifices divergent, en particulier si le méat ventral dominant est très proximal. Dans cette situation, l'urètre périnéal ventral doit généralement être mobilisé à distance du rectum vers une position plus orthotopique, et le reste de l'urètre reconstruit à l'aide de diverses techniques d'urétroplastie. Un prépuce complet est utile lorsqu'il est présent. Les patients ne doivent pas subir de circoncision néonatale si l'anomalie est notée. Des greffes muqueuses peuvent être nécessaires chez certains patients ayant déjà subi une circoncision ou une chirurgie. Elles peuvent également être nécessaires chez certains patients dont la peau préputiale n'est pas d'une longueur suffisante.
+
+Avec la dissection agressive nécessaire à la reconstruction de l'urètre ventral, l'exposition permettant l'exérèse de l'urètre dorsal accessoire est généralement bonne. Cette structure peut également être anastomosée de façon proximale à l'urètre ventral. Passerine-Glazel et ses collègues ont décrit une dilatation progressive sériée de l'urètre dorsal afin de le rendre fonctionnel pour la miction. Nous préférons, dans la plupart des cas, la mobilisation et la reconstruction de l'urètre dominant.
+
+## Sténose méatique
+
+La sténose méatique survient le plus fréquemment chez les garçons circoncis et est causée par une dermite des couches. Le symptôme révélateur est habituellement un jet urinaire diminué ou dévié. La méatotomie et la méatoplastie sont des méthodes de prise en charge fiables.
+
+## Sténose urétrale antérieure
+
+Les sténoses de l’urètre antérieur sont souvent idiopathiques (peut-être congénitales) ou d’origine traumatique. Cependant, des sténoses après réparation d’un hypospadias surviennent également avec une certaine fréquence dans l’urètre antérieur ; elles résultent soit de la réparation elle-même, soit du cathéter utilisé comme tuteur urétral. Les sténoses de l’urètre antérieur produisent habituellement des symptômes d’irritation (hématurie, dysurie, fuites urinaires) ou d’obstruction (efforts de poussée à la miction, rétention urinaire). Elles sont mieux diagnostiquées par imagerie radiographique de l’urètre ou par endoscopie. L’uroflowmétrie peut révéler un profil de débit obstructif, mais le débit peut être normal malgré la présence d’une sténose ; par conséquent, on ne peut pas se fier à l’uroflowmétrie pour exclure une sténose. L’urétrotomie interne à vision directe n’est adéquate que dans la moitié des cas, mais elle est probablement non délétère si elle n’est utilisée qu’une seule fois. La dilatation ne semble pas être un traitement approprié, car elle nécessite des séances répétées à de nombreuses reprises. L’anastomose urétrale termino-terminale après exérèse de la sténose est le traitement le plus efficace lorsqu’elle est anatomiquement réalisable, y compris pour les sténoses post-hypospadias. Lorsque l’anastomose urétrale n’est pas réalisable, une greffe en patch de muqueuse buccale ou de peau est habituellement couronnée de succès. Le PDS est à éviter comme matériel de suture lors de la réparation urétrale.
+
+## Polypes urétraux
+
+Les polypes urétraux constituent une autre anomalie inhabituelle de l’urètre masculin. Ils peuvent être congénitaux, mais ont également été rapportés chez l’adulte, ce qui suggère qu’ils peuvent être acquis ou croître lentement jusqu’à atteindre une taille suffisante pour provoquer des symptômes. Ces lésions fibro-endothéliales naissent fréquemment du veru montanum et sont généralement recouvertes d’un épithélium transitionnel sur un noyau fibromusculaire. Les petits polypes sont généralement découverts fortuitement lors d’une endoscopie réalisée pour un autre motif. À l’inverse, les lésions plus étendues, avec une tête polypoïde flottant librement au bout d’un pédicule allongé, ont tendance à faire saillie à travers le col vésical et à provoquer des épisodes aigus et transitoires de rétention urinaire. Les autres symptômes comprennent des efforts à la miction, des impériosités mictionnelles et une hématurie. Une hémorragie urétrale franche peut également survenir. Le diagnostic repose sur la CUM ou la cystouréthroscopie. La cystouréthrographie mictionnelle montre souvent un défaut de remplissage de l’urètre, dont la localisation peut varier. La confirmation diagnostique se fait par cystoscopie. La plupart des polypes peuvent être excisés par voie endoscopique (exérèse transurétrale), bien que, pour les polypes volumineux, une voie transvésicale ouverte puisse être nécessaire.
+
+## Points clés
+{:.key-points-head}
+
+- Les valves de l’urètre antérieur sont la lésion obstructive congénitale la plus fréquente de l’urètre antérieur et se manifestent habituellement par des symptômes obstructifs. L’incision transurétrale de la valve convient à la plupart des patients.
+- Le diverticule urétral peut se présenter soit sous la forme, plus fréquente, à large orifice, soit sous forme sacculaire. Le traitement repose sur l’incision ou la résection endoscopique du bourrelet obstructif ou, rarement, sur une voie périnéale ouverte avec excision d’un volumineux diverticule.
+- Mégalourètre C’est une anomalie congénitale rare caractérisée par une dilatation anormale de l’urètre pénien sans obstruction structurelle. Une urétrocystographie mictionnelle et une échographie rénale sont réalisées pour établir le diagnostic et évaluer les voies urinaires supérieures. Le traitement repose sur la reconstruction de l’urètre et du corps spongieux selon les principes standard de la réparation de l’hypospadias.
+- La syringocèle est une dilatation kystique rare de la portion distale des canaux des glandes de Cowper. Pour tous les patients, un diagnostic précoce et un traitement rapide sont essentiels. La prise en charge endoscopique utilise diverses techniques pour traiter les syringocèles, à savoir l’électrode de Bugbee, les ciseaux, le cathéter urétral à crochet, le cathétérisme et le laser Holmium: YAG.
+- L’atrésie et l’agénésie de l’urètre doivent être incluses dans le diagnostic différentiel des anomalies rénales et de l’hydronéphrose bilatérale diagnostiquées in utero. La prise en charge dépendra de l’anomalie spécifique et de la quantité de fonction rénale préservée par un drainage urinaire alternatif. Chez les garçons, la dilatation progressive par cathéter a été utilisée avec des résultats satisfaisants et serait de même efficace chez les filles (PADUA-augmentation progressive par dilatation de l’urètre antérieur).
+- La duplication urétrale est un spectre rare d’anomalies urétrales. La complexité de la réparation augmente à mesure que les deux orifices divergent, en particulier si le méat ventral dominant est très proximal.
+- La sténose méatale survient le plus souvent chez les garçons circoncis et est due à une dermite de couche. La méatotomie et la méatoplastie sont des méthodes de prise en charge fiables.
+- Les sténoses de l’urètre antérieur sont souvent idiopathiques (peut-être congénitales) ou d’origine traumatique. L’anastomose urétrale terminoterminale après excision de la sténose est le traitement le plus efficace lorsqu’elle est anatomiquement réalisable, même pour les sténoses post-hypospadias.
+- Les polypes urétraux sont une anomalie inhabituelle de l’urètre masculin. Ces lésions fibro-endothéliales proviennent fréquemment du veru montanum. Le diagnostic repose sur l’UCM ou l’urétrocystoscopie. La plupart des polypes peuvent être excisés par voie endoscopique (excision transurétrale), bien que, pour les polypes volumineux, une voie transvésicale ouverte puisse être nécessaire.
+{:.key-points-list}
+
+## Références
+
+{% bibliography --file 04-25 %}
+
+*[UK]: Royaume-Uni
+*[AUV]: valves urétrales antérieures
+*[PUV]: valves urétrales postérieures
+*[PUVs]: valves urétrales postérieures
+*[MCUG]: cysto-urétrogramme mictionnel
+*[MCDK]: rein dysplasique multikystique
+*[PUJ]: jonction pyélo-urétérale
+*[VUR]: reflux vésico-urétéral
+*[YAG]: grenat d'yttrium-aluminium
+*[PADUA]: augmentation progressive par dilatation de l'urètre antérieur
+*[PDS]: polydioxanone
+*[MCU]: cysto-urétrographie mictionnelle
