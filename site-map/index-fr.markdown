@@ -27,7 +27,7 @@ toc: false
 - [Contactez-nous](/contact-us/)
 - [Contributeurs](/contributors/)
 - [Avis de non-responsabilité](/disclaimer/)
-- [Rédacteurs](/editors/)
+- [Éditeurs](/editors/)
 - [Recherche](/search/)
 - [Plan du site](/site-map/)
 - [Sponsors](/sponsors/)

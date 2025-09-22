@@ -12,8 +12,8 @@ breadcrumbs:
   - 
     title: Code de conduite
     permalink: /code-of-conduct/
-page-header-lead: "This is not **lip service**."
-page-header-text: "Human decency means treating everyone—regardless of background—with respect. Current times demand that we not only speak out on issues of equality, but ensure our actions match those words. We have codified our values below."
+page-header-lead: "Il ne s’agit pas de belles paroles."
+page-header-text: "La décence humaine signifie traiter chacun, quelles que soient ses origines, avec respect. La situation actuelle exige non seulement que nous nous exprimions sur les questions d'égalité, mais aussi que nos actes soient à la hauteur de nos paroles. Nous avons codifié nos valeurs ci-dessous."
 toc: true
 ---
 

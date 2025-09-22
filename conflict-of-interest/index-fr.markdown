@@ -13,8 +13,8 @@ breadcrumbs:
   - 
     title: Conflit d’intérêts
     permalink: /conflict-of-interest/
-page-header-lead: "Expertise should remain **transparent** to commercial and financial interests to avoid bias."
-page-header-text: "**Pediatric Urology Book** maintains a policy of universal disclosure of _conflicts of interest_ for all editors and contributors and avows to avoid any mention or endorsment of commercial products or brand names."
+page-header-lead: "L’expertise doit rester **transparente** aux intérêts commerciaux et financiers afin d’éviter tout biais."
+page-header-text: "**Pediatric Urology Book** maintient une politique de divulgation universelle des _conflits d'intérêts_ pour tous les éditeurs et contributeurs et s'engage à éviter toute mention ou approbation de produits commerciaux ou de noms de marque."
 toc: true
 ---
 
