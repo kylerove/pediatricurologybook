@@ -4,7 +4,7 @@ chapter: 11
 sort-key: 01-11
 title: Urinary Tract Infection Management
 description: Chapter 11 delves into pediatric urinary tract infections, including how they start, diagnosis, and management.
-thumbnail: 01-11_urinary-tract-infection-management.png
+thumbnail: 01-11_urinary-tract-infection-management-en.png
 authors:
   -
     author-id: 144
@@ -22,7 +22,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-08-23 KR
 page_id: 01-11_urinary-tract-infection-management
 ---
-
 ## Introduction
 
 Urinary tract infections are a common problem in children, constituting one of the most frequent infections of bacterial origin in children under 2 years of age. Urinary tract infection (UTI) is defined as the colonization of the urinary tract, from the bladder to the renal parenchyma, by pathogenic microorganisms, frequently bacteria, associated with leukocyturia and variable symptoms, as we will see below.

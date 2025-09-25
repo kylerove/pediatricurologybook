@@ -4,7 +4,7 @@ chapter: 03
 sort-key: 01-03
 title: Renal and Bladder Physiology
 description: Chapter 3 details renal and bladder physiology.
-thumbnail: 01-03_renal-and-bladder-physiology.png
+thumbnail: 01-03_renal-and-bladder-physiology-en.png
 authors:
   -
     author-id: 13
@@ -31,7 +31,6 @@ v1-permalinks:
 review-formatting-complete: 2023-01-14 KR
 page_id: 01-03_renal-and-bladder-physiology
 ---
-
 ## Introduction
 
 The kidneys play an essential role in the normal health and development of children. The nephron is the functioning unit of the kidney, with each kidney containing \~500,000--1,000,000 nephrons. Cumulatively, the basic processes of the nephron are 1) filtration, 2) reabsorption, and 3) secretion.

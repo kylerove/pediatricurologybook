@@ -4,7 +4,7 @@ chapter: 23
 sort-key: 03-23
 title: Updates in Exstrophy Management
 description: Chapter 23 provides a look at what's new in exstrophy management.
-thumbnail: 03-23_updates-in-exstrophy-management.png
+thumbnail: 03-23_updates-in-exstrophy-management-en.png
 authors:
   -
     author-id: 141
@@ -24,7 +24,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-04-23 KR
 page_id: 03-23_updates-in-exstrophy-management
 ---
-
 ## Introduction
 
 The exstrophy-epispadias complex (EEC) comprises a wide spectrum of congenital anomalies, all arising from the same embryological defect, ranging from simple glandular epispadias to cloacal exstrophy.{% cite gearhart2001a --file 03-23 %}

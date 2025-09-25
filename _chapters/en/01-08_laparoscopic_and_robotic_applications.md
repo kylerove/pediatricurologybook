@@ -4,7 +4,7 @@ chapter: 08
 sort-key: 01-08
 title: Laparoscopic and Robotic Applications
 description: Chapter 8 describes laparoscopic and robotic application in pediatric urology.
-thumbnail: 01-08_laparoscopic_and_robotic_applications.png
+thumbnail: 01-08_laparoscopic_and_robotic_applications-en.png
 authors:
   -
     author-id: 21
@@ -24,7 +24,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-16 KR
 page_id: 01-08_laparoscopic_and_robotic_applications
 ---
-
 ## Short History of Laparoscopic and Robotic Applications in Pediatric Urology
 
 Laparoscopy and robotic-assisted laparoscopy are parts of minimally invasive surgery which have been more and more popular in the world. The history of laparoscopy dates to 1805, when Bozzini developed the first cystoscope. The term of laparoscopy ("laparothorakoskopie") was created by Swedish surgeon Hans Christian Jacobaeus in 1901. He reported 17 laparoscopy cases and 2 thoracoscopies in the same year.{% cite kelley1990a --file 01-08 %} Early laparoscopy had many limitations and raised more concerns for the significant increase in complication rates.

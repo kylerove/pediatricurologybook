@@ -2,7 +2,7 @@
 layout: disclaimer
 title: Isenção de responsabilidade
 description: Isenção de responsabilidade pelo uso do Livro de Urologia Pediátrica.
-thumbnail: disclaimer.png
+thumbnail: disclaimer-pt.png
 permalink: /disclaimer/
 lang: pt
 breadcrumbs:
@@ -14,7 +14,6 @@ breadcrumbs:
     permalink: /disclaimer/
 toc: true
 ---
-
 # Isenção de responsabilidade
 
 ## Introdução

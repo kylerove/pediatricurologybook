@@ -4,7 +4,7 @@ chapter: 51
 sort-key: 09-51
 title: Future Developments in Stone Management
 description: Chapter 51 delves into the latest and greatest techology to diagnose, prevent, and treat urolithiasis.
-thumbnail: 09-51_future-developments-in-stone-management.png
+thumbnail: 09-51_future-developments-in-stone-management-en.png
 authors:
   -
     author-id: 38
@@ -28,7 +28,6 @@ v1-permalinks:
 review-formatting-complete: 2023-02-27 KR
 page_id: 09-51_future-developments-in-stone-management
 ---
-
 ## Introduction
 
 The past two decades have seen a dramatic rise in pediatric kidney stone incidence, with adolescents representing the fasting growing age demographic across the lifespan of this disease.{% cite tasian2016a --file 09-51 %} Because children and young adults face unique challenges in terms of care delivery, risks of treatment, and underlying disease processes, advances in kidney stone disease in terms of miniaturization of equipment, reducing ionizing radiation exposure, and improving care for patients with genetic predisposition for urinary stone disease may preferentially benefit pediatric patients. This chapter will review advances not only in surgical equipment but also diagnostics, therapeutics, and care delivery.

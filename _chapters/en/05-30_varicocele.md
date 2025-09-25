@@ -4,7 +4,7 @@ chapter: 30
 sort-key: 05-30
 title: Varicocele
 description: Chapter 30 provides insights into the diagnosis and management of male varicocele.
-thumbnail: 05-30_varicocele.png
+thumbnail: 05-30_varicocele-en.png
 authors:
   -
     author-id: 63
@@ -30,7 +30,6 @@ v1-permalinks:
 review-formatting-complete: KR 2022-08-16
 page_id: 05-30_varicocele
 ---
-
 ## Introduction
 
 Varicocele is defined as an abnormal dilation of the pampiniform plexus which may cause pain, an atypical appearance, or impair fertility. These occur in approximately 15% of males, usually first appearing in adolescence, and are overrepresented in the sub-fertile population (approximately 35--49% of sub-fertile males).{% cite dubin1971a --file 05-30 %} As per all varicose veins, the primary pathophysiology relates to incompetent venous valves, which are not able to force the blood back to the major vessels against gravity.{% cite jensen2017a --file 05-30 %} Testicular veins are at risk due to their length, with the left vein more so due to its higher insertion at almost 90˚ and insertion at right angle into the left renal vein.{% cite naughton2001a --file 05-30 %}

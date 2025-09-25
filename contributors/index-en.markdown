@@ -2,7 +2,7 @@
 layout: contributors
 title: Contributors
 description: List of all worldwide contributors to Pediatric Urology Book.
-thumbnail: contributors.png
+thumbnail: contributors-en.png
 permalink: /contributors/
 lang: en
 breadcrumbs:
@@ -14,7 +14,6 @@ breadcrumbs:
     permalink: /contributors/
 toc: true
 ---
-
 # Contributors
 
 ## Geographic Representation

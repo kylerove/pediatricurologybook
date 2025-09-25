@@ -4,7 +4,7 @@ chapter: 62
 sort-key: 11-62
 title: Multicenter Collaboratives
 description: Chapter 62 provides a comprehensive rundown of all multicenter collaboratives that are ongoing as of 2023.
-thumbnail: 11-62_multicenter-collaboratives.png
+thumbnail: 11-62_multicenter-collaboratives-en.png
 authors:
   -
     author-id: 139
@@ -24,7 +24,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-04-23 KR
 page_id: 11-62_multicenter-collaboratives
 ---
-
 ## Introduction
 
 The quality of research in pediatric urology is historically low due to a predominance of small retrospective studies at single centers. The rarity and complexity of many conditions create a challenge for high-quality research. While the feasibility of randomized controlled trials (RCTs) in the pediatric surgical literature is debated, the need for more prospective study design and multicenter collaboration is clear. A prospective study design decreases the potential for bias, while a multicenter collaboration allows for a larger sample size to increase the statistical power and more generalizability. A multicenter collaboration is also beneficial to share the workload for research, provide more educational and funding opportunities, and build a relationship with the participating centers through a shared experience. Furthermore, it can shift the referral patterns and build a practice, as referring providers as well as patients and families understand which centers have an expertise and are able to achieve an excellent outcome for a particular condition. However, a multicenter collaboration is not without its challenges, such as a significant commitment of time and resources as well as the need for leadership and coordination across multiple centers to complete the necessary tasks in a timely fashion. The purpose of this chapter is to review the recent multicenter collaboratives in pediatric urology in the United States (US), including those registered with the Societies for Pediatric Urology and others that have made a significant contribution. While there are numerous multicenter collaboratives in pediatric urology oncology, those are outside the scope for this chapter.

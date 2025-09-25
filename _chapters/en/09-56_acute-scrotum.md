@@ -4,7 +4,7 @@ chapter: 56
 sort-key: 09-56
 title: Acute Scrotum
 description: Chapter 56 dives into the concept of acute scrotum, its differential diagnosis, and pediatric urology approach to workup and management.
-thumbnail: 09-56_acute-scrotum.png
+thumbnail: 09-56_acute-scrotum-en.png
 authors:
   -
     author-id: 110
@@ -24,7 +24,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-14 KR
 page_id: 09-56_acute-scrotum
 ---
-
 ## Introduction
 
 An "acute scrotum" refers to the rapid onset of a painful and/or swollen scrotum. Testicular torsion (TT) is the most worrisome diagnosis at the forefront of any clinician's mind, and without early intervention, the testicle risks necrosis secondary to prolonged ischemia. Once TT is ruled out, other etiologies may be considered. Broadly speaking, the differential diagnosis of the pediatric acute scrotum also includes torsion of the appendix testis, epididymitis, orchitis, incarcerated hernia, vasculitis, testicular trauma, and cellulitis. In this chapter, we will highlight the evaluation of testicular torsion, torsion of the testis or epididymis adnexa, and epididymitis. The primary cause of these diagnoses is related to the anatomy of the testis or epididymis itself whereas the other diagnoses have secondary causes of scrotal swelling, pain, or infection (e.g., mumps orchitis secondary to *Paramyxoviridae* virus). Diagnosis and management of these other diagnoses in the differential require treatment of the primary cause and are discussed elsewhere in this textbook.

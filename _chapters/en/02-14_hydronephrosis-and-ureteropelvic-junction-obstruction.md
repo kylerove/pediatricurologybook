@@ -4,7 +4,7 @@ chapter: 14
 sort-key: 02-14
 title: Hydronephrosis and Ureteropelvic Junction Obstruction
 description: Chapter 14 delves into topics of hydronephrosis and ureteropelvic junction obstruction.
-thumbnail: 02-14_hydronephrosis-and-ureteropelvic-junction-obstruction.png
+thumbnail: 02-14_hydronephrosis-and-ureteropelvic-junction-obstruction-en.png
 authors:
   -
     author-id: 30
@@ -28,7 +28,6 @@ v1-permalinks:
 review-formatting-complete: 2023-01-14 KR
 page_id: 02-14_hydronephrosis-and-ureteropelvic-junction-obstruction
 ---
-
 ## Introduction
 
 Hydronephrosis is defined as aseptic dilatation of the renal pelvis with or without the calyces. If it occurs before birth, this is called antenatal hydronephrosis (ANH). The presence of infected hydronephrosis denotes pyonephrosis while the presence of dilated ureter with the dilated renal pelvis is called hydroureteronephrosis (HUN).

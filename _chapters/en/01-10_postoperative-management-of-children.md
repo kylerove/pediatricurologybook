@@ -4,7 +4,7 @@ chapter: 10
 sort-key: 01-10
 title: Postoperative Management of Children
 description: Chapter 10 delves into how we care for pediatric patients after surgery.
-thumbnail: 01-10_postoperative-management-of-children.png
+thumbnail: 01-10_postoperative-management-of-children-en.png
 authors:
   -
     author-id: 4
@@ -22,7 +22,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-04-22 KR
 page_id: 01-10_postoperative-management-of-children
 ---
-
 ## Introduction
 
 Pediatric postoperative care is a critical aspect of any surgical procedure, and it plays a significant role in the child\'s recovery. The postoperative management of the pediatric patient is essential to prevent complications and ensure optimal healing. This chapter will discuss the postoperative management of the pediatric patient, including intravenous fluids, electrolyte balance, TPN, and pain management.

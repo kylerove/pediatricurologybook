@@ -2,7 +2,7 @@
 layout: disclaimer
 title: 免责声明
 description: 使用小儿泌尿外科书籍的免责声明。
-thumbnail: disclaimer.png
+thumbnail: disclaimer-zh.png
 permalink: /disclaimer/
 lang: zh
 breadcrumbs:
@@ -14,7 +14,6 @@ breadcrumbs:
     permalink: /disclaimer/
 toc: true
 ---
-
 # 免责声明
 
 ## 介绍

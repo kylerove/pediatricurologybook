@@ -4,7 +4,7 @@ chapter: 48
 sort-key: 09-48
 title: Urolithiasis—Ureteral Surgical Management
 description: Chapter 48 discusses the surgical management of ureterolithiasis.
-thumbnail: 09-48_urolithiasis-ureteral-surgical-management.png
+thumbnail: 09-48_urolithiasis-ureteral-surgical-management-en.png
 authors:
   -
     author-id: 95
@@ -28,7 +28,6 @@ v1-permalinks:
 review-formatting-complete: 2023-01-14 KR
 page_id: 09-48_urolithiasis-ureteral-surgical-management
 ---
-
 ## Introduction
 
 Nephrolithiasis is the formation of stones inside kidney due to deposition of various salts or minerals. These stones can remain asymptomatic for long periods of time until they become large enough to become symptomatic.{% cite marra2019a --file 09-48 %} This may present as a combination of flank or abdominal pain, urinary tract infection, or hematuria.{% cite clayton2011a --file 09-48 %} However in infants and younger children, the presentation may be less specific with symptoms such as constipation, vomiting, dysuria, and generalized abdominal tenderness.{% cite marra2019a --file 09-48 %}

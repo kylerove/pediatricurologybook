@@ -4,7 +4,7 @@ chapter: 41
 sort-key: 07-41
 title: Social and Medicolegal Issues with DSD
 description: Chapter 41 discusses worldwide views on the social and medicolegal concerns that shape our understanding of disorders or differences of sexual development.
-thumbnail: 07-41_social-and-medicolegal-issues-with-dsd.png
+thumbnail: 07-41_social-and-medicolegal-issues-with-dsd-en.png
 authors:
   -
     author-id: 83
@@ -30,7 +30,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-14 KR
 page_id: 07-41_social-and-medicolegal-issues-with-dsd
 ---
-
 ## Australasian Perspective
 
 By **Kiarash Taghavi**{:.author-names}, **Nathalie Webb**{:.author-names}, **Chloe A. Hanna**{:.author-names}, & **Jacqueline K. Hewitt**{:.author-names}  

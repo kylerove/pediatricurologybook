@@ -4,7 +4,7 @@ chapter: 62
 sort-key: 11-62
 title: Colaboraciones multicéntricas
 description: El capítulo 62 ofrece un resumen completo de todas las colaboraciones multicéntricas que están en curso en 2023.
-thumbnail: 11-62_multicenter-collaboratives.md-es.png
+thumbnail: 11-62_multicenter-collaboratives-es.png
 authors:
   -
     author-id: 139
@@ -24,7 +24,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2025-09-14 KR
 page_id: 11-62_multicenter-collaboratives
 ---
-
 ## Introducción
 
 La calidad de la investigación en urología pediátrica ha sido históricamente baja debido al predominio de estudios retrospectivos pequeños en un solo centro. La rareza y la complejidad de muchas afecciones plantean un desafío para la investigación de alta calidad. Si bien se debate la viabilidad de los ensayos clínicos aleatorizados y controlados (ECA) en la literatura de cirugía pediátrica, es clara la necesidad de más diseños de estudio prospectivos y de colaboración multicéntrica. Un diseño de estudio prospectivo disminuye el potencial de sesgo, mientras que una colaboración multicéntrica permite un mayor tamaño muestral para aumentar la potencia estadística y una mayor capacidad de generalización. Una colaboración multicéntrica también es beneficiosa para compartir la carga de trabajo de la investigación, ofrecer más oportunidades educativas y de financiación, y construir una relación con los centros participantes mediante una experiencia compartida. Además, puede modificar los patrones de derivación y consolidar una práctica clínica, ya que los médicos remitentes, así como los pacientes y sus familias, comprenden qué centros tienen experiencia y pueden alcanzar un resultado excelente para una afección determinada. Sin embargo, una colaboración multicéntrica no está exenta de desafíos, como un compromiso considerable de tiempo y recursos, así como la necesidad de liderazgo y coordinación entre múltiples centros para completar las tareas necesarias de manera oportuna. El propósito de este capítulo es revisar las recientes redes colaborativas multicéntricas en urología pediátrica en los Estados Unidos (EE. UU.), incluidas aquellas registradas ante las Societies for Pediatric Urology y otras que han hecho una contribución significativa. Si bien existen numerosas redes colaborativas multicéntricas en oncología urológica pediátrica, estas quedan fuera del alcance de este capítulo.

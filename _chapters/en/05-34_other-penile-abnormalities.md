@@ -4,7 +4,7 @@ chapter: 34
 sort-key: 05-34
 title: Other Penile Abnormalities
 description: Chapter 34 summarizes other congenital penile abnormalities including penile curvature and megaprepuce.
-thumbnail: 05-34_other-penile-abnormalities.png
+thumbnail: 05-34_other-penile-abnormalities-en.png
 authors:
   -
     author-id: 74
@@ -30,7 +30,6 @@ v1-permalinks:
 review-formatting-complete: KR 2022-08-17
 page_id: 05-34_other-penile-abnormalities
 ---
-
 ## Introduction
 
 This chapter aims to discuss other penile conditions that may be encountered (apart from hypospadias) which may potentially warrant surgical intervention or correction. These include chordee, penile torsion, buried penis and congenital megaprepuce.

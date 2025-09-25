@@ -4,7 +4,7 @@ chapter: 19
 sort-key: 03-19
 title: Neurogenic Bladder
 description: Chapter 19 discusses neurogenic bladder and its workup and management.
-thumbnail: 03-19_neurogenic-bladder.png
+thumbnail: 03-19_neurogenic-bladder-en.png
 authors:
   -
     author-id: 37
@@ -31,7 +31,6 @@ v1-permalinks:
 review-formatting-complete: 2023-01-14 KR
 page_id: 03-19_neurogenic-bladder
 ---
-
 ## Introduction
 
 Congenital spinal dysraphism accounts for the vast majority of cases of pediatric neurogenic bladder and bowel.{% cite bauer2008a --file 03-19 %} Other causes of neurogenic dysfunction involving the spine include sacral agenesis, tethered cord, cloacal malformations, and spinal cord injuries. Children with central nervous system abnormalities such as spastic diplegia (cerebral palsy) may also experience neurogenic bladder.

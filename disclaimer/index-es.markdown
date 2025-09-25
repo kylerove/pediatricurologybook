@@ -2,7 +2,7 @@
 layout: disclaimer
 title: Descargo de responsabilidad
 description: Descargo de responsabilidad por el uso del Libro de Urología Pediátrica.
-thumbnail: disclaimer.png
+thumbnail: disclaimer-es.png
 permalink: /disclaimer/
 lang: es
 breadcrumbs:
@@ -14,7 +14,6 @@ breadcrumbs:
     permalink: /disclaimer/
 toc: true
 ---
-
 # Descargo de responsabilidad
 
 ## Introducción

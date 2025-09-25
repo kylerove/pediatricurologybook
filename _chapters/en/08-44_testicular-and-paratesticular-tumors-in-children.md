@@ -4,7 +4,7 @@ chapter: 44
 sort-key: 08-44
 title: Testicular and Paratesticular Tumors in Children
 description: Chapter 44 summarizes pediatric testicular and paratesticular tumors.
-thumbnail: 08-44_testicular-and-paratesticular-tumors-in-children.png
+thumbnail: 08-44_testicular-and-paratesticular-tumors-in-children-en.png
 authors:
   -
     author-id: 91
@@ -29,7 +29,6 @@ v1-permalinks:
 review-formatting-complete: KR 2022.08.07
 page_id: 08-44_testicular-and-paratesticular-tumors-in-children
 ---
-
 ## Introduction
 
 Testicular and paratesticular tumours are uncommon in children. They can be primary or secondary, benign or malignant. This chapter gives an overview of the range of lesions clinically encountered in children. Intratesticular lesions are considered, for clinical relevance, in two pediatric age groupings:

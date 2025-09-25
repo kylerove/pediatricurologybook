@@ -4,7 +4,7 @@ chapter: 26
 sort-key: 04-26
 title: Congenital and Traumatic Urethral Stricture
 description: Chapter 26 discusses concepts around pediatric urethral stricture, both congenital and acquired causes.
-thumbnail: 04-26_congenital-and-traumatic-urethral-stricture.png
+thumbnail: 04-26_congenital-and-traumatic-urethral-stricture-en.png
 authors:
   -
     author-id: 53
@@ -26,7 +26,6 @@ v1-permalinks:
 review-formatting-complete: KR 2022-08-15
 page_id: 04-26_congenital-and-traumatic-urethral-stricture
 ---
-
 ## Introduction
 
 Urethral strictures were initially thought to be uncommon in children.{% cite herle2018a --file 04-26 %} Later reports suggested that they are not so rare.{% cite ansari2019a --file 04-26 %} The impression of low incidence was mainly due to under-reporting and sparse literature. Johanson was the first to observe the stricture formation in 1953 after complete urethral disruption.{% cite herle2018a --file 04-26 %} Urethral strictures are broadly classified based on their etiology into congenital/idiopathic, iatrogenic, inflammatory, and traumatic. It is unclear whether strictures with no definite cause should be classified into congenital or idiopathic.

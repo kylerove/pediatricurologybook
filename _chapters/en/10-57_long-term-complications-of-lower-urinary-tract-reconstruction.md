@@ -4,7 +4,7 @@ chapter: 57
 sort-key: 10-57
 title: Long Term Complications of Lower Urinary Tract Reconstruction
 description: Chapter 57 discusses the long term complications of lower urinary tract reconstruction.
-thumbnail: 10-57_long-term-complications-of-lower-urinary-tract-reconstruction.png
+thumbnail: 10-57_long-term-complications-of-lower-urinary-tract-reconstruction-en.png
 authors:
   -
     author-id: 111
@@ -22,7 +22,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-14 KR
 page_id: 10-57_long-term-complications-of-lower-urinary-tract-reconstruction
 ---
-
 ## Introduction
 
 The need for urological reconstruction is long established and the range of techniques available continues to expand. With introduction of new technology (e.g., robotic surgery) the options for achieving those techniques also looks to be expanding. The problem with all of these innovations is that whilst they are attractive (to a surgeon) and they can be made to sound attractive (to a patient) the favorable elements (e.g., reduced hospital stay, reduction in abdominal scars etc) are weighed against an influence on outcome that is not yet fully understood.

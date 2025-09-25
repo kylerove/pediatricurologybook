@@ -4,7 +4,7 @@ chapter: 50
 sort-key: 09-50
 title: Urolithiasis—Medical Management
 description: Chapter 50 discusses medical management options for urolithiasis.
-thumbnail: 09-50_urolithiasis-medical-management.png
+thumbnail: 09-50_urolithiasis-medical-management-en.png
 authors:
   -
     author-id: 100
@@ -28,7 +28,6 @@ v1-permalinks:
 review-formatting-complete: 2023-01-14 KR
 page_id: 09-50_urolithiasis-medical-management
 ---
-
 ## Introduction
 
 Pediatric urolithiasis is on the raise with an annual increasing rate of approximately 5--10%.{% cite bonzo2017a --file 09-50 %} Various metabolic, genetic, anatomic, and environmental/dietary factors are responsible for this change. It is increasingly recognized that urolithiasis is a systemic condition with significant morbidity due to its association with various diseases such as cardio-vascular disease, diabetes mellitus, and metabolic syndrome.{% cite kovacevic2018a reiner2011a gambaro2012a goldfarb2013a kovacevic2017a sakhaee2008a taylor2005a --file 09-50 %} Urolithiasis has a high recurrence rate with potential for chronicity and for the development of renal insufficiency.{% cite li2020a kovacevic2020a jungers2004a kovacevic2016a --file 09-50 %} Therefore, adequate management of pediatric urolithiasis is important to prevent recurrence and its associated complications, as well as to protect kidney function.

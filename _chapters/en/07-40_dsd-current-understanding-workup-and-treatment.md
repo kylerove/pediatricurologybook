@@ -4,7 +4,7 @@ chapter: 40
 sort-key: 07-40
 title: DSD—Current Understanding, Workup and Treatment
 description: Chapter 40 discusses our current understanding of disorders or differences of sexual development.
-thumbnail: 07-40_dsd-current-understanding-workup-and-treatment.png
+thumbnail: 07-40_dsd-current-understanding-workup-and-treatment-en.png
 authors:
   -
     author-id: 82
@@ -31,7 +31,6 @@ v1-permalinks:
 review-formatting-complete: 2023-01-14 KR
 page_id: 07-40_dsd-current-understanding-workup-and-treatment
 ---
-
 ## Introduction and Terminology
 
 Disorders/differences of sex development (DSD, also referred to as intersex) are congenital conditions in which chromosomal, gonadal or phenotypic sex are different from what is seen as typically male or female. A new, broad DSD classification was introduced in 2006 via the "Consensus Statement on Management of Intersex Disorders."{% cite lee2006a --file 07-40 %} This newer classification incorporates a wide range of conditions, including congenital adrenal hyperplasia (CAH), ovotesticular DSD, androgen insensitivity syndrome (AIS). The 2006 consensus definition is more expansive than what were previously referred to as intersex conditions, also including anatomic anomalies such as cloacal and bladder exstrophy and vaginal agenesis, and chromosomal abnormalities that do not cause atypical genitalia (e.g., Klinefelter Syndrome \[47, XXY\]). [Table 1](#table-1){:.table-link} provides an overview of previous nomenclature, and recommended terminology updates proposed in the 2006 consensus statement. Give the wide range of conditions under the DSD 'umbrella', an individualized, multidisciplinary approach to care is paramount.

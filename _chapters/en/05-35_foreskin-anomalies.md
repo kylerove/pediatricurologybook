@@ -4,7 +4,7 @@ chapter: 35
 sort-key: 05-35
 title: Foreskin Anomalies
 description: Chapter 35 provides insights into foreskin anomalies, including balanitis and paraphimosis.
-thumbnail: 05-35_foreskin-anomalies.png
+thumbnail: 05-35_foreskin-anomalies-en.png
 authors:
   -
     author-id: 75
@@ -31,7 +31,6 @@ v1-permalinks:
 review-formatting-complete: 2023-01-17 KR
 page_id: 05-35_foreskin-anomalies
 ---
-
 ## Embryology
 
 The embryology of the external male genitalia is a complex process. Before the ninth week of gestation, the development of the external genitalia is similar in both sexes. During the 9 to 13 weeks of gestation, testosterone production by Leydig cells, its conversion to Dihydrotestosterone (5α-reductase enzyme) and interaction with androgen receptors will result in the normal differentiation of the genital tubercle, folds and swelling.

@@ -2,7 +2,7 @@
 layout: code-of-conduct
 title: Código de Conduta
 description: Código de conduta aceito por todos os editores e colaboradores.
-thumbnail: code-of-conduct.png
+thumbnail: code-of-conduct-pt.png
 permalink: /code-of-conduct/
 lang: pt
 breadcrumbs:
@@ -16,7 +16,6 @@ page-header-lead: "Isso não é conversa fiada."
 page-header-text: "A decência humana significa tratar a todos — independentemente da origem — com respeito. Os tempos atuais exigem que não apenas falemos sobre questões de igualdade, mas garantamos que nossas ações correspondam a essas palavras. Codificamos nossos valores abaixo."
 toc: true
 ---
-
 # Código de Conduta **de Colaboração**
 
 ## Nossa **promessa**

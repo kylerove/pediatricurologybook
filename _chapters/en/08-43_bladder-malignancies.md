@@ -4,7 +4,7 @@ chapter: 43
 sort-key: 08-43
 title: Bladder Malignancies
 description: Chapter 43 summarizes pediatric malignancies of the urinary bladder.
-thumbnail: 08-43_bladder-malignancies.png
+thumbnail: 08-43_bladder-malignancies-en.png
 authors:
   -
     author-id: 90
@@ -24,7 +24,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: KR 2022.08.16
 page_id: 08-43_bladder-malignancies
 ---
-
 ## Introduction
 
 Urothelial cell carcinoma (UCC) in the pediatric population is very rare with an incidence of roughly 0.1%-0.4%. A 2019 review found only 243 documented cases of UCC in patients \<18y of age, with the mean age being 12.5y, and there is a male predominance (3:1). Overall, recurrence of UCC in the pediatric population is thought to be low (8.6%), and death very uncommon, \<4%. Given its rarity, there are no published guidelines on the diagnosis and management of UCC in the pediatric population. This chapter aims to outline etiology and pathogenesis, evaluation and diagnosis, management, and follow up of pediatric UCC currently published literature.

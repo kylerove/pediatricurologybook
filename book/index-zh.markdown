@@ -2,7 +2,7 @@
 layout: book
 title: 目录
 description: 儿科泌尿外科书籍所有 68 章的列表。
-thumbnail: table-of-contents.png
+thumbnail: book-zh.png
 permalink: /book/
 lang: zh
 breadcrumbs:
@@ -14,7 +14,6 @@ breadcrumbs:
     permalink: /book/
 toc: false
 ---
-
 <div id="toc" markdown="1">
 
 {% for i in (0..11) %}

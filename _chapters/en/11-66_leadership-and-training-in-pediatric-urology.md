@@ -4,7 +4,7 @@ chapter: 66
 sort-key: 11-66
 title: Leadership and Training in Pediatric Urology
 description: Chapter 66 provides insight and wisdom for the aspiring pediatric urologist leader in each of us.
-thumbnail: 11-66_leadership-and-training-in-pediatric-urology.png
+thumbnail: 11-66_leadership-and-training-in-pediatric-urology-en.png
 authors:
   -
     author-id: 3
@@ -24,7 +24,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: KR 2022.08.13
 page_id: 11-66_leadership-and-training-in-pediatric-urology
 ---
-
 ## Introduction
 
 A frequently asked question of medical leaders and in particular surgical leaders is why would you give up some of your surgical practice to attend meetings. With sometimes a not too subtle subtext, some might imply perhaps you went into administration because you were unable to do surgery! While certainly that was considered true decades ago, for the authors who have over 20 years of administrative experience, we certainly hope that is not the case today.

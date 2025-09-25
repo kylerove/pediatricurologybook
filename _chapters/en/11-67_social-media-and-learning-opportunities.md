@@ -4,7 +4,7 @@ chapter: 67
 sort-key: 11-67
 title: Social Media and Learning Opportunities
 description: Chapter 67 dives into the current concepts and best practices around social media and modern medicine.
-thumbnail: 11-67_social-media-and-learning-opportunities.png
+thumbnail: 11-67_social-media-and-learning-opportunities-en.png
 authors:
   -
     author-id: 124
@@ -26,7 +26,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2022-10-03 KR
 page_id: 11-67_social-media-and-learning-opportunities
 ---
-
 ## Introduction
 
 The use of social media has progressed considerably over the past decade, with approximately 3.484 billion people worldwide engaging in at least one application in 2019.{% cite karim2020a chou2019a --file 11-67 %} The use of social media applications such as Facebook, YouTube, Instagram, Twitter and TikTok has become an integral part of people's lives, with many users dedicating several hours of their day to these various platforms.{% cite karim2020a --file 11-67 %} According to the National Cancer Institute (NCI), social media usage in the United States increased from approximately 27% to 86% between 2009 and 2019, reflecting a 59% increase in a ten year period.{% cite chou2019a --file 11-67 %} This rise has been particularly prominent in the younger adult population, 90% of whom with internet access are social media users.{% cite villanti2016a --file 11-67 %} YouTube is the most commonly utilised platform, with approximately 73% of U.S adults reporting use.{% cite centre2019a --file 11-67 %} This is closely followed by Facebook (69%), Instagram (37%), Pinterest (28%), LinkedIn (27%), Snapchat (24%) and Twitter (22%). Individual social media platforms, their characteristics and potential uses in pediatric urology are outlined in [Table 1](#table-1){:.table-link}. With an increased uptake of social media by young adults, the potential exists to deliver high quality health information and interventions to a cohort that may be hard-to-reach with conventional health promotion and disease prevention measures.{% cite villanti2016a --file 11-67 %}

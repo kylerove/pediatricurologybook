@@ -4,7 +4,7 @@ chapter: 07
 sort-key: 01-07
 title: Fisiologia da Laparoscopia Pediátrica
 description: O Capítulo 07 aprofunda-se em como a laparoscopia pediátrica afeta a fisiologia do paciente cirúrgico pediátrico.
-thumbnail: 01-07_physiology-of-pediatric-laparoscopy.md-pt.png
+thumbnail: 01-07_physiology-of-pediatric-laparoscopy-pt.png
 authors:
   -
     author-id: 138
@@ -28,7 +28,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2025-09-20 KR
 page_id: 01-07_physiology-of-pediatric-laparoscopy
 ---
-
 ## Contexto
 
 Nas últimas duas décadas, o uso de técnicas cirúrgicas laparoscópicas e robóticas foi amplamente adotado na urologia e na urologia pediátrica. As vantagens das abordagens cirúrgicas laparoscópicas incluem maior magnificação, melhor cosmese, redução dos escores de dor pós-operatória e, de modo geral, internações hospitalares mais curtas em comparação com as abordagens cirúrgicas abertas.{% cite andolfi2019a --file 01-07 %} Desde a primeira adoção da laparoscopia na urologia pediátrica em 1976 por Crotesti _et al_ para a avaliação de testículos não descendidos, a técnica laparoscópica tem aprimorado significativamente a capacidade de realizar procedimentos cirúrgicos complexos.{% cite varda2014a --file 01-07 %}

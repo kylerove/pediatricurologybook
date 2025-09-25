@@ -4,7 +4,7 @@ chapter: 38
 sort-key: 06-38
 title: Cloacal Anomaly
 description: Chapter 38 dives into the world of female cloacal anomaly, where urogenital and gastrointestinal tracts did not fully separate.
-thumbnail: 06-38_cloacal-anomaly.png
+thumbnail: 06-38_cloacal-anomaly-en.png
 authors:
   -
     author-id: 9
@@ -24,7 +24,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2024-02-04 KR
 page_id: 06-38_cloacal-anomaly
 ---
-
 ## Introduction
 
 Anorectal anomalies comprise a spectrum of congenital malformations involving the rectum and anus. Children with anorectal malformations (ARM) are often diagnosed with "imperforate anus" because there is no opening where the normal anal opening should be. This oversimplifies the underlying pathology which frequently involves the urogenital system, spine, and pelvic floor musculature. At one end of the spectrum are minor anomalies in which the anal canal is present, but the anus is anteriorly displaced or covered by perineal skin. With more severe malformations, the rectum fails to reach the perineum and instead connects to the genitourinary tract.

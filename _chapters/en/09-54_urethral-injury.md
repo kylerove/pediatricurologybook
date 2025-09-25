@@ -4,7 +4,7 @@ chapter: 54
 sort-key: 09-54
 title: Urethral Injury
 description: Chapter 54 provides insight into urethral trauma in boys and girls.
-thumbnail: 09-54_urethral-injury.png
+thumbnail: 09-54_urethral-injury-en.png
 authors:
   -
     author-id: 107
@@ -28,7 +28,6 @@ v1-permalinks:
 review-formatting-complete: 2023-01-14 KR
 page_id: 09-54_urethral-injury
 ---
-
 ## Introduction
 
 Urethral traumas are part of the urological emergency conditions that often require multidisciplinary co-assessment. In the case of septic symptoms, all possible traumas in other organs and sources of infection should also be considered. In the case of acute symptoms of the scrotum or gross hematuria, immediate urological evaluation is required. The therapy depends on the severity of the injury; the options range from primary splinting using a catheter, possibly under visual control, to an end-to-end surgical anastomosis.

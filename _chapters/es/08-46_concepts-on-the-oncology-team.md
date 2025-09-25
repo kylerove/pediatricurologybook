@@ -4,7 +4,7 @@ chapter: 46
 sort-key: 08-46
 title: Conceptos sobre el equipo de oncología
 description: El capítulo 46 aborda el importante tema de la atención multidisciplinaria en torno a la oncología pediátrica y de adolescentes y adultos jóvenes.
-thumbnail: 08-46_concepts-on-the-oncology-team.md-es.png
+thumbnail: 08-46_concepts-on-the-oncology-team-es.png
 authors:
   -
     author-id: 136
@@ -22,7 +22,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2025-09-14 KR
 page_id: 08-46_concepts-on-the-oncology-team
 ---
-
 ## Introducción
 
 El cáncer pediátrico se define como una enfermedad rara, que representa menos del 1 % de todos los cánceres diagnosticados en Estados Unidos. Sin embargo, es una de las principales causas de muerte en niños y adolescentes.{% cite steliarova-foucher2017a --file 08-46 %} En las últimas cuatro décadas, ha habido un aumento continuo en la incidencia de los cánceres que se presentan en menores de 15 años.{% cite steliarova-foucher1991a --file 08-46 %}

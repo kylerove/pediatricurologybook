@@ -4,7 +4,7 @@ chapter: 20
 sort-key: 03-20
 title: Voiding Dysfunction
 description: Chapter 20 dives into the concepts around voiding dysfunction and how to identify and manage it.
-thumbnail: 03-20_voiding-dysfunction.png
+thumbnail: 03-20_voiding-dysfunction-en.png
 authors:
   -
     author-id: 39
@@ -33,7 +33,6 @@ v1-permalinks:
 review-formatting-complete: 2023-01-14 KR
 page_id: 03-20_voiding-dysfunction
 ---
-
 ## Introduction
 
 Lower urinary tract symptoms (LUTS), bladder and bowel dysfunction (BBD) or dysfunctional elimination syndrome are all terms that describe what are the common array of symptoms which range from overactive bladder syndrome (OAB), voiding postponement, stress incontinence, giggle incontinence to dysfunctional voiding aside from others.{% cite ruarte1987a --file 03-20 %} The impact of daytime wetting in children can be quite profound—with social, emotional and behavioral effect on daily life.{% cite landgraf2004a --file 03-20 %} From our understanding of OAB we know that if it continues over a prolonged period of time, we will see thickening of the bladder wall, which can have an lifelong impact. As patients become older, the consequences become more profound and require more of an effort to correct.{% cite fitzgerald2006a minassian2006a --file 03-20 %}

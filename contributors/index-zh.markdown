@@ -2,7 +2,7 @@
 layout: contributors
 title: 贡献者
 description: 儿科泌尿外科书籍的所有全球贡献者名单。
-thumbnail: contributors.png
+thumbnail: contributors-en.png
 permalink: /contributors/
 lang: en
 breadcrumbs:
@@ -14,7 +14,6 @@ breadcrumbs:
     permalink: /contributors/
 toc: true
 ---
-
 # 贡献者
 
 ## 地理代表

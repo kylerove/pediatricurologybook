@@ -2,7 +2,7 @@
 layout: conflict-of-interest
 title: Conflicto de Intereses
 description: Divulgaciones de conflictos de intereses por parte de todos los editores y colaboradores.
-thumbnail: conflict-of-interest.png
+thumbnail: conflict-of-interest-es.png
 permalink: /conflict-of-interest/
 js: /assets/js/pages/conflict-of-interest.js
 lang: es
@@ -17,7 +17,6 @@ page-header-lead: "La experiencia debe seguir siendo transparente para los inter
 page-header-text: "Libro de Urología Pediátrica mantiene una política de divulgación universal de los conflictos de intereses para todos los editores y colaboradores y se niega a evitar cualquier mención o aprobación de productos comerciales o marcas."
 toc: true
 ---
-
 # Conflicto de Intereses
 
 ## Principios

@@ -4,7 +4,7 @@ chapter: 05
 sort-key: 01-05
 title: Prenatal Diagnosis and Antenatal Surgery
 description: Chapter 5 describes prenatal diagnosis of urologic conditions and antenatal surgery.
-thumbnail: 01-05_prenatal-diagnosis-and-antenatal-surgery.png
+thumbnail: 01-05_prenatal-diagnosis-and-antenatal-surgery-en.png
 authors:
   -
     author-id: 15
@@ -30,7 +30,6 @@ v1-permalinks:
 review-formatting-complete: 2023-01-14 KR
 page_id: 01-05_prenatal-diagnosis-and-antenatal-surgery
 ---
-
 ## Introduction
 
 A second trimester comprehensive fetal anatomic survey has become standard prenatal care. Prenatal ultrasound detects 84.4--97% of all fetal urinary tract malformations and these anomalies may be detected as early as 12--14 weeks of gestation.{% cite bronshtein1990a corteville1991a --file 01-05 %} Prior to routine antenatal screening, symptomatic children with urologic abnormalities were detected after birth, presenting with such symptoms as urosepsis, pain, hematuria, a palpable mass or failure to thrive, often requiring surgical intervention. The advent of routine prenatal ultrasonography has shifted the scope of pediatric urologic care from an interventional/surgical model to an antenatal counseling role.

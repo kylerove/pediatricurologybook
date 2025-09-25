@@ -4,7 +4,7 @@ chapter: 59
 sort-key: 10-59
 title: Complicaciones a largo plazo de la reconstrucción urogenital
 description: El capítulo 59 profundiza en lo que sabemos (y lo que no sabemos) sobre los resultados a largo plazo de los pacientes que se han sometido a reconstrucción urogenital.
-thumbnail: 10-59_long-term-complications-of-urogential-reconstruction.md-es.png
+thumbnail: 10-59_long-term-complications-of-urogential-reconstruction-es.png
 authors:
   -
     author-id: 115
@@ -24,7 +24,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2025-09-14 KR
 page_id: 10-59_long-term-complications-of-urogential-reconstruction
 ---
-
 ## Introducción
 
 La reconstrucción urogenital es una descripción amplia de cirugías a las que se han sometido muchos de los pacientes urológicos pediátricos y adultos más complejos. Este capítulo aborda las consideraciones a largo plazo para adolescentes y adultos jóvenes (AYA) que se han sometido a reconstrucción por senos urogenitales (UG), anomalías cloacales, extrofia (incluida la extrofia cloacal y el epispadias) e hipospadias proximal, con miras a sus resultados quirúrgicos reconstructivos más adelante en la vida. Se analizan las controversias respecto al momento de la reconstrucción.

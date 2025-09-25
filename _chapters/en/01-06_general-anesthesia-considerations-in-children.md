@@ -4,7 +4,7 @@ chapter: 06
 sort-key: 01-06
 title: General Anesthesia Considerations In Children
 description: Chapter 6 describes the considerations when giving general anesthesia to children.
-thumbnail: 01-06_general-anesthesia-considerations-in-children.png
+thumbnail: 01-06_general-anesthesia-considerations-in-children-en.png
 authors:
   -
     author-id: 18
@@ -26,7 +26,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-15 KR
 page_id: 01-06_general-anesthesia-considerations-in-children
 ---
-
 ## Introduction
 
 Pediatric urology procedures cover a wide range of patient types, surgical approaches, and a broad spectrum of anesthetic requirements and approaches. Anesthesia plans may vary to include anesthesia for same-day outpatient surgery procedures in healthy patients with an isolated urologic concern or they may be more involved and complex.

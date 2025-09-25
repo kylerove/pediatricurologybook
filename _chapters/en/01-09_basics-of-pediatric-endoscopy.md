@@ -4,7 +4,7 @@ chapter: 09
 sort-key: 01-09
 title: Basics of Pediatric Endoscopy
 description: Chapter 9 details the basics of pediatric endoscopy.
-thumbnail: 01-09_basics-of-pediatric-endoscopy.png
+thumbnail: 01-09_basics-of-pediatric-endoscopy-en.png
 authors:
   -
     author-id: 23
@@ -24,7 +24,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-16 KR
 page_id: 01-09_basics-of-pediatric-endoscopy
 ---
-
 ## Introduction
 
 The advent of endoscopic instrumentation has revolutionized the field of urology, improving both diagnostic and therapeutic potential for urologic disorders. Over the past several decades, technologic advancements have allowed miniaturization of adult urologic instruments for use in the pediatric genitourinary tract. Cystourethroscopy, ureteroscopy and nephroscopy are indispensable instruments for the pediatric urologist to diagnose and treat conditions from vesicoureteral reflux, nephrolithiasis and posterior urethral valves to congenital anomalies and genitourinary trauma. Previously open surgical procedures have been transformed into endoscopic procedures that are less invasive and allow faster recovery of our patients.

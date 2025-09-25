@@ -4,7 +4,7 @@ chapter: 60
 sort-key: 11-60
 title: Tissue Engineering—Current Status and Future
 description: Chapter 60 summaries the current state and future prospects for tissue engineering as it applies to pediatric urology.
-thumbnail: 11-60_tissue-engineering-current-status-and-future.png
+thumbnail: 11-60_tissue-engineering-current-status-and-future-en.png
 authors:
   -
     author-id: 114
@@ -24,7 +24,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-14 KR
 page_id: 11-60_tissue-engineering-current-status-and-future
 ---
-
 ## Introduction
 
 Tissue engineering is the science of transplanting cells or directing regrowth of healthy cells in order to create tissues or organs that mimic the native form and function to treat a myriad of diseases.{% cite berthiaume2011a --file 11-60 %} Tissue engineering in the field of pediatric urology has focused primarily on regenerating bladder and urethral tissue for replacement or augmentation.{% cite schaefer2018a casarin2022a greenwell2001a --file 11-60 %} The current use of intestine for bladder replacement and augmentation pose significant risks and complications, including intestinal obstruction, metabolic derangements, stone formation, mucus production, urinary incontinence, and recurrent infections.{% cite casarin2022a greenwell2001a --file 11-60 %} The use of mucosal or skin grafts for urethral replacement and augmentation pose risks such as strictures, fistulas, graft failure, graft contracture, donor site morbidity, and recurrence of chordee.{% cite abbas2017a abosena2020a --file 11-60 %} Tissue engineering holds promise in the effort to provide durable alternatives for children.

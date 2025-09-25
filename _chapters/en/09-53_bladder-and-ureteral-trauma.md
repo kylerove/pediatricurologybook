@@ -4,7 +4,7 @@ chapter: 53
 sort-key: 09-53
 title: Bladder and Ureteral Trauma
 description: Chapter 53 summarizes a pediatric urology approach to bladder and ureteral trauma.
-thumbnail: 09-53_bladder-and-ureteral-trauma.png
+thumbnail: 09-53_bladder-and-ureteral-trauma-en.png
 authors:
   -
     author-id: 105
@@ -28,7 +28,6 @@ v1-permalinks:
 review-formatting-complete: 2022-09-26 KR
 page_id: 09-53_bladder-and-ureteral-trauma
 ---
-
 ## Bladder Trauma
 
 ### Epidemiology

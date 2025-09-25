@@ -4,7 +4,7 @@ chapter: 12
 sort-key: 01-12
 title: Congenital Anomalies of the Kidney and Urinary Tract
 description: Chapter 12 goes into details on congenital anomalies of the kidney and urinary tract (CAKUT).
-thumbnail: 01-12_congenital-anomalies-of-the-kidney-and-urinary-tract.png
+thumbnail: 01-12_congenital-anomalies-of-the-kidney-and-urinary-tract-en.png
 authors:
   -
     author-id: 25
@@ -24,7 +24,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-16 KR
 page_id: 01-12_congenital-anomalies-of-the-kidney-and-urinary-tract
 ---
-
 ## Introduction
 
 Congenital anomalies of the kidney and urinary tract (CAKUT) are a group of structural abnormalities that affect the kidneys and urinary tract. It is estimated that there are approximately 4 to 60 cases per 10,000 births in the overall population. A CAKUT diagnosis is typically made during a routine prenatal ultrasound examination or postnatally in a newborn with associated clinical signs and symptoms.{% cite murugapoopathy2020a --file 01-12 %} The prevalence of CAKUT in preterm infants was 2% in recent large, reported cohort with 409704 infants.{% cite hays2022a --file 01-12 %}

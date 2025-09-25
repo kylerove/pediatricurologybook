@@ -4,7 +4,7 @@ chapter: 31
 sort-key: 05-31
 title: Distal Hypospadias
 description: Chapter 31 discusses distal hypospadias, its origins, diagnosis, and treatment options.
-thumbnail: 05-31_distal-hypospadias.png
+thumbnail: 05-31_distal-hypospadias-en.png
 authors:
   -
     author-id: 64
@@ -30,7 +30,6 @@ v1-permalinks:
 review-formatting-complete: 2023-01-14 KR
 page_id: 05-31_distal-hypospadias
 ---
-
 ## Introduction
 
 In the ancient Greek literature, Aristotle was the first to describe the urinary dysfunction resulting from a penile malformation.{% cite laios2012a --file 05-31 %} The Greek physician Galen is credited for coining the term *hypospadias* in the 100s A.D.{% cite laios2012a --file 05-31 %} As its early describers, the etymology of the term *hypospadias* is Greek, deriving from the roots *hypo* (under) and *spadon* (rent, fissure).

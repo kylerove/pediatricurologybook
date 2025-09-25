@@ -4,7 +4,7 @@ chapter: 51
 sort-key: 09-51
 title: Desarrollos futuros en el manejo de cálculos
 description: El Capítulo 51 profundiza en la tecnología más reciente y avanzada para diagnosticar, prevenir y tratar la urolitiasis.
-thumbnail: 09-51_future-developments-in-stone-management.md-es.png
+thumbnail: 09-51_future-developments-in-stone-management-es.png
 authors:
   -
     author-id: 38
@@ -28,7 +28,6 @@ v1-permalinks:
 review-formatting-complete: 2025-09-14 KR
 page_id: 09-51_future-developments-in-stone-management
 ---
-
 ## Introducción
 
 En las dos últimas décadas se ha observado un aumento drástico de la incidencia de cálculos renales en pediatría, y los adolescentes representan el grupo etario de más rápido crecimiento a lo largo del espectro de edades afectadas por esta enfermedad.{% cite tasian2016a --file 09-51 %} Dado que los niños y los adultos jóvenes enfrentan desafíos únicos en términos de prestación de atención, riesgos del tratamiento y procesos patológicos subyacentes, los avances en la enfermedad por cálculos renales en cuanto a la miniaturización del equipamiento, la reducción de la exposición a radiación ionizante y la mejora de la atención de pacientes con predisposición genética a la litiasis urinaria pueden beneficiar de manera preferente a los pacientes pediátricos. Este capítulo revisará los avances no solo en el equipamiento quirúrgico, sino también en el diagnóstico, la terapéutica y la prestación de atención.

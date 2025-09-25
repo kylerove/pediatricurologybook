@@ -2,7 +2,7 @@
 layout: contributors
 title: Colaboradores
 description: Lista de todos los contribuyentes mundiales al Libro de Urología Pediátrica.
-thumbnail: contributors.png
+thumbnail: contributors-es.png
 permalink: /contributors/
 lang: es
 breadcrumbs:
@@ -14,7 +14,6 @@ breadcrumbs:
     permalink: /contributors/
 toc: true
 ---
-
 # Colaboradores
 
 ## Representación Geográfica

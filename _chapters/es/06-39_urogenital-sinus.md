@@ -4,7 +4,7 @@ chapter: 39
 sort-key: 06-39
 title: Seno urogenital
 description: El Capítulo 39 se adentra en el seno urogenital, donde la vagina y la uretra se unen en un canal común.
-thumbnail: 06-39_urogenital-sinus.md-es.png
+thumbnail: 06-39_urogenital-sinus-es.png
 authors:
   -
     author-id: 146
@@ -24,7 +24,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2025-09-14 KR
 page_id: 06-39_urogenital-sinus
 ---
-
 ## Introducción
 
 El seno urogenital aislado es una anomalía congénita poco frecuente del sistema urogenital femenino en la que la uretra y la vagina no llegan a separarse durante el desarrollo, formando un canal común. Las anomalías del seno urogenital se encuentran en cuatro escenarios clínicos diferentes:{% cite partin2021a --file 06-39 %}

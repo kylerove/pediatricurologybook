@@ -4,7 +4,7 @@ chapter: 42
 sort-key: 08-42
 title: Kidney and Adrenal Malignacies
 description: Chapter 42 summarizes pediatric malignancies in the kidney and adrenal gland.
-thumbnail: 08-42_kidney-and-adrenal-malignacies.png
+thumbnail: 08-42_kidney-and-adrenal-malignacies-en.png
 authors:
   -
     author-id: 89
@@ -33,7 +33,6 @@ v1-permalinks:
 review-formatting-complete: KR 2022-08-18
 page_id: 08-42_kidney-and-adrenal-malignacies
 ---
-
 ## Tumors of the Adrenal Gland: Pheochromocytoma and Paraganglioma
 
 ### Introduction

@@ -2,7 +2,7 @@
 layout: book
 title: Table des matières
 description: Liste des 68 chapitres du livre d'urologie pédiatrique.
-thumbnail: table-of-contents-fr.png
+thumbnail: book-fr.png
 permalink: /book/
 lang: fr
 breadcrumbs:
@@ -14,7 +14,6 @@ breadcrumbs:
     permalink: /book/
 toc: false
 ---
-
 <div id="toc" markdown="1">
 
 {% for i in (0..11) %}

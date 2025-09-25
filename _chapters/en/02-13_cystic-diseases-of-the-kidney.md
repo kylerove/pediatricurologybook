@@ -4,7 +4,7 @@ chapter: 13
 sort-key: 02-13
 title: Cystic Diseases of the Kidney
 description: Chapter 13 discusses cystic diseases of the kidney and implications.
-thumbnail: 02-13_cystic-diseases-of-the-kidney.png
+thumbnail: 02-13_cystic-diseases-of-the-kidney-en.png
 authors:
   -
     author-id: 29
@@ -33,7 +33,6 @@ v1-permalinks:
 review-formatting-complete: KR 2022-09-03
 page_id: 02-13_cystic-diseases-of-the-kidney
 ---
-
 ## Introduction
 
 Renal cystic diseases make up a broad category of sporadic and genetic, congenital or acquired renal conditions that may involve the presence of a single cyst to many cysts of one or both kidneys (see heritable classifications in [Table 1](#table-1){:.table-link} below).{% cite partin2021a --file 02-13 %} Based on a 1987 Committee on Classification, Nomenclature, and Terminology, classification of renal cystic disease is primarily determined by genetic and nongenetic disease.{% cite glassberg1987a --file 02-13 %} Renal cystic diseases may largely be considered rare conditions, however they may be associated with serious consequences, such as chronic kidney disease (CKD), kidney failure, or hepatic disease. Despite their rarity, autosomal dominant polycystic kidney disease (ADPKD) is one of the most common inherited human conditions. The possibility of serious complications from renal cystic diseases in the pediatric population, especially CKD, make early diagnosis and effective treatment modalities of certain importance.

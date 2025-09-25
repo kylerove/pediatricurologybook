@@ -4,7 +4,7 @@ chapter: 37
 sort-key: 06-37
 title: Female Epispadias
 description: Chapter 37 delves into female epispadias, its classification, diagnosis, and treatment.
-thumbnail: 06-37_female-epispadias.png
+thumbnail: 06-37_female-epispadias-en.png
 authors:
   -
     author-id: 80
@@ -28,7 +28,6 @@ v1-permalinks:
 review-formatting-complete: 2023-01-16 KR
 page_id: 06-37_female-epispadias
 ---
-
 ## Introduction
 
 Bladder exstrophy (BE) is a devastating congenital abnormality of the urinary tract in which infants are born with the urinary bladder extruded through their abdominal wall, a urethra that is open dorsally, and significant secondary abnormalities of the genitalia. It is widely regarded as the most surgically challenging and complex congenital disorder of the urinary tract.{% cite weiss2020a --file 06-37 %} BE varies in degree of severity and exists on a continuum described as the bladder exstrophy-epispadias complex (BEEC).{% cite ludwig2005a --file 06-37 %} The incidence of the BEEC is \~1 in 10,000.{% cite ludwig2005a --file 06-37 %}

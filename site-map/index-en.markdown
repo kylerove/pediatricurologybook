@@ -2,7 +2,7 @@
 layout: site-map
 title: Site Map
 description: Site map listing for Pediatric Urology Book.
-thumbnail: site-map.png
+thumbnail: site-map-en.png
 permalink: /site-map/
 lang: en
 breadcrumbs:
@@ -14,7 +14,6 @@ breadcrumbs:
     permalink: /site-map/
 toc: false
 ---
-
 # Site Map
 
 <div class="site-map" markdown="1">

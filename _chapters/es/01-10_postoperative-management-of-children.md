@@ -4,7 +4,7 @@ chapter: 10
 sort-key: 01-10
 title: Manejo posoperatorio de niños
 description: El Capítulo 10 profundiza en cómo cuidamos a los pacientes pediátricos después de la cirugía.
-thumbnail: 01-10_postoperative-management-of-children.md-es.png
+thumbnail: 01-10_postoperative-management-of-children-es.png
 authors:
   -
     author-id: 4
@@ -22,7 +22,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2025-09-14 KR
 page_id: 01-10_postoperative-management-of-children
 ---
-
 ## Introducción
 
 La atención posoperatoria pediátrica es un aspecto crítico de cualquier procedimiento quirúrgico y desempeña un papel significativo en la recuperación del niño. El manejo posoperatorio del paciente pediátrico es esencial para prevenir complicaciones y garantizar una curación óptima. Este capítulo abordará el manejo posoperatorio del paciente pediátrico, incluyendo los líquidos intravenosos, el equilibrio electrolítico, la NPT y el manejo del dolor.

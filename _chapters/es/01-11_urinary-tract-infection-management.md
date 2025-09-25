@@ -4,7 +4,7 @@ chapter: 11
 sort-key: 01-11
 title: Manejo de la infección del tracto urinario
 description: El Capítulo 11 profundiza en las infecciones del tracto urinario en pediatría, incluyendo cómo se originan, su diagnóstico y su manejo.
-thumbnail: 01-11_urinary-tract-infection-management.md-es.png
+thumbnail: 01-11_urinary-tract-infection-management-es.png
 authors:
   -
     author-id: 144
@@ -22,7 +22,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2025-09-14 KR
 page_id: 01-11_urinary-tract-infection-management
 ---
-
 ## Introducción
 
 Las infecciones del tracto urinario son un problema frecuente en los niños y constituyen una de las infecciones de origen bacteriano más habituales en los menores de 2 años de edad. La infección del tracto urinario (ITU) se define como la colonización del tracto urinario, desde la vejiga hasta el parénquima renal, por microorganismos patógenos, con frecuencia bacterias, asociada a leucocituria y síntomas variables, como veremos a continuación.

@@ -4,7 +4,7 @@ chapter: 16
 sort-key: 03-16
 title: Vesicoureteral Reflux
 description: Chapter 16 reviews vesicoureteral reflux.
-thumbnail: 03-16_vesicoureteral-reflux.png
+thumbnail: 03-16_vesicoureteral-reflux-en.png
 authors:
   -
     author-id: 32
@@ -28,7 +28,6 @@ v1-permalinks:
 review-formatting-complete: 2023-01-14 KR
 page_id: 03-16_vesicoureteral-reflux
 ---
-
 ## Introduction
 
 Vesicoureteral reflux (VUR) is the retrograde flow of urine from the bladder into the ureters and sometimes kidneys. VUR is a risk factor for recurrent pyelonephritis, renal scarring, renal insufficiency and hypertension and is cited as a cause of end-stage renal disease in children.{% cite mathews2009a kaefer2000a smellie1994a garin2006a --file 03-16 %} Management of reflux is primarily aimed at reducing the development of these long-term adverse effects through prevention of pyelonephritis.

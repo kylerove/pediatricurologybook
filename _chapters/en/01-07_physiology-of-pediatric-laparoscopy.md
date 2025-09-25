@@ -4,7 +4,7 @@ chapter: 07
 sort-key: 01-07
 title: Physiology of Pediatric Laparoscopy
 description: Chapter 07 delves into how pediatric laparoscopy affects the physiology of the pediatric surgical patient.
-thumbnail: 01-07_physiology-of-pediatric-laparoscopy.png
+thumbnail: 01-07_physiology-of-pediatric-laparoscopy-en.png
 authors:
   -
     author-id: 138
@@ -28,7 +28,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-08-23 KR
 page_id: 01-07_physiology-of-pediatric-laparoscopy
 ---
-
 ## Background
 
 Over the last two decades, the use of laparoscopic and robotic surgical techniques has been widely adopted into urology and pediatric urology. Advantages of laparoscopic surgical approaches include increased magnification, better cosmesis, decreased post-operative pain scores and overall shorter hospital stays compared to open surgical approaches.{% cite andolfi2019a --file 01-07 %} Since the first adoption of laparoscopy in pediatric urology in 1976 by Crotesti _et al_ for the evaluation of undescended testes, laparoscopic technique has greatly advanced the ability to perform complex surgical procedures.{% cite varda2014a --file 01-07 %}

@@ -4,7 +4,7 @@ chapter: 33
 sort-key: 05-33
 title: Reoperative Hypospadias
 description: Chapter 33 dives into the management of patients who have complications after hypospadias repair.
-thumbnail: 05-33_reoperative-hypospadias.png
+thumbnail: 05-33_reoperative-hypospadias-en.png
 authors:
   -
     author-id: 69
@@ -30,7 +30,6 @@ v1-permalinks:
 review-formatting-complete: KR 2022-08-17
 page_id: 05-33_reoperative-hypospadias
 ---
-
 ## Introduction
 
 Secondary hypospadias is a term reserved for individuals with persistent anatomical and functional complications following multiple corrective hypospadias repairs. These include stricture formation, urethrocutaneous fistula, glans dehiscence, urethral dehiscence, persistent chordee and glans deformity. Hypospadias is defined by three main characteristics: a ventrally sited meatus, varying degree of chordee, and a \'hooded' appearance of the foreskin due to the excess dorsal preputial skin, with each component exhibiting a broad spectrum of severity. Hence, in patients who present for a redo surgery following a primary repair, it is vital to recognize the combination of individual components which has failed to maximize the outcome in a redo surgery. There is also a higher rate of recurrent fistulation and strictures due to reduced tissue vascularity.

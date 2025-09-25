@@ -4,7 +4,7 @@ chapter: 68
 sort-key: 11-68
 title: Uso de resultados informados por los pacientes
 description: El capítulo 68 profundiza en los resultados informados por los pacientes, que son cuestionarios dirigidos a los pacientes y sus familias que pueden utilizarse para evaluar objetivamente dominios desde la perspectiva del paciente.
-thumbnail: 11-68_use-of-patient-reported-outcomes.md-es.png
+thumbnail: 11-68_use-of-patient-reported-outcomes-es.png
 authors:
   -
     author-id: 134
@@ -24,7 +24,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2025-09-14 KR
 page_id: 11-68_use-of-patient-reported-outcomes
 ---
-
 ## Introducción
 
 En la práctica médica, los autoinformes de los pacientes sobre su experiencia relacionada con una enfermedad específica o con un tratamiento para una determinada afección pueden diferir significativamente de los de los cuidadores o los profesionales sanitarios. Los resultados informados por el paciente son un mecanismo formal mediante el cual los profesionales pueden recopilar datos sobre la experiencia del paciente y obtener información valiosa sobre formas de mejorar la experiencia del paciente y el enfoque de la atención. Estos datos permiten que pacientes y profesionales se unan en un proceso de toma de decisiones compartida para mejorar la calidad de la atención, los enfoques terapéuticos y las intervenciones.

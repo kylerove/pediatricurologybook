@@ -2,7 +2,7 @@
 layout: editors
 title: Editors
 description: Editors, both current, liaison, and emeritus, for Pediatric Urology Book.
-thumbnail: editors.png
+thumbnail: editors-en.png
 permalink: /editors/
 lang: en
 breadcrumbs:
@@ -14,7 +14,6 @@ breadcrumbs:
     permalink: /editors/
 toc: false
 ---
-
 # Editors
 
 Below you will find the editors responsible for the content of this book---including it's special digital features---made possible because this book was created for the internet and exists here alone.

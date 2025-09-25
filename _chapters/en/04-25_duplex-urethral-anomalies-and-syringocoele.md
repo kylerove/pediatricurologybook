@@ -4,7 +4,7 @@ chapter: 25
 sort-key: 04-25
 title: Duplex Urethral Anomalies and Syringocoele
 description: Chapter 25 summarizes duplex urethral anomalies and syringocoele.
-thumbnail: 04-25_duplex-urethral-anomalies-and-syringocoele.png
+thumbnail: 04-25_duplex-urethral-anomalies-and-syringocoele-en.png
 authors:
   -
     author-id: 51
@@ -28,7 +28,6 @@ v1-permalinks:
 review-formatting-complete: 2023-01-14 KR
 page_id: 04-25_duplex-urethral-anomalies-and-syringocoele
 ---
-
 ## Introduction
 
 Urethral anomalies are congenital disorders that are not uncommon, with some rare variations. This chapter will focus on embryology, epidemiology, diagnosis, evaluation, repair, follow-up, and complications of some anterior urethral anomalies, including anterior urethral valve (AUV), syringocele, urethral duplication and megalourethra. Some even believe that these anomalies, except duplication, are the same and a spectrum.

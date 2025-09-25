@@ -2,7 +2,7 @@
 layout: site-map
 title: 网站地图
 description: 小儿泌尿外科书籍的站点地图列表。
-thumbnail: site-map.png
+thumbnail: site-map-zh.png
 permalink: /site-map/
 lang: zh
 breadcrumbs:
@@ -14,7 +14,6 @@ breadcrumbs:
     permalink: /site-map/
 toc: false
 ---
-
 # 网站地图
 
 <div class="site-map" markdown="1">

@@ -2,7 +2,7 @@
 layout: about-us
 title: About Us
 description: All about Pediatric Urology Book, its history, evolution, and ongoing mission.
-thumbnail: about-us.png
+thumbnail: about-us-en.png
 permalink: /about-us/
 lang: en
 breadcrumbs:
@@ -14,7 +14,6 @@ breadcrumbs:
     permalink: /about-us/
 toc: false
 ---
-
 # About **Us**
 
 ## Our **History**

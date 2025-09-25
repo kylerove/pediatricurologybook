@@ -4,7 +4,7 @@ chapter: 02
 sort-key: 01-02
 title: Imaging of the Urinary Tract
 description: Chapter 2 details imaging of the pediatric urinary tract.
-thumbnail: 01-02_imaging-of-the-urinary-tract.png
+thumbnail: 01-02_imaging-of-the-urinary-tract-en.png
 authors:
   -
     author-id: 12
@@ -26,7 +26,6 @@ v1-permalinks:
 review-formatting-complete: 2023-01-14 KR
 page_id: 01-02_imaging-of-the-urinary-tract
 ---
-
 ## Introduction
 
 Diagnostic imaging is a powerful tool for understanding the natural history of many conditions affecting the genitourinary (GU) tract, from both an anatomic and a functional perspective. With optimal use, diagnostic imaging improves patient outcomes while minimizing patient risk. Multiple modalities are available to image the human body in detail including ultrasound (US), magnetic resonance imaging (MRI), computed tomography (CT), nuclear scintigraphy, and fluoroscopy/ radiography. Technological advances in these modalities are ongoing.

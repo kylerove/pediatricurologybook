@@ -4,7 +4,7 @@ chapter: 23
 sort-key: 03-23
 title: Actualizaciones en el manejo de la extrofia
 description: El capítulo 23 ofrece una mirada a lo más reciente en el manejo de la extrofia.
-thumbnail: 03-23_updates-in-exstrophy-management.md-es.png
+thumbnail: 03-23_updates-in-exstrophy-management-es.png
 authors:
   -
     author-id: 141
@@ -24,7 +24,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2025-09-14 KR
 page_id: 03-23_updates-in-exstrophy-management
 ---
-
 ## Introducción
 
 El complejo extrofia-epispadias (EEC) comprende un amplio espectro de anomalías congénitas, todas originadas a partir del mismo defecto embriológico, que va desde el epispadias del glande simple hasta la extrofia cloacal.{% cite gearhart2001a --file 03-23 %}

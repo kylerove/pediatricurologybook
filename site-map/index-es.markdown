@@ -2,7 +2,7 @@
 layout: site-map
 title: Mapa del Sitio
 description: Listado del mapa del sitio para el Libro de Urología Pediátrica.
-thumbnail: site-map.png
+thumbnail: site-map-es.png
 permalink: /site-map/
 lang: es
 breadcrumbs:
@@ -14,7 +14,6 @@ breadcrumbs:
     permalink: /site-map/
 toc: false
 ---
-
 # Mapa del Sitio
 
 <div class="site-map" markdown="1">

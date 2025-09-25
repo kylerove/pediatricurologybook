@@ -4,7 +4,7 @@ chapter: 65
 sort-key: 11-65
 title: Ethical Dilemmas and Considerations
 description: Chapter 65 addresses common concepts within medical ethics and dilemmas and considerations for the pediatric urologist.
-thumbnail: 11-65_ethical-dilemmas-and-considerations.png
+thumbnail: 11-65_ethical-dilemmas-and-considerations-en.png
 authors:
   -
     author-id: 118
@@ -24,7 +24,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 
 page_id: 11-65_ethical-dilemmas-and-considerations
 ---
-
 ## Introduction
 
 All of pediatric urological care involves the application of ethical principles on a daily basis. Occasionally, those principles are spotlighted as we push therapeutic envelopes further, societal thinking evolves or medical advances challenge legal (or even political) thinking. Gender affirming therapies represent such an arena as care for the transgender population has developed rapidly and unevenly throughout our country. Similarly, care for neonates and infants with disorders of sexual differentiation (DSD) has become a focus for social and political activism, potentially influencing treatment. Both areas have assumed ethical importance for the principles upheld.

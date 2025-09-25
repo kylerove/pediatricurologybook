@@ -4,7 +4,7 @@ chapter: 63
 sort-key: 11-63
 title: Quality Improvement in Pediatric Urology
 description: Chapter 63 summaries current hot topics around quality improvement in pediatric urology.
-thumbnail: 11-63_quality-improvement-in-pediatric-urology.png
+thumbnail: 11-63_quality-improvement-in-pediatric-urology-en.png
 authors:
   -
     author-id: 117
@@ -22,7 +22,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: KR 2022-09-05
 page_id: 11-63_quality-improvement-in-pediatric-urology
 ---
-
 ## Introduction
 
 In 1999, the Institute of Medicine highlighted the need for self-reflection and improvement in medical practices when it reported that preventable errors resulted in nearly 98,000 annual deaths. This striking revelation emphasized the importance of evaluating patient outcomes and devising strategies to improve medical processes and provide safe, effective, and equitable care.{% cite kohn2000a --file 11-63 %} Over the last few decades, there has been increasing emphasis on quality improvement (QI) and patient safety which has been integrated into medical education and hospital practices. Although initial uptake has been slow, these quality improvement initiatives are becoming more widespread in pediatric urology. This chapter will provide a brief overview of various QI initiatives in pediatric urology and QI methodology. It is important to note the various QI initiatives mentioned below are not comprehensive, and many centers may have QI projects that are not outlined.

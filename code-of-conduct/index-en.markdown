@@ -2,7 +2,7 @@
 layout: code-of-conduct
 title: Code of Conduct
 description: Code of conduct agreed to by all editors and contributors.
-thumbnail: code-of-conduct.png
+thumbnail: code-of-conduct-en.png
 permalink: /code-of-conduct/
 lang: en
 breadcrumbs:
@@ -16,7 +16,6 @@ page-header-lead: "This is not **lip service**."
 page-header-text: "Human decency means treating everyone—regardless of background—with respect. Current times demand that we not only speak out on issues of equality, but ensure our actions match those words. We have codified our values below."
 toc: true
 ---
-
 # Code of **Conduct**
 
 ## Our **Pledge**

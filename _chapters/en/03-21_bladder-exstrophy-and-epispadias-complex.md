@@ -4,7 +4,7 @@ chapter: 21
 sort-key: 03-21
 title: Bladder Exstrophy and Epispadias Complex
 description: Chapter 21 discusses bladder exstrophy and epispadias.
-thumbnail: 03-21_bladder-exstrophy-and-epispadias-complex.png
+thumbnail: 03-21_bladder-exstrophy-and-epispadias-complex-en.png
 authors:
   -
     author-id: 42
@@ -34,7 +34,6 @@ v1-permalinks:
 review-formatting-complete: 2023-01-16 KR
 page_id: 03-21_bladder-exstrophy-and-epispadias-complex
 ---
-
 ## Introduction
 
 Bladder exstrophy is a rare genitourinary malformation that, when simply defined, refers to the eversion of the bladder to the outside of the body ([Figure 1](#figure-1){:.figure-link}). It is a rare genitourinary malformation for which the management still challenges the field of pediatric urology. More completely, the *Exstrophy-Epispadias Complex* comprises many defects that range from isolated male or female epispadias, classic bladder exstrophy, and even cloacal exstrophy.

@@ -4,7 +4,7 @@ chapter: 24
 sort-key: 04-24
 title: Posterior Urethral Valves and Infravesical Obstruction
 description: Chapter 24 delves into posterior urethral valves and other infravesical causes of obstruction.
-thumbnail: 04-24_posterior-urethral-valves-and-infravesical-obstruction.png
+thumbnail: 04-24_posterior-urethral-valves-and-infravesical-obstruction-en.png
 authors:
   -
     author-id: 49
@@ -35,7 +35,6 @@ v1-permalinks:
 review-formatting-complete: 2023-01-14 KR
 page_id: 04-24_posterior-urethral-valves-and-infravesical-obstruction
 ---
-
 ## Introduction
 
 Posterior urethral valves (PUV) remains the most common congenital cause of bladder outflow obstruction in male neonates. It is the leading cause of End stage renal disease (ESRD) in male children.{% cite ansari-a --file 04-24 %} The vast majority of cases nowadays are suspected antenatally and referred to specialist centers after birth. Additionally, there is a low threshold for investigating a male child with a urinary tract infection and therefore timely diagnosis is usually the norm. The spectrum of renal dysfunction and subsequent functional outcomes vary widely in children with this condition. PUV and its consequences, including renal dysplasia, upper tract dilatation, vesico-ureteric reflux, urinary tract infection and bladder dysfunction, accounts for 25--30% of pediatric renal transplantations in the UK (UK Transplant Registry).

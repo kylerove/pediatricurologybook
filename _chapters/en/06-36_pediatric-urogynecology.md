@@ -4,7 +4,7 @@ chapter: 36
 sort-key: 06-36
 title: Pediatric Urogynecology
 description: Chapter 36 discusses common pediatric urogynecologic conditions and their treatment.
-thumbnail: 06-36_pediatric-urogynecology.png
+thumbnail: 06-36_pediatric-urogynecology-en.png
 authors:
   -
     author-id: 78
@@ -24,7 +24,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-16 KR
 page_id: 06-36_pediatric-urogynecology
 ---
-
 ## Introduction
 
 Urogynecologic complaints are commonly encountered in any pediatrician's practice. Investigation of those complaints may uncover a variety of problems, ranging from benign to pathologic and from behavioral to congenital. Often, genital and urologic complaints in girls are inseparable, and some gynecologic concerns warrant evaluation of the urologic tract as well. In this chapter, we cover some of the more common urogynecologic problems that a clinician may encounter in his or her practice.

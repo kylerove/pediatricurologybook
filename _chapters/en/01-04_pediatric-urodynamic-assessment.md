@@ -4,7 +4,7 @@ chapter: 04
 sort-key: 01-04
 title: Pediatric Urodynamic Assessment
 description: Chapter 4 describes pediatric urodynamic assessments.
-thumbnail: 01-04_pediatric-urodynamic-assessment.png
+thumbnail: 01-04_pediatric-urodynamic-assessment-en.png
 authors:
   -
     author-id: 14
@@ -26,7 +26,6 @@ v1-permalinks:
 review-formatting-complete: 2023-01-15 KR
 page_id: 01-04_pediatric-urodynamic-assessment
 ---
-
 ## Introduction
 
 The urodynamic assessment of the lower urinary tract (LUT) function comprises the use of appropriate methods of evaluation during the bladder filling and voiding phases. The correct instrumentation of the studies provides the pathophysiological understanding of urologic entities that may affect children and adolescents with the aim of optimizing their therapeutic management.

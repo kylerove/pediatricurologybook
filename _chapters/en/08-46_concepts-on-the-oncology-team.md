@@ -4,7 +4,7 @@ chapter: 46
 sort-key: 08-46
 title: Concepts on the Oncology Team
 description: Chapter 46 discusses the important topic of multidisciplinary care around pediatric and adolescent, young adult oncology.
-thumbnail: 08-46_concepts-on-the-oncology-team.png
+thumbnail: 08-46_concepts-on-the-oncology-team-en.png
 authors:
   -
     author-id: 136
@@ -22,7 +22,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-02-21 KR
 page_id: 08-46_concepts-on-the-oncology-team
 ---
-
 ## Introduction
 
 Pediatric cancer is defined as a rare disease, representing less than 1 percent of all cancers diagnosed in the United States. Nevertheless, is a leading cause of death for children and adolescents.{% cite steliarova-foucher2017a --file 08-46 %} Over the past four decades, there has been a continuous, increase in the incidence of cancers occurring under the age of 15.{% cite steliarova-foucher1991a --file 08-46 %}

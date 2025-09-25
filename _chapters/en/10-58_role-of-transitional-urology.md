@@ -4,7 +4,7 @@ chapter: 58
 sort-key: 10-58
 title: Role of Transitional Urology
 description: Chapter 58 provides insight into the newest subspecialty within urology, transitional urology, and how we can systematically approach continuing care for patients with congenital urologic anomalies.
-thumbnail: 10-58_role-of-transitional-urology.png
+thumbnail: 10-58_role-of-transitional-urology-en.png
 authors:
   -
     author-id: 112
@@ -24,7 +24,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-14 KR
 page_id: 10-58_role-of-transitional-urology
 ---
-
 ## Introduction
 
 The transitional urologist is charged with the care of pediatric urology patients as they progress to adult care. While the disease processes that compose transitional urology ([Table 1](#table-1){:.table-link}) are themselves rare, they collectively amount to a significant burden. An estimated 3,573 babies were born in the United States in 2012 with spina bifida (2,765), posterior urethral valves (PUV, 493), bladder exstrophy (118), or cloacal anomalies (197).{% cite martinez2016a --file 10-58 %} At the time of this writing, these patients are approaching adolescence and recent dramatic advances in the diagnosis and care of congenital urogenital anomalies and spinal dysraphism means that they will do so with unprecedented success. In the coming years, they will require transitional urologic care.

@@ -2,7 +2,7 @@
 layout: book
 title: Tabla de Contenido
 description: Lista de los 68 capítulos del Libro de Urología Pediátrica.
-thumbnail: table-of-contents.png
+thumbnail: book-es.png
 permalink: /book/
 lang: es
 breadcrumbs:
@@ -14,7 +14,6 @@ breadcrumbs:
     permalink: /book/
 toc: false
 ---
-
 <div id="toc" markdown="1">
 
 {% for i in (0..11) %}

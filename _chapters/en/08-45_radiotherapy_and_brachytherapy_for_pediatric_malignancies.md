@@ -17,6 +17,6 @@ toc: true
 js: /assets/js/pages/chapter.js
 review-formatting-complete: 
 page_id: 08-45_radiotherapy_and_brachytherapy_for_pediatric_malignancies
+thumbnail: 08-45_radiotherapy_and_brachytherapy_for_pediatric_malignancies-en.png
 ---
-
 ## Coming soon!

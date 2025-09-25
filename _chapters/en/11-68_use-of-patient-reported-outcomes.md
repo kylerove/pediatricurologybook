@@ -4,7 +4,7 @@ chapter: 68
 sort-key: 11-68
 title: Use of Patient-Reported Outcomes
 description: Chapter 68 delves into patient-reported outcomes, which are patient- and family-facing questionnaires that can be used to objectively assess domains from patient perspective.
-thumbnail: 11-68_use-of-patient-reported-outcomes.png
+thumbnail: 11-68_use-of-patient-reported-outcomes-en.png
 authors:
   -
     author-id: 134
@@ -24,7 +24,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-02-21 KR
 page_id: 11-68_use-of-patient-reported-outcomes
 ---
-
 ## Introduction
 
 In medical practice, patient-self reports of their experience related to a specific disease or a treatment for a given condition may significantly differ from those of caregivers or practitioners. Patient-reported outcomes are a formal mechanism by which practitioners are able to collect data about a patient's experience and gain valuable insight into ways to improve patient experience and the approach to care. These data allow patients and providers to come together in a shared decision-making process to improve the quality of care, treatment approaches, and interventions.

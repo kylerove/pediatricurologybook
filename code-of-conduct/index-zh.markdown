@@ -2,7 +2,7 @@
 layout: code-of-conduct
 title: 行为守则
 description: 所有编辑和投稿人都同意的行为准则。
-thumbnail: code-of-conduct.png
+thumbnail: code-of-conduct-zh.png
 permalink: /code-of-conduct/
 lang: zh
 breadcrumbs:
@@ -16,7 +16,6 @@ page-header-lead: "这不是口头上的服务。"
 page-header-text: "为人正派意味着尊重每一个人——无论其背景如何。 当今时代要求我们不仅要在平等问题上大声疾呼，还要确保我们的行动与这些言论相符。 我们在下面编纂了我们的价值观。"
 toc: true
 ---
-
 # 贡献者公约
 
 ## 我们的承诺

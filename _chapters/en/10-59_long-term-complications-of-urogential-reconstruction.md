@@ -4,7 +4,7 @@ chapter: 59
 sort-key: 10-59
 title: Long Term Complications of Urogential Reconstruction
 description: Chapter 59 dives into what we know (and don't know) about the long-term outcomes of patients who have undergone urogenital reconstruction.
-thumbnail: 10-59_long-term-complications-of-urogential-reconstruction.png
+thumbnail: 10-59_long-term-complications-of-urogential-reconstruction-en.png
 authors:
   -
     author-id: 115
@@ -24,7 +24,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2024-02-04 KR
 page_id: 10-59_long-term-complications-of-urogential-reconstruction
 ---
-
 ## Introduction
 
 Urogenital reconstruction is a broad description of surgeries that many of the most complex pediatric and adult urology patients have undergone. This chapter addresses the long-term considerations for adolescents and young adults (AYA) who have undergone reconstruction for urogenital (UG) sinuses, cloacal anomalies, exstrophy (including cloacal exstrophy and epispadias), and proximal hypospadias with a view to their reconstructive surgical outcomes later in life. Controversies regarding timing of reconstruction are discussed.

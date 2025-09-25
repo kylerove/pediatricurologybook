@@ -2,7 +2,7 @@
 layout: conflict-of-interest
 title: Conflict of Interest
 description: Conflict of interest disclosures by all editors and contributors.
-thumbnail: conflict-of-interest.png
+thumbnail: conflict-of-interest-en.png
 permalink: /conflict-of-interest/
 js: /assets/js/pages/conflict-of-interest.js
 lang: en
@@ -17,7 +17,6 @@ page-header-lead: "Expertise should remain **transparent** to commercial and fin
 page-header-text: "**Pediatric Urology Book** maintains a policy of universal disclosure of _conflicts of interest_ for all editors and contributors and avows to avoid any mention or endorsment of commercial products or brand names."
 toc: true
 ---
-
 # Conflict of Interest
 
 ## Principles

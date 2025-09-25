@@ -4,7 +4,7 @@ chapter: 47
 sort-key: 09-47
 title: Urolithiasis—Renal Surgical Management
 description: Chapter 47 dives into the surgical management of kidney stones.
-thumbnail: 09-47_urolithiasis-renal-surgical-management.png
+thumbnail: 09-47_urolithiasis-renal-surgical-management-en.png
 authors:
   -
     author-id: 93
@@ -30,7 +30,6 @@ v1-permalinks:
 review-formatting-complete: 2023-01-14 KR
 page_id: 09-47_urolithiasis-renal-surgical-management
 ---
-
 ## Introduction
 
 The overall probability of forming stones differs in various parts of the world and is estimated as 1--5% in Asia, 10--15% in United States and ranges from 1--15% worldwide depending on age, gender, race, and geographic location.{% cite cd-a --file 09-47 %} In the last few decades, there is an increase in the prevalence of kidney stones all over the world. In USA, in adults the prevalence estimate for the period of 2007--2010 was 8.8%. This increase in the stone disease has also been reported among the young people, with girls being more affected by the stone disease as compared to boys.{% cite sas2010a bush2002a matlaga2010a --file 09-47 %} The increase in the incidence of stone disease causes an increase in emergency visits, hospitalisations, surgeries and health care costs. In USA, the health care costs for pediatric urolithiasis amounted to at least 375 million dollars annually.{% cite wang1859a --file 09-47 %} Also, the recurrence rates of stones are around 50 % in children within 3 to 5 years of initial episode of development of stone.{% cite lao2014a tasian2017a tekin2002a --file 09-47 %} However, upto 60% children present with stones which are not amenable to spontaneous passage and surgical treatment remains the mainstay of treatment in such individuals.{% cite tasian2014a --file 09-47 %} However, the surgical treatment has undergone a paradigm shift in the last few decades. There has been a transition from open surgery to ESWL to endourology for pediatric renal stones in last 50 years. Up to 1980s, majority of the renal stones were treated by open surgical methods. However, with the introduction of ESWL and PCNL after 1980s, firstly in the adults, their safety and efficacy were established in the pediatric population too. Currently, with the miniaturization of instruments, endourological management in the form of PCNL and RIRS has vastly improved the access to the pelvicalyceal system of pediatric patients with stones with minimum complications and maximum stone clearance rates.{% cite choi1987a --file 09-47 %}

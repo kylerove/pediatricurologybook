@@ -4,7 +4,7 @@ chapter: 32
 sort-key: 05-32
 title: Proximal Hypospadias
 description: Chapter 32 summarizes proximal hypospadias, the more severe form of hypospadias, its associations and complications of treatment.
-thumbnail: 05-32_proximal-hypospadias.png
+thumbnail: 05-32_proximal-hypospadias-en.png
 authors:
   -
     author-id: 66
@@ -30,7 +30,6 @@ v1-permalinks:
 review-formatting-complete: KR 2022-08-16
 page_id: 05-32_proximal-hypospadias
 ---
-
 ## Introduction
 
 Hypospadias is defined as an opening of the urethral meatus on the ventral aspect of the penile shaft proximal to the tip of the glans penis. As mentioned in the previous chapter, hypospadias is classified according to the location of the urethral meatus as distal, middle, and proximal. The posterior (severe) variety, which accounts for 20% of the cases, extends through the proximal third of the penile shaft to the perineum. It may further be sub-classified as posterior penile (at the base of the shaft), penoscrotal (at the base of the shaft in front of the scrotum), scrotal (on the scrotum or in between the genital swellings) or the most severe variety, the perineal (behind the scrotum and behind the genital swellings, [Figure 1](#figure-1){:.figure-link}).{% cite baskin-a --file 05-32 %} Although the classification of hypospadias, to distal, mid shaft and proximal has been historically based on meatal location preoperatively, the correct classification is best done at the time of surgery, since meatal location may change based on hypoplastic urethral more proximally. The severe hypospadias is often associated with ventral curvature of the penis known as chordee, a "hooded" or incomplete prepuce, and an abortive corpora spongiosum. Hypospadiology, a term coined by John W. Duckett, Jr., is the study of all aspects of this condition and encompasses a continuously evolving and expanding discipline.{% cite kraft2011a --file 05-32 %} The incidence of hypospadias is about 1:200--300 live births in the US.{% cite baskin2001a baskin2018a --file 05-32 %} The recent increase in incidence can be attributed to prematurity, small-for-gestational age infants, low birth weight and maternal age of 35 years or older.{% cite baskin-a --file 05-32 %}

@@ -2,7 +2,7 @@
 layout: about-us
 title: Sobre Nós
 description: Tudo sobre o Livro de Urologia Pediátrica, sua história, evolução e missão contínua.
-thumbnail: about-us.png
+thumbnail: about-us-pt.png
 permalink: /about-us/
 lang: pt
 breadcrumbs:
@@ -14,7 +14,6 @@ breadcrumbs:
     permalink: /about-us/
 toc: false
 ---
-
 # Sobre **Nós**
 
 ## Nossa **História**

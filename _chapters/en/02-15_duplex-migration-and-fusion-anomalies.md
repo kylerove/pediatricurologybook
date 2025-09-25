@@ -4,7 +4,7 @@ chapter: 15
 sort-key: 02-15
 title: Duplex, Migration, and Fusion Anomalies
 description: Chapter 15 introduces concepts of duplex kidney, kidney migration, and kidney fusion anomalies.
-thumbnail: 02-15_duplex-migration-and-fusion-anomalies.png
+thumbnail: 02-15_duplex-migration-and-fusion-anomalies-en.png
 authors:
   -
     author-id: 9
@@ -29,7 +29,6 @@ v1-permalinks:
 review-formatting-complete: 2023-01-14 KR
 page_id: 02-15_duplex-migration-and-fusion-anomalies
 ---
-
 ## Introduction
 
 Duplication, migration, and fusion anomalies of the urinary tract are common and lead to various structural and functional abnormalities. Anatomic sequelae of ureteral duplication include ectopic ureter, ureterocele, and vesicoureteral reflux. These may manifest clinically as urinary tract obstruction, infection, incontinence, and renal dysplasia. Common migration and fusion anomalies include renal ectopia and horseshoe kidney, which are occasionally associated with pathology including renal dysplasia, vesicoureteral reflux, obstruction, and stone disease. Severity varies widely, and treatment ranges from observation to major surgical reconstruction. Treatment, when indicated, is primarily surgical and is aimed at preservation of renal function, minimizing morbidity from urinary tract infection, correction of urinary incontinence, and relief of symptoms associated with urinary tract obstruction.

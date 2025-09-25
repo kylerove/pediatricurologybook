@@ -2,7 +2,7 @@
 layout: conflict-of-interest
 title: 利益冲突
 description: 所有编辑和贡献者的利益冲突披露。
-thumbnail: conflict-of-interest.png
+thumbnail: conflict-of-interest-zh.png
 permalink: /conflict-of-interest/
 js: /assets/js/pages/conflict-of-interest.js
 lang: zh
@@ -17,7 +17,6 @@ page-header-lead: "专业知识应与商业和金融利益保持透明，以避�
 page-header-text: "《儿科泌尿科书》坚持所有编辑和撰稿人普遍披露利益冲突的政策，并发誓避免提及或认可商业产品或品牌名称。"
 toc: true
 ---
-
 # 利益冲突
 
 ## 原则

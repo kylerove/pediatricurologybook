@@ -4,7 +4,7 @@ chapter: 01
 sort-key: 01-01
 title: Embryology of Urinary Tract
 description: Chapter 1 details the embryologic origins of the urinary tract.
-thumbnail: 01-01_embryology-of-urinary-tract.png
+thumbnail: 01-01_embryology-of-urinary-tract-en.png
 authors:
   -
     author-id: 10
@@ -28,7 +28,6 @@ v1-permalinks:
 review-formatting-complete: 2023-01-14 KR
 page_id: 01-01_embryology-of-urinary-tract
 ---
-
 ## Introduction
 
 Despite the functional differences between the urinary tract and the reproductive system, the embryologic origins and development of these systems are integrated with one another. The urinary tract is comprised of the kidneys, ureters, bladder, and urethra. This system functions to excrete waste and maintain fluid and electrolyte balance. The kidneys also produce hormones that regulate blood pressure, erythropoietin production, and vitamin D synthesis. The genital system is composed of gonads, reproductive tracts, and external genitalia. This system synthesizes and receives hormones for growth and development, produces and transports spermatozoa and oocytes, and, in females, sustains and supports fetal development.

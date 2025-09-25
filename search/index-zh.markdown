@@ -2,7 +2,7 @@
 layout: search
 title: 搜索
 description: 小儿泌尿外科书籍的搜索功能。
-thumbnail: search.png
+thumbnail: search-zh.png
 permalink: /search/
 lang: zh
 breadcrumbs:
@@ -14,7 +14,6 @@ breadcrumbs:
     permalink: /search/
 toc: false
 ---
-
 ## 输入几个单词即可查找此网站上的页面。
 
 <iframe src="https://duckduckgo.com/search.html?site=pediatricurologybook.com&prefill=Search PediatricUrologyBook.com" style="overflow:hidden;margin:0;padding:0;width:100%;height:2rem;" frameborder="0"></iframe>

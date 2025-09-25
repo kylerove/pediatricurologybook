@@ -4,7 +4,7 @@ chapter: 64
 sort-key: 11-64
 title: Clinical Informatics
 description: Chapter 64 dives into an increasingly important concept of clinical informatics and how to engage and apply this within pediatric urology.
-thumbnail: 11-64_clinical-informatics.png
+thumbnail: 11-64_clinical-informatics-en.png
 authors:
   -
     author-id: 4
@@ -24,7 +24,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2023-01-29 KR
 page_id: 11-64_clinical-informatics
 ---
-
 ## Introduction
 
 Increasingly, there is broad recognition that clinical expertise and information technology expertise do not always overlap, especially as the separate domains have marched down the road of sub-specialization. Have you ever struggled to convey to the help desk what is not working in the electronic medical record (EMR)? Has an EMR \"upgrade\" ever felt like a clinical workflow \"downgrade?\" This is a gap experienced by most healthcare organizations, and more and more organizations are setting up clinical informatics programs to close that gap.

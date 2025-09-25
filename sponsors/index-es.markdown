@@ -2,7 +2,7 @@
 layout: sponsors
 title: Patrocinadores
 description: Listado de patrocinadores del Libro de Urología Pediátrica.
-thumbnail: sponsors.png
+thumbnail: sponsors-es.png
 permalink: /sponsors/
 lang: es
 breadcrumbs:
@@ -14,7 +14,6 @@ breadcrumbs:
     permalink: /sponsors/
 toc: false
 ---
-
 # Patrocinadores
 
 Este trabajo está patrocinado por subvenciones educativas sin restricciones de [Escuela de Medicina de la Universidad de Yale](https://medicine.yale.edu), [Children's Hospital Colorado](https://www.childrenscolorado.org) y [The University of Medicina de Chicago](https://www.uchicagomedicine.org). [Editores](/editors/) y [colaboradores](/contributors/) tienen autoridad exclusiva sobre el contenido y las decisiones editoriales. Revise la declaración de [conflicto de intereses](/conflict-of-interest/) para obtener más detalles.

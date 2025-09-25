@@ -4,7 +4,7 @@ chapter: 52
 sort-key: 09-52
 title: Renal Trauma
 description: Chapter 52 provides insights into the types of pediatric renal trauma, grading schemes, and management options.
-thumbnail: 09-52_renal-trauma.png
+thumbnail: 09-52_renal-trauma-en.png
 authors:
   -
     author-id: 102
@@ -28,7 +28,6 @@ v1-permalinks:
 review-formatting-complete: 2023-01-14 KR
 page_id: 09-52_renal-trauma
 ---
-
 ## Introduction
 
 Renal injury is considered one of the most common urinary tract injuries encountered in both blunt and penetrating trauma. The majority are blunt injuries, with less than 10% being penetrating. Children have a higher risk of blunt renal injuries than adults due to less supportive perinephric fat, and the thoracic ribs are more pliable, which lets the force of trauma transfer to the solid organs.

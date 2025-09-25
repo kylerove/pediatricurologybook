@@ -4,7 +4,7 @@ chapter: 55
 sort-key: 09-55
 title: Penile and Scrotal Trauma
 description: Chapter 55 discusses pediatric management of penile and scrotal trauma.
-thumbnail: 09-55_penile-and-scrotal-trauma.png
+thumbnail: 09-55_penile-and-scrotal-trauma-en.png
 authors:
   -
     author-id: 108
@@ -26,7 +26,6 @@ v1-permalinks:
 review-formatting-complete: 2023-01-14 KR
 page_id: 09-55_penile-and-scrotal-trauma
 ---
-
 ## Introduction
 
 Trauma refers to injury caused by external force from a variety of mechanisms, including traffic- or transportation-related injuries, falls, assault (e.g., blunt weapon, stabbing, gunshot), explosions, animal bites, etc.{% cite guideline2020a --file 09-55 %} Traumatic injuries are the leading cause of death in the United States for people ages 1--44 years, and a significant cause of morbidity and loss of productive life across all ages.{% cite unknown-a --file 09-55 %} Worldwide, traumatic injuries are the sixth leading cause of death and the fifth leading cause of moderate and severe disability.{% cite unknown2010a --file 09-55 %} The kidneys are the most commonly injured genitourinary organ.

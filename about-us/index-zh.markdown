@@ -2,7 +2,7 @@
 layout: about-us
 title: 关于我们
 description: 关于小儿泌尿外科书籍、它的历史、演变和正在进行的任务。
-thumbnail: about-us.png
+thumbnail: about-us-zh.png
 permalink: /about-us/
 lang: zh
 breadcrumbs:
@@ -14,7 +14,6 @@ breadcrumbs:
     permalink: /about-us/
 toc: false
 ---
-
 # 关于**我们**
 
 ## 我们**的历史**

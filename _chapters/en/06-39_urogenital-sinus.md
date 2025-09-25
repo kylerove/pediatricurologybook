@@ -4,7 +4,7 @@ chapter: 39
 sort-key: 06-39
 title: Urogenital Sinus
 description: Chapter 39 dives into urogenital sinus, where the vagina and urethra join at a common channel.
-thumbnail: 06-39_urogenital-sinus.png
+thumbnail: 06-39_urogenital-sinus-en.png
 authors:
   -
     author-id: 146
@@ -24,7 +24,6 @@ js: /assets/js/pages/chapter.js
 review-formatting-complete: 2024-04-05 KR
 page_id: 06-39_urogenital-sinus
 ---
-
 ## Introduction
 
 Isolated urogenital sinus is a rare congenital abnormality of the female urogenital system where the urethra and vagina fail to separate during development, forming a common channel. Urogenital sinus anomalies are found in four different clinical scenarios:{% cite partin2021a --file 06-39 %}
