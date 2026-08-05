@@ -194,6 +194,11 @@ for outer_language in es fr pt zh; do
 done
 
 [[ -z "$(find "$BUILD_DIR" \( -name .git -o -name Gemfile -o -name Gemfile.lock -o -name .DS_Store -o -name '*.sh' \) -print -quit)" ]] || die "source-control or build files leaked into generated output"
+for excluded_vendor_path in \
+  assets/vendor/simple-line-icons/node_modules \
+  assets/vendor/simple-line-icons/scripts; do
+  [[ ! -e "$BUILD_DIR/$excluded_vendor_path" ]] || die "excluded vendor directory leaked into generated output: $excluded_vendor_path"
+done
 printf '%s\n' "$SOURCE_SHA" > "$BUILD_DIR/source-revision.txt"
 
 require_clean_branch "$SOURCE_DIR" master

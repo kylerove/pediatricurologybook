@@ -25,7 +25,7 @@ toc: false
 {% assign this_translation = site.data.translations | where: "language",site.active_lang | first %}
 {% include editors-list.html contributors=site.data.contributors translation=this_translation %}
 
-# 联络编辑
+# 联络编辑 {#liaison-editors}
 
 我们无法独自完成这一切。我们的联络编辑帮助我们组织会议、整理内容格式、协调社交媒体宣传活动，并让我们始终按计划推进，从而以创纪录的速度推出本书的新版本！
 {: .lead}
@@ -33,7 +33,7 @@ toc: false
 {% assign this_translation = site.data.translations | where: "language",site.active_lang | first %}
 {% include liaison-editors-list.html contributors=site.data.contributors translation=this_translation %}
 
-# 名誉编辑
+# 名誉编辑 {#emeritus-editors}
 
 我们站在巨人的肩膀上。
 {: .lead}

@@ -191,6 +191,8 @@ exclude:
   - .jekyll-cache/
   - .ruby-version
   - .sass-cache/
+  - assets/vendor/simple-line-icons/node_modules/
+  - assets/vendor/simple-line-icons/scripts/
   - gemfiles/
   - _r/
   - Gemfile

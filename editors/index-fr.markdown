@@ -25,7 +25,7 @@ Les possibilités sont infinies avec l'utilisation des médias en ligne, comme l
 {% assign this_translation = site.data.translations | where: "language",site.active_lang | first %}
 {% include editors-list.html contributors=site.data.contributors translation=this_translation %}
 
-# Rédacteurs de liaison
+# Rédacteurs de liaison {#liaison-editors}
 
 Nous ne pouvons pas faire cela seuls. Notre chargé de liaison éditoriale nous a aidés à organiser des réunions, à mettre en forme le contenu, à coordonner des campagnes sur les réseaux sociaux, et nous a maintenus sur la bonne voie pour publier une nouvelle version de ce livre en un temps record!
 {: .lead}
@@ -33,7 +33,7 @@ Nous ne pouvons pas faire cela seuls. Notre chargé de liaison éditoriale nous 
 {% assign this_translation = site.data.translations | where: "language",site.active_lang | first %}
 {% include liaison-editors-list.html contributors=site.data.contributors translation=this_translation %}
 
-# Rédacteurs émérites
+# Rédacteurs émérites {#emeritus-editors}
 
 Nous nous tenons sur les épaules de géants.
 {: .lead}

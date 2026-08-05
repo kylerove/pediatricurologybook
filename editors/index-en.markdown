@@ -24,7 +24,7 @@ The possibilities are endless with the use of online media like linking to contr
 {% assign this_translation = site.data.translations | where: "language",site.active_lang | first %}
 {% include editors-list.html contributors=site.data.contributors translation=this_translation %}
 
-# Liaison Editors
+# Liaison Editors {#liaison-editors}
 
 We cannot do this alone. Our liaison editor has helped us organize meetings, format content, coordinate social media campaigns, and has kept us on track to push out a new version of this book in record time!
 {: .lead}
@@ -32,7 +32,7 @@ We cannot do this alone. Our liaison editor has helped us organize meetings, for
 {% assign this_translation = site.data.translations | where: "language",site.active_lang | first %}
 {% include liaison-editors-list.html contributors=site.data.contributors translation=this_translation %}
 
-# Emeritus Editors
+# Emeritus Editors {#emeritus-editors}
 
 We stand on the shoulders of giants.
 {: .lead}

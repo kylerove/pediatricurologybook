@@ -185,7 +185,7 @@
     head: "Code de conduite"
     icon: "fas fa-handshake"
     color: "text-primary"
-    body: "Nous souhaitons favoriser un climat d'inclusion et de compréhension. Consultez notre [code de conduite](/code-de-conduite/) approuvé par tous les [éditeurs](/editors/) et [contributeurs](/contributors/)."
+    body: "Nous souhaitons favoriser un climat d'inclusion et de compréhension. Consultez notre [code de conduite](/code-of-conduct/) approuvé par tous les [éditeurs](/editors/) et [contributeurs](/contributors/)."
   -
     head: "Nous sommes transparents"
     icon: "fas fa-sun"

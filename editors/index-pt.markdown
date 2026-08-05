@@ -25,7 +25,7 @@ As possibilidades são infinitas com o uso de meios online, como criar links par
 {% assign this_translation = site.data.translations | where: "language",site.active_lang | first %}
 {% include editors-list.html contributors=site.data.contributors translation=this_translation %}
 
-# Editores de Ligação
+# Editores de Ligação {#liaison-editors}
 
 Não podemos fazer isso sozinhos. Nosso editor de articulação nos ajudou a organizar reuniões, formatar conteúdo, coordenar campanhas nas redes sociais e nos manteve no caminho certo para lançar uma nova versão deste livro em tempo recorde!
 {: .lead}
@@ -33,7 +33,7 @@ Não podemos fazer isso sozinhos. Nosso editor de articulação nos ajudou a org
 {% assign this_translation = site.data.translations | where: "language",site.active_lang | first %}
 {% include liaison-editors-list.html contributors=site.data.contributors translation=this_translation %}
 
-# Editores Eméritos
+# Editores Eméritos {#emeritus-editors}
 
 Estamos sobre os ombros de gigantes.
 {: .lead}

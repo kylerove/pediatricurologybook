@@ -25,7 +25,7 @@ Las posibilidades son infinitas con el uso de medios en línea como enlazar a la
 {% assign this_translation = site.data.translations | where: "language",site.active_lang | first %}
 {% include editors-list.html contributors=site.data.contributors translation=this_translation %}
 
-# Editores de enlace
+# Editores de enlace {#liaison-editors}
 
 No podemos hacerlo solos. Nuestro editor de enlace nos ha ayudado a organizar reuniones, dar formato al contenido, coordinar campañas en redes sociales y nos ha mantenido encarrilados para publicar una nueva versión de este libro en tiempo récord!
 {: .lead}
@@ -33,7 +33,7 @@ No podemos hacerlo solos. Nuestro editor de enlace nos ha ayudado a organizar re
 {% assign this_translation = site.data.translations | where: "language",site.active_lang | first %}
 {% include liaison-editors-list.html contributors=site.data.contributors translation=this_translation %}
 
-# Editores eméritos
+# Editores eméritos {#emeritus-editors}
 
 Estamos sobre los hombros de gigantes.
 {: .lead}
