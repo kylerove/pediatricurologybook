@@ -17,6 +17,9 @@ encoding: utf-8
 theme: null
 version: 2.0.0
 timezone: America/Denver
+destination: /Users/kylerove/Documents/pub-all/pediatricurologybook-site
+keep_files:
+  - .git
 
 # Build settings
 plugins:
@@ -29,6 +32,12 @@ plugins:
   - jekyll-scholar
   - liquid_reading_time
   - liquid_pluralize
+
+jekyll-minifier:
+  exclude:
+    - "assets/vendor/**/*"
+  uglifier_args:
+    harmony: true
 
 # Sitemap settings
 defaults:
@@ -188,3 +197,4 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
+  - scripts/

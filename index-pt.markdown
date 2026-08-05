@@ -5,7 +5,7 @@ description: Este livro on-line gratuito de Urologia Pediátrica, Edição 2.0, 
 thumbnail: home-en.png
 permalink: /
 js: /assets/vendor/owl.carousel/owl.carousel.min.js
-lang: en
+lang: pt
 breadcrumbs: 
   - 
     title: Página Inicial
