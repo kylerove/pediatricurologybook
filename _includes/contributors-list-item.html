@@ -24,7 +24,15 @@
             </address>
             <ul class="thumb-info-social-icons mt-1 mb-4">
                   {% if contributor.website != null %}<li class="social-icons-website"><a href="{{ contributor.website }}" target="_blank" title="{{ this_translation.website }}"><i class="fas fa-link"></i></a></li>{% endif %}
-                  {% if contributor.email != null %}<li class="social-icons-email"><a href="mailto:{{ contributor.email }}" target="_blank" title="{{ this_translation.email }}"><i class="fas fa-envelope"></i></a></li>{% endif %}
+                  {% if contributor.email != null %}
+                    {%- assign contributor_emails = contributor.email | split: ';' -%}
+                    {%- for contributor_email in contributor_emails -%}
+                      {%- assign stripped_contributor_email = contributor_email | strip -%}
+                      {%- unless stripped_contributor_email == '' -%}
+                        <li class="social-icons-email"><a href="mailto:{{ stripped_contributor_email }}" target="_blank" title="{{ this_translation.email }}"><i class="fas fa-envelope"></i></a></li>
+                      {%- endunless -%}
+                    {%- endfor -%}
+                  {% endif %}
                   {% if contributor.linkedin != null %}<li class="social-icons-linkedin"><a href="{{ contributor.linkedin }}" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a></li>{% endif %}
                   {% if contributor.twitter != null %}<li class="social-icons-twitter"><a href="{{ contributor.twitter }}" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a></li>{% endif %}
                   {% if contributor.mastodon != null %}<li class="social-icons-mastodon"><a href="{{ contributor.mastodon }}" target="_blank" title="Mastodon"><i class="fab fa-mastodon"></i></a></li>{% endif %}
