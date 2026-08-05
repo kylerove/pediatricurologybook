@@ -29,7 +29,7 @@ page_id: 01-02_imaging-of-the-urinary-tract
 
 ## Introducción
 
-La obtención de imágenes diagnósticas es una herramienta poderosa para comprender la historia natural de muchas afecciones que afectan el tracto genitourinario (GU), tanto desde una perspectiva anatómica como funcional. Con un uso óptimo, las imágenes diagnósticas mejoran los resultados del paciente mientras minimizan el riesgo para el paciente. Existen múltiples modalidades disponibles para obtener imágenes detalladas del cuerpo humano, incluidas la ecografía (US), la resonancia magnética (MRI), la tomografía computarizada (CT), la centellografía nuclear y la fluoroscopia/radiografía. Los avances tecnológicos en estas modalidades son continuos.
+La obtención de imágenes diagnósticas es una herramienta poderosa para comprender la historia natural de muchas afecciones que afectan el tracto genitourinario (GU), tanto desde una perspectiva anatómica como funcional. Con un uso óptimo, las imágenes diagnósticas mejoran los resultados del paciente mientras minimizan el riesgo para el paciente. Existen múltiples modalidades disponibles para obtener imágenes detalladas del cuerpo humano, incluidas la ecografía (US), la resonancia magnética (RM), la tomografía computarizada (TC), la centellografía nuclear y la fluoroscopia/radiografía. Los avances tecnológicos en estas modalidades son continuos.
 {:.drop-caps}
 
 En el ámbito pediátrico, las indicaciones para la obtención de imágenes diagnósticas dependen no solo de la presentación clínica, sino también de la edad (o nivel de desarrollo) del paciente. Puede requerirse más de una técnica de imagen para evaluar completamente la anatomía y fisiología del tracto genitourinario (GU). Si bien la presentación clínica es primordial y a menudo permitirá un enfoque algorítmico de la obtención de imágenes, el mejor enfoque en un adolescente puede diferir del de un bebé o un niño pequeño.
@@ -57,7 +57,7 @@ Si existe alguna duda, es aconsejable discutirlo con su radiólogo.
 
 Se utiliza contraste yodado para la TC y la cistouretrografía miccional (VCUG). Al solicitar un procedimiento que implique contraste, el clínico debe conocer los riesgos potenciales. El primero es el riesgo de una reacción alérgica o similar a alérgica grave. Estos eventos adversos son muy poco probables con los agentes de contraste modernos. Se estima que la tasa de reacciones de tipo alérgico es del 0,6 %, de las cuales la mayoría son leves y autolimitadas. Para las reacciones graves, la estimación es del 0,04 %. Los antecedentes de una reacción previa de tipo alérgico al contraste yodado son el factor de riesgo más claro e importante para una reacción posterior. El riesgo en pacientes con tales antecedentes debe sopesarse cuidadosamente frente al beneficio de una tomografía computarizada posterior. La evidencia sigue siendo inconclusa en cuanto a los beneficios de la premedicación.{% cite acr2022a --file 01-02 %}
 
-The second risk that the ordering clinician should consider is the risk of contrast-induced acute kidney injury (CI-AKI), defined as a sudden deterioration in renal function that is caused by the intravascular administration of iodinated contrast. Unfortunately, the true risk of this entity is unknown even in adults. As is the case with allergic type reactions, there is one risk factor that is generally accepted, in best practice, to predispose a patient to CI-AKI; this risk factor is pre-existing renal insufficiency. No clear threshold of eGFR has been established (above which risk can be ignored). However, the American College of Radiology (ACR) recommends an eGFR cutoff of 30 mL/min/1.73 m.{% cite dillman2018acr --file 01-02 %}{% cite acr2022a --file 01-02 %}
+El segundo riesgo que el médico solicitante debe considerar es el de lesión renal aguda inducida por contraste (LRA-IC), definida como un deterioro repentino de la función renal causado por la administración intravascular de contraste yodado. Desafortunadamente, el verdadero riesgo de esta entidad se desconoce incluso en adultos. Como ocurre con las reacciones de tipo alérgico, existe un factor de riesgo generalmente aceptado en la práctica clínica como predisponente a la LRA-IC: la insuficiencia renal preexistente. No se ha establecido un umbral claro de TFGe (por encima del cual pueda ignorarse el riesgo). Sin embargo, el Colegio Americano de Radiología (ACR) recomienda un punto de corte de TFGe de 30 mL/min/1,73 m<sup>2</sup>.{% cite dillman2018acr --file 01-02 %}{% cite acr2022a --file 01-02 %}
 
 El cálculo de la TFGe en niños requiere conocer la estatura del paciente y la creatinina sérica. La TFGe aproximada se obtiene entonces mediante la ecuación de Schwartz a pie de cama:{% cite acr2022a --file 01-02 %}
 
@@ -505,11 +505,11 @@ Los procedimientos intervencionistas son fundamentales para el manejo de las afe
 
 *[GU]: genitourinario
 *[US]: ultrasonido
-*[MRI]: resonancia magnética
+*[RM]: resonancia magnética
 *[KUB]: riñón, uréter, vejiga
 *[VCUG]: cistouretrografía miccional
 *[CI]: intervalo de confianza
-*[AKI]: lesión renal aguda
+*[LRA-IC]: lesión renal aguda inducida por contraste
 *[GFR]: unidad de filtración glomerular
 *[ACR]: Colegio Americano de Radiología 
 *[NSF]: fibrosis sistémica nefrogénica

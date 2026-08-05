@@ -36,7 +36,7 @@ page_id: 09-49_urolithiasis-bladder
 'Cálculos urinarios' es una afección conocida por los humanos desde tiempos antiguos; como lo evidencian los hallazgos de cálculos urinarios en momias egipcias. Sir G E Smith encontró un cálculo vesical, fechado en 4800 a. C., en la momia, en la pelvis de un joven de 16 años, en 1901 en El Amrah, Egipto. El cálculo presentaba laminaciones concéntricas de oxalato de calcio y fosfato amónico magnésico alrededor de un núcleo de ácido úrico.{% cite ellis1979a shattock1905a schwartz2000a --file 09-49 %} Sushruta, India, 600 a. C., en su texto médico, Sushruta Samhita, describió la formación de cálculos vesicales y la litotomía perineal! La litiasis urinaria se menciona en textos de la Antigua Grecia y fue reconocida por Hipócrates. La medicina árabe antigua describe la litotomía perineal en un libro de Al-Razi (841--926 d. C.).{% cite l2010a --file 09-49 %}
 {:.drop-caps}
 
-La literatura histórica sobre la litiasis urinaria es fascinante, con la morbilidad de la enfermedad, la mortalidad de los intentos de curación quirúrgica y las descripciones de "lithotmus, stein-schnieider, clysters, lithotryptors to crush stone!"
+La literatura histórica sobre la litiasis urinaria es fascinante, con la morbilidad de la enfermedad, la mortalidad de los intentos de curación quirúrgica y las descripciones de «litotomistas (cortadores de cálculos), enemas y litotriptores para triturar cálculos».
 
 ## Incidencia
 

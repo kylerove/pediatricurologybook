@@ -124,7 +124,7 @@ Los objetivos de la reparación quirúrgica deben discutirse con los padres ante
 
 Recomendamos que la reparación quirúrgica se realice entre los 6 y los 12 meses de edad.{% cite carrasco2020a --file 06-39 %} El momento óptimo para el seno urogenital aislado no se ha establecido en la literatura y se extrapola a partir de pacientes con hiperplasia suprarrenal congénita y seno urogenital asociado.
 
-Quienes favorecen la reparación quirúrgica temprana sostienen que los tejidos pueden ser más maleables a una edad temprana y que el estrógeno materno residual circulante puede promover la cicatrización de las heridas.{% cite partin2021a --file 06-39 %} Quienes favorecen la reparación quirúrgica a la edad de la pubertad promueven los mismos beneficios hormonales, además de la participación del paciente y su asentimiento para proceder.{% cite partin2021a --file 06-39 %}
+Quienes favorecen la reparación quirúrgica temprana sostienen que los tejidos pueden ser más maleables a una edad temprana y que el estrógeno materno residual circulante puede promover la cicatrización de las heridas.{% cite partin2021a --file 06-39 %} Quienes favorecen la reparación quirúrgica a la edad de la pubertad promueven los mismos beneficios hormonales, además de la participación del paciente y su consentimiento para proceder.{% cite partin2021a --file 06-39 %}
 
 ## Técnicas quirúrgicas
 

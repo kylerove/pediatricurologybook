@@ -27,7 +27,7 @@ page_id: 01-12_congenital-anomalies-of-the-kidney-and-urinary-tract
 
 ## Introducción
 
-Las anomalías congénitas del riñón y de las vías urinarias (CAKUT) son un grupo de anomalías estructurales que afectan a los riñones y las vías urinarias. Se estima que hay aproximadamente de 4 a 60 casos por cada 10,000 nacimientos en la población general. El diagnóstico de CAKUT suele realizarse durante una ecografía prenatal de rutina o en el periodo posnatal en un recién nacido con signos y síntomas clínicos asociados.{% cite murugapoopathy2020a --file 01-12 %} La prevalencia de CAKUT en los lactantes pretérmino fue del 2% en una cohorte reciente, de gran tamaño y publicada, con 409704 lactantes.{% cite hays2022a --file 01-12 %}
+Las anomalías congénitas del riñón y de las vías urinarias (CAKUT) son un grupo de anomalías estructurales que afectan a los riñones y las vías urinarias. Se estima que hay aproximadamente de 4 a 60 casos por cada 10,000 nacimientos en la población general. El diagnóstico de CAKUT suele realizarse durante una ecografía prenatal de rutina o en el periodo postnatal en un recién nacido con signos y síntomas clínicos asociados.{% cite murugapoopathy2020a --file 01-12 %} La prevalencia de CAKUT en los lactantes pretérmino fue del 2% en una cohorte reciente, de gran tamaño y publicada, con 409704 lactantes.{% cite hays2022a --file 01-12 %}
 {:.drop-caps}
 
 La anomalía más común es la obstrucción de la unión pieloureteral, que afecta aproximadamente al 20% de las personas con la afección. Entre los otros tipos de CAKUT, se incluyen los riñones multiquísticos displásicos, la agenesia renal, la displasia renal, la hipoplasia renal, el reflujo vesicoureteral, el megauréter, el sistema colector doble, el uréter ectópico y las válvulas uretrales posteriores ([Figura 1](#figure-1){:.figure-link}).
@@ -132,7 +132,7 @@ Hasta la fecha, se han identificado pocos genes asociados con las válvulas uret
 | Riñón en herradura/Riñón ectópico   | _GLI3_, _NIPBL_, _VANGL1_                                                                                                                           |
 | Hidronefrosis, UPJ        | _ACE_, _Adamts-1_, _AGT_, _ATRX_, _BMP4_, _CHD1L_, _CHD7_, _DHCR7_, _DSTYK_, _ESCO2_, _EYA_, _FRAS1_, _FREM2_, _GLI3_, _HSPG2_, _JAG1_, _Id2_, _NS1_, _PAX2_, _PEX_, _RET_, _SOX17_, _VANGL1_ |
 | Hidrouréter, Megauréter    | _CHD7_, _GLI3_                                                                                                                                    |
-| RVU                        | _ATRX_, _DHCR7_, _EYA1_, _FOX1_, _GATA3_, _HOXA13_, _HPSE2_, _JAG1_, _KAL1_, _KAL2_, _MYH11_, _NIPBL_, _PAX2_, _SALL1_, _SIX1_, _SIX5_                                            |
+| RVU                        | _ATRX_, _DHCR7_, _EYA1_, _FOXC1_, _GATA3_, _HOXA13_, _HPSE2_, _JAG1_, _KAL1_, _KAL2_, _MYH11_, _NIPBL_, _PAX2_, _SALL1_, _SIX1_, _SIX5_                                            |
 | VUP                        | _BNC2_, _SALL1_                                                                                                                                   |
 
 ## Importancia clínica e implicaciones futuras del conocimiento genético

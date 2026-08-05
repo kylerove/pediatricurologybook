@@ -38,7 +38,7 @@ Los tumores testiculares y paratesticulares son poco frecuentes en los niños. P
 - El niño prepuberal
 - El adolescente y el adulto joven (AYA)
 
-En cualquiera de estos grupos etarios, los tumores testiculares tienen características propias a considerar, que repercuten en el manejo y el pronóstico. Se puede planificar la cirugía de preservación testicular (TSS) para la mayoría de las lesiones testiculares benignas prepuberales; mientras que la mayoría de los tumores AYA se sospechan malignos desde el inicio, y la orquiectomía radical es el tratamiento quirúrgico estándar para la neoplasia maligna primaria intratesticular o paratesticular.
+En cualquiera de estos grupos etarios, los tumores testiculares tienen características propias a considerar, que repercuten en el manejo y el pronóstico. Se puede planificar la cirugía de preservación testicular (CPT) para la mayoría de las lesiones testiculares benignas prepuberales; mientras que la mayoría de los tumores AYA se sospechan malignos desde el inicio, y la orquiectomía radical es el tratamiento quirúrgico estándar para la neoplasia maligna primaria intratesticular o paratesticular.
 
 ## Embriología
 
@@ -96,7 +96,7 @@ La USS del escroto y del testículo es una investigación inicial muy útil. Usu
 ![Figura 4]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-44-4.png){:.float-start .img-fluid}  
 **Figura 4**{:#figure-4}{:.figure-number} Ecografía de teratoma testicular prepuberal, aspecto heterogéneo
 
-Los marcadores tumorales séricos pueden ser útiles para distinguir entre lesiones benignas y malignas. En los tumores testiculares, la alfa-fetoproteína (AFP), la gonadotropina coriónica humana beta (BHCG) y la lactato deshidrogenasa (LDH) son los marcadores más utilizados. La BHCG no suele ser útil en la evaluación de tumores prepuberales, ya que el coriocarcinoma y el carcinoma embrionario, que pueden secretar BHCG, casi nunca se observan en este grupo etario.{% cite jarvis2021a stein2021a --file 08-44 %} Sin embargo, la BHCG es muy importante en el grupo AYA pospuberal, donde estas lesiones pueden presentarse. La AFP es el marcador más importante en el grupo etario prepuberal, ya que se eleva de forma marcada en casi todos los tumores del saco vitelino, comúnmente vistos en este grupo.{% cite ross2002a --file 08-44 %} El teratoma puede presentar una elevación leve de la AFP, pero no se han reportado niveles de AFP por encima de 100ng/mL en el teratoma prepuberal.{% cite ross2002a --file 08-44 %} Esta diferencia marcada en los niveles de AFP entre el teratoma benigno y el tumor maligno del saco vitelino también ayuda a planificar la TSS frente a una orquiectomía radical. Debe tenerse en cuenta, al interpretar los niveles de AFP, que los lactantes de hasta 8 meses de edad pueden tener niveles séricos de AFP naturalmente elevados.{% cite wu1981a --file 08-44 %}
+Los marcadores tumorales séricos pueden ser útiles para distinguir entre lesiones benignas y malignas. En los tumores testiculares, la alfa-fetoproteína (AFP), la gonadotropina coriónica humana beta (BHCG) y la lactato deshidrogenasa (LDH) son los marcadores más utilizados. La BHCG no suele ser útil en la evaluación de tumores prepuberales, ya que el coriocarcinoma y el carcinoma embrionario, que pueden secretar BHCG, casi nunca se observan en este grupo etario.{% cite jarvis2021a stein2021a --file 08-44 %} Sin embargo, la BHCG es muy importante en el grupo AYA pospuberal, donde estas lesiones pueden presentarse. La AFP es el marcador más importante en el grupo etario prepuberal, ya que se eleva de forma marcada en casi todos los tumores del saco vitelino, comúnmente vistos en este grupo.{% cite ross2002a --file 08-44 %} El teratoma puede presentar una elevación leve de la AFP, pero no se han reportado niveles de AFP por encima de 100ng/mL en el teratoma prepuberal.{% cite ross2002a --file 08-44 %} Esta diferencia marcada en los niveles de AFP entre el teratoma benigno y el tumor maligno del saco vitelino también ayuda a planificar la CPT frente a una orquiectomía radical. Debe tenerse en cuenta, al interpretar los niveles de AFP, que los lactantes de hasta 8 meses de edad pueden tener niveles séricos de AFP naturalmente elevados.{% cite wu1981a --file 08-44 %}
 
 Las características clínicas, las características por imagen de la lesión y los niveles séricos de marcadores tumorales ayudarán a guiar el manejo ulterior. Si se sospecha que la lesión es maligna, sería importante realizar una TC abdominopélvica y torácica para estadificación a fin de evaluar la diseminación locorregional y las metástasis. El 20% de los tumores del saco vitelino prepuberales presentan metástasis pulmonares al momento de la presentación.{% cite haas1999a --file 08-44 %}
 
@@ -138,15 +138,15 @@ GCT=Tumor de células germinales, GCNIS=Neoplasia de células germinales in situ
 
 ##### Teratoma
 
-Estos son casi siempre benignos cuando se presentan en la etapa prepuberal.{% cite grady1997a --file 08-44 %} La edad mediana de presentación es de 13 meses.{% cite ahmed2010a --file 08-44 %} A menudo presentan un aspecto heterogéneo en la ecografía ([Figura 4](#figure-4){:.figure-link}) porque los teratomas pueden tener elementos de cualquiera o de todas las tres capas germinales embrionarias - endodermo, mesodermo y ectodermo. En este grupo etario, los teratomas suelen contener elementos maduros, con elementos inmaduros descritos ocasionalmente. Incluso con elementos inmaduros, la evolución tras la TSS suele ser buena en este grupo etario.{% cite a2008a --file 08-44 %} La TSS suele ser factible para el teratoma prepuberal y, tras una extirpación satisfactoria y la confirmación histológica de su naturaleza benigna, por lo general no se requiere seguimiento adicional.{% cite stein2021a --file 08-44 %}
+Estos son casi siempre benignos cuando se presentan en la etapa prepuberal.{% cite grady1997a --file 08-44 %} La edad mediana de presentación es de 13 meses.{% cite ahmed2010a --file 08-44 %} A menudo presentan un aspecto heterogéneo en la ecografía ([Figura 4](#figure-4){:.figure-link}) porque los teratomas pueden tener elementos de cualquiera o de todas las tres capas germinales embrionarias - endodermo, mesodermo y ectodermo. En este grupo etario, los teratomas suelen contener elementos maduros, con elementos inmaduros descritos ocasionalmente. Incluso con elementos inmaduros, la evolución tras la CPT suele ser buena en este grupo etario.{% cite a2008a --file 08-44 %} La CPT suele ser factible para el teratoma prepuberal y, tras una extirpación satisfactoria y la confirmación histológica de su naturaleza benigna, por lo general no se requiere seguimiento adicional.{% cite stein2021a --file 08-44 %}
 
 ##### Quiste epidermoide
 
-Se trata de quistes benignos de origen ectodérmico, revestidos por un epitelio que produce queratina. El quiste presenta un aspecto laminar característico en 'piel de cebolla' en la USS ([Figura 1](#figure-1){:.figure-link}).{% cite williamson2017a --file 08-44 %} Se enuclean con facilidad, por lo que la TSS es el estándar de atención. No se requiere vigilancia rutinaria a largo plazo tras la exéresis, pero se han reportado recidivas poco frecuentes.{% cite friend2016a --file 08-44 %}
+Se trata de quistes benignos de origen ectodérmico, revestidos por un epitelio que produce queratina. El quiste presenta un aspecto laminar característico en 'piel de cebolla' en la USS ([Figura 1](#figure-1){:.figure-link}).{% cite williamson2017a --file 08-44 %} Se enuclean con facilidad, por lo que la CPT es el estándar de atención. No se requiere vigilancia rutinaria a largo plazo tras la exéresis, pero se han reportado recidivas poco frecuentes.{% cite friend2016a --file 08-44 %}
 
 ##### Quiste dermoide
 
-Los quistes dermoides comprenden elementos de tipo cutáneo, incluidos apéndices como folículos pilosos y glándulas sebáceas. Son benignos. En la USS a menudo se observan lesiones quísticas de pared gruesa y contorno liso con detritos ecogénicos avasculares ([Figura 2](#figure-2){:.figure-link}).{% cite ulbright2001a p2009a --file 08-44 %} La TSS es el estándar de atención, y la vigilancia de rutina tras la extirpación no suele ser necesaria.{% cite stein2021a --file 08-44 %}
+Los quistes dermoides comprenden elementos de tipo cutáneo, incluidos apéndices como folículos pilosos y glándulas sebáceas. Son benignos. En la USS a menudo se observan lesiones quísticas de pared gruesa y contorno liso con detritos ecogénicos avasculares ([Figura 2](#figure-2){:.figure-link}).{% cite ulbright2001a p2009a --file 08-44 %} La CPT es el estándar de atención, y la vigilancia de rutina tras la extirpación no suele ser necesaria.{% cite stein2021a --file 08-44 %}
 
 #### Tumores malignos de células germinales testiculares (no derivados de GCNIS)
 
@@ -160,19 +160,19 @@ En la enfermedad confirmada en estadio 1, con normalización del AFP sérico tra
 
 ##### Tumores de células de la granulosa juveniles
 
-Estos tumores, generalmente benignos, suelen presentarse en lactantes y son los tumores testiculares neonatales más frecuentes. Histológicamente, están compuestos por láminas de células tipo granulosa, a menudo con cambios quísticos.{% cite grogg2020a kao2015a --file 08-44 %} La TSS suele ser exitosa y curativa; no se han reportado recurrencias, y la vigilancia a largo plazo tras la escisión no suele ser necesaria.{% cite stein2021a --file 08-44 %}
+Estos tumores, generalmente benignos, suelen presentarse en lactantes y son los tumores testiculares neonatales más frecuentes. Histológicamente, están compuestos por láminas de células tipo granulosa, a menudo con cambios quísticos.{% cite grogg2020a kao2015a --file 08-44 %} La CPT suele ser exitosa y curativa; no se han reportado recurrencias, y la vigilancia a largo plazo tras la escisión no suele ser necesaria.{% cite stein2021a --file 08-44 %}
 
 ##### Tumores de células de Leydig
 
-En los niños, los tumores de células de Leydig suelen ser benignos, aunque pueden ser malignos en adultos. Los tumores de células de Leydig suelen presentarse en niños de alrededor de 5-10 años de edad.{% cite agarwal2006a luckie2019a --file 08-44 %} La mayoría se presenta como una masa testicular indolora. Sin embargo, los tumores de células de Leydig pueden presentarse con pubertad precoz debido a la producción de testosterona . Además, el 10-15% de los niños con tumores de células de Leydig puede tener signos de feminización, como ginecomastia, debido a la secreción de estradiol.{% cite ahmed2010a --file 08-44 %} El aspecto intraoperatorio de los tumores de células de Leydig es el de nódulos amarillos homogéneos. En niños prepuberales, se recomienda la TSS, ya que los tumores de células de Leydig son casi siempre benignos en este grupo etario. Si la pubertad precoz es una característica asociada, se aconseja la evaluación por endocrinología y el seguimiento. Los cambios puberales no se revierten tras la extirpación del tumor, dado que el eje hormonal puberal se ha activado.{% cite ahmed2010a --file 08-44 %}
+En los niños, los tumores de células de Leydig suelen ser benignos, aunque pueden ser malignos en adultos. Los tumores de células de Leydig suelen presentarse en niños de alrededor de 5-10 años de edad.{% cite agarwal2006a luckie2019a --file 08-44 %} La mayoría se presenta como una masa testicular indolora. Sin embargo, los tumores de células de Leydig pueden presentarse con pubertad precoz debido a la producción de testosterona . Además, el 10-15% de los niños con tumores de células de Leydig puede tener signos de feminización, como ginecomastia, debido a la secreción de estradiol.{% cite ahmed2010a --file 08-44 %} El aspecto intraoperatorio de los tumores de células de Leydig es el de nódulos amarillos homogéneos. En niños prepuberales, se recomienda la CPT, ya que los tumores de células de Leydig son casi siempre benignos en este grupo etario. Si la pubertad precoz es una característica asociada, se aconseja la evaluación por endocrinología y el seguimiento. Los cambios puberales no se revierten tras la extirpación del tumor, dado que el eje hormonal puberal se ha activado.{% cite ahmed2010a --file 08-44 %}
 
 ##### Tumores de células de Sertoli
 
-Estos se presentan a una edad temprana, con una mediana de 6 meses, aunque pueden ocurrir a cualquier edad prepuberal. Un tercio se asocia con síndromes como Peutz-Jeghers o el síndrome de Carney. El 10% presenta manifestaciones de pubertad precoz porque son hormonalmente activos; o incluso ginecomastia, debido a la secreción tumoral de aromatasa, lo que produce la conversión de androstenediona a estrona.{% cite dursun2015a --file 08-44 %} En su mayoría son benignos, pero pueden ser malignos en niños mayores. Por lo tanto, una TC de estadificación preoperatoria sería prudente, especialmente en niños mayores de 5 años. Las guías actuales recomiendan considerar TSS para los tumores de células de Sertoli en niños.{% cite stein2021a --file 08-44 %}
+Estos se presentan a una edad temprana, con una mediana de 6 meses, aunque pueden ocurrir a cualquier edad prepuberal. Un tercio se asocia con síndromes como Peutz-Jeghers o el síndrome de Carney. El 10% presenta manifestaciones de pubertad precoz porque son hormonalmente activos; o incluso ginecomastia, debido a la secreción tumoral de aromatasa, lo que produce la conversión de androstenediona a estrona.{% cite dursun2015a --file 08-44 %} En su mayoría son benignos, pero pueden ser malignos en niños mayores. Por lo tanto, una TC de estadificación preoperatoria sería prudente, especialmente en niños mayores de 5 años. Las guías actuales recomiendan considerar CPT para los tumores de células de Sertoli en niños.{% cite stein2021a --file 08-44 %}
 
 #### Anomalías del desarrollo y quistes
 
-La displasia quística de la rete testis es una anomalía del desarrollo poco frecuente que se presenta como un bulto testicular. Casi siempre se asocia con agenesia renal ipsilateral. La ecografía muestra que la lesión es quística, por lo general en el polo superior del testículo, con compresión del tejido testicular normal adyacente ([Figura 3](#figure-3){:.figure-link}). Tradicionalmente se recomendaba TSS para la lesión. Se han reportado tasas significativas de recurrencia tras la TSS. Dada la apariencia característica en la ecografía y la anomalía renal ipsilateral asociada, su naturaleza benigna y los informes cada vez más numerosos de regresión de la lesión con el tiempo, ahora se sugiere un manejo conservador con preservación testicular y vigilancia. Puede considerarse una biopsia de la lesión si existe alguna duda sobre el diagnóstico antes del manejo conservador.{% cite gelas2016a helman2020a --file 08-44 %}
+La displasia quística de la rete testis es una anomalía del desarrollo poco frecuente que se presenta como un bulto testicular. Casi siempre se asocia con agenesia renal ipsilateral. La ecografía muestra que la lesión es quística, por lo general en el polo superior del testículo, con compresión del tejido testicular normal adyacente ([Figura 3](#figure-3){:.figure-link}). Tradicionalmente se recomendaba CPT para la lesión. Se han reportado tasas significativas de recurrencia tras la CPT. Dada la apariencia característica en la ecografía y la anomalía renal ipsilateral asociada, su naturaleza benigna y los informes cada vez más numerosos de regresión de la lesión con el tiempo, ahora se sugiere un manejo conservador con preservación testicular y vigilancia. Puede considerarse una biopsia de la lesión si existe alguna duda sobre el diagnóstico antes del manejo conservador.{% cite gelas2016a helman2020a --file 08-44 %}
 
 Los quistes epididimarios simples y los quistes intratesticulares pueden presentarse en la infancia. En ocasiones son sintomáticos. Por lo general son susceptibles de enucleación o destechamiento si se requiere.
 
@@ -188,7 +188,7 @@ Los AYAs con enfermedad en estadio clínico II y III suelen recibir quimioterapi
 
 ### Resumen de los tumores paratesticulares en niños
 
-La TSS con escisión focal de la lesión suele considerarse para lesiones paratesticulares benignas poco frecuentes, como el lipoma.
+La CPT con escisión focal de la lesión suele considerarse para lesiones paratesticulares benignas poco frecuentes, como el lipoma.
 
 El tumor neuroectodérmico melanótico de la infancia es un tumor raro que afecta la región epididimaria y paratesticular.{% cite calabrese1995a --file 08-44 %} Suele ser benigno, pero diferenciarlo histológicamente de los tumores malignos de células pequeñas redondas azules en la biopsia puede ser un desafío. Al ser típicamente benigno, la orquidectomía suele ser curativa; pero el 10% puede mostrar comportamiento maligno con recidiva y/o metástasis. Tras la cirugía, se aconseja la vigilancia de seguimiento con estudios de imagen de sección transversal como la resonancia magnética.{% cite ahmed2010a --file 08-44 %}
 
@@ -209,14 +209,14 @@ Los resultados tras el tratamiento del rabdomiosarcoma paratesticular son mejore
 
 Los testículos son un sitio frecuente de infiltración en la leucemia y el linfoma - como la leucemia linfoblástica aguda, el linfoma folicular o el linfoma de Burkitt en niños. La presentación suele ser un aumento significativo del tamaño testicular, de forma unilateral o bilateral. Los hallazgos ecográficos suelen mostrar un testículo aumentado de tamaño, difusamente hipoecoico y con hipervascularidad.{% cite sanguesa2020a --file 08-44 %}
 
-## TSS y orquiectomía radical
+## CPT y orquiectomía radical
 
-Las guías clínicas ahora recomiendan firmemente la TSS para los tumores testiculares prepuberales que se sospecha firmemente que son benignos en el estudio diagnóstico.{% cite stein2021a --file 08-44 %} La TSS se realiza por vía inguinal. El pinzamiento atraumático de los vasos del cordón espermático antes de la movilización y la disección testicular se considera una técnica oncológica estándar y permite minimizar el sangrado y optimizar la visualización de la disección en el órgano prepuberal, habitualmente pequeño. ([Figura 6](#figure-6){:.figure-link}).
+Las guías clínicas ahora recomiendan firmemente la CPT para los tumores testiculares prepuberales que se sospecha firmemente que son benignos en el estudio diagnóstico.{% cite stein2021a --file 08-44 %} La CPT se realiza por vía inguinal. El pinzamiento atraumático de los vasos del cordón espermático antes de la movilización y la disección testicular se considera una técnica oncológica estándar y permite minimizar el sangrado y optimizar la visualización de la disección en el órgano prepuberal, habitualmente pequeño. ([Figura 6](#figure-6){:.figure-link}).
 
 ![Figura 6]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-44-6.jpeg){:.float-start .img-fluid}  
-**Figura 6**{:#figure-6}{:.figure-number} TSS - Pinza vascular atraumática en el cordón espermático, tumor de células de Leydig en el polo inferior del testículo
+**Figura 6**{:#figure-6}{:.figure-number} CPT - Pinza vascular atraumática en el cordón espermático, tumor de células de Leydig en el polo inferior del testículo
 
-La evaluación mediante sección congelada es útil para ayudar a confirmar que la lesión es benigna y que los márgenes están libres. En muchos centros con experiencia, la sección congelada no se realiza de forma rutinaria actualmente en lesiones prepuberales negativas para marcadores tumorales con características clínicas y ecográficas benignas.{% cite bois2021a --file 08-44 %} Si existe duda o sospecha de malignidad a pesar de los pasos de la TSS, entonces se abandona la TSS y se realiza una orquidectomía radical. Si la TSS se realiza con éxito, la túnica albugínea se cierra con sutura tras la resección de la lesión y el testículo se recoloca en el escroto.
+La evaluación mediante sección congelada es útil para ayudar a confirmar que la lesión es benigna y que los márgenes están libres. En muchos centros con experiencia, la sección congelada no se realiza de forma rutinaria actualmente en lesiones prepuberales negativas para marcadores tumorales con características clínicas y ecográficas benignas.{% cite bois2021a --file 08-44 %} Si existe duda o sospecha de malignidad a pesar de los pasos de la CPT, entonces se abandona la CPT y se realiza una orquidectomía radical. Si la CPT se realiza con éxito, la túnica albugínea se cierra con sutura tras la resección de la lesión y el testículo se recoloca en el escroto.
 
 En todos los niños con sospecha clínica de malignidad testicular y paratesticular, debe realizarse una estadificación preoperatoria de la extensión locorregional y metastásica. El estándar de atención para las lesiones malignas es la orquiectomía radical, realizada por vía inguinal y con pinzamiento vascular antes de la movilización del testículo y de la lesión. El cordón espermático debe ligarse y resecarse a nivel del anillo inguinal interno. Para las lesiones paratesticulares, el tumor debe resecarse en bloque junto con el testículo y el cordón espermático; si hay invasión de la piel escrotal, la piel escrotal afectada debe resecarse también en bloque junto con la lesión.{% cite rogers2021a --file 08-44 %}
 
@@ -259,7 +259,7 @@ Los ahora superados Estudios Intergrupales de Rabdomiosarcoma (IRS) estableciero
 
 ## Complicaciones del tratamiento
 
-Tanto la TSS como la orquiectomía radical son procedimientos asociados a una buena recuperación, con pequeños riesgos asociados de sangrado con hematoma escrotal, infección y recurrencia de la lesión. La atrofia testicular es rara tras la TSS.{% cite bois2021a --file 08-44 %}
+Tanto la CPT como la orquiectomía radical son procedimientos asociados a una buena recuperación, con pequeños riesgos asociados de sangrado con hematoma escrotal, infección y recurrencia de la lesión. La atrofia testicular es rara tras la CPT.{% cite bois2021a --file 08-44 %}
 
 En los últimos años, el manejo de los tumores testiculares y paratesticulares pediátricos se ha centrado en reducir los riesgos y los efectos negativos a largo plazo de la quimioterapia y la radioterapia, mediante la estratificación del riesgo tumoral y ofreciendo tratamiento adicional únicamente a los niños que cumplen los criterios requeridos. En la actualidad, a la mayoría de los niños con enfermedad en estadio I se les ofrecerá vigilancia activa tras la resección del tumor, y solo aquellos con enfermedad recurrente demostrada requerirán quimioterapia.
 
@@ -269,7 +269,7 @@ Los efectos adversos a largo plazo de la quimioterapia y la radioterapia incluye
 
 ## Seguimiento y vigilancia sugeridos después del tratamiento
 
-Las lesiones benignas confirmadas con márgenes libres, como el teratoma prepuberal, por lo general no requieren vigilancia rutinaria a largo plazo después de la TSS. Sin embargo, las guías clínicas sugieren un seguimiento posquirúrgico inicial con ecografía cada 3-6 meses durante el primer año posoperatorio.{% cite stein2021a --file 08-44 %}
+Las lesiones benignas confirmadas con márgenes libres, como el teratoma prepuberal, por lo general no requieren vigilancia rutinaria a largo plazo después de la CPT. Sin embargo, las guías clínicas sugieren un seguimiento posquirúrgico inicial con ecografía cada 3-6 meses durante el primer año posoperatorio.{% cite stein2021a --file 08-44 %}
 
 Todos los niños con neoplasia maligna testicular o paratesticular requieren un seguimiento y vigilancia adecuados durante varios años, según los protocolos oncológicos. Esto tiene como objetivo mantener una vigilancia activa de la recurrencia de la enfermedad y controlar los efectos a largo plazo tras la cirugía y el tratamiento con quimioterapia y/o radioterapia.
 
@@ -285,13 +285,13 @@ Todos los niños con neoplasia maligna testicular o paratesticular requieren un 
 
 ## Conclusiones
 
-La mayoría de los tumores testiculares prepuberales son benignos. La TSS se puede considerar de forma segura y se recomienda para tumores testiculares prepuberales con características clínicas y ecográficas de una lesión benigna, y marcadores tumorales negativos.
+La mayoría de los tumores testiculares prepuberales son benignos. La CPT se puede considerar de forma segura y se recomienda para tumores testiculares prepuberales con características clínicas y ecográficas de una lesión benigna, y marcadores tumorales negativos.
 
 La mayoría de los tumores testiculares malignos prepuberales son tumores del saco vitelino puros. La AFP está marcadamente elevada en la mayoría de los tumores del saco vitelino. Tras el estudio de estadificación con TC, el tratamiento consiste en orquiectomía radical. La mayoría presenta enfermedad en estadio I localizada en el testículo y la cirugía es curativa. La quimioterapia se reserva para los niños con enfermedad en estadio II o superior, o para aquellos con estadio I que presentan recurrencia tras la cirugía.
 
 La mayoría de los tumores testiculares en AYA son malignos. Tienden a ser carcinomas embrionarios y tumores de células germinales mixtos.
 
-Los tumores testiculares del estroma del cordón sexual son raros en la infancia y, en su mayoría, tienden a ser benignos y aptos para TSS.
+Los tumores testiculares del estroma del cordón sexual son raros en la infancia y, en su mayoría, tienden a ser benignos y aptos para CPT.
 
 El rabdomiosarcoma paratesticular es la neoplasia maligna paratesticular más frecuente en los niños. Tras una estadificación y un estudio adecuados, el tratamiento suele ser la orquiectomía radical en bloque con la masa tumoral paratesticular, mediante abordaje inguinal. Si la lesión es de tipo embrionario en la histología, se recomienda la evaluación de los ganglios linfáticos retroperitoneales para los niños mayores de 10 años, independientemente del estadio; y para los varones menores de 10 años que presenten evidencia de enfermedad locorregional o recidiva ganglionar. Si la lesión es de tipo alveolar en la histología, se recomienda la evaluación de los ganglios linfáticos retroperitoneales para todos, independientemente de los hallazgos de imagen.
 
@@ -300,7 +300,7 @@ El rabdomiosarcoma paratesticular es la neoplasia maligna paratesticular más fr
 {% bibliography --file 08-44 %}
 
 *[AYA]: adolescente y adulto joven
-*[TSS]: cirugía de preservación testicular
+*[CPT]: cirugía de preservación testicular
 *[AMH]: hormona antimülleriana
 *[GCTs]: tumores de células germinales
 *[GCNIS]: neoplasia de células germinales in situ

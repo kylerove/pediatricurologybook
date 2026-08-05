@@ -34,7 +34,7 @@ page_id: 01-03_renal-and-bladder-physiology
 
 ## Introducción
 
-Los riñones desempeñan un papel esencial en la salud y el desarrollo normales de los niños. La nefrona es la unidad funcional del riñón, y cada riñón contiene \~500,000--1,000,000 nefronas. En conjunto, los procesos básicos de la nefrona son 1) filtración, 2) reabsorción y 3) secreción.
+Los riñones desempeñan un papel esencial en la salud y el desarrollo normales de los niños. La nefrona es la unidad funcional del riñón, y cada riñón contiene \~500.000--1.000.000 nefronas. En conjunto, los procesos básicos de la nefrona son 1) filtración, 2) reabsorción y 3) secreción.
 {:.drop-caps}
 
 ![Figura 1]({{ site.url }}{{ site.baseurl }}/assets/figures/figure-03-1.svg){:.float-start .img-fluid}  
@@ -166,7 +166,7 @@ Glomerulonefritis (GN) suele diagnosticarse con bastante facilidad mediante la e
 |----------------|------------------------------------------------|----------------------------------------------------|
 | Volumen urinario   | ↑                                              | usualmente ↓                                       |
 | BUN/creatinina | >20/1                                          | ~10/1                                              |
-| Sodio urinario [Na*)    | <20 mEg/L                                      | >40 mEg/L                                          |
+| Sodio urinario [Na*)    | <20 mEq/L                                      | >40 mEq/L                                          |
 | FENa           | <1%                                            | >2%                                                |
 | Osm urinaria      | >500 mOsm/kg                                   | ~300 mOsm/kg                                       |
 | Sedimento urinario | cilindros hialinos o granulares               | cilindros marrones, cilindros de células tubulares renales |
